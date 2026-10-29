@@ -1,0 +1,36 @@
+name: Descargar fotos
+on:
+  push:
+    paths: ["photos.txt", ".github/workflows/fetch-images.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar miniaturas de Wikimedia Commons
+        run: |
+          mkdir -p img
+          UA="RiberaBajaExplora/1.0 (https://hoppafrost-glitch.github.io/ribera-baja-explora/)"
+          while IFS='|' read -r id file; do
+            [ -z "$id" ] && continue
+            enc=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1]))" "$file")
+            for w in 960 330; do
+              suf=""; [ "$w" = "330" ] && suf="-s"
+              for try in 1 2 3; do
+                curl -sSL -A "$UA" -o "img/${id}${suf}.jpg" "https://commons.wikimedia.org/wiki/Special:FilePath/${enc}?width=${w}" && file "img/${id}${suf}.jpg" | grep -q JPEG && break
+                sleep 3
+              done
+              file "img/${id}${suf}.jpg"
+            done
+          done < photos.txt
+          ls -la img
+      - name: Guardar en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add img
+          git commit -m "Fotos de Wikimedia Commons" || echo "sin cambios"
+          git push
