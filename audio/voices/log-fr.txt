@@ -1,0 +1,36 @@
+voz fr_FR-siwis-medium cargada
+piquete 369179
+portal-sanroque 226080
+quinto-camino 277646
+purburel 272474
+cabezo-nariz 208526
+bonastre 327488
+pina-convento 262286
+pina-durruti 305388
+pina-sangregorio 149751
+pina-sotos 242224
+gelsa-sanpedro 254449
+gelsa-cubiertos 282818
+gelsa-buensuceso 187680
+gelsa-hidraulico 267929
+gelsa-barca 182822
+celsa 170283
+celsa-museo 86116
+velilla-sannicolas 114642
+velilla-asuncion 98028
+zaida-sanjose 114485
+alforque-sanpedro 114485
+cincoolivas-santiago 83138
+sastago-fortin 118874
+alborge-sanlorenzo 76712
+montler 102260
+sastago-meandros 68876
+sastago-tambor 89565
+sastago-pilar 85489
+rueda 146929
+rueda-noria 102417
+escatron-tozal 63233
+escatron-asuncion 93483
+escatron-sfjavier 86900
+saladas 110097
+hecho: 34 nuevos, 0 errores
