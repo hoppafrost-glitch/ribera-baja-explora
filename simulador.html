@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ribera Baja Explora · Simulador móvil</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 34 34'%3E%3Crect width='34' height='34' rx='8' fill='%2317646C'/%3E%3Cpath d='M4 22c5-1 6-7 11-7s5 9 10 9 4-6 5-7' stroke='white' stroke-width='2.6' fill='none' stroke-linecap='round'/%3E%3Ccircle cx='23' cy='10' r='2.6' fill='white'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;700&family=Spectral:wght@600;700&display=swap">
+<style>
+:root{--bg:#0d1513;--panel:#16201d;--ink:#e8eeeb;--muted:#9aa9a3;--accent:#5db6be;--line:#26332e}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:radial-gradient(120% 90% at 50% 0%,#18302f 0%,var(--bg) 60%);color:var(--ink);font-family:"Public Sans",system-ui,"Segoe UI",sans-serif;display:flex;flex-direction:column;overflow:hidden}
+header{display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding:14px 22px;border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:10px;margin-right:auto}
+.brand b{font-family:Spectral,Georgia,serif;font-size:1.2rem;letter-spacing:.01em}
+.brand span{font-size:.78rem;color:var(--muted);letter-spacing:.08em;text-transform:uppercase}
+.seg{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden}
+.seg button{border:0;background:transparent;color:var(--muted);padding:7px 14px;font:600 .82rem "Public Sans",sans-serif;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#0b1513}
+.btn{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:999px;padding:7px 14px;font:600 .82rem "Public Sans",sans-serif;cursor:pointer}
+main{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;gap:56px;padding:18px 24px}
+.dev{display:flex;flex-direction:column;align-items:center;gap:12px;flex:none}
+.dev[hidden]{display:none}
+.label{font-size:.8rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;font-weight:700}
+.scaler{transform-origin:top left}
+/* iPhone 15 */
+.iphone{position:relative;width:425px;height:884px;border-radius:66px;background:#1d1d1f;padding:16px;box-shadow:0 0 0 2px #3a3a3c,0 30px 80px rgba(0,0,0,.55),inset 0 0 0 1px #000}
+.iphone .screen{position:relative;width:393px;height:852px;border-radius:52px;overflow:hidden;background:#fff}
+.iphone .island{position:absolute;top:11px;left:50%;transform:translateX(-50%);width:124px;height:36px;border-radius:20px;background:#000;z-index:3}
+.iphone .status{position:absolute;inset:0 0 auto;height:54px;display:flex;justify-content:space-between;align-items:center;padding:4px 34px 0 46px;font:600 16px -apple-system,"SF Pro Text","Segoe UI",sans-serif;color:#000;z-index:2;background:#fff}
+.iphone iframe{position:absolute;top:54px;left:0;width:393px;height:764px;border:0}
+.iphone .home{position:absolute;bottom:0;left:0;right:0;height:34px;background:#fff;z-index:2}
+.iphone .home i{position:absolute;bottom:9px;left:50%;transform:translateX(-50%);width:134px;height:5px;border-radius:3px;background:#111}
+.iphone .btn-side{position:absolute;right:-4px;top:210px;width:4px;height:96px;border-radius:0 3px 3px 0;background:#3a3a3c}
+.iphone .btn-vol{position:absolute;left:-4px;width:4px;height:58px;border-radius:3px 0 0 3px;background:#3a3a3c}
+/* Pixel 8 */
+.pixel{position:relative;width:436px;height:945px;border-radius:46px;background:#2b2f33;padding:12px;box-shadow:0 0 0 2px #4a4f55,0 30px 80px rgba(0,0,0,.55)}
+.pixel .screen{position:relative;width:412px;height:921px;border-radius:36px;overflow:hidden;background:#fff}
+.pixel .punch{position:absolute;top:14px;left:50%;transform:translateX(-50%);width:20px;height:20px;border-radius:50%;background:#000;z-index:3}
+.pixel .status{position:absolute;inset:0 0 auto;height:44px;display:flex;justify-content:space-between;align-items:center;padding:6px 26px 0 28px;font:500 14px Roboto,"Segoe UI",sans-serif;color:#1f1f1f;z-index:2;background:#f7f7f7}
+.pixel iframe{position:absolute;top:44px;left:0;width:412px;height:853px;border:0}
+.pixel .nav{position:absolute;bottom:0;left:0;right:0;height:24px;background:#f7f7f7;z-index:2}
+.pixel .nav i{position:absolute;bottom:9px;left:50%;transform:translateX(-50%);width:108px;height:4px;border-radius:2px;background:#444}
+.pixel .btn-side{position:absolute;right:-4px;width:4px;border-radius:0 3px 3px 0;background:#4a4f55}
+.icons{display:flex;gap:6px;align-items:center}
+.icons svg{display:block}
+aside{position:fixed;right:18px;top:50%;transform:translateY(-50%);display:flex;gap:10px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:10px 12px;max-width:290px;flex-direction:column;text-align:center}
+aside .qr{width:150px;height:150px}
+aside .qr{width:84px;height:84px;background:#fff;border-radius:6px;padding:4px;flex:none}
+aside .qr svg{width:100%;height:100%;display:block}
+aside p{margin:0;font-size:.78rem;color:var(--muted);line-height:1.4}
+aside b{color:var(--ink);display:block;font-size:.84rem;margin-bottom:2px}
+@media (max-width:1100px){aside{display:none}}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <svg width="32" height="32" viewBox="0 0 34 34" aria-hidden="true"><rect width="34" height="34" rx="8" fill="#17646C"/><path d="M4 22c5-1 6-7 11-7s5 9 10 9 4-6 5-7" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round"/><circle cx="23" cy="10" r="2.6" fill="#fff"/></svg>
+    <div><b>Ribera Baja Explora</b><br><span>Simulador móvil</span></div>
+  </div>
+  <div class="seg" id="which" role="group" aria-label="Dispositivo">
+    <button type="button" data-v="both" aria-pressed="true">iPhone y Android</button>
+    <button type="button" data-v="ios" aria-pressed="false">iPhone</button>
+    <button type="button" data-v="android" aria-pressed="false">Android</button>
+  </div>
+  <button type="button" class="btn" id="reload">Volver a la portada</button>
+</header>
+<main id="stage">
+  <section class="dev" id="d-ios">
+    <div class="wrap"><div class="scaler">
+      <div class="iphone">
+        <span class="btn-side"></span><span class="btn-vol" style="top:180px"></span><span class="btn-vol" style="top:250px"></span>
+        <div class="screen">
+          <div class="island"></div>
+          <div class="status"><span class="clock">9:41</span><span class="icons">
+            <svg width="18" height="12" viewBox="0 0 18 12"><rect x="0" y="8" width="3" height="4" rx="1"/><rect x="5" y="6" width="3" height="6" rx="1"/><rect x="10" y="3" width="3" height="9" rx="1"/><rect x="15" y="0" width="3" height="12" rx="1"/></svg>
+            <svg width="16" height="12" viewBox="0 0 16 12"><path d="M8 11.5 5.6 9a3.4 3.4 0 0 1 4.8 0zM3.4 6.8a6.6 6.6 0 0 1 9.2 0l-1.4 1.4a4.6 4.6 0 0 0-6.4 0zM1 4.4a10 10 0 0 1 14 0l-1.4 1.4a8 8 0 0 0-11.2 0z"/></svg>
+            <svg width="27" height="13" viewBox="0 0 27 13"><rect x=".5" y=".5" width="22" height="12" rx="3.5" fill="none" stroke="#000" opacity=".4"/><rect x="2" y="2" width="17" height="9" rx="2"/><rect x="24" y="4" width="2" height="5" rx="1" opacity=".5"/></svg>
+          </span></div>
+          <iframe id="f-ios" title="Ribera Baja Explora en iPhone" src="index.html"></iframe>
+          <div class="home"><i></i></div>
+        </div>
+      </div>
+    </div></div>
+    <div class="label">iPhone 15 · Safari</div>
+  </section>
+  <section class="dev" id="d-android">
+    <div class="wrap"><div class="scaler">
+      <div class="pixel">
+        <span class="btn-side" style="top:200px;height:64px"></span><span class="btn-side" style="top:290px;height:110px"></span>
+        <div class="screen">
+          <div class="punch"></div>
+          <div class="status"><span class="clock">9:41</span><span class="icons">
+            <svg width="16" height="14" viewBox="0 0 16 14"><path d="M8 13.5 0 3.6A12.4 12.4 0 0 1 16 3.6z" fill="#1f1f1f"/></svg>
+            <svg width="14" height="14" viewBox="0 0 14 14"><path d="M14 0v14H0z" fill="#1f1f1f"/></svg>
+            <svg width="10" height="16" viewBox="0 0 10 16"><rect x="3" y="0" width="4" height="2" fill="#1f1f1f"/><rect x="0" y="2" width="10" height="14" rx="1.5" fill="#1f1f1f"/></svg>
+          </span></div>
+          <iframe id="f-android" title="Ribera Baja Explora en Android" src="index.html"></iframe>
+          <div class="nav"><i></i></div>
+        </div>
+      </div>
+    </div></div>
+    <div class="label">Google Pixel 8 · Chrome</div>
+  </section>
+</main>
+<aside id="qrbox"><div class="qr" id="qr"></div><div><b>Pruébalo en tu móvil</b><p>Escanea el código con la cámara: abre la guía publicada en hoppafrost-glitch.github.io/ribera-baja-explora</p></div></aside>
+<script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js"></script>
+<script>
+(function(){
+  const URL_LIVE="https://hoppafrost-glitch.github.io/ribera-baja-explora/";
+  const devs={ios:document.getElementById("d-ios"),android:document.getElementById("d-android")};
+  const size={ios:[425,884],android:[436,945]};
+  let mode="both";
+  function fit(){
+    const stage=document.getElementById("stage");
+    const qb=document.getElementById("qrbox"),qOn=qb&&!qb.hidden&&getComputedStyle(qb).display!=="none";
+    stage.style.paddingRight=qOn?"330px":"24px";
+    const H=stage.clientHeight-48, W=stage.clientWidth-48-(qOn?306:0);
+    const vis=Object.keys(devs).filter(k=>mode==="both"||mode===k);
+    const totalW=vis.reduce((a,k)=>a+size[k][0],0)+(vis.length-1)*56;
+    const maxH=Math.max(...vis.map(k=>size[k][1]));
+    const s=Math.min(1,H/maxH,W/totalW);
+    for(const k of Object.keys(devs)){
+      devs[k].hidden=!vis.includes(k);
+      const sc=devs[k].querySelector(".scaler"),wr=devs[k].querySelector(".wrap");
+      sc.style.transform="scale("+s+")";
+      wr.style.width=size[k][0]*s+"px"; wr.style.height=size[k][1]*s+"px";
+    }
+    stage.style.gap=Math.round(56*s)+"px";
+  }
+  document.getElementById("which").addEventListener("click",e=>{
+    const b=e.target.closest("button"); if(!b) return; mode=b.dataset.v;
+    document.querySelectorAll("#which button").forEach(x=>x.setAttribute("aria-pressed",String(x===b))); fit();
+  });
+  document.getElementById("reload").addEventListener("click",()=>{
+    try{sessionStorage.removeItem("rbx-cover")}catch(e){}
+    ["f-ios","f-android"].forEach(id=>{const f=document.getElementById(id);f.src="index.html?t="+Date.now();});
+  });
+  function clock(){const d=new Date();const t=d.getHours()+":"+String(d.getMinutes()).padStart(2,"0");document.querySelectorAll(".clock").forEach(c=>c.textContent=t);}
+  clock(); setInterval(clock,20000);
+  window.addEventListener("resize",fit); fit();
+  try{const q=qrcode(0,"M");q.addData(URL_LIVE);q.make();document.getElementById("qr").innerHTML=q.createSvgTag({cellSize:3,margin:0,scalable:true});}catch(e){document.getElementById("qrbox").hidden=true;}
+})();
+</script>
+</body>
+</html>
