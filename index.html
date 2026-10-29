@@ -932,7 +932,7 @@ let toastT;function toast(msg){let el=$(".toast");if(!el){el=document.createElem
 const map=L.map("map",{zoomControl:true,attributionControl:true,minZoom:9,maxZoom:18,zoomSnap:.25,
   maxBounds:[[40.85,-1.2],[41.95,0.45]],maxBoundsViscosity:.8,preferCanvas:false});
 map.attributionControl.setPrefix(false);
-const baseAttr='Límites: IGN-CNIG · Río: trazado aproximado a partir de OpenStreetMap';
+const baseAttr='Límites municipales: IGN-CNIG';
 map.attributionControl.addAttribution(baseAttr);
 const panes={};["base","river","routes","labels"].forEach((n,i)=>{panes[n]=map.createPane(n);panes[n].style.zIndex=350+i*10;});
 panes.stops=map.createPane("stops");panes.stops.style.zIndex=650;panes.stops.style.pointerEvents="none";
