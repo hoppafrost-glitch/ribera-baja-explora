@@ -719,7 +719,7 @@ p{margin:0}
 #cover{position:fixed;inset:0;z-index:4000;display:flex;align-items:flex-end;color:#fff;background:#0f2e31;--c:#17646C}
 #cover .ph{position:absolute;inset:0;background:radial-gradient(120% 90% at 70% 20%,#2f7f86 0%,#17464b 45%,#0b2124 100%)}
 #cover .ph svg{display:none}
-#cover .shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,18,17,.35) 0%,rgba(6,18,17,.15) 35%,rgba(6,18,17,.85) 100%)}
+#cover .shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,18,17,.4) 0%,rgba(6,18,17,.1) 30%,rgba(6,18,17,.55) 58%,rgba(6,18,17,.9) 100%)}
 #cover .in{position:relative;width:100%;max-width:980px;margin:0 auto;display:flex;flex-direction:column;gap:14px;
   padding-block:calc(28px + env(safe-area-inset-top,0px)) calc(40px + env(safe-area-inset-bottom,0px));padding-left:max(24px,env(safe-area-inset-left,0px));padding-right:max(24px,env(safe-area-inset-right,0px))}
 #cover .kick{font-size:.78rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.85)}
@@ -957,7 +957,7 @@ map.setMaxZoom(15);
 
 // basemaps (only used where the hosting allows external map tiles)
 const TILES={
-  mapa:{url:"https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png",opt:{maxZoom:19,subdomains:"abcd",attribution:'© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · © <a href="https://carto.com/attributions">CARTO</a>'}},
+  mapa:{url:"https://www.ign.es/wmts/ign-base?layer=IGNBaseTodo&style=default&tilematrixset=GoogleMapsCompatible&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image/png&TileMatrix={z}&TileCol={x}&TileRow={y}",opt:{maxZoom:18,attribution:'Mapa base © <a href="https://www.ign.es">IGN</a>'}},
   ortofoto:{url:"https://www.ign.es/wmts/pnoa-ma?layer=OI.OrthoimageCoverage&style=default&tilematrixset=GoogleMapsCompatible&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image/jpeg&TileMatrix={z}&TileCol={x}&TileRow={y}",opt:{maxZoom:19,attribution:'PNOA © <a href="https://www.ign.es">IGN</a>'}}
 };
 let tileLayer=null;
@@ -1305,7 +1305,7 @@ function showCover(){
   let seen=false;try{seen=sessionStorage.getItem("rbx-cover")==="1";}catch(e){}
   if(seen) return;
   const c=$("#cover");const key=DATA.coverPhoto||"rueda";const ph=PH[key];
-  const draw=()=>{c.innerHTML=`${phHTML(key,"patrimonio",1920)}<div class="shade"></div>
+  const draw=()=>{c.innerHTML=`${phHTML(key,"patrimonio",1600)}<div class="shade"></div>
     <div class="brandc"><svg width="34" height="34" viewBox="0 0 34 34" aria-hidden="true"><rect width="34" height="34" rx="8" fill="rgba(255,255,255,.16)"/><path d="M4 22c5-1 6-7 11-7s5 9 10 9 4-6 5-7" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round"/><circle cx="23" cy="10" r="2.6" fill="#fff"/></svg><span>Ribera Baja Explora</span></div>
     <div class="clangs">${LANGS.map(([k,lab])=>`<button type="button" data-l="${k}" aria-pressed="${k===lang}">${lab}</button>`).join("")}</div>
     <div class="in"><div class="kick">${esc(t("coverKicker"))}</div><h1>${clauses(t("coverTitle"))}</h1><p>${esc(t("coverText"))}</p>
