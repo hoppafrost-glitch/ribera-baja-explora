@@ -1324,6 +1324,7 @@ document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("#cover").hidden
 /* ---------- hash routing ---------- */
 function fromHash(){
   const h=(location.hash||"").slice(1);
+  if(h&&!$("#cover").hidden){const c=$("#cover");c.hidden=true;c.innerHTML="";setTimeout(()=>map.invalidateSize(),30);}
   if(h.startsWith("p-")&&BYID[h.slice(2)]){state.sel=h.slice(2);const p=BYID[state.sel];setTab("lugar",false);map.setView([p.lat,p.lon],14);return;}
   if(h.startsWith("r-")&&DATA.routes.some(r=>r.id===h.slice(2))){state.route=h.slice(2);setTab("rutas",false);drawRoute(DATA.routes.find(r=>r.id===state.route));return;}
   if(["inicio","explorar","rutas","guias","gestion"].includes(h)){setTab(h,false);return;}
