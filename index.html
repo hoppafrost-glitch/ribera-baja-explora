@@ -705,7 +705,7 @@ p{margin:0}
 .gal img{width:100%;height:100%;object-fit:cover;display:block}
 .gal img.broken{visibility:hidden}
 .more{font-size:.95rem;line-height:1.62;max-width:62ch;color:var(--ink);opacity:.92}
-.lb{position:fixed;inset:0;z-index:5000;background:rgba(6,12,11,.94);display:flex;flex-direction:column;color:#fff;touch-action:pan-y}
+.lb{position:fixed;inset:0;z-index:5000;background:rgba(6,12,11,.97);backdrop-filter:blur(6px);display:flex;flex-direction:column;color:#fff;touch-action:pan-y}
 .lb[hidden]{display:none}
 .lb .stage{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;padding:56px 12px 8px;position:relative}
 .lb .stage img{max-width:100%;max-height:100%;object-fit:contain;border-radius:6px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
@@ -3368,7 +3368,7 @@ function gmapsRoute(r){const pts=r.stops.map(id=>BYID[id]).map(p=>p.lat+","+p.lo
 function fmtDur(m){const h=Math.floor(m/60),mm=m%60;return h?`${h} h${mm?" "+mm+" min":""}`:`${mm} min`;}
 
 /* ---------- views ---------- */
-function setTab(tab,push=true){
+function setTab(tab,push=true){closeLightbox();
   state.tab=tab;
   $$("#tabs button").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===tab||(tab==="lugar"&&b.dataset.tab==="explorar"))));
   if(tab==="inicio"&&!state.route) map.flyToBounds(homeBounds,{padding:[16,16],duration:.6});
