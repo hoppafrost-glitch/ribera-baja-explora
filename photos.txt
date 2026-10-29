@@ -32,6 +32,92 @@ pina-sotos|Pina de Ebro 01.jpg
 gelsa-buensuceso|Gelsa - Iglesia de San Pedro Apóstol 01.jpg
 gelsa-hidraulico|Gelsa - Plaza Mayor - Mercadillo.jpg
 gelsa-barca|Gelsa - Plaza Mayor - Mercadillo.jpg
-sastago-fortin|Cinco Olivas, Zaragoza, España, 2015-12-23, DD 49.JPG
+sastago-fortin|Fortín, Sástago, Zaragoza, España, 2015-12-23, DD 47.jpg
 montler|Sástago, Zaragoza, España, 2015-12-23, DD 28.JPG
 escatron-sfjavier|Panorámica de Escatrón.JPG
+piquete-g1|Quinto Nuestra Señora de la Asunción.JPG
+piquete-g2|Municipio de Quinto, provincia de Zaragoza (España).jpg
+portal-sanroque-g1|Quinto town gate.JPG
+portal-sanroque-g2|Calle de San Roque, municipio de Quinto, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+portal-sanroque-g3|Municipio de Quinto, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+quinto-camino-g1|Municipio de Quinto, provincia de Zaragoza.jpg
+quinto-camino-g2|Quinto - Silo Red Nacional de Silos y Graneros 02.jpg
+purburel-g1|Municipio de Quinto, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+pina-convento-g1|Church and cloister of the ancient franciscan convent, Pina de Ebro 02.jpg
+pina-convento-g2|Church and cloister of the ancient franciscan convent, Pina de Ebro 03.jpg
+pina-convento-g3|Church and cloister of the ancient franciscan convent, Pina de Ebro 05.jpg
+pina-convento-g4|Church and cloister of the ancient franciscan convent, Pina de Ebro 04.jpg
+pina-durruti-g1|Pina de Ebro 04.jpg
+pina-durruti-g2|Pina de Ebro 05.jpg
+pina-durruti-g3|Pina de Ebro 02.jpg
+pina-sangregorio-g1|Pina de Ebro 05.jpg
+gelsa-sanpedro-g1|Gelsa - Iglesia de San Pedro Apóstol 01.jpg
+gelsa-sanpedro-g2|Gelsa - Ayuntamiento 06.jpg
+gelsa-buensuceso-g1|Gelsa - Iglesia de San Pedro Apóstol 02.jpg
+celsa-g1|Colonia Victrix Iulia Celsa, Hispania Tarraconensis, Spain - 51959938268.jpg
+celsa-g2|Lepida-Celsa - Cruce de calles.jpg
+celsa-g3|Velilla de Ebro - Vista general 01.jpg
+celsa-museo-g1|Lepida Celsa - Capiteles corintios 02.jpg
+celsa-museo-g2|Lepida Celsa - Inscripción funeraria 01.jpg
+celsa-museo-g3|Lepida Celsa - Fragmentos cerámica ibérica.jpg
+celsa-museo-g4|Lepida Celsa - Numismática ibérica de la ceca de Celse.jpg
+celsa-museo-g5|Lepida Celsa - Vitrina 01.jpg
+celsa-museo-g6|Lepida Celsa - Monedas Colonia Victrix Iulia Celsa.jpg
+velilla-sannicolas-g1|Velilla de Ebro - Ermita de San Nicolás de Bari 02.jpg
+velilla-sannicolas-g2|Velilla de Ebro - Ermita de San Nicolás de Bari 05.jpg
+velilla-sannicolas-g3|Velilla de Ebro - Ermita de San Nicolás de Bari 06.jpg
+velilla-sannicolas-g4|Velilla de Ebro - Ermita de San Nicolás de Bari 03.jpg
+velilla-sannicolas-g5|Velilla de Ebro - Pilón de San Nicolás de Bari.jpg
+velilla-asuncion-g1|Velilla de Ebro - Iglesia de la Asunción 02.jpg
+velilla-asuncion-g2|Velilla de Ebro - Iglesia de la Asunción 03.jpg
+velilla-asuncion-g3|Velilla de Ebro - Iglesia de la Asunción 05.jpg
+velilla-asuncion-g4|Velilla de Ebro - Plaza de la Iglesia.jpg
+zaida-sanjose-g1|Municipio de La Zaida, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+zaida-sanjose-g2|Ayuntamiento de La Zaida, municipio de la comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+alforque-sanpedro-g1|Alforque, Zaragoza, España, 2015-12-23, DD 51.JPG
+cincoolivas-santiago-g1|Iglesia de Santiago, municipio de Cinco Olivas, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+cincoolivas-santiago-g2|Iglesia de Santiago, municipio de Cinco Olivas, provincia de Zaragoza.jpg
+cincoolivas-santiago-g3|Ermita de San José, municipio Cinco Olivas, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+cincoolivas-santiago-g4|Municipio de Cinco Olivas, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+sastago-fortin-g1|Fortín, Sástago, Zaragoza, España, 2015-12-23, DD 48.jpg
+sastago-fortin-g2|Fortín, Sástago, Zaragoza, España, 2015-12-23, DD 50.jpg
+sastago-fortin-g3|El Fortín de Sástago (del siglo XIX), comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+alborge-sanlorenzo-g1|Alborge - San Lorenzo Cam.Eras San Lorenzo-C.Barrio Nuevo.jpg
+alborge-sanlorenzo-g2|Alborge - Antiguo Molino de Aceite C.Molino-Almas 2.jpg
+alborge-sanlorenzo-g3|Alborge - Antiguo Molino de Aceite C.Molino-Almas 3.jpg
+montler-g1|Sastago.jpg
+sastago-meandros-g1|Panorámica de Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+sastago-meandros-g2|Término municipal Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+sastago-meandros-g3|Panorámica del municipio de Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+sastago-tambor-g1|Torre del Tambor, Sástago, Zaragoza, España, 2015-12-23, DD 36.jpg
+sastago-tambor-g2|Sástago - Torre del Tambor 01.jpg
+sastago-tambor-g3|Puente sobre el Ebro, Sástago, Zaragoza, España, 2015-12-23, DD 38.jpg
+sastago-tambor-g4|Puente sobre el Ebro, Sástago, Zaragoza, España, 2015-12-23, DD 41.jpg
+sastago-pilar-g1|Panorámica de Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+sastago-pilar-g2|Sástago, Zaragoza, España, 2015-12-23, DD 28.JPG
+rueda-g1|Monasterio de Rueda 41.jpg
+rueda-g2|Monasterio de Rueda, torre vista desde el claustro.jpg
+rueda-g3|Claustro del Monasterio de Rueda, en Sástago (Zaragoza, Aragón).jpg
+rueda-g4|Monasterio de Rueda - P7214248.jpg
+rueda-g5|Monasterio de Rueda - P7214222.jpg
+rueda-g6|Monasterio de Rueda,fachada sel S.XVII y XVIII.jpg
+rueda-g7|Monasterio de Rueda 24.jpg
+rueda-noria-g1|Monasterio de Rueda 23.jpg
+rueda-noria-g2|Monasterio de Rueda 31.jpg
+rueda-noria-g3|Monasterio de Rueda - P7214357.jpg
+rueda-noria-g4|Monasterio de Rueda 35.jpg
+escatron-tozal-g1|Río Ebro, Azud de la Villa de Escatrón, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+escatron-tozal-g2|Caseta Barquero.JPG
+escatron-tozal-g3|Escatrón, Zaragoza, España, 2015-12-23, DD 34.jpg
+escatron-asuncion-g1|Escatrón - Iglesia de la Asunción de Nuestra Señora 10.jpg
+escatron-asuncion-g2|Escatrón - Iglesia de la Asunción de Nuestra Señora 11.jpg
+escatron-asuncion-g3|Iglesia de la Asunción de Nuestra Señora, municipio de Escatrón, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
+escatron-asuncion-g4|Portal Santa Agueda.JPG
+escatron-sfjavier-g1|Iglesia de San Javier (Escatrón).JPG
+escatron-sfjavier-g2|Escatrón - Iglesia de San Javier 01.jpg
+escatron-sfjavier-g3|Escatrón - Iglesia de San Javier 04.jpg
+saladas-g1|LAGUNA-DE-LA-PLAYA.jpg
+saladas-g2|Saladas de Bujaraloz y Sástago.jpg
+saladas-g3|Salada de la Playa (Bujaraloz) (10759856684).jpg
+saladas-g4|Salina de la Playa, Sástago, Zaragoza, España, 2015-12-23, DD 22-26 PAN.jpg
+saladas-g5|Liquenes de las Saladas de Bujaraloz (10760058183).jpg
