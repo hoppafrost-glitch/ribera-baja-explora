@@ -34,15 +34,12 @@ gelsa-hidraulico|Gelsa - Plaza Mayor - Mercadillo.jpg
 gelsa-barca|Gelsa - Plaza Mayor - Mercadillo.jpg
 sastago-fortin|Fortín, Sástago, Zaragoza, España, 2015-12-23, DD 47.jpg
 montler|Sástago, Zaragoza, España, 2015-12-23, DD 28.JPG
-escatron-sfjavier|Panorámica de Escatrón.JPG
+escatron-sfjavier|Iglesia de San Javier (Escatrón).JPG
 piquete-g1|Quinto Nuestra Señora de la Asunción.JPG
-piquete-g2|Municipio de Quinto, provincia de Zaragoza (España).jpg
 portal-sanroque-g1|Quinto town gate.JPG
 portal-sanroque-g2|Calle de San Roque, municipio de Quinto, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
-portal-sanroque-g3|Municipio de Quinto, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 quinto-camino-g1|Municipio de Quinto, provincia de Zaragoza.jpg
 quinto-camino-g2|Quinto - Silo Red Nacional de Silos y Graneros 02.jpg
-purburel-g1|Municipio de Quinto, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 pina-convento-g1|Church and cloister of the ancient franciscan convent, Pina de Ebro 02.jpg
 pina-convento-g2|Church and cloister of the ancient franciscan convent, Pina de Ebro 03.jpg
 pina-convento-g3|Church and cloister of the ancient franciscan convent, Pina de Ebro 05.jpg
@@ -85,7 +82,6 @@ sastago-fortin-g3|El Fortín de Sástago (del siglo XIX), comarca Ribera Baja de
 alborge-sanlorenzo-g1|Alborge - San Lorenzo Cam.Eras San Lorenzo-C.Barrio Nuevo.jpg
 alborge-sanlorenzo-g2|Alborge - Antiguo Molino de Aceite C.Molino-Almas 2.jpg
 alborge-sanlorenzo-g3|Alborge - Antiguo Molino de Aceite C.Molino-Almas 3.jpg
-montler-g1|Sastago.jpg
 sastago-meandros-g1|Panorámica de Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 sastago-meandros-g2|Término municipal Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 sastago-meandros-g3|Panorámica del municipio de Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
@@ -113,9 +109,8 @@ escatron-asuncion-g1|Escatrón - Iglesia de la Asunción de Nuestra Señora 10.j
 escatron-asuncion-g2|Escatrón - Iglesia de la Asunción de Nuestra Señora 11.jpg
 escatron-asuncion-g3|Iglesia de la Asunción de Nuestra Señora, municipio de Escatrón, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 escatron-asuncion-g4|Portal Santa Agueda.JPG
-escatron-sfjavier-g1|Iglesia de San Javier (Escatrón).JPG
-escatron-sfjavier-g2|Escatrón - Iglesia de San Javier 01.jpg
-escatron-sfjavier-g3|Escatrón - Iglesia de San Javier 04.jpg
+escatron-sfjavier-g1|Escatrón - Iglesia de San Javier 01.jpg
+escatron-sfjavier-g2|Escatrón - Iglesia de San Javier 04.jpg
 saladas-g1|LAGUNA-DE-LA-PLAYA.jpg
 saladas-g2|Saladas de Bujaraloz y Sástago.jpg
 saladas-g3|Salada de la Playa (Bujaraloz) (10759856684).jpg
