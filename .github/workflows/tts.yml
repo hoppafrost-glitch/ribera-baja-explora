@@ -1,0 +1,28 @@
+name: Grabar audioguía
+on:
+  push:
+    paths: ["audio/texts.json", "tools/tts.py", ".github/workflows/tts.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: pip install -q piper-tts
+      - run: python tools/tts.py
+      - name: Licencias de las voces
+        run: |
+          for v in es/es_ES/davefx/medium en/en_GB/cori/high fr/fr_FR/siwis/medium de/de_DE/thorsten/high pt/pt_PT/tug%C3%A3o/medium; do
+            n=$(echo $v | tr '/' '-' ); curl -sL "https://huggingface.co/rhasspy/piper-voices/resolve/main/$v/MODEL_CARD" -o "audio/voices/MODEL_CARD-$n.txt" || true
+          done
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add audio
+          git commit -m "Audioguía generada" || echo nada
+          git pull --rebase -q && git push
