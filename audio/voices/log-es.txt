@@ -1,0 +1,36 @@
+voz es_ES-davefx-medium cargada
+piquete 373725
+portal-sanroque 228275
+quinto-camino 291125
+purburel 305702
+cabezo-nariz 211974
+bonastre 314322
+pina-convento 288461
+pina-durruti 317614
+pina-sangregorio 151475
+pina-sotos 238933
+gelsa-sanpedro 270750
+gelsa-cubiertos 297395
+gelsa-buensuceso 177963
+gelsa-hidraulico 255390
+gelsa-barca 190815
+celsa 144422
+celsa-museo 91132
+velilla-sannicolas 117777
+velilla-asuncion 104141
+zaida-sanjose 106805
+alforque-sanpedro 116680
+cincoolivas-santiago 82198
+sastago-fortin 102887
+alborge-sanlorenzo 86273
+montler 114329
+sastago-meandros 67465
+sastago-tambor 88781
+sastago-pilar 88624
+rueda 141757
+rueda-noria 95991
+escatron-tozal 62136
+escatron-asuncion 94894
+escatron-sfjavier 94423
+saladas 113702
+hecho: 34 nuevos, 0 errores
