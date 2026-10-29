@@ -719,6 +719,7 @@ p{margin:0}
 #cover{position:fixed;inset:0;z-index:4000;display:flex;align-items:flex-end;color:#fff;background:#0f2e31;--c:#17646C}
 #cover .ph{position:absolute;inset:0;background:radial-gradient(120% 90% at 70% 20%,#2f7f86 0%,#17464b 45%,#0b2124 100%)}
 #cover .ph svg{display:none}
+#cover .ph img{object-position:72% 50%}
 #cover .shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,18,17,.4) 0%,rgba(6,18,17,.1) 30%,rgba(6,18,17,.55) 58%,rgba(6,18,17,.9) 100%)}
 #cover .in{position:relative;width:100%;max-width:980px;margin:0 auto;display:flex;flex-direction:column;gap:14px;
   padding-block:calc(28px + env(safe-area-inset-top,0px)) calc(40px + env(safe-area-inset-bottom,0px));padding-left:max(24px,env(safe-area-inset-left,0px));padding-right:max(24px,env(safe-area-inset-right,0px))}
@@ -1041,15 +1042,15 @@ function render(tab){({inicio:renderHome,explorar:renderExplore,lugar:renderPlac
 const MUST=DATA.must||[];
 function renderHome(){
   const v=$("#v-inicio");
-  v.innerHTML=`<div class="home-hero">${phHTML(DATA.homeHero||"rueda","patrimonio",900)}<div class="shade"></div>
+  v.innerHTML=`<div class="home-hero">${phHTML(DATA.homeHero||"rueda","patrimonio",960)}<div class="shade"></div>
      <div class="txt"><span class="eyebrow" style="color:rgba(255,255,255,.8)">${esc(t("coverKicker"))}</span><h2>${clauses(t("coverTitle"))}</h2><p>${esc(t("coverText"))}</p></div></div>
    <div class="stats" style="margin-top:0"><span><b>${TOWNS.length}</b>${esc(t("statTowns"))}</span><span><b>${POIS.length}</b>${esc(t("statPlaces"))}</span><span><b>${DATA.routes.length}</b>${esc(t("statRoutes"))}</span><span><b>${LANGS.length}</b>${esc(t("statLangs"))}</span></div>
    <div class="quick"><button type="button" class="btn primary" id="h-explore">${svgI("map")}<span>${esc(t("explorePlaces",{n:POIS.length}))}</span></button>
      <button type="button" class="btn" id="h-near">${svgI("locate")}<span>${esc(t("nearMe"))}</span></button></div>
    <div class="stack" style="gap:8px"><div class="sec-h"><h3>${esc(t("homeMust"))}</h3><button type="button" class="linkbtn" id="h-all">${esc(t("seeAll"))} ›</button></div>
-     <div class="hscroll" id="h-must">${MUST.filter(id=>BYID[id]).map(id=>{const p=BYID[id];return `<button type="button" class="card" data-id="${p.id}">${phHTML(p.id,p.cat,420)}<b>${esc(L10(p.name))}</b><span>${esc(p.town)}</span></button>`;}).join("")}</div></div>
+     <div class="hscroll" id="h-must">${MUST.filter(id=>BYID[id]).map(id=>{const p=BYID[id];return `<button type="button" class="card" data-id="${p.id}">${phHTML(p.id,p.cat,500)}<b>${esc(L10(p.name))}</b><span>${esc(p.town)}</span></button>`;}).join("")}</div></div>
    <div class="stack" style="gap:8px"><div class="sec-h"><h3>${esc(t("homeRoutes"))}</h3><button type="button" class="linkbtn" id="h-routes">${esc(t("seeAll"))} ›</button></div>
-     <div class="hscroll" id="h-r">${DATA.routes.map(r=>`<button type="button" class="card" data-r="${r.id}">${phHTML(r.cover||r.stops[0],r.cat,420)}<b>${esc(L10(r.name))}</b><span>${r.stops.length} ${esc(t("stopsShort"))} · ${esc(t("mode_"+r.mode))}</span></button>`).join("")}</div></div>
+     <div class="hscroll" id="h-r">${DATA.routes.map(r=>`<button type="button" class="card" data-r="${r.id}">${phHTML(r.cover||r.stops[0],r.cat,500)}<b>${esc(L10(r.name))}</b><span>${r.stops.length} ${esc(t("stopsShort"))} · ${esc(t("mode_"+r.mode))}</span></button>`).join("")}</div></div>
    <p class="note">${esc(t("photosCredit"))} ${esc(t("footNote"))}</p>`;
   $("#h-explore").onclick=()=>setTab("explorar");
   $("#h-all").onclick=()=>setTab("explorar");
@@ -1097,7 +1098,7 @@ function nearMe(){
     renderExplore();
   },()=>toast(t("locErr")),{timeout:9000,maximumAge:60000});}catch(e){toast(t("locErr"));}
 }
-function rowHTML(p,sub){return `<button type="button" class="row" data-id="${p.id}" style="--c:var(${CATS[p.cat].color})">${phHTML(p.id,p.cat,160)}<span style="min-width:0"><span class="t">${esc(L10(p.name))}</span><br><span class="s">${esc(sub??t("cat_"+p.cat))}</span></span><span class="go" aria-hidden="true">›</span></button>`;}
+function rowHTML(p,sub){return `<button type="button" class="row" data-id="${p.id}" style="--c:var(${CATS[p.cat].color})">${phHTML(p.id,p.cat,330)}<span style="min-width:0"><span class="t">${esc(L10(p.name))}</span><br><span class="s">${esc(sub??t("cat_"+p.cat))}</span></span><span class="go" aria-hidden="true">›</span></button>`;}
 function groupByTown(list){const g={};list.forEach(p=>(g[p.town]=g[p.town]||[]).push(p));
   return Object.keys(g).sort((a,b)=>a.localeCompare(b,"es")).map(n=>`<div class="group-h">${esc(n)}<span>${esc(g[n].length===1?t("onePlace"):t("nPlaces",{n:g[n].length}))}</span></div>${g[n].map(p=>rowHTML(p)).join("")}`).join("");}
 
@@ -1115,7 +1116,7 @@ function renderPlace(){
   const dirUrl=`https://www.google.com/maps/dir/?api=1&destination=${p.lat},${p.lon}`;
   v.innerHTML=`
    <button type="button" class="back" id="back">‹ ${esc(fromRoute?L10(fromRoute.name):t("back"))}</button>
-   ${phHTML(p.id,p.cat,900,"photo-hero",true)}
+   ${phHTML(p.id,p.cat,960,"photo-hero",true)}
    <div class="title-block" style="--c:var(${CATS[p.cat].color})">
      <span class="pill"><span class="dot"></span>${esc(t("cat_"+p.cat))}</span>
      <h2>${esc(L10(p.name))}</h2>
@@ -1161,7 +1162,7 @@ function renderRoutes(){
   if(!r){
     v.innerHTML=`<div class="stack" style="gap:4px"><div class="eyebrow">${esc(t("tabRoutes"))}</div><h2>${esc(t("routesTitle"))}</h2><p class="lede">${esc(t("routesIntro"))}</p></div>
      ${DATA.routes.map(r=>{const s=routeStats(r);return `<button type="button" class="route-card" data-r="${r.id}" style="--c:var(${CATS[r.cat].color})">
-       ${phHTML(r.cover||r.stops[0],r.cat,700,"cover-ph")}
+       ${phHTML(r.cover||r.stops[0],r.cat,960,"cover-ph")}
        <span class="pill"><span class="dot"></span>${esc(t("cat_"+r.cat))}</span><h3>${esc(L10(r.name))}</h3><p class="small">${esc(L10(r.summary))}</p>
        <span class="kv"><span><b>${r.stops.length}</b> ${esc(t("stopsWord"))}</span><span><b>${nf().format(s.km)}</b> km</span><span>${esc(t("mode_"+r.mode))} · <b>${fmtDur(s.mins)}</b></span></span></button>`;}).join("")}
      <p class="note">${esc(t("routesNote"))}</p>`;
@@ -1305,7 +1306,7 @@ function showCover(){
   let seen=false;try{seen=sessionStorage.getItem("rbx-cover")==="1";}catch(e){}
   if(seen) return;
   const c=$("#cover");const key=DATA.coverPhoto||"rueda";const ph=PH[key];
-  const draw=()=>{c.innerHTML=`${phHTML(key,"patrimonio",1600)}<div class="shade"></div>
+  const draw=()=>{c.innerHTML=`${phHTML(key,"patrimonio",1280)}<div class="shade"></div>
     <div class="brandc"><svg width="34" height="34" viewBox="0 0 34 34" aria-hidden="true"><rect width="34" height="34" rx="8" fill="rgba(255,255,255,.16)"/><path d="M4 22c5-1 6-7 11-7s5 9 10 9 4-6 5-7" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round"/><circle cx="23" cy="10" r="2.6" fill="#fff"/></svg><span>Ribera Baja Explora</span></div>
     <div class="clangs">${LANGS.map(([k,lab])=>`<button type="button" data-l="${k}" aria-pressed="${k===lang}">${lab}</button>`).join("")}</div>
     <div class="in"><div class="kick">${esc(t("coverKicker"))}</div><h1>${clauses(t("coverTitle"))}</h1><p>${esc(t("coverText"))}</p>
