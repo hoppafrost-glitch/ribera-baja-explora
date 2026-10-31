@@ -1,0 +1,18 @@
+name: Buscar fotos
+on:
+  push:
+    paths: ["tools/queries.json", "tools/search.py", ".github/workflows/search.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  s:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/search.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/results.json && git commit -m "Resultados de búsqueda" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
