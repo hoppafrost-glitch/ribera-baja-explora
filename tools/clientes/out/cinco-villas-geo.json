@@ -1,0 +1,1820 @@
+{
+"sos-casco": [
+{
+"q": "Sos del Rey Católico",
+"name": "Sos del Rey Católico, Cinco Villas, Zaragoza, Aragón, 50680, España",
+"lat": 42.4969991,
+"lon": -1.2150631,
+"type": "administrative",
+"cls": "boundary"
+},
+{
+"q": "Plaza de la Villa, Sos del Rey Católico",
+"name": "Plaza de la Villa, Sos del Rey Católico, Cinco Villas, Zaragoza, Aragón, 50680, España",
+"lat": 42.496466,
+"lon": -1.2153992,
+"type": "pedestrian",
+"cls": "highway"
+}
+],
+"palacio-sada": [
+{
+"q": "Palacio de Sada, Sos del Rey Católico",
+"name": "Casa Palacio de Sada, 2, Calle Madrigal de las Altas Torres, Sos del Rey Católico, Cinco Villas, Zaragoza, Aragón, 50680, España",
+"lat": 42.4958253,
+"lon": -1.2157894,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Palacio de Sada, Sos del Rey Católico",
+"name": "Casa Palacio de Sada, 2, Calle Madrigal de las Altas Torres, Sos del Rey Católico, Cinco Villas, Zaragoza, Aragón, 50680, España",
+"lat": 42.4958253,
+"lon": -1.2157894,
+"type": "museum",
+"cls": "tourism"
+}
+],
+"san-esteban-sos": [
+{
+"q": "Iglesia de San Esteban, Sos del Rey Católico",
+"name": "Iglesia de San Esteban, 8, Calle Doña Manuela Pérez de Biel, Sos del Rey Católico, Cinco Villas, Zaragoza, Aragón, 50680, España",
+"lat": 42.4970422,
+"lon": -1.2148555,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Castillo de la Peña Felizana, Sos del Rey Católico",
+"name": "Castillo de la Peña Felizana, Calle Padre Mariano Jaúregui, Sos del Rey Católico, Cinco Villas, Zaragoza, Aragón, 50680, España",
+"lat": 42.497221,
+"lon": -1.2152403,
+"type": "attraction",
+"cls": "tourism"
+},
+{
+"q": "Castillo de la Peña Felizana, Sos del Rey Católico",
+"name": "Castillo de la Peña Felizana, Calle Padre Mariano Jaúregui, Sos del Rey Católico, Cinco Villas, Zaragoza, Aragón, 50680, España",
+"lat": 42.4970273,
+"lon": -1.2152099,
+"type": "board",
+"cls": "information"
+}
+],
+"santa-maria-uncastillo": [],
+"castillo-uncastillo": [
+{
+"q": "Castillo de Uncastillo",
+"name": "Castillo de Uncastillo, Calle Mediavilla, Uncastillo, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.3603246,
+"lon": -1.1312372,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Castillo de Uncastillo, Uncastillo",
+"name": "Castillo de Uncastillo, Calle Mediavilla, Uncastillo, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.3603246,
+"lon": -1.1312372,
+"type": "castle",
+"cls": "historic"
+}
+],
+"san-martin-uncastillo": [],
+"san-juan-uncastillo": [
+{
+"q": "Iglesia de San Juan, Uncastillo",
+"name": "Iglesia de San Juan Evangelista, 55, A-1202, Uncastillo, Cinco Villas, Zaragoza, Aragón, 50678, España",
+"lat": 42.3592884,
+"lon": -1.1345524,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"los-banales": [
+{
+"q": "Los Bañales",
+"name": "Yacimiento romano de Los Bañales, Calle Ronda, Layana, Cinco Villas, Zaragoza, Aragón, 50679, España",
+"lat": 42.2878124,
+"lon": -1.231038,
+"type": "attraction",
+"cls": "tourism"
+},
+{
+"q": "Los Bañales",
+"name": "Los Bañales, Uncastillo, Cinco Villas, Zaragoza, Aragón, 50679, España",
+"lat": 42.2890068,
+"lon": -1.2256422,
+"type": "locality",
+"cls": "place"
+}
+],
+"ci-layana": [
+{
+"q": "Centro de interpretación de Layana, Layana",
+"name": "Centro de Interpretacion DE AGRI CULTURA, Plaza de las Campanas, Layana, Cinco Villas, Zaragoza, Aragón, 50679, España",
+"lat": 42.2970117,
+"lon": -1.2447292,
+"type": "museum",
+"cls": "tourism"
+}
+],
+"mausoleo-atilios": [
+{
+"q": "Mausoleo de los Atilios",
+"name": "Mausoleo de los Atilios, Sádaba, Cinco Villas, Zaragoza, Aragón, 50670, España",
+"lat": 42.2952207,
+"lon": -1.2657891,
+"type": "footway",
+"cls": "highway"
+},
+{
+"q": "Mausoleo de los Atilios",
+"name": "Mausoleo de los Atilios, Sádaba, Cinco Villas, Zaragoza, Aragón, 50670, España",
+"lat": 42.2951895,
+"lon": -1.2657473,
+"type": "archaeological_site",
+"cls": "historic"
+},
+{
+"q": "Mausoleo de los Atilios, Sádaba",
+"name": "Mausoleo de los Atilios, Sádaba, Cinco Villas, Zaragoza, Aragón, 50670, España",
+"lat": 42.2952207,
+"lon": -1.2657891,
+"type": "footway",
+"cls": "highway"
+},
+{
+"q": "Mausoleo de los Atilios, Sádaba",
+"name": "Mausoleo de los Atilios, Sádaba, Cinco Villas, Zaragoza, Aragón, 50670, España",
+"lat": 42.2951895,
+"lon": -1.2657473,
+"type": "archaeological_site",
+"cls": "historic"
+}
+],
+"castillo-sadaba": [
+{
+"q": "Castillo de Sádaba",
+"name": "Castillo de Sádaba, Calle Lope de Vega, Sádaba, Cinco Villas, Zaragoza, Aragón, 50670, España",
+"lat": 42.2812657,
+"lon": -1.2673099,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Calle del Castillo, Sádaba",
+"name": "Calle del Castillo, Sádaba, Cinco Villas, Zaragoza, Aragón, 50670, España",
+"lat": 42.2809452,
+"lon": -1.2689676,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Castillo de Sádaba, Sádaba",
+"name": "Castillo de Sádaba, Calle Lope de Vega, Sádaba, Cinco Villas, Zaragoza, Aragón, 50670, España",
+"lat": 42.2812657,
+"lon": -1.2673099,
+"type": "castle",
+"cls": "historic"
+}
+],
+"santa-maria-sadaba": [
+{
+"q": "Iglesia de Santa María, Sádaba",
+"name": "Iglesia de Santa María, Calle Constitución, Sádaba, Cinco Villas, Zaragoza, Aragón, 50670, España",
+"lat": 42.2814156,
+"lon": -1.2722855,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de Santa María, Sádaba",
+"name": "Iglesia de Santa María, Calle Constitución, Sádaba, Cinco Villas, Zaragoza, Aragón, 50670, España",
+"lat": 42.2814156,
+"lon": -1.2722855,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"valdelafuen": [
+{
+"q": "Embalse de Valdelafuén",
+"name": "Embalse de Valdelafuén, Sádaba, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2964684,
+"lon": -1.2727625,
+"type": "reservoir",
+"cls": "water"
+}
+],
+"sarcofago-castiliscar": [
+{
+"q": "Iglesia de San Juan Bautista, Castiliscar",
+"name": "Iglesia de San Juan Bautista, Calle de la Iglesia, Castiliscar, Cinco Villas, Zaragoza, Aragón, 50696, España",
+"lat": 42.3768644,
+"lon": -1.2734724,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Castiliscar",
+"name": "Castiliscar, Cinco Villas, Zaragoza, Aragón, 50696, España",
+"lat": 42.3603549,
+"lon": -1.2864502,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"san-miguel-biota": [
+{
+"q": "Iglesia de San Miguel Arcángel, Biota",
+"name": "Iglesia de San Miguel Arcángel, Calle Juan José Giménez, Biota, Cinco Villas, Zaragoza, Aragón, 50695, España",
+"lat": 42.2622009,
+"lon": -1.1870793,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Biota iglesia",
+"name": "Iglesia de San Miguel Arcángel, Calle Juan José Giménez, Biota, Cinco Villas, Zaragoza, Aragón, 50695, España",
+"lat": 42.2622009,
+"lon": -1.1870793,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Biota iglesia",
+"name": "Iglesia de la Virgen, Calle Juan José Giménez, Biota, Cinco Villas, Zaragoza, Aragón, 50695, España",
+"lat": 42.2630086,
+"lon": -1.1875091,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de San Miguel Arcángel, Biota",
+"name": "Iglesia de San Miguel Arcángel, Calle Juan José Giménez, Biota, Cinco Villas, Zaragoza, Aragón, 50695, España",
+"lat": 42.2622009,
+"lon": -1.1870793,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"palacio-biota": [
+{
+"q": "Palacio del Vizconde, Biota",
+"name": "Palacio del Vizconde de Biota, Calle Juan José Giménez, Biota, Cinco Villas, Zaragoza, Aragón, 50695, España",
+"lat": 42.263079,
+"lon": -1.1878841,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Torreón de Biota",
+"name": "Torreón de Biota, CV-628, Biota, Malpica de Arba, Biota, Cinco Villas, Zaragoza, Aragón, 50695, España",
+"lat": 42.2631204,
+"lon": -1.1880776,
+"type": "tower",
+"cls": "man_made"
+}
+],
+"san-salvador-ejea": [],
+"santa-maria-ejea": [
+{
+"q": "Iglesia de Santa María, Ejea de los Caballeros",
+"name": "Iglesia de Santa María, Calle La Tajada, Ejea de los Caballeros, Cinco Villas, Zaragoza, Aragón, 50600, España",
+"lat": 42.1290749,
+"lon": -1.1374267,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de Santa María, Ejea de los Caballeros",
+"name": "Iglesia de Santa María, Calle La Tajada, Ejea de los Caballeros, Cinco Villas, Zaragoza, Aragón, 50600, España",
+"lat": 42.1290749,
+"lon": -1.1374267,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"aquagraria": [
+{
+"q": "Museo Aquagraria, Ejea de los Caballeros",
+"name": "Aquagraria, Calle Sabiñánigo, Ejea de los Caballeros, Cinco Villas, Zaragoza, Aragón, 50600, España",
+"lat": 42.114378,
+"lon": -1.1409881,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Calle Manuel Lorenzo Pardo, Ejea de los Caballeros",
+"name": "Calle Sabiñánigo, Ejea de los Caballeros, Cinco Villas, Zaragoza, Aragón, 50600, España",
+"lat": 42.1132517,
+"lon": -1.1424038,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Museo Aquagraria, Ejea de los Caballeros",
+"name": "Aquagraria, Calle Sabiñánigo, Ejea de los Caballeros, Cinco Villas, Zaragoza, Aragón, 50600, España",
+"lat": 42.114378,
+"lon": -1.1409881,
+"type": "museum",
+"cls": "tourism"
+}
+],
+"estanca-gancho": [
+{
+"q": "Estanca del Gancho",
+"name": "Estanca del Gancho, Ejea de los Caballeros, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.1147898,
+"lon": -1.1312937,
+"type": "reservoir",
+"cls": "water"
+}
+],
+"pueblos-colonizacion": [
+{
+"q": "El Bayo, Ejea de los Caballeros",
+"name": "El Bayo, Ejea de los Caballeros, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.1884405,
+"lon": -1.2634318,
+"type": "hamlet",
+"cls": "place"
+}
+],
+"santa-maria-tauste": [
+{
+"q": "Iglesia de Santa María, Tauste",
+"name": "Iglesia mudéjar de Santa María, Calle López, Tauste, Cinco Villas, Zaragoza, Aragón, 50660, España",
+"lat": 41.9211361,
+"lon": -1.2568676,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Plaza Santa María, Tauste",
+"name": "Plaza Santa María, Tauste, Cinco Villas, Zaragoza, Aragón, 50660, España",
+"lat": 41.9210421,
+"lon": -1.2572663,
+"type": "residential",
+"cls": "highway"
+}
+],
+"canal-tauste": [
+{
+"q": "Canal de Tauste",
+"name": "Canal de Tauste, Tauste, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 41.8735704,
+"lon": -1.2398448,
+"type": "canal",
+"cls": "waterway"
+},
+{
+"q": "Canal de Tauste",
+"name": "Canal de Tauste, Tauste, Cinco Villas, Zaragoza, Aragón, 50660, España",
+"lat": 41.9073725,
+"lon": -1.2826301,
+"type": "canal",
+"cls": "waterway"
+},
+{
+"q": "Canal de Tauste",
+"name": "Canal de Tauste, Remolinos, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.8442439,
+"lon": -1.18356,
+"type": "canal",
+"cls": "waterway"
+}
+],
+"sancho-abarca": [],
+"castillo-biel": [
+{
+"q": "Castillo de Biel",
+"name": "Castillo de Biel, 4, Calle la Peña, Biel, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3874251,
+"lon": -0.9365676,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Torre de Biel",
+"name": "Calle de la Torre, Biel, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3881426,
+"lon": -0.9363676,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Castillo de Biel, Biel",
+"name": "Castillo de Biel, 4, Calle la Peña, Biel, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3874251,
+"lon": -0.9365676,
+"type": "castle",
+"cls": "historic"
+}
+],
+"san-salvador-luesia": [
+{
+"q": "Iglesia de San Salvador, Luesia",
+"name": "Iglesia de San Salvador, Calle San Salvador, Luesia, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3697354,
+"lon": -1.0228302,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Luesia iglesia",
+"name": "Calle La Iglesia, Luesia, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3696818,
+"lon": -1.0230475,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Luesia iglesia",
+"name": "Iglesia de San Salvador, Calle San Salvador, Luesia, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3697354,
+"lon": -1.0228302,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Luesia iglesia",
+"name": "Iglesia de San Esteban, Calle San Esteban, Luesia, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3679789,
+"lon": -1.0228779,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de San Salvador, Luesia",
+"name": "Iglesia de San Salvador, Calle San Salvador, Luesia, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3697354,
+"lon": -1.0228302,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"castillo-luesia": [
+{
+"q": "Castillo de Luesia",
+"name": "Castillo de Luesia, Calle San Salvador, Luesia, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3700357,
+"lon": -1.0228547,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Luesia castillo",
+"name": "Castillo de Luesia, Placeta de Fino, Luesia, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3700357,
+"lon": -1.0228547,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Luesia castillo",
+"name": "Calle Castillo, Luesia, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3709796,
+"lon": -1.0212593,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Castillo de Luesia, Luesia",
+"name": "Castillo de Luesia, Calle San Salvador, Luesia, Cinco Villas, Zaragoza, Aragón, 50619, España",
+"lat": 42.3700357,
+"lon": -1.0228547,
+"type": "castle",
+"cls": "historic"
+}
+],
+"pigalo": [
+{
+"q": "Pígalo",
+"name": "Pozo Pigalo, Luesia, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.4279896,
+"lon": -0.995992,
+"type": "water",
+"cls": "natural"
+},
+{
+"q": "Pígalo",
+"name": "Pasada de Pigalo, Luesia, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.4296513,
+"lon": -0.9947806,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "Pígalo",
+"name": "Camping del Pigalo, PR-Z 114, Luesia, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.429913,
+"lon": -0.9973243,
+"type": "camp_site",
+"cls": "tourism"
+},
+{
+"q": "Pígalo",
+"name": "Pozas de Pigalo, PR-Z 114, Luesia, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.4284508,
+"lon": -0.9958787,
+"type": "attraction",
+"cls": "tourism"
+},
+{
+"q": "Pozas de Pígalo, Luesia",
+"name": "Pozas de Pigalo, PR-Z 114, Luesia, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.4284508,
+"lon": -0.9958787,
+"type": "attraction",
+"cls": "tourism"
+}
+],
+"sierra-santo-domingo": [
+{
+"q": "Sierra de Santo Domingo",
+"name": "Sierra de Santo Domingo, Longás, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.4455381,
+"lon": -0.9322567,
+"type": "ridge",
+"cls": "natural"
+},
+{
+"q": "Sierra de Santo Domingo",
+"name": "Sierra de Santo Domingo, Las Peñas de Riglos, Hoya de Huesca / Plana de Uesca, Huesca, Aragón, España",
+"lat": 42.4088829,
+"lon": -0.8456793,
+"type": "ridge",
+"cls": "natural"
+},
+{
+"q": "Ermita de Santo Domingo, Longás",
+"name": "Ermita de Santo Domingo, PR-Z 117 Biel - Sto Domingo, Salinas de Jaca, Longás, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.4431644,
+"lon": -0.9164392,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Longás",
+"name": "Longás, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.4803949,
+"lon": -0.9348934,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"san-nicolas-el-frago": [
+{
+"q": "Iglesia de San Nicolás de Bari, El Frago",
+"name": "Iglesia de San Nicolas de Bari, CV-106, El Frago, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2726012,
+"lon": -0.9311979,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "El Frago iglesia",
+"name": "Iglesia de San Nicolas de Bari, CV-106, El Frago, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2726012,
+"lon": -0.9311979,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de San Nicolás de Bari, El Frago",
+"name": "Iglesia de San Nicolas de Bari, CV-106, El Frago, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2726012,
+"lon": -0.9311979,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"despoblados-luna": [
+{
+"q": "Hispaniés, Luna",
+"name": "Calle Hispaniés, Luna, Cinco Villas, Zaragoza, Aragón, 50610, España",
+"lat": 42.1661718,
+"lon": -0.930171,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Hispaniés, Luna",
+"name": "Castillo de Hispaniés, Sierra Mayor a Luna. PR-Z 104, Luna, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2310622,
+"lon": -0.9095703,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Hispaniés, Luna",
+"name": "Ermita de San Pedro de Hispaniés, Sierra Mayor a Luna. PR-Z 104, Luna, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2299482,
+"lon": -0.909294,
+"type": "church",
+"cls": "historic"
+},
+{
+"q": "Júnez, Luna",
+"name": "Junez, Luna, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2353169,
+"lon": -0.8954987,
+"type": "village",
+"cls": "place"
+},
+{
+"q": "Júnez, Luna",
+"name": "Junez, Luna, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2352907,
+"lon": -0.8954659,
+"type": "village",
+"cls": "place"
+},
+{
+"q": "Júnez, Luna",
+"name": "Rio de Junez, Luna, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2170179,
+"lon": -0.9069421,
+"type": "stream",
+"cls": "waterway"
+},
+{
+"q": "Júnez, Luna",
+"name": "Rio de Junez, Luna, Cinco Villas, Zaragoza, Aragón, 50610, España",
+"lat": 42.1893841,
+"lon": -0.9165784,
+"type": "stream",
+"cls": "waterway"
+},
+{
+"q": "Lacasta, Luna",
+"name": "Lacasta, Luna, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.2700943,
+"lon": -0.8732761,
+"type": "residential",
+"cls": "landuse"
+}
+],
+"san-gil-luna": [
+{
+"q": "Iglesia de Santiago, Luna",
+"name": "Iglesia de Santiago y San Miguel, Calle Abarros, Luna, Cinco Villas, Zaragoza, Aragón, 50610, España",
+"lat": 42.1693682,
+"lon": -0.9302991,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de Santiago, Luna",
+"name": "Iglesia de Santiago de la Corona, Calle Santiago, Luna, Cinco Villas, Zaragoza, Aragón, 50610, España",
+"lat": 42.1704521,
+"lon": -0.9323121,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"monlora": [],
+"cajal-valpalmas": [],
+"embalse-ardisa": [
+{
+"q": "Embalse de Ardisa",
+"name": "Embalse de Ardisa, Biscarrués, Hoya de Huesca / Plana de Uesca, Huesca, Aragón, España",
+"lat": 42.197277,
+"lon": -0.751653,
+"type": "reservoir",
+"cls": "water"
+},
+{
+"q": "Embalse de Ardisa, Ardisa",
+"name": "Embalse de Ardisa, Biscarrués, Hoya de Huesca / Plana de Uesca, Huesca, Aragón, España",
+"lat": 42.197277,
+"lon": -0.751653,
+"type": "reservoir",
+"cls": "water"
+}
+],
+"ermita-san-anton-pintano": [],
+"necropolis-lobera": [],
+"torreon-navardun": [
+{
+"q": "Castillo de Navardún",
+"name": "Castillo de Navardún, A-1601, Urriés, Navardún, Cinco Villas, Zaragoza, Aragón, 50689, España",
+"lat": 42.5131923,
+"lon": -1.1446335,
+"type": "castle",
+"cls": "historic"
+}
+],
+"san-esteban-urries": [
+{
+"q": "Iglesia de San Esteban, Urriés",
+"name": "Iglesia de San Esteban, A-1601, Urriés, Cinco Villas, Zaragoza, Aragón, 50689, España",
+"lat": 42.5193734,
+"lon": -1.1290205,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"ruesta": [
+{
+"q": "Ruesta",
+"name": "Ruesta, Urriés, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.5888182,
+"lon": -1.0761589,
+"type": "hamlet",
+"cls": "place"
+},
+{
+"q": "Castillo de Ruesta",
+"name": "Castillo de Ruesta, A-1601, Ruesta, Urriés, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.5898001,
+"lon": -1.0776301,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Ermita de Santiago, Ruesta",
+"name": "Ermita de Santiago Apóstol, A-1601, Ruesta, Urriés, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.5843985,
+"lon": -1.0795024,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Ruesta, Urriés",
+"name": "Ruesta, Urriés, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.5888182,
+"lon": -1.0761589,
+"type": "hamlet",
+"cls": "place"
+}
+],
+"undues-camino": [
+{
+"q": "Undués de Lerda",
+"name": "Undués de Lerda, Cinco Villas, Zaragoza, Aragón, 50689, España",
+"lat": 42.5654577,
+"lon": -1.1688986,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"bagues": [
+{
+"q": "Iglesia de San Julián y Santa Basilisa, Bagüés",
+"name": "Iglesia de San Julián y Santa Basilisa, A-2602, Bagüés, Cinco Villas, Zaragoza, Aragón, 50683, España",
+"lat": 42.5472482,
+"lon": -0.9457294,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Bagüés",
+"name": "Bagüés, Cinco Villas, Zaragoza, Aragón, España",
+"lat": 42.5493106,
+"lon": -0.9459128,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"_overpass": {
+"Sos del Rey Católico": [
+{
+"lat": 42.4969991,
+"lon": -1.2150631,
+"id": "node/249288406",
+"k": {}
+},
+{
+"lat": 42.4560943,
+"lon": -1.2311768,
+"id": "relation/342074",
+"k": {}
+}
+],
+"Undués de Lerda": [
+{
+"lat": 42.5654577,
+"lon": -1.1688986,
+"id": "node/360650692",
+"k": {}
+},
+{
+"lat": 42.5796388,
+"lon": -1.153073,
+"id": "relation/342420",
+"k": {}
+}
+],
+"Ruesta": [
+{
+"lat": 42.5888182,
+"lon": -1.0761589,
+"id": "node/360651152",
+"k": {}
+}
+],
+"El Bayo": [
+{
+"lat": 42.1884405,
+"lon": -1.2634318,
+"id": "node/364335379",
+"k": {}
+},
+{
+"lat": 42.1480704,
+"lon": -1.263546,
+"id": "node/1242039661",
+"k": {}
+}
+],
+"Castillo de Uncastillo": [
+{
+"lat": 42.3603246,
+"lon": -1.1312372,
+"id": "node/1135854896",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Los Bañales": [
+{
+"lat": 42.2890068,
+"lon": -1.2256422,
+"id": "node/1242032210",
+"k": {}
+}
+],
+"El Bayoné": [
+{
+"lat": 42.2015189,
+"lon": -1.0248719,
+"id": "node/1242047531",
+"k": {}
+}
+],
+"Iglesia de San Esteban": [
+{
+"lat": 42.4928242,
+"lon": -0.6522379,
+"id": "node/1330214305",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+},
+{
+"lat": 42.6203181,
+"lon": -1.1996377,
+"id": "way/293418118",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 42.3679722,
+"lon": -1.0228735,
+"id": "way/327331624",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.6305098,
+"lon": -1.0127931,
+"id": "way/438874015",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.5193781,
+"lon": -1.1290103,
+"id": "way/443643820",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.4882163,
+"lon": -1.0558204,
+"id": "way/543209229",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 42.6552595,
+"lon": -0.8497686,
+"id": "way/756669407",
+"k": {
+"building": "ruins",
+"historic": "ruins"
+}
+},
+{
+"lat": 42.4970413,
+"lon": -1.2148568,
+"id": "way/1336460512",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Albergue de Ruesta": [
+{
+"lat": 42.588816,
+"lon": -1.0764389,
+"id": "node/1334935718",
+"k": {
+"tourism": "hostel"
+}
+}
+],
+"Sos del Rey Católico II - Aerogenerador": [
+{
+"lat": 42.4755374,
+"lon": -1.2322575,
+"id": "node/3056615399",
+"k": {}
+},
+{
+"lat": 42.4759371,
+"lon": -1.2348097,
+"id": "node/3056615412",
+"k": {}
+}
+],
+"Sos del Rey Católico - Aerogenerador": [
+{
+"lat": 42.4758561,
+"lon": -1.2368687,
+"id": "node/3056615405",
+"k": {}
+},
+{
+"lat": 42.4762424,
+"lon": -1.2379507,
+"id": "node/3056615424",
+"k": {}
+},
+{
+"lat": 42.4772492,
+"lon": -1.244273,
+"id": "node/3056615659",
+"k": {}
+},
+{
+"lat": 42.4775305,
+"lon": -1.2455212,
+"id": "node/3056615678",
+"k": {}
+},
+{
+"lat": 42.4775534,
+"lon": -1.2479372,
+"id": "node/3056615681",
+"k": {}
+},
+{
+"lat": 42.4776489,
+"lon": -1.2466964,
+"id": "node/3056615687",
+"k": {}
+},
+{
+"lat": 42.4776737,
+"lon": -1.2432801,
+"id": "node/3056615690",
+"k": {}
+},
+{
+"lat": 42.4779073,
+"lon": -1.2492765,
+"id": "node/3056615700",
+"k": {}
+},
+{
+"lat": 42.4783905,
+"lon": -1.2503513,
+"id": "node/3056615711",
+"k": {}
+},
+{
+"lat": 42.4784114,
+"lon": -1.2425558,
+"id": "node/3056615713",
+"k": {}
+},
+{
+"lat": 42.4790304,
+"lon": -1.241793,
+"id": "node/3056615724",
+"k": {}
+},
+{
+"lat": 42.4908438,
+"lon": -1.2611166,
+"id": "node/3056616002",
+"k": {}
+},
+{
+"lat": 42.4910319,
+"lon": -1.2622776,
+"id": "node/3056616008",
+"k": {}
+},
+{
+"lat": 42.4913284,
+"lon": -1.2634582,
+"id": "node/3056616016",
+"k": {}
+},
+{
+"lat": 42.4916409,
+"lon": -1.264617,
+"id": "node/3056616019",
+"k": {}
+},
+{
+"lat": 42.4919263,
+"lon": -1.26591,
+"id": "node/3056616021",
+"k": {}
+},
+{
+"lat": 42.4923775,
+"lon": -1.2669154,
+"id": "node/3056616024",
+"k": {}
+},
+{
+"lat": 42.4929339,
+"lon": -1.2679272,
+"id": "node/3056616027",
+"k": {}
+},
+{
+"lat": 42.4931618,
+"lon": -1.2689067,
+"id": "node/3056616030",
+"k": {}
+},
+{
+"lat": 42.4932926,
+"lon": -1.2701802,
+"id": "node/3056616233",
+"k": {}
+},
+{
+"lat": 42.4935269,
+"lon": -1.271352,
+"id": "node/3056616236",
+"k": {}
+},
+{
+"lat": 42.4938442,
+"lon": -1.2724417,
+"id": "node/3056616238",
+"k": {}
+}
+],
+"Oficina de Turismo de Sos del Rey Católico": [
+{
+"lat": 42.4958819,
+"lon": -1.2157065,
+"id": "node/3599569774",
+"k": {
+"tourism": "information"
+}
+}
+],
+"Casa Ruesta": [
+{
+"lat": 42.4987619,
+"lon": -1.2157923,
+"id": "node/4557136052",
+"k": {
+"building": "house"
+}
+}
+],
+"Mausoleo de los Atilios": [
+{
+"lat": 42.2951895,
+"lon": -1.2657473,
+"id": "node/4679154720",
+"k": {
+"historic": "archaeological_site"
+}
+},
+{
+"lat": 42.2952108,
+"lon": -1.2657871,
+"id": "way/336923027",
+"k": {}
+}
+],
+"Iglesia de Santa María Magdalena": [
+{
+"lat": 42.4090304,
+"lon": -0.8166616,
+"id": "node/5387151184",
+"k": {
+"historic": "church"
+}
+},
+{
+"lat": 42.4121387,
+"lon": -0.787984,
+"id": "way/558556943",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"historic": "church",
+"religion": "christian"
+}
+}
+],
+"Castillo de Biel": [
+{
+"lat": 42.3874251,
+"lon": -0.9365676,
+"id": "node/7248055487",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Iglesia de San Martín": [
+{
+"lat": 42.3874084,
+"lon": -0.9364547,
+"id": "node/7248076485",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.6262417,
+"lon": -0.723524,
+"id": "way/589042419",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 42.4957214,
+"lon": -1.2155756,
+"id": "way/683401831",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Castillo de Ruesta": [
+{
+"lat": 42.5898001,
+"lon": -1.0776301,
+"id": "node/8295024248",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Palacio del Vizconde de Biota": [
+{
+"lat": 42.263079,
+"lon": -1.1878841,
+"id": "node/11642306688",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Castillo de Sádaba": [
+{
+"lat": 42.2812657,
+"lon": -1.2673099,
+"id": "node/11951923974",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Ayuntamiento de Undués de Lerda": [
+{
+"lat": 42.5655151,
+"lon": -1.169092,
+"id": "node/13428141215",
+"k": {
+"amenity": "townhall"
+}
+}
+],
+"Carretera Sangüesa - Sos del Rey Católico": [
+{
+"lat": 42.6124521,
+"lon": -1.2777942,
+"id": "way/40069774",
+"k": {}
+},
+{
+"lat": 42.5677658,
+"lon": -1.2789381,
+"id": "way/106334055",
+"k": {}
+},
+{
+"lat": 42.5757687,
+"lon": -1.2762269,
+"id": "way/150264507",
+"k": {}
+},
+{
+"lat": 42.5756408,
+"lon": -1.276206,
+"id": "way/150264509",
+"k": {}
+},
+{
+"lat": 42.6097501,
+"lon": -1.277793,
+"id": "way/154480264",
+"k": {}
+},
+{
+"lat": 42.5683183,
+"lon": -1.2808142,
+"id": "way/618640481",
+"k": {}
+}
+],
+"Embalse de Valdelafuén": [
+{
+"lat": 42.2964409,
+"lon": -1.2744896,
+"id": "way/80871824",
+"k": {
+"natural": "water"
+}
+}
+],
+"Calle Sos del Rey Católico": [
+{
+"lat": 42.2854631,
+"lon": -1.2748008,
+"id": "way/80871836",
+"k": {}
+},
+{
+"lat": 42.1182712,
+"lon": -1.1386259,
+"id": "way/633895436",
+"k": {}
+},
+{
+"lat": 42.1189765,
+"lon": -1.1384928,
+"id": "way/1466795902",
+"k": {}
+}
+],
+"Ruinas de Ruesta": [
+{
+"lat": 42.5894684,
+"lon": -1.0772209,
+"id": "way/91606267",
+"k": {
+"historic": "ruins"
+}
+},
+{
+"lat": 42.5884778,
+"lon": -1.0761223,
+"id": "way/118756228",
+"k": {
+"historic": "ruins"
+}
+}
+],
+"Iglesia de Santa María": [
+{
+"lat": 42.5226733,
+"lon": -0.6742816,
+"id": "way/153988148",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian",
+"tourism": "attraction"
+}
+},
+{
+"lat": 42.3054057,
+"lon": -0.7436281,
+"id": "way/310325362",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"historic": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.3863992,
+"lon": -0.7180176,
+"id": "way/623892470",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 42.1290752,
+"lon": -1.1374233,
+"id": "way/847332678",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 42.2814024,
+"lon": -1.2722898,
+"id": "way/1017233699",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 42.4804393,
+"lon": -0.9352626,
+"id": "way/1374540901",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 42.4312746,
+"lon": -1.2119042,
+"id": "way/1468012762",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Castillo de Luesia": [
+{
+"lat": 42.3700232,
+"lon": -1.0227633,
+"id": "way/327331623",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Iglesia de San Salvador": [
+{
+"lat": 42.3697249,
+"lon": -1.0228202,
+"id": "way/327331625",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.6580976,
+"lon": -0.8731353,
+"id": "way/378669287",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.3548026,
+"lon": -0.7944613,
+"id": "way/559525711",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"historic": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.126087,
+"lon": -1.1418276,
+"id": "way/573308158",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 42.5747379,
+"lon": -1.2841166,
+"id": "way/682518487",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"historic": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.6396,
+"lon": -0.8896765,
+"id": "way/756951375",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Ermita Nuestra Señora de Los Bañales": [
+{
+"lat": 42.2878821,
+"lon": -1.2296954,
+"id": "way/360421528",
+"k": {
+"building": "yes"
+}
+}
+],
+"Iglesia de San Juan Evangelista": [
+{
+"lat": 42.6508208,
+"lon": -1.3646251,
+"id": "way/365885083",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.3592883,
+"lon": -1.1345525,
+"id": "way/1195179826",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de Santa María del Rosario (s. XII-XIII)": [
+{
+"lat": 42.2836626,
+"lon": -1.0468992,
+"id": "way/379042608",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de San Miguel Arcángel": [
+{
+"lat": 42.1488369,
+"lon": -0.6565815,
+"id": "way/386033726",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"historic": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.4187678,
+"lon": -0.8024442,
+"id": "way/558556944",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"historic": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 42.2621957,
+"lon": -1.187078,
+"id": "way/1374128101",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Embalse de Ardisa": [
+{
+"lat": 42.197242,
+"lon": -0.7541456,
+"id": "way/425711683",
+"k": {
+"natural": "water"
+}
+}
+],
+"Iglesia de Santa María de las Candelas": [
+{
+"lat": 42.5735098,
+"lon": -0.8913646,
+"id": "way/449893468",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Cementerio de Sos del Rey Católico": [
+{
+"lat": 42.5012189,
+"lon": -1.2135119,
+"id": "way/460023610",
+"k": {
+"religion": "christian"
+}
+}
+],
+"Calle Hispaniés": [
+{
+"lat": 42.1661718,
+"lon": -0.930171,
+"id": "way/460087616",
+"k": {}
+}
+],
+"Iglesia de San Nicolás de Bari": [
+{
+"lat": 42.0127559,
+"lon": -0.7618343,
+"id": "way/460979674",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"historic": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de San Juan Bautista": [
+{
+"lat": 42.3768606,
+"lon": -1.2734733,
+"id": "way/543313665",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 42.2789892,
+"lon": -1.0002346,
+"id": "way/1195173186",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de San Esteban Protomártir": [
+{
+"lat": 42.4263407,
+"lon": -0.6639097,
+"id": "way/558556946",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"historic": "chapel",
+"religion": "christian"
+}
+}
+],
+"Iglesia de Santa María la Mayor": [
+{
+"lat": 42.0381188,
+"lon": -0.8763534,
+"id": "way/583293232",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 41.9823301,
+"lon": -0.9949928,
+"id": "way/785091781",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Casa Palacio de Sada": [
+{
+"lat": 42.4958386,
+"lon": -1.2157989,
+"id": "way/683401830",
+"k": {
+"building": "yes",
+"historic": "castle",
+"tourism": "museum"
+}
+}
+],
+"Parador Nacional de Sos del Rey Católico": [
+{
+"lat": 42.4993815,
+"lon": -1.2149884,
+"id": "way/683883055",
+"k": {
+"building": "yes",
+"tourism": "hotel"
+}
+}
+],
+"Centro de Salud de Sos del Rey Católico": [
+{
+"lat": 42.4962828,
+"lon": -1.216232,
+"id": "way/685819030",
+"k": {
+"amenity": "clinic",
+"building": "yes"
+}
+}
+],
+"Residencia de Sos del Rey Católico": [
+{
+"lat": 42.4947089,
+"lon": -1.2162943,
+"id": "way/685988832",
+"k": {
+"amenity": "social_facility",
+"building": "yes"
+}
+}
+],
+"AN Energéticos - Sos del Rey Católico": [
+{
+"lat": 42.4909153,
+"lon": -1.2151487,
+"id": "way/686730449",
+"k": {
+"amenity": "fuel"
+}
+}
+],
+"Iglesia de San Julián y Santa Basilisa": [
+{
+"lat": 42.5472502,
+"lon": -0.9457259,
+"id": "way/754418138",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian",
+"tourism": "attraction"
+}
+}
+],
+"Calle Undués de Lerda": [
+{
+"lat": 42.5908247,
+"lon": -1.208896,
+"id": "way/791840084",
+"k": {}
+}
+],
+"Estación de Depuración de Aguas Residuales de Sos del Rey Católico": [
+{
+"lat": 42.5164628,
+"lon": -1.2193004,
+"id": "way/1110329673",
+"k": {
+"man_made": "wastewater_plant"
+}
+}
+],
+"Ermita de San Pedro de Hispaniés": [
+{
+"lat": 42.2299481,
+"lon": -0.909294,
+"id": "way/1128040936",
+"k": {
+"historic": "church"
+}
+}
+],
+"Castillo de Hispaniés": [
+{
+"lat": 42.2310621,
+"lon": -0.9095703,
+"id": "way/1128040937",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Sierra de Santo Domingo": [
+{
+"lat": 42.4453043,
+"lon": -0.9323488,
+"id": "way/1419600221",
+"k": {
+"natural": "ridge"
+}
+},
+{
+"lat": 42.4144724,
+"lon": -0.8432704,
+"id": "way/1419600224",
+"k": {
+"natural": "ridge"
+}
+}
+],
+"CRA Los Bañales": [
+{
+"lat": 42.2627189,
+"lon": -1.1897647,
+"id": "way/1425045013",
+"k": {
+"amenity": "school"
+}
+}
+],
+"Parque Eólico Sos del Rey Católico II": [
+{
+"lat": 42.4764594,
+"lon": -1.2398771,
+"id": "relation/12999229",
+"k": {}
+}
+],
+"Parque Eólico Sos del Rey Católico": [
+{
+"lat": 42.4848501,
+"lon": -1.2546552,
+"id": "relation/12999230",
+"k": {}
+}
+],
+"Yacimiento romano de Los Bañales": [
+{
+"lat": 42.2884614,
+"lon": -1.2310745,
+"id": "relation/21623990",
+"k": {
+"historic": "archaeological_site",
+"tourism": "attraction"
+}
+}
+]
+}
+}

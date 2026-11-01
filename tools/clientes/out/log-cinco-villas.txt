@@ -1,4 +1,3 @@
 == cinco-villas
-  municipios 31 de 31 faltan: []
-  río ok 169
-  geo y fotos ya hechos
+  sin límites (no_base)
+  hecho (sin fotos) cinco-villas
