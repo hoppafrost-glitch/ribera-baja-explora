@@ -1,0 +1,15 @@
+{"nominatim": {
+ "velilla-noria": ["noria Velilla de Ebro", "molino Velilla de Ebro"],
+ "alborge-molino": ["molino Alborge", "Mirador de las Tres Aguas Alborge"],
+ "cincoolivas-almazara": ["molino de aceite Cinco Olivas", "embarcadero Cinco Olivas"],
+ "escatron-santaagueda": ["Ermita de Santa Águeda, Escatrón", "Calle Santa Águeda, Escatrón"],
+ "pina-torrevieja": ["Torre de Santa María, Pina de Ebro", "Plaza de España, Pina de Ebro"],
+ "quinto-sananton": ["Calle San Antón 13, Quinto", "Portal de San Antón Quinto"],
+ "zaida-norias": ["Casa de las Norias La Zaida", "barranco Lopín La Zaida"],
+ "alforque-azud": ["azud Alforque", "Mirador de la Barca Alforque"],
+ "sastago-central": ["central hidroeléctrica Sástago", "Calle Extramuros, Sástago"],
+ "velilla-zapata": ["Calle Mayor 14, Velilla de Ebro", "Casa de los Zapata Velilla"],
+ "quinto-matamala": ["Ermita de Matamala, Quinto", "Matamala Quinto"],
+ "escatron-palacio": ["Calle Mayor 19, Escatrón", "Centro Cultural Escatrón"]
+},
+"overpass_regex": "noria|molino|azud|Santa Águeda|Santa Agueda|Torre|San Antón|San Anton|Matamala|central|Zapata|Tres Aguas|Barca|almazara|aceite|palacio|ermita|mirador|portal"}

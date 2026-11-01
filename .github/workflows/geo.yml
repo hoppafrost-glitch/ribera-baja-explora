@@ -1,0 +1,18 @@
+name: Geolocalizar
+on:
+  push:
+    paths: ["tools/geo_queries.json", "tools/geo.py", ".github/workflows/geo.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  g:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/geo.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/geo_results.json && git commit -m "Coordenadas" || exit 0
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
