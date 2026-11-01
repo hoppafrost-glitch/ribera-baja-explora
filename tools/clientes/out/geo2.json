@@ -1,0 +1,749 @@
+{
+"campo-de-belchite": {
+"el-trujal": [],
+"granja-escuela": [],
+"ermita-san-nicolas": [],
+"iglesia-san-bernardo-codo": [
+{
+"q": "bernardo Codo",
+"name": "Plaza de San Bernardo",
+"lat": 41.3322233,
+"lon": -0.7003697,
+"k": {
+"amenity": "",
+"cls": "place",
+"type": "square"
+}
+}
+],
+"almochuel-calle-mayor": [
+{
+"q": "iglesia Almochuel",
+"name": "Iglesia San Agustin",
+"lat": 41.2802094,
+"lon": -0.5501928,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+}
+],
+"baul-lagata": [],
+"ermita-santo-domingo-lecera": [],
+"diapiro-moneva": [],
+"santa-maria-allende": [
+{
+"q": "maria allende Moyuela",
+"name": "Ermita Santa María de Allende",
+"lat": 41.1293638,
+"lon": -0.9259601,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+}
+],
+"via-utrillas": [],
+"pinares-valmadrid": []
+},
+"andorra-sierra-de-arcos": {
+"el-cabo": [],
+"centro-pastor-andorra": [],
+"san-macario": [
+{
+"q": "macario Andorra",
+"name": "Ermita San Macario",
+"lat": 40.9731228,
+"lon": -0.4416343,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "macario Andorra",
+"name": "Calle de San Macario",
+"lat": 40.9768971,
+"lon": -0.448215,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+},
+{
+"q": "macario Andorra",
+"name": "San Macario",
+"lat": 40.9730349,
+"lon": -0.4416301,
+"k": {
+"amenity": "",
+"cls": "tourism",
+"type": "hostel"
+}
+},
+{
+"q": "macario Andorra",
+"name": "Parque de San Macario",
+"lat": 40.9726767,
+"lon": -0.4424609,
+"k": {
+"amenity": "",
+"cls": "leisure",
+"type": "playground"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita San Macario",
+"lat": 40.9731228,
+"lon": -0.4416343,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita de la Virgen del Pilar",
+"lat": 40.974402,
+"lon": -0.4413314,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita del Calvario",
+"lat": 41.1201044,
+"lon": -0.5136502,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita de la Virgen de la Peña",
+"lat": 40.8438983,
+"lon": -0.4191946,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita Virgen sierra de Arcos",
+"lat": 41.0615402,
+"lon": -0.5717333,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita de Santa Bárbara",
+"lat": 41.0296644,
+"lon": -0.5930095,
+"k": {
+"amenity": "",
+"cls": "historic",
+"type": "wayside_shrine"
+}
+}
+],
+"centro-iberos-oliete": [],
+"tia-chula": [],
+"olivares-oliete": [],
+"bodegas-alacon": [],
+"ermita-san-miguel-alacon": [
+{
+"q": "balsa miguel Alacón",
+"name": "Balsa de San Miguel",
+"lat": 41.0318997,
+"lon": -0.6951426,
+"k": {
+"amenity": "",
+"cls": "water",
+"type": "pond"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita de la Rebollosa",
+"lat": 41.1417644,
+"lon": -0.7143676,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita de Santa Bárbara",
+"lat": 41.0335093,
+"lon": -0.8077467,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita San Mateo",
+"lat": 41.1372013,
+"lon": -0.7578525,
+"k": {
+"amenity": "",
+"cls": "historic",
+"type": "ruins"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita de la Virgen de la Aliaga",
+"lat": 41.0312736,
+"lon": -0.8122126,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita del Sanchet",
+"lat": 41.0990403,
+"lon": -0.8260888,
+"k": {
+"amenity": "",
+"cls": "building",
+"type": "church"
+}
+},
+{
+"q": "Ermita",
+"name": "Ermita de Sanché",
+"lat": 41.0990178,
+"lon": -0.8261661,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+}
+],
+"iglesia-salvador-arino": [
+{
+"q": "Iglesia del Salvador",
+"name": "Iglesia Parroquial del Salvador",
+"lat": 41.0301626,
+"lon": -0.5921056,
+"k": {
+"amenity": "",
+"cls": "building",
+"type": "church"
+}
+},
+{
+"q": "iglesia Ariño",
+"name": "Iglesia Parroquial del Salvador",
+"lat": 41.0301626,
+"lon": -0.5921056,
+"k": {
+"amenity": "",
+"cls": "building",
+"type": "church"
+}
+}
+],
+"gallipuente": [],
+"mirador-carnicero": [
+{
+"q": "carnicero Alloza",
+"name": "El Carnicero",
+"lat": 40.9788536,
+"lon": -0.4942863,
+"k": {
+"amenity": "",
+"cls": "place",
+"type": "locality"
+}
+}
+],
+"monasterio-olivar": [
+{
+"q": "Monasterio del Olivar",
+"name": "PR-TE 93 - Gargallo-Monasterio de Santa María del Olivar",
+"lat": 40.8578464,
+"lon": -0.5853758,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "path"
+}
+},
+{
+"q": "Monasterio del Olivar",
+"name": "PR-TE 93 - Gargallo-Monasterio de Santa María del Olivar",
+"lat": 40.898468,
+"lon": -0.5966392,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "path"
+}
+},
+{
+"q": "Monasterio del Olivar",
+"name": "PR-TE 93 - Gargallo-Monasterio de Santa María del Olivar",
+"lat": 40.8578464,
+"lon": -0.5853758,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "path"
+}
+},
+{
+"q": "Monasterio del Olivar",
+"name": "PR-TE 93 - Gargallo-Monasterio de Santa María del Olivar",
+"lat": 40.898468,
+"lon": -0.5966392,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "path"
+}
+}
+],
+"centro-pablo-serrano": [],
+"miradores-crivillen": [],
+"nacimiento-escuriza": [],
+"mirador-campillo": [
+{
+"q": "campillo Gargallo",
+"name": "Campillo",
+"lat": 40.8031776,
+"lon": -0.5986228,
+"k": {
+"amenity": "",
+"cls": "natural",
+"type": "peak"
+}
+}
+],
+"san-pascual-ejulve": [
+{
+"q": "iglesia Ejulve",
+"name": "Iglesia de Santa María La Mayor",
+"lat": 40.7749427,
+"lon": -0.5549284,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+}
+]
+},
+"campo-de-daroca": {
+"san-blas-val": [
+{
+"q": "iglesia Val de San Martín",
+"name": "Iglesia de Santa María La Mayor",
+"lat": 41.0572403,
+"lon": -1.4464687,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+}
+],
+"murero-fosiles": [
+{
+"q": "Yacimiento",
+"name": "Yacimiento de Murero",
+"lat": 41.1675932,
+"lon": -1.4761338,
+"k": {
+"amenity": "",
+"cls": "historic",
+"type": "archaeological_site"
+}
+}
+],
+"pinsapar-orcajo": [],
+"fuente-villanueva": [],
+"retablo-retascon": [
+{
+"q": "Iglesia de Retascón",
+"name": "Iglesia de la Asunción de la Virgen",
+"lat": 41.1444645,
+"lon": -1.3812251,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "iglesia Retascón",
+"name": "Iglesia de la Asunción de la Virgen",
+"lat": 41.1444645,
+"lon": -1.3812251,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+}
+],
+"retablo-torralbilla": [],
+"retablo-villadoz": [
+{
+"q": "santiago Villadoz",
+"name": "Iglesia de Santiago",
+"lat": 41.1626308,
+"lon": -1.2872149,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Iglesia de Santiago",
+"name": "Iglesia de Santiago",
+"lat": 41.2491139,
+"lon": -1.1563882,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Iglesia de Santiago",
+"name": "Iglesia de Santiago",
+"lat": 41.1626308,
+"lon": -1.2872149,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "Iglesia de Santiago",
+"name": "Iglesia de Santiago",
+"lat": 41.0856569,
+"lon": -1.2141314,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "iglesia Villadoz",
+"name": "Iglesia de Santiago",
+"lat": 41.1626308,
+"lon": -1.2872149,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+}
+],
+"iglesia-mainar": [
+{
+"q": "iglesia Mainar",
+"name": "Calle de la Iglesia",
+"lat": 41.1923093,
+"lon": -1.3023981,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+}
+],
+"villarpardo": [],
+"iglesia-villarreal": [],
+"sabimbre-cerveruela": [],
+"santuario-sierra-herrera": []
+},
+"bajo-cinca": {
+"casco-antiguo-fraga": [
+{
+"q": "dona faldetes Fraga",
+"name": "Monumento a la Dona de Faldetes",
+"lat": 41.5211298,
+"lon": 0.3518523,
+"k": {
+"amenity": "",
+"cls": "historic",
+"type": "memorial"
+}
+}
+],
+"valcuerna": [],
+"embalse-mequinenza": [],
+"sender-chalamera": [
+{
+"q": "San Martín",
+"name": "Calle San Martín",
+"lat": 41.7214695,
+"lon": 0.1451702,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+},
+{
+"q": "San Martín",
+"name": "Campo de Fútbol de San Martín",
+"lat": 41.7270719,
+"lon": 0.1562001,
+"k": {
+"amenity": "",
+"cls": "leisure",
+"type": "pitch"
+}
+},
+{
+"q": "San Martín",
+"name": "Iglesia San Martín",
+"lat": 41.7210819,
+"lon": 0.1451981,
+"k": {
+"amenity": "",
+"cls": "building",
+"type": "church"
+}
+},
+{
+"q": "San Martín",
+"name": "Iglesia de San Martín",
+"lat": 41.7211692,
+"lon": 0.1451323,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+}
+],
+"mirador-chalamera": [],
+"lavaderos-torrente": [],
+"san-valero-velilla": [
+{
+"q": "valero Velilla de Cinca",
+"name": "Calle San Valero",
+"lat": 41.5861029,
+"lon": 0.259576,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+}
+],
+"castellassos-velilla": [],
+"puente-ballobar": [],
+"iglesia-belver": [],
+"casas-belver": [],
+"iglesia-osso": [
+{
+"q": "margarita Osso de Cinca",
+"name": "Calle Santa Margarita",
+"lat": 41.667355,
+"lon": 0.192393,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+},
+{
+"q": "margarita Osso de Cinca",
+"name": "Calle Santa Margarita",
+"lat": 41.6647919,
+"lon": 0.1924217,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "pedestrian"
+}
+},
+{
+"q": "iglesia Osso de Cinca",
+"name": "Calle Iglesia",
+"lat": 41.6654824,
+"lon": 0.1910607,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+}
+],
+"casa-mora-osso": [],
+"san-gregorio-ontinena": [
+{
+"q": "gregorio Ontiñena",
+"name": "Calle San Gregorio",
+"lat": 41.6755092,
+"lon": 0.0848881,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+},
+{
+"q": "gregorio Ontiñena",
+"name": "Calle San Gregorio",
+"lat": 41.6775507,
+"lon": 0.0876769,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+}
+],
+"vivero-ontinena": [],
+"iglesia-candasnos": [
+{
+"q": "asuncion Candasnos",
+"name": "Nuestra Señora de la Asunción",
+"lat": 41.5035516,
+"lon": 0.0640364,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+},
+{
+"q": "iglesia Candasnos",
+"name": "Plaza Iglesia",
+"lat": 41.5033325,
+"lon": 0.064119,
+"k": {
+"amenity": "",
+"cls": "leisure",
+"type": "park"
+}
+},
+{
+"q": "iglesia Candasnos",
+"name": "Calle Iglesia",
+"lat": 41.5031303,
+"lon": 0.0640866,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+},
+{
+"q": "iglesia Candasnos",
+"name": "Plaza Iglesia",
+"lat": 41.5034029,
+"lon": 0.0640474,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+},
+{
+"q": "iglesia Candasnos",
+"name": "Iglesia de San Salvador",
+"lat": 41.4809278,
+"lon": 0.1982968,
+"k": {
+"amenity": "place_of_worship",
+"cls": "amenity",
+"type": "place_of_worship"
+}
+}
+],
+"camino-candasnos": []
+},
+"cinco-villas": {
+"sancho-abarca": [
+{
+"q": "santuario sancho abarca Tauste",
+"name": "Hotel Santuario Sancho Abarca",
+"lat": 42.0204463,
+"lon": -1.3247274,
+"k": {
+"amenity": "",
+"cls": "tourism",
+"type": "hotel"
+}
+}
+],
+"monlora": [],
+"cajal-valpalmas": [
+{
+"q": "ramon cajal Valpalmas",
+"name": "Plaza de Ramón y Cajal",
+"lat": 42.1582631,
+"lon": -0.8547526,
+"k": {
+"amenity": "",
+"cls": "place",
+"type": "square"
+}
+},
+{
+"q": "ramon cajal Valpalmas",
+"name": "Plaza de Ramón y Cajal",
+"lat": 42.1584149,
+"lon": -0.8548936,
+"k": {
+"amenity": "",
+"cls": "highway",
+"type": "residential"
+}
+}
+],
+"ermita-san-anton-pintano": [],
+"necropolis-lobera": [],
+"torreon-navardun": [],
+"undues-camino": [
+{
+"q": "Undués de Lerda",
+"name": "Undués de Lerda",
+"lat": 42.5654577,
+"lon": -1.1688986,
+"k": {
+"amenity": "",
+"cls": "boundary",
+"type": "administrative"
+}
+}
+]
+}
+}
