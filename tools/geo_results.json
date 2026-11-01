@@ -1,0 +1,1211 @@
+{
+"nominatim": {
+"velilla-noria": [
+{
+"q": "molino Velilla de Ebro",
+"name": "Molino de Velilla de Ebro, Plaza del Rolladero, Velilla de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, 50760, España",
+"lat": "41.3734542",
+"lon": "-0.4392279",
+"type": "watermill",
+"cls": "man_made"
+},
+{
+"q": "molino Velilla de Ebro",
+"name": "Molino de Velilla de Ebro, Plaza del Rolladero, Velilla de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, 50760, España",
+"lat": "41.3734303",
+"lon": "-0.4391750",
+"type": "watermill",
+"cls": "man_made"
+},
+{
+"q": "molino Velilla de Ebro",
+"name": "Molino del Conde, Carretera de Quinto de Ebro a Gandesa, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50760, España",
+"lat": "41.3822949",
+"lon": "-0.4551692",
+"type": "watermill",
+"cls": "man_made"
+},
+{
+"q": "molino Velilla de Ebro",
+"name": "Molino del Conde, Carretera de Quinto de Ebro a Gandesa, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50760, España",
+"lat": "41.3822626",
+"lon": "-0.4551316",
+"type": "watermill",
+"cls": "man_made"
+}
+],
+"alborge-molino": [
+{
+"q": "molino Alborge",
+"name": "Camino del Molino, Alborge, Ribera Baja del Ebro, Zaragoza, Aragón, 50781, España",
+"lat": "41.3343180",
+"lon": "-0.3586993",
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "molino Alborge",
+"name": "Molino de Alborge, VP-017a, Alborge, Ribera Baja del Ebro, Zaragoza, Aragón, 50781, España",
+"lat": "41.3387624",
+"lon": "-0.3597343",
+"type": "watermill",
+"cls": "man_made"
+},
+{
+"q": "Mirador de las Tres Aguas Alborge",
+"name": "Mirador de las Tres Aguas, VP-017a, Alborge, Ribera Baja del Ebro, Zaragoza, Aragón, 50781, España",
+"lat": "41.3396394",
+"lon": "-0.3584402",
+"type": "viewpoint",
+"cls": "tourism"
+}
+],
+"cincoolivas-almazara": [
+{
+"q": "embarcadero Cinco Olivas",
+"name": "Embarcadero Cinco Olivas, Camino de los Tollos, Cinco Olivas, Ribera Baja del Ebro, Zaragoza, Aragón, 50781, España",
+"lat": "41.3409092",
+"lon": "-0.3735744",
+"type": "pier",
+"cls": "man_made"
+}
+],
+"escatron-santaagueda": [
+{
+"q": "Ermita de Santa Águeda, Escatrón",
+"name": "Ermita de Santa Águeda, 11, Cuesta de Santa Águeda, Escatrón, Ribera Baja del Ebro, Zaragoza, Aragón, 50790, España",
+"lat": "41.2918267",
+"lon": "-0.3257202",
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"pina-torrevieja": [
+{
+"q": "Plaza de España, Pina de Ebro",
+"name": "Plaza de España, Pina de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, España",
+"lat": "41.4872245",
+"lon": "-0.5319218",
+"type": "square",
+"cls": "place"
+},
+{
+"q": "Plaza de España, Pina de Ebro",
+"name": "Plaza de España, Pina de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, 50750, España",
+"lat": "41.4875880",
+"lon": "-0.5321285",
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Plaza de España, Pina de Ebro",
+"name": "Plaza de España, Pina de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, 50750, España",
+"lat": "41.4874218",
+"lon": "-0.5320548",
+"type": "pedestrian",
+"cls": "highway"
+}
+],
+"quinto-sananton": [
+{
+"q": "Calle San Antón 13, Quinto",
+"name": "Portal de San Antón, 13, Calle San Antón, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España",
+"lat": "41.4232394",
+"lon": "-0.4957296",
+"type": "attraction",
+"cls": "tourism"
+},
+{
+"q": "Portal de San Antón Quinto",
+"name": "Portal de San Antón, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España",
+"lat": "41.4232392",
+"lon": "-0.4957350",
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Portal de San Antón Quinto",
+"name": "Portal de San Antón, 13, Calle San Antón, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España",
+"lat": "41.4232394",
+"lon": "-0.4957296",
+"type": "attraction",
+"cls": "tourism"
+}
+],
+"zaida-norias": [],
+"alforque-azud": [
+{
+"q": "azud Alforque",
+"name": "Azud de Alforque, Alforque, Ribera Baja del Ebro, Zaragoza, Aragón, 50783, España",
+"lat": "41.3298849",
+"lon": "-0.3946395",
+"type": "weir",
+"cls": "waterway"
+},
+{
+"q": "azud Alforque",
+"name": "Azud Cinco Olivas, Sástago, Ribera Baja del Ebro, Zaragoza, Aragón, 50783, España",
+"lat": "41.3280808",
+"lon": "-0.3738491",
+"type": "weir",
+"cls": "waterway"
+}
+],
+"sastago-central": [
+{
+"q": "central hidroeléctrica Sástago",
+"name": "Central Hidroelectrica de Sástago I, Sástago, Ribera Baja del Ebro, Zaragoza, Aragón, España",
+"lat": "41.3193677",
+"lon": "-0.3579337",
+"type": "industrial",
+"cls": "landuse"
+}
+],
+"velilla-zapata": [
+{
+"q": "Calle Mayor 14, Velilla de Ebro",
+"name": "Calle Mayor, Velilla de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, 50760, España",
+"lat": "41.3732197",
+"lon": "-0.4371564",
+"type": "residential",
+"cls": "highway"
+}
+],
+"quinto-matamala": [
+{
+"q": "Matamala Quinto",
+"name": "Matamala, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España",
+"lat": "41.4073823",
+"lon": "-0.5112084",
+"type": "locality",
+"cls": "place"
+}
+],
+"escatron-palacio": [
+{
+"q": "Calle Mayor 19, Escatrón",
+"name": "Palacio Señorial Renacentista, 19, Calle Mayor, Escatrón, Ribera Baja del Ebro, Zaragoza, Aragón, 50790, España",
+"lat": "41.2921805",
+"lon": "-0.3233153",
+"type": "attraction",
+"cls": "tourism"
+}
+]
+},
+"overpass": {
+"Mirador de las Tres Aguas": [
+{
+"lat": 41.3396394,
+"lon": -0.3584402,
+"id": "node/574869587",
+"tags": {
+"tourism": "viewpoint"
+}
+}
+],
+"SDAD.COOP.SAN ANTONIO": [
+{
+"lat": 41.328,
+"lon": -0.338472,
+"id": "node/839473981",
+"tags": {
+"addr:street": "CALLE SAN MIGUEL, S/N",
+"amenity": "fuel"
+}
+}
+],
+"Galacho del Molino": [
+{
+"lat": 41.509147,
+"lon": -0.5447535,
+"id": "node/1242030967",
+"tags": {}
+}
+],
+"Los Miradores": [
+{
+"lat": 41.4153708,
+"lon": -0.3528304,
+"id": "node/1242119841",
+"tags": {}
+}
+],
+"Fortín de Matamala": [
+{
+"lat": 41.3641986,
+"lon": -0.4700694,
+"id": "node/1242121299",
+"tags": {}
+}
+],
+"Barca": [
+{
+"lat": 41.2937897,
+"lon": -0.3301325,
+"id": "node/1242123056",
+"tags": {}
+}
+],
+"Matamala": [
+{
+"lat": 41.4073823,
+"lon": -0.5112084,
+"id": "node/1242132997",
+"tags": {}
+}
+],
+"Sotomolino": [
+{
+"lat": 41.412158,
+"lon": -0.4778503,
+"id": "node/1242149813",
+"tags": {}
+}
+],
+"Plana San Antón": [
+{
+"lat": 41.2631146,
+"lon": -0.4224953,
+"id": "node/1242352543",
+"tags": {}
+}
+],
+"Ermita de Montler": [
+{
+"lat": 41.3424398,
+"lon": -0.330469,
+"id": "node/3976763206",
+"tags": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+}
+],
+"Gasolinera Santa Agueda": [
+{
+"lat": 41.2861776,
+"lon": -0.3235119,
+"id": "node/4349802692",
+"tags": {
+"amenity": "fuel"
+}
+}
+],
+"Hostal El Embarcadero": [
+{
+"lat": 41.2955965,
+"lon": -0.3256488,
+"id": "node/4442399425",
+"tags": {
+"amenity": "restaurant",
+"tourism": "hotel"
+}
+}
+],
+"Embarcadero de Alborgue": [
+{
+"lat": 41.32551,
+"lon": -0.3624919,
+"id": "node/4498693087",
+"tags": {}
+}
+],
+"Molino de Aforque": [
+{
+"lat": 41.3286074,
+"lon": -0.3890922,
+"id": "node/4498703173",
+"tags": {
+"man_made": "watermill"
+}
+}
+],
+"Molino de Velilla de Ebro": [
+{
+"lat": 41.3734303,
+"lon": -0.439175,
+"id": "node/4498725809",
+"tags": {
+"man_made": "watermill"
+}
+},
+{
+"lat": 41.373455,
+"lon": -0.4392278,
+"id": "way/1018556905",
+"tags": {
+"building": "yes",
+"man_made": "watermill"
+}
+}
+],
+"Molino del Conde": [
+{
+"lat": 41.3822626,
+"lon": -0.4551316,
+"id": "node/4498746049",
+"tags": {
+"man_made": "watermill"
+}
+},
+{
+"lat": 41.382298,
+"lon": -0.4551683,
+"id": "way/1018556903",
+"tags": {
+"building": "yes",
+"man_made": "watermill"
+}
+}
+],
+"Embarcadero de Gelsa": [
+{
+"lat": 41.4273242,
+"lon": -0.4654126,
+"id": "node/4523955302",
+"tags": {}
+},
+{
+"lat": 41.4271873,
+"lon": -0.465426,
+"id": "way/456118703",
+"tags": {}
+}
+],
+"Molino de La Zaida": [
+{
+"lat": 41.3486127,
+"lon": -0.4383972,
+"id": "node/4523967822",
+"tags": {
+"man_made": "watermill"
+}
+}
+],
+"Embarcadero de Alforque": [
+{
+"lat": 41.3254951,
+"lon": -0.3795375,
+"id": "node/4523972452",
+"tags": {}
+},
+{
+"lat": 41.3241097,
+"lon": -0.3795117,
+"id": "node/4523972453",
+"tags": {}
+}
+],
+"Azud de Menuza": [
+{
+"lat": 41.2880368,
+"lon": -0.3777321,
+"id": "node/4523985867",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Azud de Rueda": [
+{
+"lat": 41.2951467,
+"lon": -0.3206247,
+"id": "node/4523988999",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Noria de Gelsa": [
+{
+"lat": 41.4195564,
+"lon": -0.4668172,
+"id": "node/4526783406",
+"tags": {
+"man_made": "watermill"
+}
+}
+],
+"Molino cinco Olivas": [
+{
+"lat": 41.3306008,
+"lon": -0.3713218,
+"id": "node/4526816280",
+"tags": {
+"man_made": "watermill"
+}
+}
+],
+"Molino Montler": [
+{
+"lat": 41.3249932,
+"lon": -0.3444083,
+"id": "node/4526827484",
+"tags": {
+"man_made": "watermill"
+}
+}
+],
+"Molino Monasterio de Rueda": [
+{
+"lat": 41.2964207,
+"lon": -0.3150974,
+"id": "node/4543614848",
+"tags": {
+"man_made": "watermill"
+}
+}
+],
+"Molino de Menuza": [
+{
+"lat": 41.2869076,
+"lon": -0.379596,
+"id": "node/4543618249",
+"tags": {
+"man_made": "watermill"
+}
+}
+],
+"Embarcadero de Escatron": [
+{
+"lat": 41.2970766,
+"lon": -0.3242363,
+"id": "node/4543629375",
+"tags": {}
+}
+],
+"Torre de Matamala": [
+{
+"lat": 41.3745605,
+"lon": -0.476668,
+"id": "node/4565725037",
+"tags": {
+"historic": "optical_telegraph"
+}
+}
+],
+"Portal de San Miguel": [
+{
+"lat": 41.4261529,
+"lon": -0.4984435,
+"id": "node/6938976668",
+"tags": {
+"addr:housenumber": "2",
+"addr:street": "Calle Zaragoza",
+"historic": "city_gate",
+"tourism": "attraction"
+}
+},
+{
+"lat": 41.4261597,
+"lon": -0.4984479,
+"id": "way/296585292",
+"tags": {}
+}
+],
+"Portal de San Antón": [
+{
+"lat": 41.4232394,
+"lon": -0.4957296,
+"id": "node/6939046404",
+"tags": {
+"addr:housenumber": "13",
+"addr:street": "Calle San Antón",
+"historic": "city_gate",
+"tourism": "attraction"
+}
+},
+{
+"lat": 41.4232392,
+"lon": -0.495735,
+"id": "way/296585291",
+"tags": {}
+}
+],
+"Portal de San Roque": [
+{
+"lat": 41.4220314,
+"lon": -0.4961155,
+"id": "node/6939047363",
+"tags": {
+"addr:housenumber": "44",
+"addr:street": "Calle San Roque",
+"historic": "city_gate",
+"tourism": "attraction"
+}
+},
+{
+"lat": 41.422033,
+"lon": -0.4961161,
+"id": "way/296585293",
+"tags": {}
+}
+],
+"Palacio Señorial Renacentista": [
+{
+"lat": 41.2921805,
+"lon": -0.3233153,
+"id": "node/8524359117",
+"tags": {
+"addr:housenumber": "19",
+"addr:street": "Calle Mayor",
+"tourism": "attraction"
+}
+}
+],
+"Mirador del Tozal": [
+{
+"lat": 41.2926289,
+"lon": -0.3211445,
+"id": "node/8852755423",
+"tags": {
+"tourism": "viewpoint"
+}
+}
+],
+"Mirador del Ebro": [
+{
+"lat": 41.2961936,
+"lon": -0.3161351,
+"id": "node/9459866992",
+"tags": {
+"tourism": "viewpoint"
+}
+}
+],
+"Mirador de la Barca de la Mejana": [
+{
+"lat": 41.4280782,
+"lon": -0.4651966,
+"id": "node/11446373416",
+"tags": {
+"tourism": "viewpoint"
+}
+}
+],
+"Fuente de El Embarcadero": [
+{
+"lat": 41.2957511,
+"lon": -0.3258703,
+"id": "node/13180415881",
+"tags": {
+"amenity": "drinking_water"
+}
+}
+],
+"Mirador de San Gregorio": [
+{
+"lat": 41.500905,
+"lon": -0.49048,
+"id": "node/13385712322",
+"tags": {
+"tourism": "viewpoint"
+}
+}
+],
+"Central Termoeléctrica del Ebro Escatrón-Los Fayos": [
+{
+"lat": 41.2977365,
+"lon": -0.338323,
+"id": "way/127787664",
+"tags": {
+"power": "plant"
+}
+}
+],
+"Calle Moreno Torres": [
+{
+"lat": 41.4255385,
+"lon": -0.4960264,
+"id": "way/268423617",
+"tags": {}
+}
+],
+"Calle Nuestra Señora de Matamala": [
+{
+"lat": 41.429306,
+"lon": -0.5008664,
+"id": "way/296585264",
+"tags": {}
+}
+],
+"Calle San Antón": [
+{
+"lat": 41.4232385,
+"lon": -0.4956267,
+"id": "way/296585271",
+"tags": {}
+},
+{
+"lat": 41.4232071,
+"lon": -0.496059,
+"id": "way/296585272",
+"tags": {}
+}
+],
+"Embarcadero Cinco Olivas": [
+{
+"lat": 41.340919,
+"lon": -0.3735962,
+"id": "way/375232974",
+"tags": {
+"man_made": "pier"
+}
+}
+],
+"Molino Aceitero": [
+{
+"lat": 41.3409099,
+"lon": -0.3731093,
+"id": "way/375234224",
+"tags": {
+"building": "yes"
+}
+}
+],
+"Camino de la Barca": [
+{
+"lat": 41.3371896,
+"lon": -0.3667714,
+"id": "way/375236491",
+"tags": {}
+},
+{
+"lat": 41.4903733,
+"lon": -0.5326044,
+"id": "way/490667123",
+"tags": {}
+},
+{
+"lat": 41.3385404,
+"lon": -0.370797,
+"id": "way/1359144856",
+"tags": {}
+}
+],
+"Calle del Embarcadero": [
+{
+"lat": 41.3405862,
+"lon": -0.3718489,
+"id": "way/375240287",
+"tags": {}
+}
+],
+"Ermita de San Nicolás de Bari": [
+{
+"lat": 41.37424,
+"lon": -0.4364655,
+"id": "way/385272881",
+"tags": {
+"addr:housenumber": "10",
+"addr:street": "San Nicolás",
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Calle Portal del Pino": [
+{
+"lat": 41.4845528,
+"lon": -0.5307321,
+"id": "way/385497412",
+"tags": {}
+}
+],
+"Ermita del Pilar": [
+{
+"lat": 41.3104678,
+"lon": -0.3755459,
+"id": "way/404221018",
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Carretera de la Central Térmica": [
+{
+"lat": 41.2858587,
+"lon": -0.3264446,
+"id": "way/404573982",
+"tags": {}
+}
+],
+"Calle San Antonio": [
+{
+"lat": 41.2836763,
+"lon": -0.3288873,
+"id": "way/404576067",
+"tags": {}
+}
+],
+"Calle de la Barca": [
+{
+"lat": 41.3348302,
+"lon": -0.3562591,
+"id": "way/406839031",
+"tags": {}
+},
+{
+"lat": 41.3295975,
+"lon": -0.3852116,
+"id": "way/957225837",
+"tags": {}
+},
+{
+"lat": 41.4062189,
+"lon": -0.4620869,
+"id": "way/957614342",
+"tags": {}
+},
+{
+"lat": 41.4057694,
+"lon": -0.4627216,
+"id": "way/1316155386",
+"tags": {}
+},
+{
+"lat": 41.4060858,
+"lon": -0.462236,
+"id": "way/1350326570",
+"tags": {}
+}
+],
+"Calle de San Antón": [
+{
+"lat": 41.3345684,
+"lon": -0.3568201,
+"id": "way/406839041",
+"tags": {}
+},
+{
+"lat": 41.3745454,
+"lon": -0.4373109,
+"id": "way/957482096",
+"tags": {}
+}
+],
+"Castillo de Matamala": [
+{
+"lat": 41.3964734,
+"lon": -0.4761705,
+"id": "way/410927163",
+"tags": {
+"historic": "castle"
+}
+}
+],
+"Calle Portal San Vicente": [
+{
+"lat": 41.3205959,
+"lon": -0.3563857,
+"id": "way/424362274",
+"tags": {}
+}
+],
+"Central Electrica de Menuza": [
+{
+"lat": 41.2858736,
+"lon": -0.3682881,
+"id": "way/453031234",
+"tags": {
+"power": "generator"
+}
+}
+],
+"Embarcadero de Escatrón": [
+{
+"lat": 41.2958567,
+"lon": -0.3255085,
+"id": "way/456122078",
+"tags": {
+"man_made": "pier"
+}
+}
+],
+"Molino de Regolfo": [
+{
+"lat": 41.5125795,
+"lon": -0.5444904,
+"id": "way/456412684",
+"tags": {
+"building": "industrial"
+}
+}
+],
+"Camino a Torre optica de Matamala": [
+{
+"lat": 41.3732452,
+"lon": -0.4686338,
+"id": "way/461007072",
+"tags": {}
+}
+],
+"Ermita de Nuestra Señora del Buen Suceso": [
+{
+"lat": 41.4112333,
+"lon": -0.4555557,
+"id": "way/478882883",
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Ermita de San Gregorio": [
+{
+"lat": 41.5001947,
+"lon": -0.4926098,
+"id": "way/499171884",
+"tags": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Calle del Molino": [
+{
+"lat": 41.4057512,
+"lon": -0.4608254,
+"id": "way/503818945",
+"tags": {}
+}
+],
+"Azud de Quiones": [
+{
+"lat": 41.4331907,
+"lon": -0.494921,
+"id": "way/548345466",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Ermita de Nuestra Señora de Bonastre": [
+{
+"lat": 41.470264,
+"lon": -0.5505945,
+"id": "way/738599405",
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Casa Palacio": [
+{
+"lat": 41.4228511,
+"lon": -0.4961451,
+"id": "way/741211012",
+"tags": {
+"building": "yes",
+"historic": "manor"
+}
+}
+],
+"Calle Portal Zaragoza": [
+{
+"lat": 41.3214044,
+"lon": -0.3567926,
+"id": "way/832521538",
+"tags": {}
+}
+],
+"Ermita de Santa Águeda": [
+{
+"lat": 41.2918266,
+"lon": -0.3257203,
+"id": "way/954324192",
+"tags": {
+"addr:housenumber": "11",
+"addr:street": "Cuesta de Santa Águeda",
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Cuesta del Arco de Santa Águeda": [
+{
+"lat": 41.2910672,
+"lon": -0.3240776,
+"id": "way/956416781",
+"tags": {}
+}
+],
+"Cuesta de Santa Águeda": [
+{
+"lat": 41.2917832,
+"lon": -0.32514,
+"id": "way/956416782",
+"tags": {}
+}
+],
+"Camino del Molino": [
+{
+"lat": 41.3344088,
+"lon": -0.3586088,
+"id": "way/956666886",
+"tags": {}
+}
+],
+"Ermita de San José": [
+{
+"lat": 41.3738017,
+"lon": -0.4304534,
+"id": "way/957522844",
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 41.3356792,
+"lon": -0.3705024,
+"id": "way/1009738949",
+"tags": {
+"amenity": "place_of_worship",
+"building": "chapel",
+"religion": "christian"
+}
+}
+],
+"Camino de la Barca Vieja": [
+{
+"lat": 41.4058814,
+"lon": -0.4651524,
+"id": "way/957614338",
+"tags": {}
+}
+],
+"Tanatorio Municipal \"Francisca de la Torre\"": [
+{
+"lat": 41.4042107,
+"lon": -0.4603691,
+"id": "way/957632692",
+"tags": {
+"building": "yes"
+}
+}
+],
+"Mirador de Alforque": [
+{
+"lat": 41.3368072,
+"lon": -0.3712722,
+"id": "way/1009736115",
+"tags": {
+"building": "yes",
+"man_made": "observatory"
+}
+}
+],
+"Central Hidroelectrica de Sástago I": [
+{
+"lat": 41.3193502,
+"lon": -0.3579551,
+"id": "way/1018530177",
+"tags": {
+"power": "plant"
+}
+}
+],
+"Azud de Montler": [
+{
+"lat": 41.3234598,
+"lon": -0.3518962,
+"id": "way/1018553561",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Azud de Alborgue": [
+{
+"lat": 41.3426906,
+"lon": -0.3609026,
+"id": "way/1018553562",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Molino de Alborge": [
+{
+"lat": 41.3386882,
+"lon": -0.359694,
+"id": "way/1018553563",
+"tags": {
+"building": "yes",
+"man_made": "watermill"
+}
+}
+],
+"Azud Cinco Olivas": [
+{
+"lat": 41.328091,
+"lon": -0.3739964,
+"id": "way/1018553566",
+"tags": {
+"waterway": "weir"
+}
+},
+{
+"lat": 41.3302086,
+"lon": -0.3715812,
+"id": "way/1018553567",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Molino Cinco Olivas": [
+{
+"lat": 41.3305847,
+"lon": -0.3712893,
+"id": "way/1018553568",
+"tags": {
+"building": "yes",
+"man_made": "watermill"
+}
+}
+],
+"Azud de Alforque": [
+{
+"lat": 41.3300473,
+"lon": -0.3946136,
+"id": "way/1018553569",
+"tags": {
+"waterway": "weir"
+}
+},
+{
+"lat": 41.3293612,
+"lon": -0.3908281,
+"id": "way/1018553571",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Molino de alforque": [
+{
+"lat": 41.3285825,
+"lon": -0.3890632,
+"id": "way/1018553570",
+"tags": {
+"building": "yes",
+"man_made": "watermill"
+}
+}
+],
+"Molino de la Zaida": [
+{
+"lat": 41.3486474,
+"lon": -0.4385862,
+"id": "way/1018553572",
+"tags": {
+"building": "yes",
+"man_made": "watermill"
+}
+}
+],
+"Azud de Pardinas": [
+{
+"lat": 41.3186628,
+"lon": -0.3441938,
+"id": "way/1018553573",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Azud de La Zaida": [
+{
+"lat": 41.3525675,
+"lon": -0.4381166,
+"id": "way/1018553574",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Azud de los Angeles": [
+{
+"lat": 41.3843694,
+"lon": -0.4578631,
+"id": "way/1018556902",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Azud de Rasal del Molino": [
+{
+"lat": 41.4220631,
+"lon": -0.4674424,
+"id": "way/1018556907",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Azud del 27": [
+{
+"lat": 41.4325827,
+"lon": -0.4702003,
+"id": "way/1018556908",
+"tags": {
+"waterway": "weir"
+}
+}
+],
+"Torre Iglesia de Asunción": [
+{
+"lat": 41.4872153,
+"lon": -0.5327483,
+"id": "way/1530378155",
+"tags": {
+"man_made": "tower"
+}
+}
+],
+"Vinaceite": [
+{
+"lat": 41.2751159,
+"lon": -0.5817724,
+"id": "relation/348202",
+"tags": {}
+}
+],
+"Vinaceite-Almochuel": [
+{
+"lat": 41.273604,
+"lon": -0.5637571,
+"id": "relation/5687251",
+"tags": {}
+}
+],
+"Vinaceite-Híjar": [
+{
+"lat": 41.2329877,
+"lon": -0.5093024,
+"id": "relation/18705902",
+"tags": {}
+}
+],
+"Híjar-Vinaceite": [
+{
+"lat": 41.2329877,
+"lon": -0.5093024,
+"id": "relation/18705904",
+"tags": {}
+}
+]
+}
+}
