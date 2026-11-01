@@ -43,3 +43,6 @@ puente-ballobar-g3|Ballobar - Puente medieval sobre el río Alcanadre (07).jpg
 iglesia-belver|Belver de Cinca Huesca (1)-01.jpg
 iglesia-belver-g1|Belver de Cinca Huesca (3)-01.jpg
 iglesia-belver-g2|Belver de Cinca Huesca (7)-01.jpg
+x-castillo-torrente|Iglesia de Santa María Magdalen de Torrente de Cinca, Huesca.jpg
+x-torre-frailes|Torre dels Frares, Fraga (el Baix Cinca, Aragó, Espanya).jpg
+x-torre-frailes-1|Fraga, Torre dels Frares.jpg

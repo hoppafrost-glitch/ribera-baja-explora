@@ -47,3 +47,5 @@ necropolis-lobera|Lobera de Onsella (Zaragoza) 001.jpg
 necropolis-lobera-g1|Lobera de Onsella (Zaragoza) 004.jpg
 necropolis-lobera-g2|Lobera de Onsella (Zaragoza) 009.jpg
 necropolis-lobera-g3|Lobera de Onsella (Zaragoza) 010.jpg
+x-ermita-san-anton-pintano|Pintano 386.jpg
+x-san-nicolas-el-frago|Burgos - Iglesia de San Nicolás de Bari 08.jpg

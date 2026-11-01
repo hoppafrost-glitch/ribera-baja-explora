@@ -35,3 +35,4 @@ aerodromo-plenas|Arquitectura popular, municipio de Plenas, altura 810 m., provi
 aerodromo-plenas-g1|Ayuntamiento del municipio de Plenas, Campo de Belchite, Zaragoza.jpg
 aerodromo-plenas-g2|Ayuntamiento del municipio de Plenas, provincia de Zaragoza.jpg
 aerodromo-plenas-g3|Calle Baja y Ayuntamiento del municipio de Plenas, Campo de Belchite, Zaragoza.jpg
+x-posiciones-saso|Ruinas de Belchite, provincia de Zaragoza (España).jpg

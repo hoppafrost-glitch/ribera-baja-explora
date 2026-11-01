@@ -43,3 +43,6 @@ pinsapar-orcajo-g1|Sala Ángel Orcajo del Centro Cultural Tamara Rojo.jpg
 hoces-rio-piedra|Hoces de Torralba, río Piedra 01.jpg
 hoces-rio-piedra-g1|Hoces de Torralba, río Piedra 02.jpg
 hoces-rio-piedra-g2|Hoces del Río Piedra.jpg
+x-aguallueve|Auguapleve de Anento.jpg
+x-aguallueve-1|Paret de l'auguapleve d'Anento.jpg
+x-laguna-guialguerrero|Vista de Cubel, Zaragoza, España, 2015-09-17, JD 01.JPG

@@ -27,3 +27,9 @@ santa-ana-ejulve|The Silent Route, ruta del silencio, carretera A-1702, Ejulve, 
 santa-ana-ejulve-g1|The Silent Route, carretera panorámica A-1702, Teruel.jpg
 santa-ana-ejulve-g2|The Silent Route, la ruta del silencio, carretera panorámica A-1702 en Teruel.jpg
 santa-ana-ejulve-g3|The Silent Route, la ruta del silencio, son los nombres que recibe la carretera panorámica A-1702.jpg
+x-arte-rupestre-alacon|Parque Cultural del Rio Martín, patrimonio de los pueblos de Alacón, Albalate del Arzobispo, Alcaine, Ariño, Montalbán, Obón y Oliete.jpg
+x-balneario-arino|Ariño T09.JPG
+x-cueva-foradada|Oliete TE 12.JPG
+x-el-cabo|Municipio de Gargallo (Teruel).jpg
+x-majalinontes|Gargallo62.JPG
+x-pasarelas-escuriza|Vista Alloza.jpg
