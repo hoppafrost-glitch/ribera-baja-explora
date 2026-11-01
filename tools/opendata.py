@@ -1,5 +1,12 @@
 """Descarga el Registro de Turismo de Aragón (datos abiertos) y se queda con la Comarca Ribera Baja del Ebro."""
 import csv, io, json, os, time, unicodedata, urllib.request, urllib.parse
+COMARCAS = {"ribera-baja": ["ribera baja"], "campo-de-belchite": ["belchite"], "andorra-sierra-de-arcos": ["andorra"], "campo-de-daroca": ["daroca"], "cinco-villas": ["cinco villas"], "bajo-cinca": ["bajo cinca", "baix cinca"]}
+def which(com, mun):
+    c = n(com)
+    for k, ws in COMARCAS.items():
+        if any(w in c for w in ws): return k
+    if "mequinenza" in n(mun): return "bajo-cinca"
+    return None
 MUNIS = ["Alborge","Alforque","Cinco Olivas","Escatrón","Gelsa","La Zaida","Zaida (La)","Pina de Ebro","Quinto","Sástago","Velilla de Ebro"]
 def n(s): return unicodedata.normalize("NFD", (s or "").lower()).encode("ascii","ignore").decode()
 NM = {n(m) for m in MUNIS} | {"zaida, la", "zaida"}
@@ -27,7 +34,9 @@ for rid, typ in RES.items():
         blob = " | ".join(str(v) for v in r.values())
         mun = r.get("localidad_establecimiento") or next((r[k] for k in r if k and "municipio" in k.lower()), "") or ""
         com = next((r[k] for k in r if k and "comarca" in k.lower()), "") or ""
-        if n(mun) in NM or "ribera baja" in n(com):
+        k = which(com, mun)
+        if k:
+            r["_comarca"] = k
             r = {k: v for k, v in r.items() if k and not any(x in k.lower() for x in ("telef","fax","mail","correo","movil","web","titular","nif","cif"))}
             keep.append(r)
     print("  comarca:", len(keep), file=log)
@@ -39,9 +48,10 @@ for rid, typ in RES.items():
     time.sleep(1)
 # geocodificar
 for o in out:
+    if o.get("type") == "restaurante": continue
     addr = next((o[k] for k in o if k and "direccion" in k.lower()), "")
     mun = o.get("localidad_establecimiento") or next((o[k] for k in o if k and "municipio" in k.lower()), "")
-    q = f"{addr}, {mun}, Zaragoza, España"
+    q = f"{addr}, {mun}, España"
     if not mun: continue
     try:
         u = "https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode({"q":q,"format":"json","limit":1,"countrycodes":"es"})
@@ -50,5 +60,7 @@ for o in out:
     except Exception as e:
         print("geo", q, e, file=log)
     time.sleep(1.2)
-json.dump(out, open("tools/opendata/negocios.json","w"), ensure_ascii=False, indent=1)
+json.dump([o for o in out if o.get("_comarca") == "ribera-baja"], open("tools/opendata/negocios.json","w"), ensure_ascii=False, indent=1)
+for k in COMARCAS:
+    json.dump([o for o in out if o.get("_comarca") == k], open(f"tools/opendata/negocios-{k}.json","w"), ensure_ascii=False, indent=1)
 print("total", len(out), file=log)
