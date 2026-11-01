@@ -1,11 +1,12 @@
 /* Ribera Baja Explora: funciona sin conexión una vez abierta (y mejor tras "Descargar para usar sin conexión"). */
-const V = "rbx-v2";
+const PFX = "rbx-";
+const V = PFX + "v2", EXT = PFX + "ext";
 const CORE = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(V).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
 });
 self.addEventListener("activate", e => {
-  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== V && k !== "rbx-ext").map(k => caches.delete(k)))).then(() => self.clients.claim()));
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k.startsWith(PFX) && k !== V && k !== EXT).map(k => caches.delete(k)))).then(() => self.clients.claim()));
 });
 async function rangeResponse(req, res) {
   const range = req.headers.get("range");
@@ -51,7 +52,7 @@ self.addEventListener("fetch", e => {
     return;
   }
   // Recursos externos (tipografías, teselas del mapa): lo último que haya, y se refresca por detrás.
-  e.respondWith(caches.open("rbx-ext").then(async c => {
+  e.respondWith(caches.open(EXT).then(async c => {
     const hit = await c.match(req);
     const net = fetch(req).then(r => { if (r && (r.ok || r.type === "opaque")) c.put(req, r.clone()); return r; }).catch(() => hit);
     return hit || net;

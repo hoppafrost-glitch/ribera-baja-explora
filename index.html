@@ -3320,7 +3320,8 @@ if(!window.L){var mw=document.getElementById("mapwrap");if(mw) mw.innerHTML='<di
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>Array.from(r.querySelectorAll(s));
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const LANGS=[["es","ES","es-ES"],["en","EN","en-GB"],["fr","FR","fr-FR"],["de","DE","de-DE"],["pt","PT","pt-PT"]];
-const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+const SP=(DATA&&DATA.storePrefix)||"";
+const store={get(k){try{return localStorage.getItem(SP+k)}catch(e){return null}},set(k,v){try{localStorage.setItem(SP+k,v)}catch(e){}}};
 let lang=store.get("rbx-lang")||((navigator.language||"es").slice(0,2));
 if(!LANGS.some(l=>l[0]===lang)) lang="es";
 const t=(k,vars)=>{let s=(I18N[lang]&&I18N[lang][k])??I18N.es[k]??k; if(vars) for(const v in vars) s=s.replace("{"+v+"}",vars[v]); return s;};
@@ -3359,18 +3360,19 @@ let toastT;function toast(msg){let el=$(".toast");if(!el){el=document.createElem
 
 /* ---------- map ---------- */
 const map=L.map("map",{zoomControl:true,attributionControl:true,minZoom:9,maxZoom:18,zoomSnap:.25,
-  maxBounds:[[40.85,-1.2],[41.95,0.45]],maxBoundsViscosity:.8,preferCanvas:false});
+  maxBounds:DATA.maxBounds||[[40.85,-1.2],[41.95,0.45]],maxBoundsViscosity:.8,preferCanvas:false});
 map.attributionControl.setPrefix(false);
-const baseAttr='Límites municipales: IGN-CNIG';
+const baseAttr=DATA.baseAttr||'Límites municipales: IGN-CNIG';
 map.attributionControl.addAttribution(baseAttr);
 const panes={};["base","river","routes","labels"].forEach((n,i)=>{panes[n]=map.createPane(n);panes[n].style.zIndex=350+i*10;});
 panes.stops=map.createPane("stops");panes.stops.style.zIndex=650;panes.stops.style.pointerEvents="none";
 panes.labels.style.pointerEvents="none";
 const muniLayers={};
-const baseLayer=L.geoJSON(BASE,{pane:"base",interactive:false,filter:f=>!f.properties.river,
+const HASBASE=!!(BASE&&BASE.features&&BASE.features.length);
+const baseLayer=L.geoJSON(HASBASE?BASE:{type:"FeatureCollection",features:[]},{pane:"base",interactive:false,filter:f=>!f.properties.river,
   style:f=>f.properties.outline?{className:"comarca-outline",fill:false}:{className:"muni"+(f.properties.c?"":" out")},
   onEachFeature:(f,l)=>{if(f.properties.c) muniLayers[f.properties.n]=l;}}).addTo(map);
-const riverFeat=BASE.features.find(f=>f.properties.river);
+const riverFeat=HASBASE?BASE.features.find(f=>f.properties.river):null;
 if(riverFeat){
   const ll=riverFeat.geometry.coordinates.map(c=>[c[1],c[0]]);
   L.polyline(ll,{pane:"river",className:"river-halo",interactive:false,smoothFactor:1}).addTo(map);
@@ -3379,9 +3381,11 @@ if(riverFeat){
 // town & context labels
 TOWNS.forEach(tw=>L.marker([tw.lat,tw.lon],{pane:"labels",interactive:false,keyboard:false,icon:L.divIcon({className:"",html:`<span class="town-label${tw.minor?" minor":""}">${esc(tw.name)}</span>`,iconSize:null})}).addTo(map));
 (DATA.context||[]).forEach(tw=>L.marker([tw.lat,tw.lon],{pane:"labels",interactive:false,keyboard:false,icon:L.divIcon({className:"",html:`<span class="town-label out">${esc(tw.name)}</span>`,iconSize:null})}).addTo(map));
-if(DATA.riverLabel) L.marker(DATA.riverLabel,{pane:"labels",interactive:false,keyboard:false,icon:L.divIcon({className:"",html:'<span class="river-label">EBRO</span>',iconSize:null})}).addTo(map);
+if(DATA.riverLabel) L.marker(DATA.riverLabel,{pane:"labels",interactive:false,keyboard:false,icon:L.divIcon({className:"",html:`<span class="river-label">${esc(DATA.riverName||"EBRO")}</span>`,iconSize:null})}).addTo(map);
 
-const homeBounds=baseLayer.getLayers().find(l=>l.feature.properties.outline).getBounds();
+const homeBounds=(()=>{if(DATA.fitPois) return L.latLngBounds(POIS.map(p=>[p.lat,p.lon]).concat(TOWNS.filter(t=>!t.minor).map(t=>[t.lat,t.lon]))).pad(0.08);
+  if(HASBASE){const o=baseLayer.getLayers().find(l=>l.feature.properties.outline);return (o||baseLayer).getBounds();}
+  return L.latLngBounds(POIS.map(p=>[p.lat,p.lon])).pad(0.15);})();
 map.fitBounds(homeBounds,{padding:[16,16]});
 map.setMaxZoom(15);
 
@@ -3400,13 +3404,13 @@ function setBasemap(k,silent){
   const def=TILES[k]; let ok=0,bad=0,decided=false;
   tileLayer=L.tileLayer(def.url,def.opt);
   tileLayer.on("tileload",()=>{ok++; if(!decided){decided=true;$("#map").classList.add("tiles-on");}});
-  tileLayer.on("tileerror",()=>{bad++; if(!decided&&bad>=3){decided=true;map.removeLayer(tileLayer);tileLayer=null;state.basemap="ilustrado";map.setMaxZoom(15);$("#map").classList.remove("tiles-on");$$(".layerbox button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.k==="ilustrado")));if(!silent) toast(t("tilesBlocked"));}});
+  tileLayer.on("tileerror",()=>{bad++; if(!decided&&bad>=3&&HASBASE){decided=true;map.removeLayer(tileLayer);tileLayer=null;state.basemap="ilustrado";map.setMaxZoom(15);$("#map").classList.remove("tiles-on");$$(".layerbox button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.k==="ilustrado")));if(!silent) toast(t("tilesBlocked"));}});
   tileLayer.addTo(map); tileLayer.bringToBack();
 }
 const isPhone=()=>!!(window.matchMedia&&window.matchMedia("(max-width:760px)").matches);
 const PHONE=window.matchMedia&&window.matchMedia("(max-width:760px)").matches;
 const LayerCtl=L.Control.extend({options:{position:PHONE?"bottomleft":"topright"},onAdd(){const d=L.DomUtil.create("div","layerbox");L.DomEvent.disableClickPropagation(d);
-  d.innerHTML=["mapa","ortofoto","ilustrado"].map(k=>`<button type="button" data-k="${k}" aria-pressed="${k===state.basemap}"></button>`).join("");
+  d.innerHTML=["mapa","ortofoto"].concat(HASBASE?["ilustrado"]:[]).map(k=>`<button type="button" data-k="${k}" aria-pressed="${k===state.basemap}"></button>`).join("");
   d.addEventListener("click",e=>{const b=e.target.closest("button");if(b) setBasemap(b.dataset.k);});return d;}});
 map.addControl(new LayerCtl());
 const LegendCtl=L.Control.extend({options:{position:"bottomright"},onAdd(){const d=L.DomUtil.create("div","legend");d.id="legend";return d;}});
@@ -3865,7 +3869,7 @@ async function unlockToken(pass){
   try{const pt=await crypto.subtle.decrypt({name:"AES-GCM",iv:bu(PUBCFG.iv)},await pbk(pass,bu(PUBCFG.salt),PUBCFG.it||310000),bu(PUBCFG.ct));return new TextDecoder().decode(pt);}
   catch(e){throw new Error("pass");}}
 async function ghPut(tok,path,text,message){const P=DATA.publish||{};if(!P.repo) throw new Error("sin repositorio");
-  const api=`https://api.github.com/repos/${P.repo}/contents/${path}`;const br=P.branch||"main";
+  const api=`https://api.github.com/repos/${P.repo}/contents/${(P.path||"")+path}`;const br=P.branch||"main";
   const h={Authorization:"Bearer "+tok,Accept:"application/vnd.github+json","X-GitHub-Api-Version":"2022-11-28"};
   let sha;const g=await fetch(api+"?ref="+br,{headers:h,cache:"no-store"});if(g.ok) sha=(await g.json()).sha; else if(g.status!==404) throw new Error("HTTP "+g.status);
   const body={message,content:b64utf8(text),branch:br};if(sha) body.sha=sha;
@@ -4043,7 +4047,7 @@ map.on("zoomend",zoomClasses);zoomClasses();
 
 /* ---------- cover ---------- */
 function showCover(){
-  let seen=false;try{seen=sessionStorage.getItem("rbx-cover")==="1";}catch(e){}
+  let seen=false;try{seen=sessionStorage.getItem(SP+"rbx-cover")==="1";}catch(e){}
   if(seen) return;
   const c=$("#cover");const key=DATA.coverPhoto||"rueda";const ph=PH[key];
   const draw=()=>{c.innerHTML=`${phHTML(key,"patrimonio",1280)}<div class="shade"></div>
@@ -4057,7 +4061,7 @@ function showCover(){
   draw();c.hidden=false;
   setTimeout(()=>{const g=$("#c-go");if(g) g.focus();},50);
 }
-function hideCover(tab){const c=$("#cover");c.hidden=true;c.innerHTML="";try{sessionStorage.setItem("rbx-cover","1");}catch(e){}
+function hideCover(tab){const c=$("#cover");c.hidden=true;c.innerHTML="";try{sessionStorage.setItem(SP+"rbx-cover","1");}catch(e){}
   if(tab&&tab!==state.tab) setTab(tab);setTimeout(()=>map.invalidateSize(),30);}
 document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("#cover").hidden) hideCover();});
 
