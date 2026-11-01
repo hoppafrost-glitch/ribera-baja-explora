@@ -1,0 +1,19 @@
+name: Fotos extra
+on:
+  push:
+    paths: ["tools/clientes/extra.json", "tools/clientes/extra.py", ".github/workflows/clientes-extra.yml"]
+permissions:
+  contents: write
+jobs:
+  x:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/clientes/extra.py
+      - if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/clientes/extra && git commit -m "Candidatas de fotos extra" || exit 0
+          for i in 1 2 3 4 5 6 7 8; do git pull --rebase -q && git push && break; sleep 7; done
