@@ -3,7 +3,7 @@ portal-sanroque|Municipio de Quinto. Portal de San Roque (Zaragoza).jpg
 quinto-camino|Iglesia parroquial de Quinto.JPG
 hero-quinto|Panorámica de Quinto.JPG
 pina-convento|Church and cloister of the ancient franciscan convent, Pina de Ebro 01.jpg
-pina-durruti|Pina de Ebro 06.jpg
+pina-durruti|Pina de Ebro 05.jpg
 gelsa-sanpedro|Gelsa - Iglesia de San Pedro Apóstol 02.jpg
 gelsa-cubiertos|GelsaCubiertos.jpg
 celsa|Lepida-Celsa - Calle.jpg
@@ -13,7 +13,7 @@ velilla-asuncion|Velilla de Ebro - Iglesia de la Asunción 01.jpg
 zaida-sanjose|La Zaida, Zaragoza, España, 2015-12-23, DD 52.JPG
 alforque-sanpedro|Municipio de Alforque, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 cincoolivas-santiago|Cinco Olivas, Zaragoza, España, 2015-12-23, DD 49.JPG
-alborge-sanlorenzo|Alborge, Zaragoza, España, 2015-12-23, DD 46.JPG
+alborge-sanlorenzo|Alborge - San Lorenzo Cam.Eras San Lorenzo-C.Barrio Nuevo.jpg
 sastago-pilar|Sástago, Zaragoza, España, 2015-12-23, DD 39.JPG
 sastago-meandros|Municipio de Sástago y aguas del río Ebro, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 sastago-tambor|Torre del Tambor y puente sobre el Ebro, Sástago, Zaragoza, España, 2015-12-23, DD 40.jpg
@@ -35,6 +35,17 @@ gelsa-barca|Gelsa - Plaza Mayor - Mercadillo.jpg
 sastago-fortin|Fortín, Sástago, Zaragoza, España, 2015-12-23, DD 47.jpg
 montler|Sástago, Zaragoza, España, 2015-12-23, DD 28.JPG
 escatron-sfjavier|Iglesia de San Javier (Escatrón).JPG
+velilla-noria|Velilla de Ebro - Conjunto hidráulico 01.jpg
+velilla-zapata|Velilla de Ebro - Plaza de la Iglesia - Casa de los Zapata 01.jpg
+quinto-sananton|Portal de San Antón, Quinto.jpg
+escatron-santaagueda|Ermita de Santa Aguedica.JPG
+sastago-central|Nave de la central hidroeléctrica, Sástago, Zaragoza, España, 2015-12-23, DD 45.jpg
+pina-torrevieja|Pina de Ebro 06.jpg
+escatron-palacio|Escatrón- calles 05.jpg
+alforque-azud|Alforque, Zaragoza, España, 2015-12-23, DD 51.JPG
+alborge-molino|Alborge, Zaragoza, España, 2015-12-23, DD 46.JPG
+cincoolivas-almazara|Municipio de Cinco Olivas, comarca de la Ribera Baja del Ebro, provincia de Zaragoza.jpg
+sastago-palma|Sastago.jpg
 piquete-g1|Quinto Nuestra Señora de la Asunción.JPG
 piquete-g2|Museo de las Momias en la iglesia de Nuestra Sra. de la Asunción.jpg
 piquete-g3|Museo De las Momias de Quinto.jpg
@@ -49,9 +60,7 @@ pina-convento-g2|Church and cloister of the ancient franciscan convent, Pina de 
 pina-convento-g3|Church and cloister of the ancient franciscan convent, Pina de Ebro 05.jpg
 pina-convento-g4|Church of El Salvador, Pina de Ebro 01.jpg
 pina-convento-g5|Church of El Salvador, Pina de Ebro 04.jpg
-pina-durruti-g1|Pina de Ebro 04.jpg
-pina-durruti-g2|Pina de Ebro 05.jpg
-pina-durruti-g3|Pina de Ebro 02.jpg
+pina-durruti-g1|Pina de Ebro 02.jpg
 gelsa-sanpedro-g1|Gelsa - Ayuntamiento 06.jpg
 gelsa-sanpedro-g2|Gelsa - Ayuntamiento 03.jpg
 celsa-g1|Colonia Victrix Iulia Celsa, Hispania Tarraconensis, Spain - 51959938268.jpg
@@ -78,7 +87,6 @@ velilla-asuncion-g4|Velilla de Ebro - Plaza de la Iglesia.jpg
 velilla-asuncion-g5|Velilla de Ebro - Vista general 02.jpg
 zaida-sanjose-g1|Municipio de La Zaida, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 zaida-sanjose-g2|Ayuntamiento de La Zaida, municipio de la comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
-alforque-sanpedro-g1|Alforque, Zaragoza, España, 2015-12-23, DD 51.JPG
 cincoolivas-santiago-g1|Iglesia de Santiago, municipio de Cinco Olivas, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 cincoolivas-santiago-g2|Iglesia de Santiago, municipio de Cinco Olivas, provincia de Zaragoza.jpg
 cincoolivas-santiago-g3|Ermita de San José, municipio Cinco Olivas, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
@@ -86,9 +94,8 @@ cincoolivas-santiago-g4|Municipio de Cinco Olivas, comarca Ribera Baja del Ebro,
 sastago-fortin-g1|Fortín, Sástago, Zaragoza, España, 2015-12-23, DD 48.jpg
 sastago-fortin-g2|Fortín, Sástago, Zaragoza, España, 2015-12-23, DD 50.jpg
 sastago-fortin-g3|El Fortín de Sástago (del siglo XIX), comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
-alborge-sanlorenzo-g1|Alborge - San Lorenzo Cam.Eras San Lorenzo-C.Barrio Nuevo.jpg
-alborge-sanlorenzo-g2|Alborge - Antiguo Molino de Aceite C.Molino-Almas 2.jpg
-alborge-sanlorenzo-g3|Alborge - Antiguo Molino de Aceite C.Molino-Almas 3.jpg
+alborge-sanlorenzo-g1|Alborge - Antiguo Molino de Aceite C.Molino-Almas 2.jpg
+alborge-sanlorenzo-g2|Alborge - Antiguo Molino de Aceite C.Molino-Almas 3.jpg
 sastago-meandros-g1|Panorámica de Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 sastago-meandros-g2|Término municipal Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
 sastago-meandros-g3|Panorámica del municipio de Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
@@ -124,3 +131,16 @@ saladas-g4|Salina de la Playa, Sástago, Zaragoza, España, 2015-12-23, DD 22-26
 saladas-g5|Liquenes de las Saladas de Bujaraloz (10760058183).jpg
 sastago-pilar-g1|Municipio de Sástago, comarca Ribera Baja del Ebro, provincia de Zaragoza, enero 2026.jpg
 gelsa-buensuceso-g1|Gelsa - Centro Cultural La Diezma.jpg
+velilla-noria-g1|Velilla de Ebro - Conjunto hidráulico 02.jpg
+velilla-noria-g2|Velilla de Ebro - Conjunto hidráulico 05.jpg
+velilla-noria-g3|Velilla de Ebro - Lavadero 03.jpg
+velilla-noria-g4|Velilla de Ebro - Lavadero 01.jpg
+velilla-zapata-g1|Velilla de Ebro - Plaza de la Iglesia - Casa de los Zapata 02.jpg
+escatron-santaagueda-g1|Escatrón - Ermita de Santa Águeda 01.jpg
+escatron-santaagueda-g2|Escatrón - Ermita de Santa Águeda 02.jpg
+escatron-santaagueda-g3|Escatrón - Ermita de Santa Águeda 05.jpg
+sastago-central-g1|Oficinas de la central hidroeléctrica, Sástago, Zaragoza, España, 2015-12-23, DD 42.jpg
+sastago-central-g2|Oficinas de la central hidroeléctrica, Sástago, Zaragoza, España, 2015-12-23, DD 43.jpg
+sastago-central-g3|Edificio modernista (de 1908), central hidroeléctrica de Sástago. Arquitecto Francisco Solà Gené.jpg
+pina-torrevieja-g1|Pina de Ebro 04.jpg
+cincoolivas-almazara-g1|Municipio Cinco Olivas, comarca Ribera Baja del Ebro, provincia de Zaragoza.jpg
