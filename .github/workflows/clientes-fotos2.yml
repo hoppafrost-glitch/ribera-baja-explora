@@ -1,0 +1,26 @@
+name: Fotos amplias
+on:
+  push:
+    paths: ["tools/clientes/in2.json", "tools/clientes/fotos2.py", ".github/workflows/clientes-fotos2.yml"]
+permissions:
+  contents: write
+concurrency:
+  group: fotos2
+  cancel-in-progress: true
+jobs:
+  f:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        slug: [campo-de-belchite, andorra-sierra-de-arcos, campo-de-daroca, cinco-villas, bajo-cinca]
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/clientes/fotos2.py ${{ matrix.slug }}
+      - if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/clientes/out tools/clientes/cand && git commit -m "Fotos candidatas (${{ matrix.slug }})" || exit 0
+          for i in 1 2 3 4 5 6 7 8 9 10; do git pull --rebase -q && git push && break; sleep $((RANDOM % 10 + 5)); done
