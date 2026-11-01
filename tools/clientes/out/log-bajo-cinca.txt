@@ -1,6 +1,3 @@
 == bajo-cinca
-  retry 0 https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
-  municipios 11 de 11 faltan: []
-  retry 0 https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
-  río ok 109
-  geo y fotos ya hechos
+  sin límites (no_base)
+  hecho (sin fotos) bajo-cinca

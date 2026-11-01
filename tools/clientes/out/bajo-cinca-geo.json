@@ -1,0 +1,925 @@
+{
+"villa-fortunatus": [
+{
+"q": "Villa Fortunatus, Fraga",
+"name": "Villa Fortunatus, A-1234, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5562598,
+"lon": 0.3185618,
+"type": "ruins",
+"cls": "building"
+},
+{
+"q": "Villa Fortunatus, Fraga",
+"name": "Villa Fortunatus, A-1234, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5562598,
+"lon": 0.3185618,
+"type": "ruins",
+"cls": "building"
+}
+],
+"san-pedro-fraga": [
+{
+"q": "Iglesia de San Pedro, Fraga",
+"name": "Iglesia de San Pedro / Església de Sant Pere, 1A, Plaza de San Pedro / Plaça de Sant Pere, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5222469,
+"lon": 0.3484888,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Plaza de San Pedro, Fraga",
+"name": "Plaza de San Pedro / Plaça de Sant Pere, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.522299,
+"lon": 0.3488294,
+"type": "square",
+"cls": "place"
+},
+{
+"q": "Plaza de San Pedro, Fraga",
+"name": "Plaza de San Pedro / Plaça de Sant Pere, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5222026,
+"lon": 0.3487649,
+"type": "living_street",
+"cls": "highway"
+},
+{
+"q": "Iglesia de San Pedro, Fraga",
+"name": "Iglesia de San Pedro / Església de Sant Pere, 1A, Plaza de San Pedro / Plaça de Sant Pere, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5222469,
+"lon": 0.3484888,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"castillo-fraga": [
+{
+"q": "Castillo de Fraga",
+"name": "Iglesia de San Miguel, Calle del Castillo, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5227932,
+"lon": 0.3513515,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Castillo, Fraga, Huesca",
+"name": "Parque del Castillo Ciudad de Fraga, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.5231855,
+"lon": 0.3522233,
+"type": "park",
+"cls": "leisure"
+},
+{
+"q": "Castillo, Fraga, Huesca",
+"name": "Calle del Castillo, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5227733,
+"lon": 0.3526076,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Castillo, Fraga, Huesca",
+"name": "Iglesia de San Miguel, Calle del Castillo, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5227932,
+"lon": 0.3513515,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Castillo, Fraga, Huesca",
+"name": "Castillo - Cementerio, Calle de los Obradores —el Revolt— / Carrer dels Obradors —lo Revolt—, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5231636,
+"lon": 0.355357,
+"type": "bus_stop",
+"cls": "highway"
+},
+{
+"q": "Castillo de Fraga, Fraga",
+"name": "Iglesia de San Miguel, Calle del Castillo, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5227932,
+"lon": 0.3513515,
+"type": "museum",
+"cls": "tourism"
+}
+],
+"palacio-montcada": [
+{
+"q": "Palacio Montcada, Fraga",
+"name": "Palacio Moncada, 12, Calle de San José de Calasanz;Carrer de Sant Josep de Calassanç, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5230785,
+"lon": 0.3488629,
+"type": "yes",
+"cls": "building"
+},
+{
+"q": "Biblioteca municipal, Fraga",
+"name": "Biblioteca Municipal, 12, Calle de San José de Calasanz;Carrer de Sant Josep de Calassanç, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5229809,
+"lon": 0.3488372,
+"type": "library",
+"cls": "amenity"
+},
+{
+"q": "Palacio Montcada, Fraga",
+"name": "Palacio Moncada, 12, Calle de San José de Calasanz;Carrer de Sant Josep de Calassanç, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5230785,
+"lon": 0.3488629,
+"type": "yes",
+"cls": "building"
+}
+],
+"casco-antiguo-fraga": [
+{
+"q": "Calle Mayor, Fraga",
+"name": "Calle Mayor, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.521967,
+"lon": 0.3492552,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Calle Mayor, Fraga",
+"name": "Calle Mayor, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5213559,
+"lon": 0.3495959,
+"type": "living_street",
+"cls": "highway"
+},
+{
+"q": "Atarazanas, Fraga",
+"name": "Atarazanas, Avenida de los Reyes Católicos / Avinguda dels Reis Catòlics, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.5250172,
+"lon": 0.3466162,
+"type": "bus_stop",
+"cls": "highway"
+},
+{
+"q": "Atarazanas, Fraga",
+"name": "Polígono Industrial Atarazanas, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.5258753,
+"lon": 0.3511774,
+"type": "industrial",
+"cls": "landuse"
+},
+{
+"q": "Atarazanas, Fraga",
+"name": "Plaza de las Atarazanas / Plaça de les Drassanes, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.5266494,
+"lon": 0.3471428,
+"type": "square",
+"cls": "place"
+}
+],
+"parque-estacada": [
+{
+"q": "La Pinada, Fraga",
+"name": "La Pinada, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.5413583,
+"lon": 0.3326335,
+"type": "park",
+"cls": "leisure"
+}
+],
+"torre-frailes": [
+{
+"q": "Torre de los Frailes, Fraga",
+"name": "Torre de los Frailes, N-211, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4947513,
+"lon": 0.3324172,
+"type": "tower",
+"cls": "man_made"
+},
+{
+"q": "Torre dels Frares, Fraga",
+"name": "Torre de los Frailes, N-211, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4947513,
+"lon": 0.3324172,
+"type": "tower",
+"cls": "man_made"
+},
+{
+"q": "Torre de los Frailes, Fraga",
+"name": "Torre de los Frailes, N-211, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4947513,
+"lon": 0.3324172,
+"type": "tower",
+"cls": "man_made"
+}
+],
+"pilaret-santa-quiteria": [
+{
+"q": "Torre del Pilaret, Fraga",
+"name": "Torre del Pilaret Santa Quiteria, A-1234, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España",
+"lat": 41.562216,
+"lon": 0.3171061,
+"type": "tower",
+"cls": "man_made"
+}
+],
+"valcuerna": [],
+"castillo-mequinenza": [
+{
+"q": "Castillo de Mequinenza",
+"name": "Castillo de Mequinenza / Castell de Mequinensa, Camino al Castillo de Mequinenza, Poblado de Viviendas E.N.H.E.R. / Poblat de vivendes de la E.N.H.E.R., Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3649676,
+"lon": 0.2964909,
+"type": "castle",
+"cls": "building"
+},
+{
+"q": "Castell de Mequinensa",
+"name": "Castillo de Mequinenza / Castell de Mequinensa, Camino al Castillo de Mequinenza, Poblado de Viviendas E.N.H.E.R. / Poblat de vivendes de la E.N.H.E.R., Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3649676,
+"lon": 0.2964909,
+"type": "attraction",
+"cls": "tourism"
+},
+{
+"q": "Castillo de Mequinenza, Mequinenza",
+"name": "Castillo de Mequinenza / Castell de Mequinensa, Camino al Castillo de Mequinenza, Poblado de Viviendas E.N.H.E.R. / Poblat de vivendes de la E.N.H.E.R., Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3649676,
+"lon": 0.2964909,
+"type": "castle",
+"cls": "building"
+}
+],
+"pueblo-viejo-mequinenza": [
+{
+"q": "Pueblo Viejo de Mequinenza",
+"name": "lo Poble Vell de Mequinensa, Carrer del Calvari, Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3621756,
+"lon": 0.2970501,
+"type": "ruins",
+"cls": "historic"
+},
+{
+"q": "Poble Vell de Mequinensa",
+"name": "lo Poble Vell de Mequinensa, Plaça d'Armes, Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3621756,
+"lon": 0.2970501,
+"type": "attraction",
+"cls": "tourism"
+},
+{
+"q": "Pueblo Viejo de Mequinenza, Mequinenza",
+"name": "lo Poble Vell de Mequinensa, Carrer del Calvari, Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3621756,
+"lon": 0.2970501,
+"type": "ruins",
+"cls": "historic"
+}
+],
+"museo-mina-mequinenza": [
+{
+"q": "Museo de la Mina, Mequinenza",
+"name": "Museu de la Mina, Avenida María Quintana, Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3615259,
+"lon": 0.2933291,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Museos de Mequinenza",
+"name": "Museu de la Mina, Avenida María Quintana, Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3615259,
+"lon": 0.2933291,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Museos de Mequinenza",
+"name": "Museu d'Història de Mequinensa, Avenida María Quintana / Avinguda María Quintana, Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3613579,
+"lon": 0.2926898,
+"type": "museum",
+"cls": "tourism"
+}
+],
+"aiguabarreig": [
+{
+"q": "Aiguabarreig, Mequinenza",
+"name": "Aiguabarreig, Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, España",
+"lat": 41.3616977,
+"lon": 0.3044079,
+"type": "nature_reserve",
+"cls": "leisure"
+}
+],
+"embalse-mequinenza": [
+{
+"q": "Embalse de Mequinenza",
+"name": "Embalse de Mequinenza, Caspe, Bajo Aragón-Caspe / Baix Aragó-Casp, Zaragoza, Aragón, España",
+"lat": 41.3398548,
+"lon": 0.09384,
+"type": "reservoir",
+"cls": "water"
+}
+],
+"camino-sirga-mequinenza": [
+{
+"q": "GR 99 Mequinenza",
+"name": "Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España",
+"lat": 41.3756807,
+"lon": 0.3042344,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"santa-maria-chalamera": [
+{
+"q": "Ermita de Santa María de Chalamera",
+"name": "Ermita Santa María de Chalamera, Acceso a ermita Santa Maria de Chalamera, Chalamera, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22410, España",
+"lat": 41.678771,
+"lon": 0.1500211,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Ermita de Santa María de Chalamera",
+"name": "Acceso a ermita Santa Maria de Chalamera, Chalamera, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22410, España",
+"lat": 41.6810073,
+"lon": 0.1491902,
+"type": "unclassified",
+"cls": "highway"
+},
+{
+"q": "Santa María de Chalamera",
+"name": "Ermita Santa María de Chalamera, Acceso a ermita Santa Maria de Chalamera, Chalamera, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22410, España",
+"lat": 41.678771,
+"lon": 0.1500211,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Santa María de Chalamera",
+"name": "Acceso a ermita Santa Maria de Chalamera, Chalamera, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22410, España",
+"lat": 41.6810073,
+"lon": 0.1491902,
+"type": "unclassified",
+"cls": "highway"
+},
+{
+"q": "Santa María de Chalamera, Chalamera",
+"name": "Ermita Santa María de Chalamera, Acceso a ermita Santa Maria de Chalamera, Chalamera, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22410, España",
+"lat": 41.678771,
+"lon": 0.1500211,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"sender-chalamera": [],
+"mirador-chalamera": [],
+"castillo-torrente": [
+{
+"q": "Castillo de Torrente de Cinca",
+"name": "Castillo de Torrente de Cinca, Calle Arrabal del Norte, Torrente de Cinca / Torrent de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4727979,
+"lon": 0.332671,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Castillo, Torrente de Cinca",
+"name": "Castillo de Torrente de Cinca, Calle Arrabal del Norte, Torrente de Cinca / Torrent de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4727979,
+"lon": 0.332671,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Castillo de Torrente de Cinca, Torrente de Cinca",
+"name": "Castillo de Torrente de Cinca, Calle Arrabal del Norte, Torrente de Cinca / Torrent de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4727979,
+"lon": 0.332671,
+"type": "castle",
+"cls": "historic"
+}
+],
+"san-salvador-torrente": [
+{
+"q": "San Salvador, Torrente de Cinca",
+"name": "San Salvador, Subida a San Salvador, Torrente de Cinca / Torrent de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.468525,
+"lon": 0.3195215,
+"type": "wayside_shrine",
+"cls": "historic"
+}
+],
+"iglesia-torrente": [
+{
+"q": "Iglesia de Santa María Magdalena, Torrente de Cinca",
+"name": "Iglesia Santa María Magdalena, Calle San Salvador, Torrente de Cinca / Torrent de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4728252,
+"lon": 0.3346325,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Plaza de la Iglesia, Torrente de Cinca",
+"name": "Plaza Autonomía de Aragón, Torrente de Cinca / Torrent de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4731371,
+"lon": 0.3347151,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Iglesia de Santa María Magdalena, Torrente de Cinca",
+"name": "Iglesia Santa María Magdalena, Plaza Autonomía de Aragón, Torrente de Cinca / Torrent de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4728252,
+"lon": 0.3346325,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"lavaderos-torrente": [
+{
+"q": "La Fonteta, Torrente de Cinca",
+"name": "Calle Fonteta, Torrente de Cinca / Torrent de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España",
+"lat": 41.4739593,
+"lon": 0.3380158,
+"type": "residential",
+"cls": "highway"
+}
+],
+"murallas-zaidin": [
+{
+"q": "Castillo de Zaidín",
+"name": "Castillo de Zaidín, A-1234, Zaidín / Saidí, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22530, España",
+"lat": 41.6041669,
+"lon": 0.262222,
+"type": "castle",
+"cls": "historic"
+}
+],
+"iglesia-zaidin": [
+{
+"q": "Iglesia de San Juan Bautista, Zaidín",
+"name": "Iglesia de San Juan Bautista, 2, Plaza de la Constitución, Zaidín / Saidí, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22530, España",
+"lat": 41.6044649,
+"lon": 0.2637304,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de San Juan Bautista, Zaidín",
+"name": "Iglesia de San Juan Bautista, 2, Plaza de la Constitución, Zaidín / Saidí, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22530, España",
+"lat": 41.6044649,
+"lon": 0.2637304,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"san-anton-zaidin": [
+{
+"q": "Ermita de San Antón, Zaidín",
+"name": "Ermita de San Antón, Avenida de San Antonio Abad, Zaidín / Saidí, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22530, España",
+"lat": 41.6121476,
+"lon": 0.2692654,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "San Antón, Zaidín",
+"name": "Ermita de San Antón, Avenida de San Antonio Abad, Zaidín / Saidí, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22530, España",
+"lat": 41.6121476,
+"lon": 0.2692654,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Ermita de San Antón, Zaidín",
+"name": "Ermita de San Antón, Avenida de San Antonio Abad, Zaidín / Saidí, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22530, España",
+"lat": 41.6121476,
+"lon": 0.2692654,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"san-valero-velilla": [],
+"iglesia-velilla": [
+{
+"q": "Iglesia de San Lorenzo, Velilla de Cinca",
+"name": "Iglesia de San Lorenzo, 1, Plaza de San Lorenzo, Velilla de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22528, España",
+"lat": 41.5866025,
+"lon": 0.2615724,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de San Lorenzo, Velilla de Cinca",
+"name": "Iglesia de San Lorenzo, 1, Plaza de San Lorenzo, Velilla de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22528, España",
+"lat": 41.5866025,
+"lon": 0.2615724,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"castellassos-velilla": [],
+"puente-ballobar": [],
+"iglesia-ballobar": [
+{
+"q": "Iglesia de la Asunción, Ballobar",
+"name": "Iglesia Parroquial de Nuestra Señora de la Asunción, Plaza de la Iglesia, Ballobar, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.6220806,
+"lon": 0.1912257,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia parroquial, Ballobar",
+"name": "Iglesia Parroquial de Nuestra Señora de la Asunción, Plaza de la Iglesia, Ballobar, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.6220806,
+"lon": 0.1912257,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"san-juan-ballobar": [],
+"iglesia-belver": [],
+"casas-belver": [
+{
+"q": "Calle Mayor, Belver de Cinca",
+"name": "Calle Mayor, Belver de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.689391,
+"lon": 0.178538,
+"type": "residential",
+"cls": "highway"
+}
+],
+"iglesia-osso": [],
+"casa-mora-osso": [
+{
+"q": "Ayuntamiento de Osso de Cinca",
+"name": "Ayuntamiento de Osso de Cinca, 5, Calle Mayor, Osso de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.6655528,
+"lon": 0.1914696,
+"type": "townhall",
+"cls": "amenity"
+}
+],
+"iglesia-ontinena": [],
+"san-gregorio-ontinena": [],
+"vivero-ontinena": [],
+"iglesia-candasnos": [],
+"pozo-hielo-candasnos": [
+{
+"q": "Balsa Buena, Candasnos",
+"name": "Balsa Buena, Candasnos, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.5046802,
+"lon": 0.0627804,
+"type": "water",
+"cls": "natural"
+}
+],
+"hondo-unilla": [
+{
+"q": "Hondo de la Unilla, Candasnos",
+"name": "Hondo de la Unilla, Candasnos, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.4950283,
+"lon": 0.043971,
+"type": "locality",
+"cls": "place"
+}
+],
+"camino-candasnos": [
+{
+"q": "Candasnos",
+"name": "Candasnos, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.4905294,
+"lon": 0.0669217,
+"type": "administrative",
+"cls": "boundary"
+},
+{
+"q": "Candasnos",
+"name": "Candasnos, Bajo Cinca / Baix Cinca, Huesca, Aragón, España",
+"lat": 41.5036249,
+"lon": 0.0642157,
+"type": "village",
+"cls": "place"
+}
+],
+"_overpass": {
+"Espai natural protegit l'Aiguabarreig Segre-Cinca": [
+{
+"lat": 41.4598269,
+"lon": 0.3592592,
+"id": "node/4383962254",
+"k": {
+"tourism": "information"
+}
+}
+],
+"Hondo de la Unilla": [
+{
+"lat": 41.4950283,
+"lon": 0.043971,
+"id": "node/5770594047",
+"k": {}
+}
+],
+"Aiguabarreig Segre-Cinca": [
+{
+"lat": 41.4285282,
+"lon": 0.349941,
+"id": "node/9414944838",
+"k": {
+"tourism": "attraction"
+}
+}
+],
+"Castillo de Torrente de Cinca": [
+{
+"lat": 41.4727979,
+"lon": 0.332671,
+"id": "node/11933278947",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Calle Mayor": [
+{
+"lat": 41.7221306,
+"lon": 0.1460042,
+"id": "way/35609578",
+"k": {}
+},
+{
+"lat": 41.4733267,
+"lon": 0.3345393,
+"id": "way/158944821",
+"k": {}
+},
+{
+"lat": 41.5212988,
+"lon": 0.3495198,
+"id": "way/171983388",
+"k": {}
+},
+{
+"lat": 41.521389,
+"lon": 0.3494353,
+"id": "way/171983390",
+"k": {}
+},
+{
+"lat": 41.5221056,
+"lon": 0.3493094,
+"id": "way/171983391",
+"k": {}
+},
+{
+"lat": 41.7195145,
+"lon": 0.1170042,
+"id": "way/186168166",
+"k": {}
+},
+{
+"lat": 41.7796079,
+"lon": 0.1164604,
+"id": "way/191969228",
+"k": {}
+},
+{
+"lat": 41.6761073,
+"lon": 0.0874957,
+"id": "way/219642067",
+"k": {}
+},
+{
+"lat": 41.6215232,
+"lon": 0.1922323,
+"id": "way/222401814",
+"k": {}
+},
+{
+"lat": 41.5024611,
+"lon": 0.0628809,
+"id": "way/297608004",
+"k": {}
+},
+{
+"lat": 41.6033025,
+"lon": 0.2647062,
+"id": "way/442974069",
+"k": {}
+},
+{
+"lat": 41.6657596,
+"lon": 0.1917183,
+"id": "way/443994697",
+"k": {}
+},
+{
+"lat": 41.6650087,
+"lon": 0.1906037,
+"id": "way/443994710",
+"k": {}
+},
+{
+"lat": 41.6904061,
+"lon": 0.1781408,
+"id": "way/445482583",
+"k": {}
+},
+{
+"lat": 41.6438393,
+"lon": 0.2057602,
+"id": "way/469764689",
+"k": {}
+},
+{
+"lat": 41.6893898,
+"lon": 0.1783523,
+"id": "way/518681773",
+"k": {}
+},
+{
+"lat": 41.6900367,
+"lon": 0.1779099,
+"id": "way/518681776",
+"k": {}
+},
+{
+"lat": 41.5869709,
+"lon": 0.2607163,
+"id": "way/534862067",
+"k": {}
+},
+{
+"lat": 41.6767603,
+"lon": 0.0889945,
+"id": "way/584471902",
+"k": {}
+},
+{
+"lat": 41.7183544,
+"lon": 0.1181935,
+"id": "way/641954035",
+"k": {}
+},
+{
+"lat": 41.5222569,
+"lon": 0.3489781,
+"id": "way/681199735",
+"k": {}
+},
+{
+"lat": 41.5219314,
+"lon": 0.3492031,
+"id": "way/681199738",
+"k": {}
+},
+{
+"lat": 41.4735717,
+"lon": 0.3339844,
+"id": "way/1320184770",
+"k": {}
+},
+{
+"lat": 41.6040808,
+"lon": 0.2635957,
+"id": "way/1357776453",
+"k": {}
+}
+],
+"Camino al Castillo de Mequinenza": [
+{
+"lat": 41.3665098,
+"lon": 0.293108,
+"id": "way/254348052",
+"k": {}
+}
+],
+"Villa Fortunatus": [
+{
+"lat": 41.5562226,
+"lon": 0.31856,
+"id": "way/291321425",
+"k": {
+"building": "ruins",
+"historic": "archaeological_site"
+}
+}
+],
+"Iglesia de San Juan Bautista": [
+{
+"lat": 41.6044591,
+"lon": 0.2637348,
+"id": "way/442974077",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de San Pedro / Església de Sant Pere": [
+{
+"lat": 41.522244,
+"lon": 0.3484767,
+"id": "way/498774252",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de San Lorenzo": [
+{
+"lat": 41.5865859,
+"lon": 0.2615831,
+"id": "way/534862060",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Los Lavaderos": [
+{
+"lat": 41.7217635,
+"lon": 0.1424944,
+"id": "way/638462252",
+"k": {
+"leisure": "park"
+}
+}
+],
+"Torre de los Frailes": [
+{
+"lat": 41.4947513,
+"lon": 0.3324171,
+"id": "way/680464542",
+"k": {
+"building": "yes",
+"man_made": "tower",
+"tourism": "attraction"
+}
+}
+],
+"Aiguabarreig": [
+{
+"lat": 41.3617022,
+"lon": 0.3036015,
+"id": "way/907817787",
+"k": {
+"leisure": "nature_reserve"
+}
+}
+],
+"Pozo de Hielo de Fraga / Pou de Gel de Fraga": [
+{
+"lat": 41.5210777,
+"lon": 0.3515839,
+"id": "way/1075908652",
+"k": {
+"historic": "ruins",
+"man_made": "ice_house"
+}
+}
+],
+"Ermita de San Antón": [
+{
+"lat": 41.6121322,
+"lon": 0.2693055,
+"id": "way/1286561013",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Castillo de Mequinenza / Castell de Mequinensa": [
+{
+"lat": 41.3649664,
+"lon": 0.2964031,
+"id": "relation/7710425",
+"k": {
+"building": "castle",
+"historic": "castle",
+"tourism": "attraction"
+}
+}
+],
+"De l'Aiguabarreig a Montmaneu": [
+{
+"lat": 41.4076577,
+"lon": 0.3697626,
+"id": "relation/10554144",
+"k": {}
+}
+],
+"Camino natural del Ebro - Aragón": [
+{
+"lat": 41.5864386,
+"lon": -0.5087674,
+"id": "relation/18813680",
+"k": {}
+}
+]
+}
+}
