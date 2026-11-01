@@ -1,0 +1,621 @@
+{
+ "campo-de-belchite": {
+  "el-trujal": {
+   "lat": 41.306545,
+   "lon": -0.754636,
+   "words": [
+    "trujal",
+    "monumento",
+    "caidos"
+   ],
+   "church": false,
+   "name": "El Trujal · Monumento a los Caídos",
+   "mun": "Belchite"
+  },
+  "granja-escuela": {
+   "lat": 41.306545,
+   "lon": -0.754636,
+   "words": [
+    "etnologico",
+    "estepas"
+   ],
+   "church": false,
+   "name": "Museo Etnológico y Centro de las Estepas",
+   "mun": "Belchite"
+  },
+  "ermita-san-nicolas": {
+   "lat": 41.257308,
+   "lon": -0.871363,
+   "words": [
+    "nicolas",
+    "bari"
+   ],
+   "church": false,
+   "name": "Ermita de San Nicolás de Bari",
+   "mun": "Azuara"
+  },
+  "iglesia-san-bernardo-codo": {
+   "lat": 41.333406,
+   "lon": -0.699436,
+   "words": [
+    "bernardo"
+   ],
+   "church": true,
+   "name": "Iglesia de San Bernardo y castillo",
+   "mun": "Codo"
+  },
+  "almochuel-calle-mayor": {
+   "lat": 41.280189,
+   "lon": -0.549637,
+   "words": [
+    "mayor"
+   ],
+   "church": true,
+   "name": "Almochuel: iglesia, calle Mayor y embalse",
+   "mun": "Almochuel"
+  },
+  "baul-lagata": {
+   "lat": 41.239821,
+   "lon": -0.804717,
+   "words": [
+    "baul"
+   ],
+   "church": false,
+   "name": "El Baúl de Lagata",
+   "mun": "Lagata"
+  },
+  "ermita-santo-domingo-lecera": {
+   "lat": 41.203215,
+   "lon": -0.710688,
+   "words": [
+    "domingo",
+    "guzman"
+   ],
+   "church": false,
+   "name": "Ermita de Santo Domingo de Guzmán",
+   "mun": "Lécera"
+  },
+  "diapiro-moneva": {
+   "lat": 41.127228,
+   "lon": -0.829821,
+   "words": [
+    "volcan",
+    "diapiro"
+   ],
+   "church": false,
+   "name": "El volcán o diapiro de Moneva",
+   "mun": "Moneva"
+  },
+  "santa-maria-allende": {
+   "lat": 41.132142,
+   "lon": -0.92475,
+   "words": [
+    "maria",
+    "allende"
+   ],
+   "church": false,
+   "name": "Ermita de Santa María de Allende",
+   "mun": "Moyuela"
+  },
+  "via-utrillas": {
+   "lat": 41.384882,
+   "lon": -0.855158,
+   "words": [
+    "ferrocarril",
+    "minero",
+    "utrillas"
+   ],
+   "church": false,
+   "name": "Antiguo ferrocarril minero de Utrillas",
+   "mun": "La Puebla de Albortón"
+  },
+  "pinares-valmadrid": {
+   "lat": 41.443402,
+   "lon": -0.884484,
+   "words": [
+    "pinares"
+   ],
+   "church": false,
+   "name": "Pinares de Valmadrid",
+   "mun": "Valmadrid"
+  }
+ },
+ "andorra-sierra-de-arcos": {
+  "el-cabo": {
+   "lat": 40.977222,
+   "lon": -0.444722,
+   "words": [
+    "ibero",
+    "cabo"
+   ],
+   "church": false,
+   "name": "Poblado íbero de El Cabo",
+   "mun": "Andorra"
+  },
+  "centro-pastor-andorra": {
+   "lat": 40.977222,
+   "lon": -0.444722,
+   "words": [
+    "pastor"
+   ],
+   "church": false,
+   "name": "Centro Pastor de Andorra",
+   "mun": "Andorra"
+  },
+  "san-macario": {
+   "lat": 40.977222,
+   "lon": -0.444722,
+   "words": [
+    "macario"
+   ],
+   "church": false,
+   "name": "Ermita y parque de San Macario",
+   "mun": "Andorra"
+  },
+  "centro-iberos-oliete": {
+   "lat": 40.993537,
+   "lon": -0.679643,
+   "words": [
+    "cultura",
+    "iberica"
+   ],
+   "church": false,
+   "name": "Centro de Interpretación de la Cultura Ibérica",
+   "mun": "Oliete"
+  },
+  "tia-chula": {
+   "lat": 40.993537,
+   "lon": -0.679643,
+   "words": [
+    "fronton",
+    "chula"
+   ],
+   "church": false,
+   "name": "Frontón de la Tía Chula",
+   "mun": "Oliete"
+  },
+  "olivares-oliete": {
+   "lat": 40.993537,
+   "lon": -0.679643,
+   "words": [
+    "olivos",
+    "centenarios"
+   ],
+   "church": false,
+   "name": "Olivos centenarios de Oliete",
+   "mun": "Oliete"
+  },
+  "bodegas-alacon": {
+   "lat": 41.023222,
+   "lon": -0.696715,
+   "words": [
+    "bodegas",
+    "excavadas"
+   ],
+   "church": false,
+   "name": "Bodegas excavadas de Alacón",
+   "mun": "Alacón"
+  },
+  "ermita-san-miguel-alacon": {
+   "lat": 41.023222,
+   "lon": -0.696715,
+   "words": [
+    "balsa",
+    "miguel"
+   ],
+   "church": false,
+   "name": "Ermita y balsa de San Miguel",
+   "mun": "Alacón"
+  },
+  "iglesia-salvador-arino": {
+   "lat": 41.033056,
+   "lon": -0.6,
+   "words": [
+    "salvador",
+    "inclinada"
+   ],
+   "church": true,
+   "name": "Iglesia del Salvador y su torre inclinada",
+   "mun": "Ariño"
+  },
+  "gallipuente": {
+   "lat": 40.969095,
+   "lon": -0.529916,
+   "words": [
+    "gallipuente",
+    "senoritas"
+   ],
+   "church": false,
+   "name": "Gallipuente y fuente de las Señoritas",
+   "mun": "Alloza"
+  },
+  "mirador-carnicero": {
+   "lat": 40.969095,
+   "lon": -0.529916,
+   "words": [
+    "carnicero"
+   ],
+   "church": false,
+   "name": "Mirador del Carnicero",
+   "mun": "Alloza"
+  },
+  "monasterio-olivar": {
+   "lat": 40.855335,
+   "lon": -0.631876,
+   "words": [
+    "monasterio",
+    "olivar"
+   ],
+   "church": false,
+   "name": "Monasterio del Olivar",
+   "mun": "Estercuel"
+  },
+  "centro-pablo-serrano": {
+   "lat": 40.88321,
+   "lon": -0.576846,
+   "words": [
+    "contemporaneo",
+    "pablo",
+    "serrano"
+   ],
+   "church": false,
+   "name": "Centro de Arte Contemporáneo Pablo Serrano",
+   "mun": "Crivillén"
+  },
+  "miradores-crivillen": {
+   "lat": 40.88321,
+   "lon": -0.576846,
+   "words": [
+    "barbara",
+    "pilatos"
+   ],
+   "church": false,
+   "name": "Miradores de Santa Bárbara y Pilatos",
+   "mun": "Crivillén"
+  },
+  "nacimiento-escuriza": {
+   "lat": 40.835961,
+   "lon": -0.583824,
+   "words": [
+    "nacimiento",
+    "escuriza",
+    "calderas"
+   ],
+   "church": false,
+   "name": "Nacimiento del Escuriza y Las Calderas",
+   "mun": "Gargallo"
+  },
+  "mirador-campillo": {
+   "lat": 40.835961,
+   "lon": -0.583824,
+   "words": [
+    "campillo"
+   ],
+   "church": false,
+   "name": "Mirador del Campillo",
+   "mun": "Gargallo"
+  },
+  "san-pascual-ejulve": {
+   "lat": 40.775149,
+   "lon": -0.552882,
+   "words": [
+    "pascual",
+    "pedro"
+   ],
+   "church": true,
+   "name": "Iglesia de San Pascual y ermita de San Pedro",
+   "mun": "Ejulve"
+  }
+ },
+ "campo-de-daroca": {
+  "san-blas-val": {
+   "lat": 41.0573,
+   "lon": -1.4466,
+   "words": [],
+   "church": true,
+   "name": "Iglesia parroquial de Val de San Martín",
+   "mun": "Val de San Martín"
+  },
+  "murero-fosiles": {
+   "lat": 41.1581,
+   "lon": -1.4822,
+   "words": [
+    "sala",
+    "paleontologica"
+   ],
+   "church": false,
+   "name": "Yacimiento y Sala Paleontológica de Murero",
+   "mun": "Murero"
+  },
+  "pinsapar-orcajo": {
+   "lat": 41.117,
+   "lon": -1.483,
+   "words": [
+    "pinsapar",
+    "reino",
+    "fungi"
+   ],
+   "church": false,
+   "name": "Pinsapar de Orcajo y Museo del Reino Fungi",
+   "mun": "Orcajo"
+  },
+  "fuente-villanueva": {
+   "lat": 41.0753,
+   "lon": -1.3925,
+   "words": [
+    "renacentista"
+   ],
+   "church": false,
+   "name": "Fuente renacentista de Villanueva de Jiloca",
+   "mun": "Villanueva de Jiloca"
+  },
+  "retablo-retascon": {
+   "lat": 41.1442,
+   "lon": -1.3811,
+   "words": [],
+   "church": true,
+   "name": "Iglesia de Retascón y su retablo",
+   "mun": "Retascón"
+  },
+  "retablo-torralbilla": {
+   "lat": 41.21,
+   "lon": -1.3381,
+   "words": [
+    "lorenzo",
+    "blas"
+   ],
+   "church": true,
+   "name": "Iglesia de San Lorenzo y retablo de San Blas",
+   "mun": "Torralbilla"
+  },
+  "retablo-villadoz": {
+   "lat": 41.1626,
+   "lon": -1.2872,
+   "words": [
+    "santiago"
+   ],
+   "church": true,
+   "name": "Iglesia de Santiago y retablo de la Virgen",
+   "mun": "Villadoz"
+  },
+  "iglesia-mainar": {
+   "lat": 41.1922,
+   "lon": -1.3042,
+   "words": [
+    "mudejar"
+   ],
+   "church": true,
+   "name": "Iglesia de Santa Ana y torre mudéjar",
+   "mun": "Mainar"
+  },
+  "villarpardo": {
+   "lat": 41.1922,
+   "lon": -1.3042,
+   "words": [
+    "domingo",
+    "villarpardo"
+   ],
+   "church": false,
+   "name": "Ruinas de Santo Domingo de Villarpardo",
+   "mun": "Mainar"
+  },
+  "iglesia-villarreal": {
+   "lat": 41.1902,
+   "lon": -1.2895,
+   "words": [
+    "defensivo",
+    "miguel"
+   ],
+   "church": true,
+   "name": "Conjunto defensivo de San Miguel",
+   "mun": "Villarreal de Huerva"
+  },
+  "sabimbre-cerveruela": {
+   "lat": 41.2157,
+   "lon": -1.2152,
+   "words": [
+    "soto",
+    "huerva",
+    "sabimbre"
+   ],
+   "church": false,
+   "name": "Soto del Huerva y sabimbre de Cerveruela",
+   "mun": "Cerveruela"
+  },
+  "santuario-sierra-herrera": {
+   "lat": 41.2094,
+   "lon": -1.0808,
+   "words": [
+    "santuario"
+   ],
+   "church": false,
+   "name": "Sierra de Herrera y santuario de la Virgen",
+   "mun": "Herrera de los Navarros"
+  }
+ },
+ "bajo-cinca": {
+  "casco-antiguo-fraga": {
+   "lat": 41.52068,
+   "lon": 0.351634,
+   "words": [
+    "dona",
+    "faldetes"
+   ],
+   "church": false,
+   "name": "Casco antiguo y la Dona de Faldetes",
+   "mun": "Fraga"
+  },
+  "valcuerna": {
+   "lat": 41.52068,
+   "lon": 0.351634,
+   "words": [
+    "valcuerna"
+   ],
+   "church": false,
+   "name": "La Valcuerna",
+   "mun": "Fraga"
+  },
+  "embalse-mequinenza": {
+   "lat": 41.374167,
+   "lon": 0.3025,
+   "words": [
+    "presa",
+    "aragon"
+   ],
+   "church": false,
+   "name": "Presa de Mequinenza y Mar de Aragón",
+   "mun": "Mequinenza"
+  },
+  "sender-chalamera": {
+   "lat": 41.664791,
+   "lon": 0.162943,
+   "words": [
+    "martin",
+    "ramon",
+    "sender"
+   ],
+   "church": false,
+   "name": "San Martín y el parque de Ramón J. Sender",
+   "mun": "Chalamera"
+  },
+  "mirador-chalamera": {
+   "lat": 41.664791,
+   "lon": 0.162943,
+   "words": [
+    "tozal",
+    "embarcadero"
+   ],
+   "church": false,
+   "name": "El Castillo, el Tozal y el embarcadero",
+   "mun": "Chalamera"
+  },
+  "lavaderos-torrente": {
+   "lat": 41.466667,
+   "lon": 0.333333,
+   "words": [
+    "lavaderos",
+    "fonteta",
+    "acueducto"
+   ],
+   "church": false,
+   "name": "Lavaderos, Fonteta y puente acueducto",
+   "mun": "Torrente de Cinca"
+  },
+  "san-valero-velilla": {
+   "lat": 41.586836,
+   "lon": 0.262027,
+   "words": [
+    "valero"
+   ],
+   "church": false,
+   "name": "Ermita de San Valero",
+   "mun": "Velilla de Cinca"
+  },
+  "castellassos-velilla": {
+   "lat": 41.586836,
+   "lon": 0.262027,
+   "words": [
+    "castellassos"
+   ],
+   "church": false,
+   "name": "Los Castellassos",
+   "mun": "Velilla de Cinca"
+  },
+  "puente-ballobar": {
+   "lat": 41.620467,
+   "lon": 0.191989,
+   "words": [],
+   "church": false,
+   "name": "Puente viejo de Ballobar",
+   "mun": "Ballobar"
+  },
+  "iglesia-belver": {
+   "lat": 41.683333,
+   "lon": 0.213889,
+   "words": [
+    "asuncion"
+   ],
+   "church": true,
+   "name": "Iglesia de la Asunción de Belver",
+   "mun": "Belver de Cinca"
+  },
+  "casas-belver": {
+   "lat": 41.683333,
+   "lon": 0.213889,
+   "words": [
+    "casas",
+    "solariegas",
+    "mazmorras",
+    "templarias"
+   ],
+   "church": false,
+   "name": "Casas solariegas y mazmorras templarias",
+   "mun": "Belver de Cinca"
+  },
+  "iglesia-osso": {
+   "lat": 41.665,
+   "lon": 0.190833,
+   "words": [
+    "margarita"
+   ],
+   "church": true,
+   "name": "Iglesia de Santa Margarita",
+   "mun": "Osso de Cinca"
+  },
+  "casa-mora-osso": {
+   "lat": 41.665,
+   "lon": 0.190833,
+   "words": [
+    "mora"
+   ],
+   "church": false,
+   "name": "Casa Mora",
+   "mun": "Osso de Cinca"
+  },
+  "san-gregorio-ontinena": {
+   "lat": 41.676186,
+   "lon": 0.089176,
+   "words": [
+    "gregorio"
+   ],
+   "church": false,
+   "name": "Ermita de San Gregorio",
+   "mun": "Ontiñena"
+  },
+  "vivero-ontinena": {
+   "lat": 41.676186,
+   "lon": 0.089176,
+   "words": [
+    "alcanadre",
+    "vivero",
+    "romanica"
+   ],
+   "church": false,
+   "name": "El Alcanadre: puente, Vivero y fuente románica",
+   "mun": "Ontiñena"
+  },
+  "iglesia-candasnos": {
+   "lat": 41.502087,
+   "lon": 0.062167,
+   "words": [
+    "asuncion"
+   ],
+   "church": true,
+   "name": "Iglesia de la Asunción de Candasnos",
+   "mun": "Candasnos"
+  },
+  "camino-candasnos": {
+   "lat": 41.502087,
+   "lon": 0.062167,
+   "words": [
+    "caminos",
+    "peregrinos",
+    "santiago",
+    "ignaciano"
+   ],
+   "church": false,
+   "name": "Caminos de peregrinos: Santiago e Ignaciano",
+   "mun": "Candasnos"
+  }
+ }
+}
