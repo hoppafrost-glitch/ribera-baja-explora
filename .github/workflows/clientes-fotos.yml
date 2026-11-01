@@ -1,0 +1,19 @@
+name: Fotos de clientes
+on:
+  push:
+    paths: ["tools/clientes/*-photos.txt", "tools/clientes/fetch.py", ".github/workflows/clientes-fotos.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  f:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/clientes/fetch.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/clientes/img && git commit -m "Fotos de clientes" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push && break; sleep 7; done
