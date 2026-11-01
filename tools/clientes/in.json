@@ -1429,8 +1429,8 @@
   ],
   "river": "Río Arba de Luesia",
   "bbox": [
-   -1.392,
-   41.817,
+   -1.3936000000000002,
+   41.820299999999996,
    -0.63,
    42.667
   ],
@@ -1440,13 +1440,8 @@
     "mun": "Sos del Rey Católico",
     "q": [
      "Sos del Rey Católico",
-     "Plaza de la Villa, Sos del Rey Católico"
-    ],
-    "fq": [
-     "Sos del Rey Católico",
-     "Sos del Rey Católico calle",
-     "Sos del Rey Católico muralla",
-     "Casco histórico de Sos del Rey Católico Sos del Rey Católico"
+     "Plaza de la Villa, Sos del Rey Católico",
+     "Casco histórico de Sos del Rey Católico, Sos del Rey Católico"
     ]
    },
    "palacio-sada": {
@@ -1454,12 +1449,8 @@
     "mun": "Sos del Rey Católico",
     "q": [
      "Palacio de Sada, Sos del Rey Católico",
-     "Centro de Interpretación Fernando II de Aragón"
-    ],
-    "fq": [
-     "Palacio de Sada Sos del Rey Católico",
-     "Palacio de Sada",
-     "Palacio de Sada Sos del Rey Católico"
+     "Centro de Interpretación Fernando II de Aragón",
+     "Palacio de Sada, Sos del Rey Católico"
     ]
    },
    "san-esteban-sos": {
@@ -1467,13 +1458,8 @@
     "mun": "Sos del Rey Católico",
     "q": [
      "Iglesia de San Esteban, Sos del Rey Católico",
-     "Castillo de Sos del Rey Católico"
-    ],
-    "fq": [
-     "Iglesia de San Esteban Sos del Rey Católico",
-     "Cripta Santa María del Perdón Sos",
-     "Castillo de Sos del Rey Católico",
-     "Iglesia de San Esteban y castillo Sos del Rey Católico"
+     "Castillo de la Peña Felizana, Sos del Rey Católico",
+     "Iglesia de San Esteban y castillo, Sos del Rey Católico"
     ]
    },
    "santa-maria-uncastillo": {
@@ -1481,13 +1467,8 @@
     "mun": "Uncastillo",
     "q": [
      "Iglesia de Santa María, Uncastillo",
-     "Santa María la Mayor, Uncastillo"
-    ],
-    "fq": [
-     "Iglesia de Santa María Uncastillo",
-     "Uncastillo Santa María portada",
-     "Uncastillo iglesia Santa María",
-     "Iglesia de Santa María Uncastillo"
+     "Santa María la Mayor, Uncastillo",
+     "Iglesia de Santa María, Uncastillo"
     ]
    },
    "castillo-uncastillo": {
@@ -1495,13 +1476,26 @@
     "mun": "Uncastillo",
     "q": [
      "Castillo de Uncastillo",
-     "Peña Ayllón, Uncastillo"
-    ],
-    "fq": [
-     "Castillo de Uncastillo",
-     "Uncastillo castillo torre",
-     "Uncastillo",
-     "Castillo de Uncastillo Uncastillo"
+     "Peña Ayllón, Uncastillo",
+     "Castillo de Uncastillo, Uncastillo"
+    ]
+   },
+   "san-martin-uncastillo": {
+    "name": "Iglesia de San Martín y Centro de Arte Religioso",
+    "mun": "Uncastillo",
+    "q": [
+     "Iglesia de San Martín, Uncastillo",
+     "Centro de Arte Religioso del Prepirineo, Uncastillo",
+     "Iglesia de San Martín y Centro de Arte Religioso, Uncastillo"
+    ]
+   },
+   "san-juan-uncastillo": {
+    "name": "Iglesia de San Juan y necrópolis",
+    "mun": "Uncastillo",
+    "q": [
+     "Iglesia de San Juan, Uncastillo",
+     "Iglesia de San Juan Bautista, Uncastillo",
+     "Iglesia de San Juan y necrópolis, Uncastillo"
     ]
    },
    "los-banales": {
@@ -1510,13 +1504,17 @@
     "q": [
      "Los Bañales",
      "Ciudad romana de Los Bañales",
-     "Termas de Los Bañales"
-    ],
-    "fq": [
-     "Los Bañales",
-     "Los Bañales acueducto",
-     "Los Bañales termas",
-     "Ciudad romana de Los Bañales Uncastillo"
+     "Termas de Los Bañales",
+     "Ciudad romana de Los Bañales, Uncastillo"
+    ]
+   },
+   "ci-layana": {
+    "name": "Centro de interpretación de Layana",
+    "mun": "Layana",
+    "q": [
+     "Centro de Interpretación Agricultura y Paisaje Rural Romano, Layana",
+     "Torreón de Layana",
+     "Centro de interpretación de Layana, Layana"
     ]
    },
    "mausoleo-atilios": {
@@ -1524,13 +1522,8 @@
     "mun": "Sádaba",
     "q": [
      "Mausoleo de los Atilios",
-     "Altar de los Moros, Sádaba"
-    ],
-    "fq": [
-     "Mausoleo de los Atilios",
-     "Mausoleum of the Atilii",
-     "Sádaba mausoleo romano",
-     "Mausoleo de los Atilios Sádaba"
+     "Altar de los Moros, Sádaba",
+     "Mausoleo de los Atilios, Sádaba"
     ]
    },
    "castillo-sadaba": {
@@ -1538,26 +1531,53 @@
     "mun": "Sádaba",
     "q": [
      "Castillo de Sádaba",
-     "Calle del Castillo, Sádaba"
-    ],
-    "fq": [
-     "Castillo de Sádaba",
-     "Sádaba castillo",
-     "Castillo de Sádaba Sádaba"
+     "Calle del Castillo, Sádaba",
+     "Castillo de Sádaba, Sádaba"
     ]
    },
-   "castillo-biel": {
-    "name": "Castillo de Biel",
-    "mun": "Biel",
+   "santa-maria-sadaba": {
+    "name": "Iglesia de Santa María",
+    "mun": "Sádaba",
     "q": [
-     "Castillo de Biel",
-     "Torre de Biel"
-    ],
-    "fq": [
-     "Category:Biel castle",
-     "Castillo de Biel",
-     "Biel Zaragoza",
-     "Castillo de Biel Biel"
+     "Iglesia de Santa María, Sádaba",
+     "Iglesia de Santa María la Mayor, Sádaba",
+     "Iglesia de Santa María, Sádaba"
+    ]
+   },
+   "valdelafuen": {
+    "name": "Embalse de Valdelafuén y estancas de Sádaba",
+    "mun": "Sádaba",
+    "q": [
+     "Embalse de Valdelafuén",
+     "Estanca de Valdelafuén, Sádaba",
+     "Embalse de Valdelafuén y estancas de Sádaba, Sádaba"
+    ]
+   },
+   "sarcofago-castiliscar": {
+    "name": "Iglesia de San Juan Bautista y sarcófago",
+    "mun": "Castiliscar",
+    "q": [
+     "Iglesia de San Juan Bautista, Castiliscar",
+     "Castiliscar",
+     "Iglesia de San Juan Bautista y sarcófago, Castiliscar"
+    ]
+   },
+   "san-miguel-biota": {
+    "name": "Iglesia de San Miguel Arcángel",
+    "mun": "Biota",
+    "q": [
+     "Iglesia de San Miguel Arcángel, Biota",
+     "Biota iglesia",
+     "Iglesia de San Miguel Arcángel, Biota"
+    ]
+   },
+   "palacio-biota": {
+    "name": "Palacio del Vizconde y torreón",
+    "mun": "Biota",
+    "q": [
+     "Palacio del Vizconde, Biota",
+     "Torreón de Biota",
+     "Palacio del Vizconde y torreón, Biota"
     ]
    },
    "san-salvador-ejea": {
@@ -1565,13 +1585,44 @@
     "mun": "Ejea de los Caballeros",
     "q": [
      "Iglesia de El Salvador, Ejea de los Caballeros",
-     "Iglesia del Salvador Ejea"
-    ],
-    "fq": [
-     "Iglesia de El Salvador Ejea de los Caballeros",
-     "Ejea de los Caballeros iglesia Salvador",
-     "Ejea. Iglesia de San Salvador",
-     "Iglesia de El Salvador Ejea de los Caballeros"
+     "Iglesia del Salvador Ejea",
+     "Iglesia de El Salvador, Ejea de los Caballeros"
+    ]
+   },
+   "santa-maria-ejea": {
+    "name": "Iglesia de Santa María",
+    "mun": "Ejea de los Caballeros",
+    "q": [
+     "Iglesia de Santa María, Ejea de los Caballeros",
+     "Barrio de la Corona, Ejea de los Caballeros",
+     "Iglesia de Santa María, Ejea de los Caballeros"
+    ]
+   },
+   "aquagraria": {
+    "name": "Museo Aquagraria",
+    "mun": "Ejea de los Caballeros",
+    "q": [
+     "Museo Aquagraria, Ejea de los Caballeros",
+     "Calle Manuel Lorenzo Pardo, Ejea de los Caballeros",
+     "Museo Aquagraria, Ejea de los Caballeros"
+    ]
+   },
+   "estanca-gancho": {
+    "name": "Estanca de El Gancho",
+    "mun": "Ejea de los Caballeros",
+    "q": [
+     "Estanca de El Gancho, Ejea de los Caballeros",
+     "Estanca del Gancho",
+     "Estanca de El Gancho, Ejea de los Caballeros"
+    ]
+   },
+   "pueblos-colonizacion": {
+    "name": "Pueblos de colonización: El Bayo",
+    "mun": "Ejea de los Caballeros",
+    "q": [
+     "El Bayo, Ejea de los Caballeros",
+     "Casa del Colono, El Bayo",
+     "Pueblos de colonización: El Bayo, Ejea de los Caballeros"
     ]
    },
    "santa-maria-tauste": {
@@ -1579,13 +1630,81 @@
     "mun": "Tauste",
     "q": [
      "Iglesia de Santa María, Tauste",
-     "Plaza Santa María, Tauste"
-    ],
-    "fq": [
-     "Iglesia de Santa María Tauste",
-     "Tauste torre mudéjar",
-     "Tauste Santa María",
-     "Iglesia de Santa María y torre alminar Tauste"
+     "Plaza Santa María, Tauste",
+     "Iglesia de Santa María y torre alminar, Tauste"
+    ]
+   },
+   "canal-tauste": {
+    "name": "Canal de Tauste y acueducto de Las Trabas",
+    "mun": "Tauste",
+    "q": [
+     "Acueducto de Las Trabas, Tauste",
+     "Canal de Tauste",
+     "Canal de Tauste y acueducto de Las Trabas, Tauste"
+    ]
+   },
+   "sancho-abarca": {
+    "name": "Santuario de Sancho Abarca",
+    "mun": "Tauste",
+    "q": [
+     "Santuario de Sancho Abarca",
+     "Santuario de Nuestra Señora de Sancho Abarca, Tauste",
+     "Santuario de Sancho Abarca, Tauste"
+    ]
+   },
+   "castillo-biel": {
+    "name": "Castillo de Biel",
+    "mun": "Biel",
+    "q": [
+     "Castillo de Biel",
+     "Torre de Biel",
+     "Castillo de Biel, Biel"
+    ]
+   },
+   "san-salvador-luesia": {
+    "name": "Iglesia de San Salvador",
+    "mun": "Luesia",
+    "q": [
+     "Iglesia de San Salvador, Luesia",
+     "Luesia iglesia",
+     "Iglesia de San Salvador, Luesia"
+    ]
+   },
+   "castillo-luesia": {
+    "name": "Castillo de Luesia",
+    "mun": "Luesia",
+    "q": [
+     "Castillo de Luesia",
+     "Luesia castillo",
+     "Castillo de Luesia, Luesia"
+    ]
+   },
+   "pigalo": {
+    "name": "Pozas de Pígalo",
+    "mun": "Luesia",
+    "q": [
+     "Pozo de Pígalo, Luesia",
+     "Pígalo",
+     "Pozas de Pígalo, Luesia"
+    ]
+   },
+   "sierra-santo-domingo": {
+    "name": "Sierra de Santo Domingo y Longás",
+    "mun": "Longás",
+    "q": [
+     "Sierra de Santo Domingo",
+     "Ermita de Santo Domingo, Longás",
+     "Longás",
+     "Sierra de Santo Domingo y Longás, Longás"
+    ]
+   },
+   "san-nicolas-el-frago": {
+    "name": "Iglesia de San Nicolás de Bari",
+    "mun": "El Frago",
+    "q": [
+     "Iglesia de San Nicolás de Bari, El Frago",
+     "El Frago iglesia",
+     "Iglesia de San Nicolás de Bari, El Frago"
     ]
    },
    "despoblados-luna": {
@@ -1594,13 +1713,45 @@
     "q": [
      "Hispaniés, Luna",
      "Júnez, Luna",
-     "Lacasta, Luna"
-    ],
-    "fq": [
-     "Lacasta Luna Zaragoza",
-     "Júnez despoblado",
-     "Hispaniés",
-     "Despoblados de Hispaniés, Júnez y Lacasta Luna"
+     "Lacasta, Luna",
+     "Despoblados de Hispaniés, Júnez y Lacasta, Luna"
+    ]
+   },
+   "san-gil-luna": {
+    "name": "Iglesias de San Gil y Santiago",
+    "mun": "Luna",
+    "q": [
+     "Iglesia de San Gil, Luna",
+     "Iglesia de Santiago, Luna",
+     "Iglesias de San Gil y Santiago, Luna"
+    ]
+   },
+   "monlora": {
+    "name": "Santuario de Monlora",
+    "mun": "Luna",
+    "q": [
+     "Santuario de Monlora",
+     "Monasterio de Nuestra Señora de Monlora, Luna",
+     "Santuario de Monlora, Luna"
+    ]
+   },
+   "cajal-valpalmas": {
+    "name": "Centro Ramón y Cajal",
+    "mun": "Valpalmas",
+    "q": [
+     "Centro Ramón y Cajal, Valpalmas",
+     "Plaza Santiago Ramón y Cajal, Valpalmas",
+     "Centro Ramón y Cajal, Valpalmas"
+    ]
+   },
+   "embalse-ardisa": {
+    "name": "Embalse de Ardisa",
+    "mun": "Ardisa",
+    "q": [
+     "Embalse de Ardisa",
+     "Presa de Ardisa",
+     "Castillo de Ballestar, Ardisa",
+     "Embalse de Ardisa, Ardisa"
     ]
    },
    "ermita-san-anton-pintano": {
@@ -1608,13 +1759,8 @@
     "mun": "Los Pintanos",
     "q": [
      "Ermita de San Antón, Pintano",
-     "Centro de Interpretación de Arqueología, Pintano"
-    ],
-    "fq": [
-     "Pintano ermita San Antón",
-     "Pintano",
-     "Los Pintanos",
-     "Ermita de San Antón: Centro de Interpretación de Arqueología Los Pintanos"
+     "Centro de Interpretación de Arqueología, Pintano",
+     "Ermita de San Antón: Centro de Interpretación de Arqueología, Los Pintanos"
     ]
    },
    "necropolis-lobera": {
@@ -1622,45 +1768,99 @@
     "mun": "Lobera de Onsella",
     "q": [
      "Necrópolis medieval, Lobera de Onsella",
-     "Cerro de San Miguel, Lobera de Onsella"
-    ],
-    "fq": [
-     "Lobera de Onsella",
-     "Lobera de Onsella necrópolis",
-     "Necrópolis medieval de Lobera de Onsella Lobera de Onsella"
+     "Cerro de San Miguel, Lobera de Onsella",
+     "Necrópolis medieval de Lobera de Onsella, Lobera de Onsella"
     ]
    },
-   "san-nicolas-el-frago": {
-    "name": "Iglesia de San Nicolás de Bari",
-    "mun": "El Frago",
+   "torreon-navardun": {
+    "name": "Torreón de Navardún",
+    "mun": "Navardún",
     "q": [
-     "Iglesia de San Nicolás de Bari, El Frago",
-     "El Frago iglesia"
-    ],
-    "fq": [
-     "Iglesia de San Nicolás de Bari El Frago",
-     "El Frago iglesia portada",
-     "El Frago",
-     "Iglesia de San Nicolás de Bari El Frago"
+     "Torreón de Navardún",
+     "Castillo de Navardún",
+     "Torreón de Navardún, Navardún"
+    ]
+   },
+   "san-esteban-urries": {
+    "name": "Iglesia de San Esteban y callejón",
+    "mun": "Urriés",
+    "q": [
+     "Iglesia de San Esteban, Urriés",
+     "Callejón, Urriés",
+     "Iglesia de San Esteban y callejón, Urriés"
+    ]
+   },
+   "ruesta": {
+    "name": "Ruesta",
+    "mun": "Urriés",
+    "q": [
+     "Ruesta",
+     "Castillo de Ruesta",
+     "Ermita de Santiago, Ruesta",
+     "Ruesta, Urriés"
+    ]
+   },
+   "undues-camino": {
+    "name": "Undués de Lerda y el Camino de Santiago",
+    "mun": "Undués de Lerda",
+    "q": [
+     "Undués de Lerda",
+     "Albergue de peregrinos, Undués de Lerda",
+     "Undués de Lerda y el Camino de Santiago, Undués de Lerda"
+    ]
+   },
+   "bagues": {
+    "name": "Iglesia de los Santos Julián y Basilisa",
+    "mun": "Bagüés",
+    "q": [
+     "Iglesia de San Julián y Santa Basilisa, Bagüés",
+     "Bagüés",
+     "Iglesia de los Santos Julián y Basilisa, Bagüés"
     ]
    }
   },
   "overpass_kw": [
+   "Acueducto de Las Trabas",
    "Castillo de Biel",
+   "Castillo de Luesia",
    "Castillo de Sádaba",
    "Castillo de Uncastillo",
+   "Centro Ramón y Cajal",
+   "Centro de Interpretación Agricultura y Paisaje Rural Romano",
+   "El Bayo",
+   "Embalse de Ardisa",
+   "Embalse de Valdelafuén",
    "Ermita de San Antón",
+   "Estanca de El Gancho",
    "Hispaniés",
    "Iglesia de El Salvador",
    "Iglesia de San Esteban",
+   "Iglesia de San Gil",
+   "Iglesia de San Juan",
+   "Iglesia de San Juan Bautista",
+   "Iglesia de San Julián y Santa Basilisa",
+   "Iglesia de San Martín",
+   "Iglesia de San Miguel Arcángel",
    "Iglesia de San Nicolás de Bari",
+   "Iglesia de San Salvador",
    "Iglesia de Santa María",
    "Los Bañales",
    "Mausoleo de los Atilios",
+   "Museo Aquagraria",
    "Necrópolis medieval",
    "Palacio de Sada",
-   "Sos del Rey Católico"
-  ]
+   "Palacio del Vizconde",
+   "Pozo de Pígalo",
+   "Ruesta",
+   "Santuario de Monlora",
+   "Santuario de Sancho Abarca",
+   "Sierra de Santo Domingo",
+   "Sos del Rey Católico",
+   "Torreón de Navardún",
+   "Undués de Lerda"
+  ],
+  "no_base": true,
+  "no_fotos": true
  },
  "bajo-cinca": {
   "prov": "Aragón",
