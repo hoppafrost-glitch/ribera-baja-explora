@@ -1,0 +1,1918 @@
+{
+"puerta-baja": [
+{
+"q": "Puerta Baja, Daroca",
+"name": "Puerta Baja, Calle Mayor, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.112759,
+"lon": -1.4169329,
+"type": "city_gate",
+"cls": "historic"
+},
+{
+"q": "Puerta Baja de Daroca",
+"name": "Puerta Baja, Paseo de la Constitución, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.112759,
+"lon": -1.4169329,
+"type": "yes",
+"cls": "building"
+},
+{
+"q": "Puerta Baja, Daroca",
+"name": "Puerta Baja, Calle Mayor, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.112759,
+"lon": -1.4169329,
+"type": "city_gate",
+"cls": "historic"
+}
+],
+"veinte-canos": [
+{
+"q": "Fuente de los Veinte Caños, Daroca",
+"name": "Fuente de los Veinte Caños, Avenida del Carmen, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1125726,
+"lon": -1.4169408,
+"type": "drinking_water",
+"cls": "amenity"
+},
+{
+"q": "Fuente de los 20 Caños Daroca",
+"name": "Fuente de los 20 caños, Avenida del Carmen, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1125433,
+"lon": -1.416922,
+"type": "yes",
+"cls": "building"
+},
+{
+"q": "Fuente de los Veinte Caños, Daroca",
+"name": "Fuente de los Veinte Caños, Avenida del Carmen, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1125726,
+"lon": -1.4169408,
+"type": "drinking_water",
+"cls": "amenity"
+}
+],
+"mina-daroca": [
+{
+"q": "La Mina, Daroca",
+"name": "La Mina, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1105269,
+"lon": -1.4085817,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "La Mina, Daroca",
+"name": "La Mina, Calle La Mina, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1134842,
+"lon": -1.4085534,
+"type": "cave_entrance",
+"cls": "natural"
+}
+],
+"basilica-corporales": [
+{
+"q": "Basílica de Santa María de los Sagrados Corporales, Daroca",
+"name": "Basílica de Santa María de los Sagrados Corporales, Calle Hiladores Bajos, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1152225,
+"lon": -1.4137909,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"museo-corporales": [],
+"san-miguel": [
+{
+"q": "Iglesia de San Miguel, Daroca",
+"name": "Iglesia de San Miguel, Plaza San Miguel, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1152271,
+"lon": -1.4169082,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de San Miguel, Daroca",
+"name": "Iglesia de San Miguel, Plaza San Miguel, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1152271,
+"lon": -1.4169082,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"san-juan-daroca": [
+{
+"q": "Iglesia de San Juan Bautista, Daroca",
+"name": "Iglesia de San Juan Bautista, Calle de la Iglesia, Herrera de los Navarros, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.2105681,
+"lon": -1.0825336,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de San Juan Bautista, Daroca",
+"name": "Iglesia de San Juan Bautista, Plaza Mayor, Valdehorna, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.0726162,
+"lon": -1.4230668,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"santo-domingo-daroca": [
+{
+"q": "Santo Domingo, Daroca",
+"name": "Plaza de Santo Domingo, Daroca, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.1144516,
+"lon": -1.4159531,
+"type": "square",
+"cls": "place"
+},
+{
+"q": "Santo Domingo, Daroca",
+"name": "Calle Santo Domingo, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1141318,
+"lon": -1.4164296,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Santo Domingo, Daroca",
+"name": "Plaza de Santo Domingo, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1144209,
+"lon": -1.4159314,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Santo Domingo, Daroca",
+"name": "Iglesia de Santo Domingo, Plaza de Santo Domingo, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1145112,
+"lon": -1.4162727,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"murallas-castillo": [
+{
+"q": "Castillo Mayor, Daroca",
+"name": "Castillo Mayor, Calle Hiladores Altos, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1159883,
+"lon": -1.4120959,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Puerta Alta, Daroca",
+"name": "Puerta Alta, Calle Mayor, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1142111,
+"lon": -1.409981,
+"type": "yes",
+"cls": "building"
+},
+{
+"q": "Murallas de Daroca",
+"name": "Calle Murallas, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1147018,
+"lon": -1.4100252,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Murallas de Daroca",
+"name": "Calle Murallas, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1140301,
+"lon": -1.4098917,
+"type": "pedestrian",
+"cls": "highway"
+}
+],
+"camino-cid": [
+{
+"q": "Camino del Cid, Daroca",
+"name": "Camino del Cid, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1209608,
+"lon": -1.4422061,
+"type": "track",
+"cls": "highway"
+},
+{
+"q": "Camino del Cid, Daroca",
+"name": "Camino del Cid, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1123586,
+"lon": -1.4242035,
+"type": "unclassified",
+"cls": "highway"
+},
+{
+"q": "Camino del Cid, Daroca",
+"name": "Camino del Cid, Manchones, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1438518,
+"lon": -1.4631857,
+"type": "track",
+"cls": "highway"
+},
+{
+"q": "Daroca",
+"name": "Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1133264,
+"lon": -1.4170637,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"laguna-gallocanta": [
+{
+"q": "Laguna de Gallocanta",
+"name": "Laguna de Gallocanta, Berrueco, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 40.9667061,
+"lon": -1.5013761,
+"type": "lake",
+"cls": "water"
+},
+{
+"q": "Laguna de Gallocanta, Gallocanta",
+"name": "Laguna de Gallocanta, Berrueco, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 40.9667061,
+"lon": -1.5013761,
+"type": "lake",
+"cls": "water"
+}
+],
+"ermita-buen-acuerdo": [
+{
+"q": "Ermita de la Virgen del Buen Acuerdo, Gallocanta",
+"name": "Ermita de la Virgen del Buen Acuerdo, Calle Soledad, Gallocanta, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 40.9885896,
+"lon": -1.5302393,
+"type": "church",
+"cls": "building"
+},
+{
+"q": "Ermita del Buen Acuerdo",
+"name": "Ermita de la Virgen del Buen Acuerdo, Calle Soledad, Gallocanta, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 40.9885896,
+"lon": -1.5302393,
+"type": "church",
+"cls": "building"
+},
+{
+"q": "Ermita del Buen Acuerdo",
+"name": "Ermita de Nuestra Señora del Buen Acuerdo, Calle Soledad, Gallocanta, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 40.9885553,
+"lon": -1.5303493,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"castillo-berrueco": [
+{
+"q": "Castillo de Berrueco",
+"name": "Castillo de Berrueco, Camino Mirador Castillo de Berrueco, Berrueco, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 40.9919842,
+"lon": -1.4675851,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Berrueco, Zaragoza",
+"name": "Berrueco, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 40.9905734,
+"lon": -1.4668813,
+"type": "administrative",
+"cls": "boundary"
+},
+{
+"q": "Castillo de Berrueco, Berrueco",
+"name": "Castillo de Berrueco, Camino Mirador Castillo de Berrueco, Berrueco, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 40.9919842,
+"lon": -1.4675851,
+"type": "castle",
+"cls": "historic"
+}
+],
+"castillo-santed": [
+{
+"q": "Castillo de Santed",
+"name": "Castillo de Santed, Calle Padre Lucas Traid, Santed, Campo de Daroca, Zaragoza, Aragón, 50374, España",
+"lat": 41.033453,
+"lon": -1.5111449,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Santed, Zaragoza",
+"name": "Santed, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0326684,
+"lon": -1.5070888,
+"type": "administrative",
+"cls": "boundary"
+},
+{
+"q": "Castillo de Santed, Santed",
+"name": "Castillo de Santed, Calle Padre Lucas Traid, Santed, Campo de Daroca, Zaragoza, Aragón, 50374, España",
+"lat": 41.033453,
+"lon": -1.5111449,
+"type": "castle",
+"cls": "historic"
+}
+],
+"san-blas-val": [
+{
+"q": "Val de San Martín, Zaragoza",
+"name": "Val de San Martín, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0572573,
+"lon": -1.4462737,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"valdehorna": [
+{
+"q": "Iglesia de San Juan Bautista, Valdehorna",
+"name": "Iglesia de San Juan Bautista, Plaza Mayor, Valdehorna, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.0726162,
+"lon": -1.4230668,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Valdehorna, Zaragoza",
+"name": "Valdehorna, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0727456,
+"lon": -1.4228274,
+"type": "administrative",
+"cls": "boundary"
+},
+{
+"q": "Iglesia de San Juan Bautista de Valdehorna, Valdehorna",
+"name": "Iglesia de San Juan Bautista, Plaza Mayor, Valdehorna, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.0726162,
+"lon": -1.4230668,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"retablo-anento": [
+{
+"q": "Iglesia de San Blas, Anento",
+"name": "Iglesia de San Blas, Calle Latorre, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0696895,
+"lon": -1.333304,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Anento iglesia",
+"name": "Iglesia de San Blas, Calle Latorre, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0696895,
+"lon": -1.333304,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"castillo-anento": [
+{
+"q": "Castillo de Anento",
+"name": "Castillo de Anento, Calle Sta. Bárbara, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0712483,
+"lon": -1.3326009,
+"type": "yes",
+"cls": "building"
+},
+{
+"q": "Anento castillo",
+"name": "Mirador del Castillo, Calle Sta. Bárbara, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0708032,
+"lon": -1.3327513,
+"type": "viewpoint",
+"cls": "tourism"
+},
+{
+"q": "Anento castillo",
+"name": "Castillo de Anento, Calle Sta. Bárbara, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0712483,
+"lon": -1.3326009,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Castillo de Anento, Anento",
+"name": "Castillo de Anento, Calle Sta. Bárbara, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0712483,
+"lon": -1.3326009,
+"type": "yes",
+"cls": "building"
+}
+],
+"aguallueve": [
+{
+"q": "Aguallueve, Anento",
+"name": "Aguallueve de Anento, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.073287,
+"lon": -1.3253908,
+"type": "water",
+"cls": "natural"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Senda del Aguallueve, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0724765,
+"lon": -1.3288327,
+"type": "track",
+"cls": "highway"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Senda del Aguallueve, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0707924,
+"lon": -1.3280608,
+"type": "path",
+"cls": "highway"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Senda del Aguallueve, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0735307,
+"lon": -1.3255176,
+"type": "ladder",
+"cls": "highway"
+},
+{
+"q": "Aguallueve de Anento",
+"name": "Aguallueve de Anento, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.073287,
+"lon": -1.3253908,
+"type": "water",
+"cls": "natural"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Aguallueve de Anento, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.073287,
+"lon": -1.3253908,
+"type": "water",
+"cls": "natural"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Senda del Aguallueve, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0724765,
+"lon": -1.3288327,
+"type": "track",
+"cls": "highway"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Senda del Aguallueve, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0707924,
+"lon": -1.3280608,
+"type": "path",
+"cls": "highway"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Senda del Aguallueve, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0735307,
+"lon": -1.3255176,
+"type": "ladder",
+"cls": "highway"
+}
+],
+"murero-fosiles": [],
+"pinsapar-orcajo": [
+{
+"q": "Orcajo, Zaragoza",
+"name": "Orcajo, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.110044,
+"lon": -1.4899156,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"hoces-rio-piedra": [
+{
+"q": "Hoces del río Piedra",
+"name": "Hoces del Río Piedra, Calle Baja, Aldehuela de Liestos, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0628915,
+"lon": -1.7039466,
+"type": "information",
+"cls": "tourism"
+},
+{
+"q": "Torralba de los Frailes",
+"name": "Torralba de los Frailes, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0367198,
+"lon": -1.6609507,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"laguna-guialguerrero": [
+{
+"q": "Laguna de Guialguerrero",
+"name": "Laguna de Guialguerrero, Cubel, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0794793,
+"lon": -1.6117574,
+"type": "water",
+"cls": "natural"
+},
+{
+"q": "Guialguerrero, Cubel",
+"name": "Laguna de Guialguerrero, Cubel, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0794793,
+"lon": -1.6117574,
+"type": "water",
+"cls": "natural"
+},
+{
+"q": "Laguna de Guialguerrero, Cubel",
+"name": "Laguna de Guialguerrero, Cubel, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0794793,
+"lon": -1.6117574,
+"type": "water",
+"cls": "natural"
+}
+],
+"iglesia-manchones": [
+{
+"q": "Iglesia de la Conversión de San Pablo, Manchones",
+"name": "Iglesia de la Conversión de San Pablo, Calle Horno, Manchones, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1502512,
+"lon": -1.4663571,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Manchones, Zaragoza",
+"name": "Manchones, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.1499729,
+"lon": -1.4659045,
+"type": "administrative",
+"cls": "boundary"
+},
+{
+"q": "Iglesia de la Conversión de San Pablo, Manchones",
+"name": "Iglesia de la Conversión de San Pablo, Calle Horno, Manchones, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1502512,
+"lon": -1.4663571,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"fuente-villanueva": [
+{
+"q": "Villanueva de Jiloca, Zaragoza",
+"name": "Villanueva de Jiloca, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0752414,
+"lon": -1.3924361,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"retablo-retascon": [
+{
+"q": "Iglesia de la Asunción, Retascón",
+"name": "Iglesia de la Asunción de la Virgen, Plaza Mayor, Retascón, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1444645,
+"lon": -1.3812251,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Retascón, Zaragoza",
+"name": "Retascón, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.1442633,
+"lon": -1.3816675,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"castillo-langa": [
+{
+"q": "Castillo de Langa del Castillo",
+"name": "Camino de Codos a Langa del Castillo, Codos, Comunidad de Calatayud, Zaragoza, Aragón, España",
+"lat": 41.2772409,
+"lon": -1.3871088,
+"type": "path",
+"cls": "highway"
+},
+{
+"q": "Castillo de Langa del Castillo",
+"name": "Ayuntamiento de Langa del Castillo, 6, Calle Castillo, Langa del Castillo, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.21343,
+"lon": -1.3987497,
+"type": "townhall",
+"cls": "amenity"
+},
+{
+"q": "Castillo de Langa del Castillo",
+"name": "COOP. LANGA DEL CASTILLO, CP-001, Langa del Castillo, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.207808,
+"lon": -1.394034,
+"type": "fuel",
+"cls": "amenity"
+},
+{
+"q": "Castillo de Langa del Castillo",
+"name": "Castillo de San Gil, Langa del Castillo, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.2564778,
+"lon": -1.3537171,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "Langa del Castillo",
+"name": "Langa del Castillo, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.2118835,
+"lon": -1.3985046,
+"type": "administrative",
+"cls": "boundary"
+},
+{
+"q": "Castillo de Langa, Langa del Castillo",
+"name": "Camino de Codos a Langa del Castillo, Codos, Comunidad de Calatayud, Zaragoza, Aragón, España",
+"lat": 41.2772409,
+"lon": -1.3871088,
+"type": "path",
+"cls": "highway"
+},
+{
+"q": "Castillo de Langa, Langa del Castillo",
+"name": "Ayuntamiento de Langa del Castillo, 6, Calle Castillo, Langa del Castillo, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.21343,
+"lon": -1.3987497,
+"type": "townhall",
+"cls": "amenity"
+},
+{
+"q": "Castillo de Langa, Langa del Castillo",
+"name": "COOP. LANGA DEL CASTILLO, CP-001, Langa del Castillo, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.207808,
+"lon": -1.394034,
+"type": "fuel",
+"cls": "amenity"
+}
+],
+"retablo-langa": [],
+"retablo-torralbilla": [
+{
+"q": "Torralbilla, Zaragoza",
+"name": "Torralbilla, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.2100091,
+"lon": -1.33812,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"retablo-villarroya": [
+{
+"q": "Iglesia de la Virgen del Rosario, Villarroya del Campo",
+"name": "Iglesia de la Virgen del Rosario, Plaza de España, Villarroya del Campo, Campo de Daroca, Zaragoza, Aragón, 50490, España",
+"lat": 41.1432146,
+"lon": -1.3247529,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Villarroya del Campo, Zaragoza",
+"name": "Villarroya del Campo, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.1432234,
+"lon": -1.3242782,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"retablo-villadoz": [
+{
+"q": "Villadoz, Zaragoza",
+"name": "Villadoz, Campo de Daroca, Zaragoza, Aragón, 50490, España",
+"lat": 41.1624228,
+"lon": -1.2874305,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"iglesia-mainar": [
+{
+"q": "Mainar, Zaragoza",
+"name": "Mainar, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.1925768,
+"lon": -1.3027612,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"villarpardo": [],
+"iglesia-villarreal": [
+{
+"q": "Villarreal de Huerva",
+"name": "Villarreal de Huerva, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.1902051,
+"lon": -1.2895264,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"sabimbre-cerveruela": [
+{
+"q": "Cerveruela, Zaragoza",
+"name": "Cerveruela, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.2156498,
+"lon": -1.2151644,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"iglesia-luesma": [
+{
+"q": "Iglesia de Nuestra Señora de la Junquera, Luesma",
+"name": "Iglesia de Nuestra Señora de la Junquera, Calle de la Iglesia, Luesma, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.1669327,
+"lon": -1.1471318,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Luesma, Zaragoza",
+"name": "Luesma, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.1663123,
+"lon": -1.1462268,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"iglesia-herrera": [
+{
+"q": "Iglesia de San Juan Bautista, Herrera de los Navarros",
+"name": "Iglesia de San Juan Bautista, Calle de la Iglesia, Herrera de los Navarros, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.2105681,
+"lon": -1.0825336,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Herrera de los Navarros",
+"name": "Herrera de los Navarros, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.2103316,
+"lon": -1.0825932,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"santuario-sierra-herrera": [],
+"torre-villar": [
+{
+"q": "Iglesia de San Pedro, Villar de los Navarros",
+"name": "Iglesia de San Pedro Apóstol, Calle Obispo Galindo, Villar de los Navarros, Campo de Daroca, Zaragoza, Aragón, 50156, España",
+"lat": 41.1585814,
+"lon": -1.0426645,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Villar de los Navarros",
+"name": "Villar de los Navarros, Campo de Daroca, Zaragoza, Aragón, 50156, España",
+"lat": 41.1586711,
+"lon": -1.0422266,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"puente-nevera-villar": [
+{
+"q": "Nevera de Villar de los Navarros",
+"name": "La Nevera, Villar de los Navarros, Campo de Daroca, Zaragoza, Aragón, 50156, España",
+"lat": 41.165175,
+"lon": -1.0411183,
+"type": "locality",
+"cls": "place"
+}
+],
+"_overpass": {
+"Barranco de la Mina": [
+{
+"lat": 41.2172619,
+"lon": -1.3030011,
+"id": "node/1242124035",
+"k": {}
+},
+{
+"lat": 41.1463432,
+"lon": -1.16098,
+"id": "way/1207207775",
+"k": {}
+}
+],
+"La Mina": [
+{
+"lat": 41.1105269,
+"lon": -1.4085817,
+"id": "node/1242136244",
+"k": {}
+},
+{
+"lat": 41.30102,
+"lon": -1.611288,
+"id": "node/1242144721",
+"k": {}
+},
+{
+"lat": 41.1134842,
+"lon": -1.4085534,
+"id": "node/6187992997",
+"k": {
+"natural": "cave_entrance"
+}
+}
+],
+"Fuente de los Veinte Caños": [
+{
+"lat": 41.1125726,
+"lon": -1.4169408,
+"id": "node/2604866003",
+"k": {
+"amenity": "drinking_water"
+}
+}
+],
+"Aguallueve de 'l'Arguilay": [
+{
+"lat": 41.0452491,
+"lon": -1.3147837,
+"id": "node/4600273899",
+"k": {}
+}
+],
+"Hoces del Río Piedra": [
+{
+"lat": 41.0628915,
+"lon": -1.7039466,
+"id": "node/6173372289",
+"k": {
+"tourism": "information"
+}
+}
+],
+"Castillo de Berrueco": [
+{
+"lat": 40.9919842,
+"lon": -1.4675851,
+"id": "node/6215570535",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Camino del Cid Atea": [
+{
+"lat": 41.1597352,
+"lon": -1.5552144,
+"id": "node/8979165420",
+"k": {
+"tourism": "information"
+}
+}
+],
+"Castillo de Santed": [
+{
+"lat": 41.033453,
+"lon": -1.5111449,
+"id": "node/11878840822",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Iglesia de Santo Domingo de Silos": [
+{
+"lat": 40.9585522,
+"lon": -1.2717976,
+"id": "node/13398471871",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de San Miguel": [
+{
+"lat": 41.2884047,
+"lon": -1.6160105,
+"id": "way/113754853",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+},
+{
+"lat": 41.115234,
+"lon": -1.4169129,
+"id": "way/254680942",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian",
+"tourism": "attraction"
+}
+},
+{
+"lat": 41.3124639,
+"lon": -1.5373813,
+"id": "way/490391386",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 41.313615,
+"lon": -1.6395553,
+"id": "way/819873580",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Camino del Cid - GR 160": [
+{
+"lat": 41.3111042,
+"lon": -1.8169,
+"id": "way/183326214",
+"k": {}
+},
+{
+"lat": 41.1508745,
+"lon": -1.4732288,
+"id": "way/443102946",
+"k": {}
+},
+{
+"lat": 41.1515203,
+"lon": -1.4745485,
+"id": "way/443102949",
+"k": {}
+},
+{
+"lat": 41.1527069,
+"lon": -1.4809831,
+"id": "way/443102950",
+"k": {}
+},
+{
+"lat": 41.1504998,
+"lon": -1.4713084,
+"id": "way/444481210",
+"k": {}
+},
+{
+"lat": 41.3137918,
+"lon": -1.82041,
+"id": "way/447677062",
+"k": {}
+},
+{
+"lat": 41.1545362,
+"lon": -1.4833041,
+"id": "way/447678574",
+"k": {}
+},
+{
+"lat": 41.1521332,
+"lon": -1.4780099,
+"id": "way/447678575",
+"k": {}
+}
+],
+"Camino del Cid": [
+{
+"lat": 41.2623687,
+"lon": -1.7203485,
+"id": "way/183345555",
+"k": {}
+},
+{
+"lat": 41.3137641,
+"lon": -1.7383369,
+"id": "way/183345560",
+"k": {}
+},
+{
+"lat": 41.3102369,
+"lon": -1.7360331,
+"id": "way/183345578",
+"k": {}
+},
+{
+"lat": 41.2487737,
+"lon": -1.7034806,
+"id": "way/192541868",
+"k": {}
+},
+{
+"lat": 41.1950295,
+"lon": -1.6278662,
+"id": "way/192541869",
+"k": {}
+},
+{
+"lat": 41.2842036,
+"lon": -1.7356057,
+"id": "way/197606931",
+"k": {}
+},
+{
+"lat": 41.0710021,
+"lon": -1.3905173,
+"id": "way/198731238",
+"k": {}
+},
+{
+"lat": 40.9304276,
+"lon": -1.301566,
+"id": "way/198774636",
+"k": {}
+},
+{
+"lat": 40.943107,
+"lon": -1.3069062,
+"id": "way/219220448",
+"k": {}
+},
+{
+"lat": 41.0267109,
+"lon": -1.3487416,
+"id": "way/219293414",
+"k": {}
+},
+{
+"lat": 41.0767122,
+"lon": -1.3965607,
+"id": "way/220938319",
+"k": {}
+},
+{
+"lat": 40.8984549,
+"lon": -1.3202262,
+"id": "way/224361140",
+"k": {}
+},
+{
+"lat": 41.1735243,
+"lon": -1.5909012,
+"id": "way/261425142",
+"k": {}
+},
+{
+"lat": 41.1735899,
+"lon": -1.5823755,
+"id": "way/261425143",
+"k": {}
+},
+{
+"lat": 41.1664196,
+"lon": -1.5693183,
+"id": "way/261425146",
+"k": {}
+},
+{
+"lat": 41.1580609,
+"lon": -1.5485895,
+"id": "way/261457003",
+"k": {}
+},
+{
+"lat": 41.1496541,
+"lon": -1.5036709,
+"id": "way/261458608",
+"k": {}
+},
+{
+"lat": 41.1575529,
+"lon": -1.4880436,
+"id": "way/261459403",
+"k": {}
+},
+{
+"lat": 41.1566458,
+"lon": -1.4863255,
+"id": "way/261459408",
+"k": {}
+},
+{
+"lat": 41.123161,
+"lon": -1.4407029,
+"id": "way/261460274",
+"k": {}
+},
+{
+"lat": 41.0624925,
+"lon": -1.3851164,
+"id": "way/261584218",
+"k": {}
+},
+{
+"lat": 41.0556155,
+"lon": -1.3819229,
+"id": "way/261585148",
+"k": {}
+},
+{
+"lat": 41.046671,
+"lon": -1.3769764,
+"id": "way/261585149",
+"k": {}
+},
+{
+"lat": 41.0411844,
+"lon": -1.369361,
+"id": "way/261585150",
+"k": {}
+},
+{
+"lat": 41.0364221,
+"lon": -1.3634047,
+"id": "way/261585152",
+"k": {}
+},
+{
+"lat": 41.0032681,
+"lon": -1.3275369,
+"id": "way/261588785",
+"k": {}
+},
+{
+"lat": 41.0078532,
+"lon": -1.3318929,
+"id": "way/261588787",
+"k": {}
+},
+{
+"lat": 40.9683653,
+"lon": -1.3126784,
+"id": "way/261628938",
+"k": {}
+},
+{
+"lat": 40.890993,
+"lon": -1.3265737,
+"id": "way/261834962",
+"k": {}
+},
+{
+"lat": 40.8513353,
+"lon": -1.3232802,
+"id": "way/261837404",
+"k": {}
+},
+{
+"lat": 41.3151908,
+"lon": -1.7408035,
+"id": "way/263210083",
+"k": {}
+},
+{
+"lat": 41.0347465,
+"lon": -1.3531159,
+"id": "way/366881919",
+"k": {}
+},
+{
+"lat": 40.9064765,
+"lon": -1.3164624,
+"id": "way/366882013",
+"k": {}
+},
+{
+"lat": 41.1302245,
+"lon": -1.4517978,
+"id": "way/366882018",
+"k": {}
+},
+{
+"lat": 41.1498025,
+"lon": -1.4692289,
+"id": "way/443099599",
+"k": {}
+},
+{
+"lat": 41.1359915,
+"lon": -1.4575512,
+"id": "way/443099602",
+"k": {}
+},
+{
+"lat": 41.143703,
+"lon": -1.4632573,
+"id": "way/443099603",
+"k": {}
+},
+{
+"lat": 41.130837,
+"lon": -1.4539411,
+"id": "way/443099604",
+"k": {}
+},
+{
+"lat": 41.1327688,
+"lon": -1.4558655,
+"id": "way/443099605",
+"k": {}
+},
+{
+"lat": 41.1486072,
+"lon": -1.5304943,
+"id": "way/443102945",
+"k": {}
+},
+{
+"lat": 41.1723065,
+"lon": -1.6009879,
+"id": "way/444511300",
+"k": {}
+},
+{
+"lat": 41.1893671,
+"lon": -1.588492,
+"id": "way/447569747",
+"k": {}
+},
+{
+"lat": 41.1806291,
+"lon": -1.5942411,
+"id": "way/447569748",
+"k": {}
+},
+{
+"lat": 41.1972285,
+"lon": -1.5989532,
+"id": "way/447569766",
+"k": {}
+},
+{
+"lat": 41.2034247,
+"lon": -1.614603,
+"id": "way/447569767",
+"k": {}
+},
+{
+"lat": 41.203434,
+"lon": -1.612631,
+"id": "way/447569769",
+"k": {}
+},
+{
+"lat": 41.3178121,
+"lon": -1.7581724,
+"id": "way/447595973",
+"k": {}
+},
+{
+"lat": 41.0795478,
+"lon": -1.403697,
+"id": "way/458967268",
+"k": {}
+},
+{
+"lat": 41.0493814,
+"lon": -1.3786237,
+"id": "way/458975064",
+"k": {}
+},
+{
+"lat": 41.0174147,
+"lon": -1.3406171,
+"id": "way/458975086",
+"k": {}
+},
+{
+"lat": 41.0138116,
+"lon": -1.3376633,
+"id": "way/458975088",
+"k": {}
+},
+{
+"lat": 40.9938315,
+"lon": -1.3185312,
+"id": "way/458978259",
+"k": {}
+},
+{
+"lat": 40.8860563,
+"lon": -1.330935,
+"id": "way/458989852",
+"k": {}
+},
+{
+"lat": 41.3154777,
+"lon": -1.7383228,
+"id": "way/496369452",
+"k": {}
+},
+{
+"lat": 41.1318962,
+"lon": -1.4489749,
+"id": "way/496369459",
+"k": {}
+},
+{
+"lat": 41.0197346,
+"lon": -1.3434873,
+"id": "way/563641929",
+"k": {}
+},
+{
+"lat": 41.2170428,
+"lon": -1.6707828,
+"id": "way/819413656",
+"k": {}
+},
+{
+"lat": 40.9363866,
+"lon": -1.3020617,
+"id": "way/838095393",
+"k": {}
+},
+{
+"lat": 40.9357509,
+"lon": -1.3018017,
+"id": "way/838095394",
+"k": {}
+},
+{
+"lat": 40.9153072,
+"lon": -1.309525,
+"id": "way/1420674807",
+"k": {}
+}
+],
+"Camino del Cid GR160": [
+{
+"lat": 41.3033118,
+"lon": -1.7355057,
+"id": "way/183345576",
+"k": {}
+}
+],
+"Basílica de Santa María de los Sagrados Corporales": [
+{
+"lat": 41.1152353,
+"lon": -1.4137891,
+"id": "way/198726985",
+"k": {
+"amenity": "place_of_worship",
+"building": "basilica",
+"religion": "christian",
+"tourism": "attraction"
+}
+}
+],
+"Iglesia de San Juan Bautista": [
+{
+"lat": 41.0726113,
+"lon": -1.4230714,
+"id": "way/198776960",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 41.2105681,
+"lon": -1.0825343,
+"id": "way/486031501",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Laguna de Guialguerrero": [
+{
+"lat": 41.0794589,
+"lon": -1.6117521,
+"id": "way/210111614",
+"k": {
+"natural": "water"
+}
+}
+],
+"Calle la Mina": [
+{
+"lat": 40.9157977,
+"lon": -1.2987067,
+"id": "way/239672596",
+"k": {}
+},
+{
+"lat": 40.9153117,
+"lon": -1.2988104,
+"id": "way/239672604",
+"k": {}
+}
+],
+"Castillo Mayor": [
+{
+"lat": 41.1159883,
+"lon": -1.4120959,
+"id": "way/254680933",
+"k": {
+"building": "yes",
+"historic": "castle"
+}
+}
+],
+"Puerta Baja": [
+{
+"lat": 41.1127598,
+"lon": -1.4169887,
+"id": "way/254680980",
+"k": {
+"building": "yes",
+"historic": "city_gate",
+"tourism": "attraction"
+}
+}
+],
+"Calle La Mina": [
+{
+"lat": 41.1138143,
+"lon": -1.4092369,
+"id": "way/254683634",
+"k": {}
+},
+{
+"lat": 41.1138282,
+"lon": -1.4091471,
+"id": "way/254683635",
+"k": {}
+}
+],
+"Rambla de la Mina": [
+{
+"lat": 41.1068342,
+"lon": -1.4104254,
+"id": "way/254746388",
+"k": {}
+},
+{
+"lat": 41.1071541,
+"lon": -1.4097052,
+"id": "way/254746391",
+"k": {}
+},
+{
+"lat": 41.1080613,
+"lon": -1.4093478,
+"id": "way/254746393",
+"k": {}
+},
+{
+"lat": 41.1066014,
+"lon": -1.41096,
+"id": "way/558323084",
+"k": {}
+},
+{
+"lat": 41.10582,
+"lon": -1.4134918,
+"id": "way/558323088",
+"k": {}
+},
+{
+"lat": 41.1060883,
+"lon": -1.4121263,
+"id": "way/558323090",
+"k": {}
+},
+{
+"lat": 41.1054159,
+"lon": -1.416615,
+"id": "way/558323091",
+"k": {}
+},
+{
+"lat": 41.1055678,
+"lon": -1.4148442,
+"id": "way/558323092",
+"k": {}
+},
+{
+"lat": 41.1103674,
+"lon": -1.4090492,
+"id": "way/558323093",
+"k": {}
+}
+],
+"Puente medieval de Luco de Jiloca": [
+{
+"lat": 40.9700143,
+"lon": -1.3138402,
+"id": "way/256328415",
+"k": {}
+}
+],
+"Iglesia de San Pedro Apóstol": [
+{
+"lat": 41.1585853,
+"lon": -1.0426651,
+"id": "way/381321231",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de la Asunción": [
+{
+"lat": 41.2770803,
+"lon": -1.7973048,
+"id": "way/394715517",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 40.8687784,
+"lon": -1.0127511,
+"id": "way/678459564",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Castillo de Anento": [
+{
+"lat": 41.0712548,
+"lon": -1.3326285,
+"id": "way/406642496",
+"k": {
+"building": "yes",
+"historic": "castle"
+}
+}
+],
+"Area Recreativa Aguallueve de 'l'Arguilay'": [
+{
+"lat": 41.045835,
+"lon": -1.3160925,
+"id": "way/406642870",
+"k": {
+"tourism": "picnic_site"
+}
+}
+],
+"Senda del Aguallueve": [
+{
+"lat": 41.0720296,
+"lon": -1.3286025,
+"id": "way/428961432",
+"k": {}
+},
+{
+"lat": 41.0708135,
+"lon": -1.3280455,
+"id": "way/466422601",
+"k": {}
+},
+{
+"lat": 41.07351,
+"lon": -1.325562,
+"id": "way/1458986993",
+"k": {}
+}
+],
+"Aguallueve de Anento": [
+{
+"lat": 41.0732849,
+"lon": -1.3253902,
+"id": "way/428963164",
+"k": {
+"natural": "water"
+}
+}
+],
+"Iglesia de San Blas": [
+{
+"lat": 41.0696778,
+"lon": -1.3333025,
+"id": "way/464920653",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de la Asunción de la Virgen": [
+{
+"lat": 41.1444999,
+"lon": -1.3812171,
+"id": "way/480291806",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Iglesia de la Virgen del Rosario": [
+{
+"lat": 41.1432044,
+"lon": -1.3247628,
+"id": "way/490185691",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de la Asunción de Nuestra Señora": [
+{
+"lat": 40.9880626,
+"lon": -1.3083786,
+"id": "way/502183562",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 40.9295786,
+"lon": -1.2568312,
+"id": "way/865911462",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Centro de Interpretación de la Reserva Natural Dirigida de la Laguna de Gallocanta": [
+{
+"lat": 40.9289015,
+"lon": -1.465579,
+"id": "way/664066984",
+"k": {
+"building": "yes",
+"tourism": "museum"
+}
+}
+],
+"Iglesia de San Pedro": [
+{
+"lat": 40.8905567,
+"lon": -1.4585351,
+"id": "way/664829064",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 41.0326987,
+"lon": -1.0903479,
+"id": "way/904178052",
+"k": {
+"amenity": "place_of_worship",
+"building": "ruins",
+"religion": "christian"
+}
+},
+{
+"lat": 40.9966778,
+"lon": -1.5094157,
+"id": "way/1093002664",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 40.8637491,
+"lon": -1.323224,
+"id": "way/1180000827",
+"k": {
+"building": "yes"
+}
+}
+],
+"Iglesia de Nuestra Señora de la Junquera": [
+{
+"lat": 41.1669351,
+"lon": -1.1471325,
+"id": "way/802499546",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Iglesia de la Asunción de Nª Sª": [
+{
+"lat": 40.9907674,
+"lon": -1.466881,
+"id": "way/818712986",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Ermita de Santo Domingo": [
+{
+"lat": 40.9722069,
+"lon": -1.6732425,
+"id": "way/843677895",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes"
+}
+}
+],
+"Camino Mirador Castillo de Berrueco": [
+{
+"lat": 40.9914934,
+"lon": -1.4684465,
+"id": "way/911761442",
+"k": {}
+}
+],
+"Camino del cid": [
+{
+"lat": 41.3107045,
+"lon": -1.7514002,
+"id": "way/1001800001",
+"k": {}
+}
+],
+"Ermita de la Virgen del Buen Acuerdo": [
+{
+"lat": 40.9885825,
+"lon": -1.5302591,
+"id": "way/1030368729",
+"k": {
+"building": "church"
+}
+}
+],
+"Iglesia de la Conversión de San Pablo": [
+{
+"lat": 41.150244,
+"lon": -1.4663502,
+"id": "way/1062655369",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Arroyo de la Mina": [
+{
+"lat": 41.1389426,
+"lon": -1.1069816,
+"id": "way/1207217672",
+"k": {}
+}
+],
+"GR 160 - Camino del Cid BTT": [
+{
+"lat": 40.8053123,
+"lon": -2.0432909,
+"id": "relation/2188235",
+"k": {}
+}
+],
+"Camino del Cid (Senderista)": [
+{
+"lat": 40.25819,
+"lon": -2.197339,
+"id": "relation/6594270",
+"k": {}
+}
+],
+"Laguna de Gallocanta": [
+{
+"lat": 40.9388903,
+"lon": -1.4601822,
+"id": "relation/11362798",
+"k": {}
+},
+{
+"lat": 40.9669358,
+"lon": -1.5011668,
+"id": "relation/11671892",
+"k": {
+"natural": "water"
+}
+}
+],
+"Enlace Laguna de Gallocanta - Ruta del Río Jiloca": [
+{
+"lat": 40.8993968,
+"lon": -1.3954156,
+"id": "relation/11517145",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Alternativa H - Bello - Torralba de los Sisones": [
+{
+"lat": 40.9111862,
+"lon": -1.4778953,
+"id": "relation/11517146",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Alternativa G - Ruta familiar (Tornos - Gallocanta)": [
+{
+"lat": 40.9703706,
+"lon": -1.4677255,
+"id": "relation/11517147",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Alternativa F - Ruta familiar (Bello - Tornos)": [
+{
+"lat": 40.941969,
+"lon": -1.4642873,
+"id": "relation/11517148",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional E - Castillo de Tornos": [
+{
+"lat": 40.9562787,
+"lon": -1.4293251,
+"id": "relation/11517149",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional D - Ermita de la Virgen de los Olmos": [
+{
+"lat": 40.9480293,
+"lon": -1.4416505,
+"id": "relation/11517150",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional C - Vistas de Berrueco": [
+{
+"lat": 40.987594,
+"lon": -1.4653641,
+"id": "relation/11517151",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional B - Castillo de Berrueco": [
+{
+"lat": 40.992025,
+"lon": -1.4678545,
+"id": "relation/11517152",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional A - Berrueco": [
+{
+"lat": 40.9779094,
+"lon": -1.4686287,
+"id": "relation/11517153",
+"k": {}
+}
+],
+"Reserva Natural Dirigida de la Laguna de Gallocanta": [
+{
+"lat": 40.9633123,
+"lon": -1.5002905,
+"id": "relation/11671893",
+"k": {
+"leisure": "nature_reserve"
+}
+}
+],
+"Zona Periférica de Protección de la Reserva Natural Dirigida de la Laguna de Gallocanta": [
+{
+"lat": 40.9728872,
+"lon": -1.5069633,
+"id": "relation/11913296",
+"k": {
+"leisure": "nature_reserve"
+}
+}
+]
+}
+}
