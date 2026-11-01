@@ -58,7 +58,7 @@ for pid, by_lang in texts.items():
         synth(txt, "tmp.wav")
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", "tmp.wav", "-af",
                         "apad=pad_dur=0.4,loudnorm=I=-17:TP=-1.5", "-ac", "1", "-ar", "22050",
-                        "-c:a", "libmp3lame", "-b:a", "48k", out], check=True)
+                        "-c:a", "libmp3lame", "-b:a", "32k", out], check=True)
         manifest[pid] = h; ok += 1
         say(pid, os.path.getsize(out))
         json.dump(manifest, open(mpath, "w"), indent=0, sort_keys=True)
