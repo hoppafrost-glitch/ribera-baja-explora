@@ -28,6 +28,7 @@ for slug, c in IN.items():
     log("==", slug)
     # 1. límites
     try:
+        if c.get("no_base"): raise StopIteration
         names = "|".join(re.escape(m) for m in c["munis"])
         q = f'[out:json][timeout:180];area["name"="{c["prov"]}"]["boundary"="administrative"]["admin_level"~"^(4|6)$"]->.p;(rel(area.p)["boundary"="administrative"]["admin_level"="8"]["name"~"^({names})( / .*)?$"];rel(area.p)["boundary"="administrative"]["admin_level"="8"]["name:es"~"^({names})$"];);out geom;'
         r = overpass(q)
@@ -59,6 +60,8 @@ for slug, c in IN.items():
                     feats.append({"type": "Feature", "properties": {"river": 1}, "geometry": mapping(best)})
                     log("  río ok", len(best.coords))
         json.dump({"type": "FeatureCollection", "features": feats}, open(f"tools/clientes/out/{slug}-base.json", "w"), ensure_ascii=False)
+    except StopIteration:
+        log("  sin límites (no_base)")
     except Exception:
         log(traceback.format_exc())
     if os.path.exists(f"tools/clientes/out/{slug}-geo.json") and os.path.exists(f"tools/clientes/out/{slug}-fotos.json"):
@@ -93,6 +96,8 @@ for slug, c in IN.items():
             except Exception as e:
                 geo["_overpass_error"] = str(e)
     json.dump(geo, open(f"tools/clientes/out/{slug}-geo.json", "w"), ensure_ascii=False, indent=0)
+    if c.get("no_fotos"):
+        log("  hecho (sin fotos)", slug); continue
     # 3. fotos de Commons
     def api(params):
         params.update(action="query", format="json")

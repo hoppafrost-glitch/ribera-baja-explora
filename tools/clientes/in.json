@@ -20,10 +20,10 @@
   ],
   "river": "Río Aguasvivas",
   "bbox": [
-   -1.084,
-   41.012,
-   -0.43,
-   41.543
+   -1.0841020000000001,
+   41.012136,
+   -0.42963700000000005,
+   41.543402
   ],
   "pois": {
    "pueblo-viejo": {
@@ -32,13 +32,8 @@
     "q": [
      "Pueblo Viejo de Belchite",
      "Belchite Viejo",
-     "Calle Mayor, Belchite"
-    ],
-    "fq": [
-     "Category:Belchite",
-     "Belchite pueblo viejo",
-     "Belchite ruinas",
-     "Pueblo Viejo de Belchite Belchite"
+     "Calle Mayor, Belchite",
+     "Pueblo Viejo de Belchite, Belchite"
     ]
    },
    "iglesia-san-martin": {
@@ -46,12 +41,18 @@
     "mun": "Belchite",
     "q": [
      "Iglesia de San Martín de Tours, Belchite",
-     "San Martín de Tours, Pueblo Viejo de Belchite"
-    ],
-    "fq": [
-     "Iglesia de San Martín de Tours Belchite",
-     "Belchite San Martin church ruins",
-     "Iglesia de San Martín de Tours Belchite"
+     "San Martín de Tours, Pueblo Viejo de Belchite",
+     "Iglesia de San Martín de Tours, Belchite"
+    ]
+   },
+   "torre-reloj-san-agustin": {
+    "name": "Torre del Reloj y convento de San Agustín",
+    "mun": "Belchite",
+    "q": [
+     "Torre del Reloj, Belchite",
+     "Convento de San Agustín, Belchite",
+     "Arco de la Villa, Belchite",
+     "Torre del Reloj y convento de San Agustín, Belchite"
     ]
    },
    "el-trujal": {
@@ -59,12 +60,8 @@
     "mun": "Belchite",
     "q": [
      "Monumento a los Caídos, Belchite",
+     "El Trujal, Belchite",
      "El Trujal, Belchite"
-    ],
-    "fq": [
-     "Belchite monumento caidos trujal",
-     "Belchite trujal",
-     "El Trujal · Monumento a los Caídos Belchite"
     ]
    },
    "pueblo-nuevo": {
@@ -72,12 +69,8 @@
     "mun": "Belchite",
     "q": [
      "Plaza de la Bola, Belchite",
-     "Iglesia de San Martín de Tours, Belchite Pueblo Nuevo"
-    ],
-    "fq": [
-     "Belchite pueblo nuevo",
-     "Belchite Regiones Devastadas",
-     "Pueblo Nuevo de Belchite Belchite"
+     "Iglesia de San Martín de Tours, Belchite Pueblo Nuevo",
+     "Pueblo Nuevo de Belchite, Belchite"
     ]
    },
    "campo-rusia": {
@@ -85,12 +78,8 @@
     "mun": "Belchite",
     "q": [
      "Campo de Rusia, Belchite",
-     "Ermita de la Virgen de los Desamparados, Belchite"
-    ],
-    "fq": [
-     "Belchite campo Rusia",
-     "Belchite barracones Rusia",
-     "Campo de desplazados 'Rusia' Belchite"
+     "Ermita de la Virgen de los Desamparados, Belchite",
+     "Campo de desplazados 'Rusia', Belchite"
     ]
    },
    "posiciones-saso": {
@@ -98,12 +87,17 @@
     "mun": "Belchite",
     "q": [
      "Posiciones del Saso, Belchite",
-     "Carretera A-222 Belchite Azaila"
-    ],
-    "fq": [
-     "Belchite Saso bunker",
-     "Belchite trincheras guerra civil",
-     "Posiciones defensivas del Saso Belchite"
+     "Carretera A-222 Belchite Azaila",
+     "Posiciones defensivas del Saso, Belchite"
+    ]
+   },
+   "vertice-lobo": {
+    "name": "Enclave artillero del Vértice Lobo",
+    "mun": "Belchite",
+    "q": [
+     "Mojón del Lobo, Belchite",
+     "Vértice Lobo, Belchite",
+     "Enclave artillero del Vértice Lobo, Belchite"
     ]
    },
    "santuario-pueyo": {
@@ -111,12 +105,8 @@
     "mun": "Belchite",
     "q": [
      "Santuario de Nuestra Señora del Pueyo, Belchite",
-     "Ermita del Pueyo, Belchite"
-    ],
-    "fq": [
-     "Santuario del Pueyo Belchite",
-     "Virgen del Pueyo Belchite",
-     "Santuario de Nuestra Señora del Pueyo Belchite"
+     "Ermita del Pueyo, Belchite",
+     "Santuario de Nuestra Señora del Pueyo, Belchite"
     ]
    },
    "granja-escuela": {
@@ -124,12 +114,8 @@
     "mun": "Belchite",
     "q": [
      "Museo Etnológico de Belchite",
-     "Centro de Interpretación de las Estepas del Valle del Ebro, Belchite"
-    ],
-    "fq": [
-     "Belchite museo etnologico",
-     "Centro de Interpretación de las Estepas Belchite",
-     "Museo Etnológico y Centro de las Estepas Belchite"
+     "Centro de Interpretación de las Estepas del Valle del Ebro, Belchite",
+     "Museo Etnológico y Centro de las Estepas, Belchite"
     ]
    },
    "el-planeron": {
@@ -137,12 +123,18 @@
     "mun": "Belchite",
     "q": [
      "Reserva Ornitológica El Planerón",
-     "El Planerón, Belchite"
-    ],
-    "fq": [
-     "El Planerón",
-     "Planerón Belchite estepa",
-     "Reserva Ornitológica El Planerón Belchite"
+     "El Planerón, Belchite",
+     "Reserva Ornitológica El Planerón, Belchite"
+    ]
+   },
+   "la-lomaza": {
+    "name": "Refugio de Fauna Silvestre de La Lomaza",
+    "mun": "Belchite",
+    "q": [
+     "Refugio de Fauna Silvestre La Lomaza, Belchite",
+     "La Lomaza, Belchite",
+     "A-222 km 16.8 Belchite",
+     "Refugio de Fauna Silvestre de La Lomaza, Belchite"
     ]
    },
    "casa-natal-goya": {
@@ -150,24 +142,36 @@
     "mun": "Fuendetodos",
     "q": [
      "Casa Natal de Goya, Fuendetodos",
-     "Calle Zuloaga, Fuendetodos"
-    ],
-    "fq": [
-     "Category:Casa natal de Goya",
-     "Casa natal de Goya Fuendetodos",
-     "Casa Natal de Goya Fuendetodos"
+     "Calle Alfóndiga 11, Fuendetodos",
+     "Casa Natal de Goya, Fuendetodos"
     ]
    },
    "museo-grabado": {
     "name": "Museo del Grabado de Goya",
     "mun": "Fuendetodos",
     "q": [
+     "Museo del Grabado de Goya, Fuendetodos",
+     "Calle Zuloaga 3, Fuendetodos",
      "Museo del Grabado de Goya, Fuendetodos"
-    ],
-    "fq": [
-     "Museo del Grabado de Goya Fuendetodos",
-     "Fuendetodos museo grabado",
-     "Museo del Grabado de Goya Fuendetodos"
+    ]
+   },
+   "iglesia-hundida": {
+    "name": "Iglesia hundida e iglesia de la Asunción",
+    "mun": "Fuendetodos",
+    "q": [
+     "Iglesia hundida, Fuendetodos",
+     "Nuestra Señora de los Villares, Fuendetodos",
+     "Iglesia de la Asunción, Fuendetodos",
+     "Iglesia hundida e iglesia de la Asunción, Fuendetodos"
+    ]
+   },
+   "neveras-fuendetodos": {
+    "name": "Neveras de Culroya y del Calvario",
+    "mun": "Fuendetodos",
+    "q": [
+     "Nevera de Culroya, Fuendetodos",
+     "Nevera del Calvario, Fuendetodos",
+     "Neveras de Culroya y del Calvario, Fuendetodos"
     ]
    },
    "trincheras-sierra-gorda": {
@@ -175,12 +179,8 @@
     "mun": "Fuendetodos",
     "q": [
      "Sierra Gorda, Fuendetodos",
-     "Vértice Sierra Gorda"
-    ],
-    "fq": [
-     "Fuendetodos trincheras Sierra Gorda",
-     "Fuendetodos guerra civil fortín",
-     "Fortines republicanos de Sierra Gorda Fuendetodos"
+     "Vértice Sierra Gorda",
+     "Fortines republicanos de Sierra Gorda, Fuendetodos"
     ]
    },
    "presa-almonacid": {
@@ -188,24 +188,185 @@
     "mun": "Almonacid de la Cuba",
     "q": [
      "Presa romana de Almonacid de la Cuba",
-     "La Cuba, Almonacid de la Cuba"
-    ],
-    "fq": [
-     "Category:Almonacid de la Cuba Dam",
-     "Presa romana de Almonacid de la Cuba",
-     "Presa romana de Almonacid de la Cuba Almonacid de la Cuba"
+     "La Cuba, Almonacid de la Cuba",
+     "Presa romana de Almonacid de la Cuba, Almonacid de la Cuba"
     ]
    },
    "villa-la-malena": {
     "name": "Villa romana de La Malena",
     "mun": "Azuara",
     "q": [
+     "Villa romana de La Malena, Azuara",
+     "Capilla de San Juan del Hospital, Azuara",
      "Villa romana de La Malena, Azuara"
-    ],
-    "fq": [
-     "Villa romana de La Malena",
-     "La Malena Azuara mosaico",
-     "Villa romana de La Malena Azuara"
+    ]
+   },
+   "iglesia-piedad-azuara": {
+    "name": "Iglesia de Nuestra Señora de la Piedad",
+    "mun": "Azuara",
+    "q": [
+     "Iglesia de Nuestra Señora de la Piedad, Azuara",
+     "Plaza de la Iglesia, Azuara",
+     "Iglesia de Nuestra Señora de la Piedad, Azuara"
+    ]
+   },
+   "ermita-san-nicolas": {
+    "name": "Ermita de San Nicolás de Bari",
+    "mun": "Azuara",
+    "q": [
+     "Ermita de San Nicolás de Bari, Azuara",
+     "Ermita de San Nicolás de Bari, Azuara"
+    ]
+   },
+   "cuartel-general-azuara": {
+    "name": "Cuartel General republicano de Azuara",
+    "mun": "Azuara",
+    "q": [
+     "Cuartel General republicano, Azuara",
+     "Cueva del Tabaco, Azuara",
+     "Cuartel General republicano de Azuara, Azuara"
+    ]
+   },
+   "calvario-codo": {
+    "name": "El Calvario de Codo",
+    "mun": "Codo",
+    "q": [
+     "Ermita de Nuestra Señora de Montserrat, Codo",
+     "El Calvario, Codo",
+     "El Calvario de Codo, Codo"
+    ]
+   },
+   "iglesia-san-bernardo-codo": {
+    "name": "Iglesia de San Bernardo y castillo",
+    "mun": "Codo",
+    "q": [
+     "Iglesia de San Bernardo, Codo",
+     "Codo, Zaragoza",
+     "Iglesia de San Bernardo y castillo, Codo"
+    ]
+   },
+   "almochuel-calle-mayor": {
+    "name": "Almochuel: iglesia, calle Mayor y embalse",
+    "mun": "Almochuel",
+    "q": [
+     "Iglesia de San Gervasio y San Protasio, Almochuel",
+     "Calle Mayor, Almochuel",
+     "Embalse de Almochuel",
+     "Almochuel: iglesia, calle Mayor y embalse, Almochuel"
+    ]
+   },
+   "baul-lagata": {
+    "name": "El Baúl de Lagata",
+    "mun": "Lagata",
+    "q": [
+     "El Baúl de Lagata",
+     "Plaza de la Iglesia, Lagata",
+     "Iglesia de la Exaltación de la Santa Cruz, Lagata",
+     "El Baúl de Lagata, Lagata"
+    ]
+   },
+   "lavadero-lagata": {
+    "name": "Lavadero de El Prado y azud de Lagata",
+    "mun": "Lagata",
+    "q": [
+     "Lavadero de Lagata",
+     "El Prado, Lagata",
+     "Azud de Lagata",
+     "Lavadero de El Prado y azud de Lagata, Lagata"
+    ]
+   },
+   "iglesia-lecera": {
+    "name": "Iglesia de Santa María Magdalena",
+    "mun": "Lécera",
+    "q": [
+     "Iglesia de Santa María Magdalena, Lécera",
+     "Plaza Fernando el Católico, Lécera",
+     "Iglesia de Santa María Magdalena, Lécera"
+    ]
+   },
+   "ermita-santo-domingo-lecera": {
+    "name": "Ermita de Santo Domingo de Guzmán",
+    "mun": "Lécera",
+    "q": [
+     "Ermita de Santo Domingo de Guzmán, Lécera",
+     "Lécera, campo de fútbol",
+     "Ermita de Santo Domingo de Guzmán, Lécera"
+    ]
+   },
+   "palacio-lazan-letux": {
+    "name": "Palacio de Lazán e iglesia de las Nieves",
+    "mun": "Letux",
+    "q": [
+     "Palacio de los Marqueses de Lazán, Letux",
+     "Iglesia de la Virgen de las Nieves, Letux",
+     "Plaza de España, Letux",
+     "Palacio de Lazán e iglesia de las Nieves, Letux"
+    ]
+   },
+   "torre-san-pedro-samper": {
+    "name": "Torre de San Pedro y priorato",
+    "mun": "Samper del Salz",
+    "q": [
+     "Iglesia de San Pedro, Samper del Salz",
+     "Calle Mayor, Samper del Salz",
+     "Torre de San Pedro y priorato, Samper del Salz"
+    ]
+   },
+   "espacio-fortun": {
+    "name": "Espacio Antonio Fortún",
+    "mun": "Samper del Salz",
+    "q": [
+     "Espacio Antonio Fortún, Samper del Salz",
+     "Calle Mayor, Samper del Salz",
+     "Espacio Antonio Fortún, Samper del Salz"
+    ]
+   },
+   "embalse-moneva": {
+    "name": "Embalse y azud de Moneva",
+    "mun": "Moneva",
+    "q": [
+     "Embalse de Moneva",
+     "Presa de Moneva",
+     "Azud de Moneva",
+     "Embalse y azud de Moneva, Moneva"
+    ]
+   },
+   "diapiro-moneva": {
+    "name": "El volcán o diapiro de Moneva",
+    "mun": "Moneva",
+    "q": [
+     "Volcán de Moneva",
+     "Diapiro de Moneva",
+     "Mirador del Volcán, Moneva",
+     "El volcán o diapiro de Moneva, Moneva"
+    ]
+   },
+   "santa-maria-allende": {
+    "name": "Ermita de Santa María de Allende",
+    "mun": "Moyuela",
+    "q": [
+     "Ermita de Santa María de Allende, Moyuela",
+     "Calle Santa María, Moyuela",
+     "Ermita de Santa María de Allende, Moyuela"
+    ]
+   },
+   "san-clemente-moyuela": {
+    "name": "Ermita de San Clemente e iglesia de la Piedad",
+    "mun": "Moyuela",
+    "q": [
+     "Ermita de San Clemente, Moyuela",
+     "Iglesia de Nuestra Señora de la Piedad, Moyuela",
+     "Ermita de San Clemente e iglesia de la Piedad, Moyuela"
+    ]
+   },
+   "casas-cueva-moyuela": {
+    "name": "Casas cueva, lavadero y nevera de Moyuela",
+    "mun": "Moyuela",
+    "q": [
+     "Casas cueva, Moyuela",
+     "Lavadero de Moyuela",
+     "Nevera de Moyuela",
+     "Casas cueva, lavadero y nevera de Moyuela, Moyuela"
     ]
    },
    "aerodromo-plenas": {
@@ -213,12 +374,56 @@
     "mun": "Plenas",
     "q": [
      "Aeródromo de Plenas",
-     "El Bombal, Plenas"
-    ],
-    "fq": [
-     "Plenas aeródromo guerra civil",
-     "Plenas Zaragoza",
-     "Aeródromo de Plenas Plenas"
+     "El Bombal, Plenas",
+     "Aeródromo de Plenas, Plenas"
+    ]
+   },
+   "ermita-carrascal": {
+    "name": "Santuario de la Virgen del Carrascal",
+    "mun": "Plenas",
+    "q": [
+     "Santuario de la Virgen del Carrascal, Plenas",
+     "Ermita del Carrascal, Plenas",
+     "Santuario de la Virgen del Carrascal, Plenas"
+    ]
+   },
+   "museo-manuela-sancho": {
+    "name": "Museo Etnográfico Manuela Sancho",
+    "mun": "Plenas",
+    "q": [
+     "Museo Etnográfico Manuela Sancho, Plenas",
+     "Calle Hoyo 30, Plenas",
+     "Lavadero de Plenas",
+     "Museo Etnográfico Manuela Sancho, Plenas"
+    ]
+   },
+   "foz-zafrane": {
+    "name": "Foz de Zafrané",
+    "mun": "La Puebla de Albortón",
+    "q": [
+     "Foz de Zafrané, La Puebla de Albortón",
+     "Foz de Zafrané",
+     "Foz de Zafrané, La Puebla de Albortón"
+    ]
+   },
+   "via-utrillas": {
+    "name": "Antiguo ferrocarril minero de Utrillas",
+    "mun": "La Puebla de Albortón",
+    "q": [
+     "Vía Verde Zaragoza Utrillas, La Puebla de Albortón",
+     "Antigua estación de Lécera",
+     "Túnel de Valdescalera, Valmadrid",
+     "Antiguo ferrocarril minero de Utrillas, La Puebla de Albortón"
+    ]
+   },
+   "pinares-valmadrid": {
+    "name": "Pinares de Valmadrid",
+    "mun": "Valmadrid",
+    "q": [
+     "Pinares de Valmadrid",
+     "Valmadrid",
+     "Iglesia de la Asunción, Valmadrid",
+     "Pinares de Valmadrid, Valmadrid"
     ]
    }
   },
@@ -226,19 +431,49 @@
    "Aeródromo de Plenas",
    "Campo de Rusia",
    "Casa Natal de Goya",
+   "Casas cueva",
+   "Cuartel General republicano",
+   "El Baúl de Lagata",
+   "Embalse de Moneva",
+   "Ermita de Nuestra Señora de Montserrat",
+   "Ermita de San Clemente",
+   "Ermita de San Nicolás de Bari",
+   "Ermita de Santa María de Allende",
+   "Ermita de Santo Domingo de Guzmán",
+   "Espacio Antonio Fortún",
+   "Foz de Zafrané",
+   "Iglesia de Nuestra Señora de la Piedad",
+   "Iglesia de San Bernardo",
+   "Iglesia de San Gervasio y San Protasio",
    "Iglesia de San Martín de Tours",
+   "Iglesia de San Pedro",
+   "Iglesia de Santa María Magdalena",
+   "Iglesia hundida",
+   "Lavadero de Lagata",
+   "Mojón del Lobo",
    "Monumento a los Caídos",
+   "Museo Etnográfico Manuela Sancho",
    "Museo Etnológico de Belchite",
    "Museo del Grabado de Goya",
+   "Nevera de Culroya",
+   "Palacio de los Marqueses de Lazán",
+   "Pinares de Valmadrid",
    "Plaza de la Bola",
    "Posiciones del Saso",
    "Presa romana de Almonacid de la Cuba",
    "Pueblo Viejo de Belchite",
+   "Refugio de Fauna Silvestre La Lomaza",
    "Reserva Ornitológica El Planerón",
    "Santuario de Nuestra Señora del Pueyo",
+   "Santuario de la Virgen del Carrascal",
    "Sierra Gorda",
-   "Villa romana de La Malena"
-  ]
+   "Torre del Reloj",
+   "Villa romana de La Malena",
+   "Volcán de Moneva",
+   "Vía Verde Zaragoza Utrillas"
+  ],
+  "no_base": true,
+  "no_fotos": true
  },
  "andorra-sierra-de-arcos": {
   "prov": "Teruel",
@@ -255,10 +490,10 @@
   ],
   "river": "Río Martín",
   "bbox": [
-   -0.817,
-   40.675,
-   -0.325,
-   41.133
+   -0.816715,
+   40.675149,
+   -0.324722,
+   41.133056
   ],
   "pois": {
    "mwinas": {
@@ -267,13 +502,8 @@
     "q": [
      "MWINAS, Andorra, Teruel",
      "Museo Minero de Andorra",
-     "Pozo San Juan, Andorra, Teruel"
-    ],
-    "fq": [
-     "MWINAS Andorra Teruel",
-     "Pozo San Juan Andorra castillete",
-     "Museo Minero Andorra Teruel",
-     "MWINAS · Museo Minero y Pozo San Juan Andorra"
+     "Pozo San Juan, Andorra, Teruel",
+     "MWINAS, Andorra"
     ]
    },
    "el-cabo": {
@@ -281,13 +511,44 @@
     "mun": "Andorra",
     "q": [
      "Poblado ibérico El Cabo, Andorra, Teruel",
-     "Parque arqueológico El Cabo, San Macario, Andorra"
-    ],
-    "fq": [
-     "Poblado ibérico El Cabo Andorra",
-     "El Cabo Andorra Teruel iberos",
-     "San Macario Andorra Teruel",
-     "Poblado íbero de El Cabo Andorra"
+     "Parque arqueológico El Cabo, San Macario, Andorra",
+     "Poblado íbero de El Cabo, Andorra"
+    ]
+   },
+   "iglesia-natividad-andorra": {
+    "name": "Iglesia de la Natividad de Nuestra Señora",
+    "mun": "Andorra",
+    "q": [
+     "Iglesia de la Natividad de Nuestra Señora, Andorra, Teruel",
+     "Plaza de la Iglesia, Andorra, Teruel",
+     "Iglesia de la Natividad de Nuestra Señora, Andorra"
+    ]
+   },
+   "ermita-pilar-andorra": {
+    "name": "Ermita de la Virgen del Pilar",
+    "mun": "Andorra",
+    "q": [
+     "Ermita del Pilar, Andorra, Teruel",
+     "Ermita de la Virgen del Pilar, Andorra",
+     "Ermita de la Virgen del Pilar, Andorra"
+    ]
+   },
+   "centro-pastor-andorra": {
+    "name": "Centro Pastor de Andorra",
+    "mun": "Andorra",
+    "q": [
+     "Centro Pastor de Andorra, Calle Aragón 17, Andorra, Teruel",
+     "Centro del Pastor de Andorra",
+     "Centro Pastor de Andorra, Andorra"
+    ]
+   },
+   "san-macario": {
+    "name": "Ermita y parque de San Macario",
+    "mun": "Andorra",
+    "q": [
+     "Ermita de San Macario, Andorra, Teruel",
+     "Monte San Macario, Andorra",
+     "Ermita y parque de San Macario, Andorra"
     ]
    },
    "san-pedro-oliete": {
@@ -295,13 +556,8 @@
     "mun": "Oliete",
     "q": [
      "Poblado ibérico Cabezo de San Pedro, Oliete",
-     "Ermita de San Pedro, Oliete"
-    ],
-    "fq": [
-     "Cabezo de San Pedro Oliete",
-     "San Pedro Oliete poblado ibero",
-     "Oliete iberos torre",
-     "Fortaleza íbera de San Pedro Oliete"
+     "Ermita de San Pedro, Oliete",
+     "Fortaleza íbera de San Pedro, Oliete"
     ]
    },
    "sima-san-pedro": {
@@ -309,12 +565,8 @@
     "mun": "Oliete",
     "q": [
      "Sima de San Pedro, Oliete",
-     "Sima de San Pedro, Teruel"
-    ],
-    "fq": [
-     "Sima de San Pedro Oliete",
-     "Sima de San Pedro Teruel",
-     "Sima de San Pedro Oliete"
+     "Sima de San Pedro, Teruel",
+     "Sima de San Pedro, Oliete"
     ]
    },
    "cueva-foradada": {
@@ -322,13 +574,54 @@
     "mun": "Oliete",
     "q": [
      "Embalse de Cueva Foradada, Oliete",
-     "Presa de Cueva Foradada"
-    ],
-    "fq": [
-     "Embalse de Cueva Foradada",
-     "Cueva Foradada Oliete",
-     "Pantano Cueva Foradada",
-     "Pantano de la Cueva Foradada Oliete"
+     "Presa de Cueva Foradada",
+     "Pantano de la Cueva Foradada, Oliete"
+    ]
+   },
+   "el-palomar": {
+    "name": "Poblado íbero de El Palomar",
+    "mun": "Oliete",
+    "q": [
+     "Poblado ibérico El Palomar, Oliete",
+     "El Palomar, Oliete, Teruel",
+     "Poblado íbero de El Palomar, Oliete"
+    ]
+   },
+   "centro-iberos-oliete": {
+    "name": "Centro de Interpretación de la Cultura Ibérica",
+    "mun": "Oliete",
+    "q": [
+     "Centro de Interpretación de la Cultura Ibérica, Oliete",
+     "Escuelas, Oliete, Teruel",
+     "Centro de Interpretación de la Cultura Ibérica, Oliete"
+    ]
+   },
+   "tia-chula": {
+    "name": "Frontón de la Tía Chula",
+    "mun": "Oliete",
+    "q": [
+     "Frontón de la Tía Chula, Oliete",
+     "Abrigo de la Tía Chula, Oliete",
+     "Frontón de la Tía Chula, Oliete"
+    ]
+   },
+   "casco-oliete": {
+    "name": "Casco histórico de Oliete",
+    "mun": "Oliete",
+    "q": [
+     "Iglesia de Nuestra Señora de la Asunción, Oliete",
+     "Plaza de la Iglesia, Oliete",
+     "Oliete, Teruel",
+     "Casco histórico de Oliete, Oliete"
+    ]
+   },
+   "olivares-oliete": {
+    "name": "Olivos centenarios de Oliete",
+    "mun": "Oliete",
+    "q": [
+     "Apadrinaunolivo, Oliete",
+     "Oliete, Teruel",
+     "Olivos centenarios de Oliete, Oliete"
     ]
    },
    "arte-rupestre-alacon": {
@@ -337,13 +630,36 @@
     "q": [
      "Barranco del Mortero, Alacón",
      "Cerro Felío, Alacón",
-     "Mirador del Barranco del Mortero, Alacón"
-    ],
-    "fq": [
-     "Barranco del Mortero Alacón",
-     "Cerro Felío Alacón",
-     "Alacón arte rupestre",
-     "Abrigos del Barranco del Mortero y Cerro Felío Alacón"
+     "Mirador del Barranco del Mortero, Alacón",
+     "Abrigos del Barranco del Mortero y Cerro Felío, Alacón"
+    ]
+   },
+   "casco-alacon": {
+    "name": "Casco de Alacón y Torre Vieja",
+    "mun": "Alacón",
+    "q": [
+     "Iglesia de la Asunción, Alacón",
+     "Torre Vieja, Alacón",
+     "Alacón, Teruel",
+     "Casco de Alacón y Torre Vieja, Alacón"
+    ]
+   },
+   "bodegas-alacon": {
+    "name": "Bodegas excavadas de Alacón",
+    "mun": "Alacón",
+    "q": [
+     "Bodegas de Alacón",
+     "Alacón, Teruel",
+     "Bodegas excavadas de Alacón, Alacón"
+    ]
+   },
+   "ermita-san-miguel-alacon": {
+    "name": "Ermita y balsa de San Miguel",
+    "mun": "Alacón",
+    "q": [
+     "Ermita de San Miguel, Alacón",
+     "Alacón, Teruel",
+     "Ermita y balsa de San Miguel, Alacón"
     ]
    },
    "valcaria": {
@@ -351,13 +667,8 @@
     "mun": "Ariño",
     "q": [
      "Valcaria, Ariño",
-     "Dinópolis Valcaria, Ariño, Teruel"
-    ],
-    "fq": [
-     "Valcaria Ariño Dinópolis",
-     "Europelta carbonensis",
-     "Proa valdearinnoensis",
-     "Valcaria · Dinosaurios de Ariño Ariño"
+     "Dinópolis Valcaria, Ariño, Teruel",
+     "Valcaria, Ariño"
     ]
    },
    "balneario-arino": {
@@ -365,26 +676,36 @@
     "mun": "Ariño",
     "q": [
      "Balneario de Ariño",
-     "Carretera Ariño-Albalate km 2, Ariño"
-    ],
-    "fq": [
-     "Balneario de Ariño",
-     "Ariño balneario Teruel",
-     "Balneario de Ariño Ariño"
+     "Carretera Ariño-Albalate km 2, Ariño",
+     "Balneario de Ariño, Ariño"
     ]
    },
-   "monasterio-olivar": {
-    "name": "Monasterio del Olivar",
-    "mun": "Estercuel",
+   "centro-antonio-beltran": {
+    "name": "Centro de Arte Rupestre Antonio Beltrán",
+    "mun": "Ariño",
     "q": [
-     "Monasterio de El Olivar, Estercuel",
-     "Monasterio de Nuestra Señora del Olivar, Estercuel"
-    ],
-    "fq": [
-     "Monasterio del Olivar Estercuel",
-     "Monasterio de El Olivar Teruel",
-     "Santa María del Olivar Estercuel",
-     "Monasterio del Olivar Estercuel"
+     "Centro de Arte Rupestre Antonio Beltrán, Ariño",
+     "Calle Tiro del Bolo, Ariño",
+     "Centro de Arte Rupestre Antonio Beltrán, Ariño"
+    ]
+   },
+   "iglesia-salvador-arino": {
+    "name": "Iglesia del Salvador y su torre inclinada",
+    "mun": "Ariño",
+    "q": [
+     "Iglesia del Salvador, Plaza Mayor, Ariño",
+     "Iglesia de El Salvador, Ariño",
+     "Iglesia del Salvador y su torre inclinada, Ariño"
+    ]
+   },
+   "mirador-sierra-arcos": {
+    "name": "Mirador de la Sierra de Arcos",
+    "mun": "Ariño",
+    "q": [
+     "Mirador Sierra de Arcos, Ariño",
+     "PR-TE-92, Ariño",
+     "Sierra de Arcos, Teruel",
+     "Mirador de la Sierra de Arcos, Ariño"
     ]
    },
    "pasarelas-escuriza": {
@@ -393,13 +714,8 @@
     "q": [
      "Presa de Escuriza, Alloza",
      "Embalse de Escuriza",
-     "Pantano de Escuriza"
-    ],
-    "fq": [
-     "Embalse de Escuriza",
-     "Presa de Escuriza Alloza",
-     "Pasarelas río Escuriza",
-     "Pasarelas del Escuriza Alloza"
+     "Pantano de Escuriza",
+     "Pasarelas del Escuriza, Alloza"
     ]
    },
    "calvario-alloza": {
@@ -407,13 +723,73 @@
     "mun": "Alloza",
     "q": [
      "Calvario de Alloza",
-     "Ermita del Santo Sepulcro, Alloza"
-    ],
-    "fq": [
-     "Calvario de Alloza",
-     "Alloza calvario cipreses",
-     "Ermita del Santo Sepulcro Alloza",
-     "Calvario de Alloza Alloza"
+     "Ermita del Santo Sepulcro, Alloza",
+     "Calvario de Alloza, Alloza"
+    ]
+   },
+   "castelillo-alloza": {
+    "name": "El Castelillo y su centro de visitantes",
+    "mun": "Alloza",
+    "q": [
+     "Poblado ibérico El Castelillo, Alloza",
+     "Centro de Interpretación El Castelillo, Alloza",
+     "El Castelillo y su centro de visitantes, Alloza"
+    ]
+   },
+   "gallipuente": {
+    "name": "Gallipuente y fuente de las Señoritas",
+    "mun": "Alloza",
+    "q": [
+     "Gallipuente, Alloza",
+     "Acueducto de Alloza",
+     "Fuente de las Señoritas, Alloza",
+     "Gallipuente y fuente de las Señoritas, Alloza"
+    ]
+   },
+   "mirador-carnicero": {
+    "name": "Mirador del Carnicero",
+    "mun": "Alloza",
+    "q": [
+     "Mirador del Carnicero, Alloza",
+     "Alloza, Teruel",
+     "Mirador del Carnicero, Alloza"
+    ]
+   },
+   "iglesia-alloza": {
+    "name": "Iglesia de la Concepción y plaza de Alloza",
+    "mun": "Alloza",
+    "q": [
+     "Iglesia de la Purísima Concepción, Alloza",
+     "Plaza Mayor, Alloza",
+     "Ayuntamiento de Alloza",
+     "Iglesia de la Concepción y plaza de Alloza, Alloza"
+    ]
+   },
+   "monasterio-olivar": {
+    "name": "Monasterio del Olivar",
+    "mun": "Estercuel",
+    "q": [
+     "Monasterio de El Olivar, Estercuel",
+     "Monasterio de Nuestra Señora del Olivar, Estercuel",
+     "Monasterio del Olivar, Estercuel"
+    ]
+   },
+   "castillo-estercuel": {
+    "name": "Castillo-palacio y casco de Estercuel",
+    "mun": "Estercuel",
+    "q": [
+     "Castillo de Estercuel, Calle del Castillo",
+     "Estercuel, Teruel",
+     "Castillo-palacio y casco de Estercuel, Estercuel"
+    ]
+   },
+   "mirador-moncoscol": {
+    "name": "Mirador del Moncoscol",
+    "mun": "Estercuel",
+    "q": [
+     "Mirador del Moncoscol, Estercuel",
+     "Moncoscol, Estercuel",
+     "Mirador del Moncoscol, Estercuel"
     ]
    },
    "crivillen-casco": {
@@ -421,13 +797,25 @@
     "mun": "Crivillén",
     "q": [
      "Iglesia de San Martín de Tours, Crivillén",
-     "Crivillén, Teruel"
-    ],
-    "fq": [
-     "Crivillén",
-     "Iglesia de San Martín Crivillén",
-     "Pablo Serrano Crivillén",
-     "Crivillén, el pueblo de Pablo Serrano Crivillén"
+     "Crivillén, Teruel",
+     "Crivillén, el pueblo de Pablo Serrano, Crivillén"
+    ]
+   },
+   "centro-pablo-serrano": {
+    "name": "Centro de Arte Contemporáneo Pablo Serrano",
+    "mun": "Crivillén",
+    "q": [
+     "Centro de Arte Contemporáneo Pablo Serrano, Crivillén",
+     "Centro de Arte Contemporáneo Pablo Serrano, Crivillén"
+    ]
+   },
+   "miradores-crivillen": {
+    "name": "Miradores de Santa Bárbara y Pilatos",
+    "mun": "Crivillén",
+    "q": [
+     "Ermita de Santa Bárbara, Crivillén",
+     "Mirador de Pilatos, Crivillén",
+     "Miradores de Santa Bárbara y Pilatos, Crivillén"
     ]
    },
    "majalinontes": {
@@ -435,13 +823,36 @@
     "mun": "Gargallo",
     "q": [
      "Senda de los Majalinontes, Gargallo",
-     "Gargallo, Teruel"
-    ],
-    "fq": [
-     "Majalinontes Gargallo",
-     "Gargallo Teruel",
-     "Sierra de Majalinos",
-     "Senda de los Majalinontes Gargallo"
+     "Gargallo, Teruel",
+     "Senda de los Majalinontes, Gargallo"
+    ]
+   },
+   "iglesia-piedad-gargallo": {
+    "name": "Iglesia de la Piedad y mirador de Gargallo",
+    "mun": "Gargallo",
+    "q": [
+     "Iglesia de Nuestra Señora de la Piedad, Gargallo",
+     "Calle Mayor, Gargallo",
+     "Gargallo, Teruel",
+     "Iglesia de la Piedad y mirador de Gargallo, Gargallo"
+    ]
+   },
+   "nacimiento-escuriza": {
+    "name": "Nacimiento del Escuriza y Las Calderas",
+    "mun": "Gargallo",
+    "q": [
+     "Nacimiento del río Escuriza, Gargallo",
+     "Las Calderas, Gargallo",
+     "Nacimiento del Escuriza y Las Calderas, Gargallo"
+    ]
+   },
+   "mirador-campillo": {
+    "name": "Mirador del Campillo",
+    "mun": "Gargallo",
+    "q": [
+     "Mirador del Campillo, Gargallo",
+     "Aeródromo del Campillo, Ejulve",
+     "Mirador del Campillo, Gargallo"
     ]
    },
    "plaza-ejulve": {
@@ -450,13 +861,8 @@
     "q": [
      "Plaza Mayor, Ejulve",
      "Ayuntamiento de Ejulve",
-     "Iglesia de Santa María la Mayor, Ejulve"
-    ],
-    "fq": [
-     "Ejulve ayuntamiento",
-     "Ejulve plaza",
-     "Ejulve Teruel",
-     "Plaza del Ayuntamiento de Ejulve Ejulve"
+     "Iglesia de Santa María la Mayor, Ejulve",
+     "Plaza del Ayuntamiento de Ejulve, Ejulve"
     ]
    },
    "santa-ana-ejulve": {
@@ -464,33 +870,76 @@
     "mun": "Ejulve",
     "q": [
      "Ermita de Santa Ana, Ejulve",
-     "Mirador de Santa Ana, Ejulve"
-    ],
-    "fq": [
-     "Ermita de Santa Ana Ejulve",
-     "Silent Route A-1702",
-     "Ejulve Teruel paisaje",
-     "Mirador de Santa Ana y Silent Route Ejulve"
+     "Mirador de Santa Ana, Ejulve",
+     "Mirador de Santa Ana y Silent Route, Ejulve"
+    ]
+   },
+   "organos-montoro": {
+    "name": "Mirador de los Órganos de Montoro",
+    "mun": "Ejulve",
+    "q": [
+     "Mirador de los Órganos de Montoro, A-1702",
+     "Órganos de Montoro",
+     "Mirador de los Órganos de Montoro, Ejulve"
+    ]
+   },
+   "san-pascual-ejulve": {
+    "name": "Iglesia de San Pascual y ermita de San Pedro",
+    "mun": "Ejulve",
+    "q": [
+     "Iglesia de San Pascual, Ejulve",
+     "Ermita de San Pedro, Ejulve",
+     "Iglesia de San Pascual y ermita de San Pedro, Ejulve"
     ]
    }
   },
   "overpass_kw": [
+   "Apadrinaunolivo",
    "Balneario de Ariño",
    "Barranco del Mortero",
+   "Bodegas de Alacón",
    "Calvario de Alloza",
+   "Castillo de Estercuel",
+   "Centro Pastor de Andorra",
+   "Centro de Arte Contemporáneo Pablo Serrano",
+   "Centro de Arte Rupestre Antonio Beltrán",
+   "Centro de Interpretación de la Cultura Ibérica",
    "Embalse de Cueva Foradada",
+   "Ermita de San Macario",
+   "Ermita de San Miguel",
    "Ermita de Santa Ana",
+   "Ermita de Santa Bárbara",
+   "Ermita del Pilar",
+   "Frontón de la Tía Chula",
+   "Gallipuente",
+   "Iglesia de Nuestra Señora de la Asunción",
+   "Iglesia de Nuestra Señora de la Piedad",
    "Iglesia de San Martín de Tours",
+   "Iglesia de San Pascual",
+   "Iglesia de la Asunción",
+   "Iglesia de la Natividad de Nuestra Señora",
+   "Iglesia de la Purísima Concepción",
+   "Iglesia del Salvador",
    "MWINAS",
+   "Mirador Sierra de Arcos",
+   "Mirador de los Órganos de Montoro",
+   "Mirador del Campillo",
+   "Mirador del Carnicero",
+   "Mirador del Moncoscol",
    "Monasterio de El Olivar",
+   "Nacimiento del río Escuriza",
    "Plaza Mayor",
    "Poblado ibérico Cabezo de San Pedro",
    "Poblado ibérico El Cabo",
+   "Poblado ibérico El Castelillo",
+   "Poblado ibérico El Palomar",
    "Presa de Escuriza",
    "Senda de los Majalinontes",
    "Sima de San Pedro",
    "Valcaria"
-  ]
+  ],
+  "no_base": true,
+  "no_fotos": true
  },
  "campo-de-daroca": {
   "prov": "Zaragoza",
@@ -533,10 +982,10 @@
   ],
   "river": "Río Jiloca",
   "bbox": [
-   -1.821,
-   40.867,
-   -0.923,
-   41.317
+   -1.8205999999999998,
+   40.8595,
+   -0.9229999999999999,
+   41.3157
   ],
   "pois": {
    "puerta-baja": {
@@ -544,13 +993,8 @@
     "mun": "Daroca",
     "q": [
      "Puerta Baja, Daroca",
-     "Puerta Baja de Daroca"
-    ],
-    "fq": [
-     "Category:Daroca",
-     "Puerta Baja Daroca",
-     "Daroca Puerta Baja muralla",
-     "Puerta Baja Daroca"
+     "Puerta Baja de Daroca",
+     "Puerta Baja, Daroca"
     ]
    },
    "veinte-canos": {
@@ -558,12 +1002,8 @@
     "mun": "Daroca",
     "q": [
      "Fuente de los Veinte Caños, Daroca",
-     "Fuente de los 20 Caños Daroca"
-    ],
-    "fq": [
-     "Fuente de los Veinte Caños Daroca",
-     "Daroca fuente veinte caños",
-     "Fuente de los Veinte Caños Daroca"
+     "Fuente de los 20 Caños Daroca",
+     "Fuente de los Veinte Caños, Daroca"
     ]
    },
    "mina-daroca": {
@@ -571,13 +1011,8 @@
     "mun": "Daroca",
     "q": [
      "La Mina, Daroca",
-     "Túnel de la Mina Daroca"
-    ],
-    "fq": [
-     "Mina de Daroca",
-     "Daroca túnel de la Mina",
-     "La Mina Daroca",
-     "Túnel de la Mina Daroca"
+     "Túnel de la Mina Daroca",
+     "Túnel de la Mina, Daroca"
     ]
    },
    "basilica-corporales": {
@@ -585,13 +1020,8 @@
     "mun": "Daroca",
     "q": [
      "Basílica de Santa María de los Sagrados Corporales, Daroca",
-     "Colegiata de Santa María, Daroca"
-    ],
-    "fq": [
-     "Basílica de Santa María de los Sagrados Corporales Daroca",
-     "Colegiata de Santa María Daroca",
-     "Daroca basílica Corporales",
-     "Basílica de Santa María de los Corporales Daroca"
+     "Colegiata de Santa María, Daroca",
+     "Basílica de Santa María de los Corporales, Daroca"
     ]
    },
    "museo-corporales": {
@@ -599,13 +1029,8 @@
     "mun": "Daroca",
     "q": [
      "Museo de los Corporales, Daroca",
-     "Museo Parroquial, Daroca"
-    ],
-    "fq": [
-     "Custodia de los Corporales Daroca",
-     "Pere Moragues custodia Daroca",
-     "Bartolomé Bermejo Santa Engracia Daroca",
-     "Museo de los Corporales Daroca"
+     "Museo Parroquial, Daroca",
+     "Museo de los Corporales, Daroca"
     ]
    },
    "san-miguel": {
@@ -613,13 +1038,26 @@
     "mun": "Daroca",
     "q": [
      "Iglesia de San Miguel, Daroca",
-     "San Miguel Arcángel, Daroca"
-    ],
-    "fq": [
-     "Iglesia de San Miguel Daroca",
-     "San Miguel Daroca románico",
-     "Daroca San Miguel ábside",
-     "Iglesia de San Miguel Daroca"
+     "San Miguel Arcángel, Daroca",
+     "Iglesia de San Miguel, Daroca"
+    ]
+   },
+   "san-juan-daroca": {
+    "name": "Iglesia de San Juan de la Cuesta",
+    "mun": "Daroca",
+    "q": [
+     "Iglesia de San Juan de la Cuesta, Daroca",
+     "Iglesia de San Juan Bautista, Daroca",
+     "Iglesia de San Juan de la Cuesta, Daroca"
+    ]
+   },
+   "santo-domingo-daroca": {
+    "name": "Iglesia de Santo Domingo de Silos",
+    "mun": "Daroca",
+    "q": [
+     "Iglesia de Santo Domingo de Silos, Daroca",
+     "Santo Domingo, Daroca",
+     "Iglesia de Santo Domingo de Silos, Daroca"
     ]
    },
    "murallas-castillo": {
@@ -628,13 +1066,17 @@
     "q": [
      "Castillo Mayor, Daroca",
      "Puerta Alta, Daroca",
-     "Murallas de Daroca"
-    ],
-    "fq": [
      "Murallas de Daroca",
-     "Daroca walls",
-     "Castillo Mayor Daroca",
-     "Murallas y Castillo Mayor Daroca"
+     "Murallas y Castillo Mayor, Daroca"
+    ]
+   },
+   "camino-cid": {
+    "name": "Camino del Cid: Anillo de Gallocanta",
+    "mun": "Daroca",
+    "q": [
+     "Camino del Cid, Daroca",
+     "Daroca",
+     "Camino del Cid: Anillo de Gallocanta, Daroca"
     ]
    },
    "laguna-gallocanta": {
@@ -642,13 +1084,53 @@
     "mun": "Gallocanta",
     "q": [
      "Laguna de Gallocanta",
-     "Centro de Interpretación Laguna de Gallocanta"
-    ],
-    "fq": [
-     "Category:Laguna de Gallocanta",
-     "Laguna de Gallocanta grullas",
-     "Gallocanta lagoon cranes",
-     "Laguna de Gallocanta Gallocanta"
+     "Centro de Interpretación Laguna de Gallocanta",
+     "Laguna de Gallocanta, Gallocanta"
+    ]
+   },
+   "ermita-buen-acuerdo": {
+    "name": "Ermita del Buen Acuerdo y observatorio",
+    "mun": "Gallocanta",
+    "q": [
+     "Ermita de la Virgen del Buen Acuerdo, Gallocanta",
+     "Ermita del Buen Acuerdo",
+     "Ermita del Buen Acuerdo y observatorio, Gallocanta"
+    ]
+   },
+   "castillo-berrueco": {
+    "name": "Castillo de Berrueco",
+    "mun": "Berrueco",
+    "q": [
+     "Castillo de Berrueco",
+     "Berrueco, Zaragoza",
+     "Castillo de Berrueco, Berrueco"
+    ]
+   },
+   "castillo-santed": {
+    "name": "Castillo de Santed",
+    "mun": "Santed",
+    "q": [
+     "Castillo de Santed",
+     "Santed, Zaragoza",
+     "Castillo de Santed, Santed"
+    ]
+   },
+   "san-blas-val": {
+    "name": "Iglesia parroquial de Val de San Martín",
+    "mun": "Val de San Martín",
+    "q": [
+     "Iglesia de San Blas, Val de San Martín",
+     "Val de San Martín, Zaragoza",
+     "Iglesia parroquial de Val de San Martín, Val de San Martín"
+    ]
+   },
+   "valdehorna": {
+    "name": "Iglesia de San Juan Bautista de Valdehorna",
+    "mun": "Valdehorna",
+    "q": [
+     "Iglesia de San Juan Bautista, Valdehorna",
+     "Valdehorna, Zaragoza",
+     "Iglesia de San Juan Bautista de Valdehorna, Valdehorna"
     ]
    },
    "retablo-anento": {
@@ -656,13 +1138,17 @@
     "mun": "Anento",
     "q": [
      "Iglesia de San Blas, Anento",
-     "Anento iglesia"
-    ],
-    "fq": [
-     "Iglesia de San Blas Anento",
-     "Anento retablo gótico",
-     "Blasco de Grañén Anento",
-     "Iglesia de San Blas y retablo gótico Anento"
+     "Anento iglesia",
+     "Iglesia de San Blas y retablo gótico, Anento"
+    ]
+   },
+   "castillo-anento": {
+    "name": "Castillo de Anento",
+    "mun": "Anento",
+    "q": [
+     "Castillo de Anento",
+     "Anento castillo",
+     "Castillo de Anento, Anento"
     ]
    },
    "aguallueve": {
@@ -670,13 +1156,8 @@
     "mun": "Anento",
     "q": [
      "Aguallueve, Anento",
-     "Aguallueve de Anento"
-    ],
-    "fq": [
-     "Aguallueve Anento",
-     "Anento Aguallueve",
-     "Torreón de San Cristóbal Anento",
-     "Aguallueve Anento"
+     "Aguallueve de Anento",
+     "Aguallueve, Anento"
     ]
    },
    "murero-fosiles": {
@@ -684,13 +1165,8 @@
     "mun": "Murero",
     "q": [
      "Yacimiento paleontológico de Murero",
-     "Rambla de Valdemiedes, Murero"
-    ],
-    "fq": [
-     "Murero fossils",
-     "Murero yacimiento paleontológico",
-     "Paradoxides mureroensis",
-     "Yacimiento y Sala Paleontológica de Murero Murero"
+     "Rambla de Valdemiedes, Murero",
+     "Yacimiento y Sala Paleontológica de Murero, Murero"
     ]
    },
    "pinsapar-orcajo": {
@@ -698,13 +1174,8 @@
     "mun": "Orcajo",
     "q": [
      "Pinsapar de Orcajo",
-     "Orcajo, Zaragoza"
-    ],
-    "fq": [
-     "Pinsapar de Orcajo",
-     "Abies pinsapo Orcajo",
-     "Orcajo Zaragoza",
-     "Pinsapar de Orcajo y Museo del Reino Fungi Orcajo"
+     "Orcajo, Zaragoza",
+     "Pinsapar de Orcajo y Museo del Reino Fungi, Orcajo"
     ]
    },
    "hoces-rio-piedra": {
@@ -712,13 +1183,8 @@
     "mun": "Torralba de los Frailes",
     "q": [
      "Hoces del río Piedra",
-     "Torralba de los Frailes"
-    ],
-    "fq": [
-     "Hoces del río Piedra",
-     "Río Piedra Torralba de los Frailes",
-     "Aldehuela de Liestos hoces",
-     "Hoces del Río Piedra Torralba de los Frailes"
+     "Torralba de los Frailes",
+     "Hoces del Río Piedra, Torralba de los Frailes"
     ]
    },
    "laguna-guialguerrero": {
@@ -726,32 +1192,205 @@
     "mun": "Cubel",
     "q": [
      "Laguna de Guialguerrero",
-     "Guialguerrero, Cubel"
-    ],
-    "fq": [
-     "Laguna de Guialguerrero",
-     "Guialguerrero Cubel",
-     "Cubel Zaragoza laguna",
-     "Laguna de Guialguerrero Cubel"
+     "Guialguerrero, Cubel",
+     "Laguna de Guialguerrero, Cubel"
+    ]
+   },
+   "iglesia-manchones": {
+    "name": "Iglesia de la Conversión de San Pablo",
+    "mun": "Manchones",
+    "q": [
+     "Iglesia de la Conversión de San Pablo, Manchones",
+     "Manchones, Zaragoza",
+     "Iglesia de la Conversión de San Pablo, Manchones"
+    ]
+   },
+   "fuente-villanueva": {
+    "name": "Fuente renacentista de Villanueva de Jiloca",
+    "mun": "Villanueva de Jiloca",
+    "q": [
+     "Fuente renacentista, Villanueva de Jiloca",
+     "Villanueva de Jiloca, Zaragoza",
+     "Fuente renacentista de Villanueva de Jiloca, Villanueva de Jiloca"
+    ]
+   },
+   "retablo-retascon": {
+    "name": "Iglesia de Retascón y su retablo",
+    "mun": "Retascón",
+    "q": [
+     "Iglesia de la Asunción, Retascón",
+     "Retascón, Zaragoza",
+     "Iglesia de Retascón y su retablo, Retascón"
+    ]
+   },
+   "castillo-langa": {
+    "name": "Castillo de Langa",
+    "mun": "Langa del Castillo",
+    "q": [
+     "Castillo de Langa del Castillo",
+     "Langa del Castillo",
+     "Castillo de Langa, Langa del Castillo"
+    ]
+   },
+   "retablo-langa": {
+    "name": "Iglesia de San Pedro y retablo de Martín del Cano",
+    "mun": "Langa del Castillo",
+    "q": [
+     "Iglesia de San Pedro Apóstol, Langa del Castillo",
+     "Langa del Castillo iglesia",
+     "Iglesia de San Pedro y retablo de Martín del Cano, Langa del Castillo"
+    ]
+   },
+   "retablo-torralbilla": {
+    "name": "Iglesia de San Lorenzo y retablo de San Blas",
+    "mun": "Torralbilla",
+    "q": [
+     "Iglesia de San Lorenzo, Torralbilla",
+     "Torralbilla, Zaragoza",
+     "Iglesia de San Lorenzo y retablo de San Blas, Torralbilla"
+    ]
+   },
+   "retablo-villarroya": {
+    "name": "Iglesia del Rosario y retablo de Santas Justa y Rufina",
+    "mun": "Villarroya del Campo",
+    "q": [
+     "Iglesia de la Virgen del Rosario, Villarroya del Campo",
+     "Villarroya del Campo, Zaragoza",
+     "Iglesia del Rosario y retablo de Santas Justa y Rufina, Villarroya del Campo"
+    ]
+   },
+   "retablo-villadoz": {
+    "name": "Iglesia de Santiago y retablo de la Virgen",
+    "mun": "Villadoz",
+    "q": [
+     "Iglesia de Santiago Apóstol, Villadoz",
+     "Villadoz, Zaragoza",
+     "Iglesia de Santiago y retablo de la Virgen, Villadoz"
+    ]
+   },
+   "iglesia-mainar": {
+    "name": "Iglesia de Santa Ana y torre mudéjar",
+    "mun": "Mainar",
+    "q": [
+     "Iglesia de Santa Ana, Mainar",
+     "Mainar, Zaragoza",
+     "Iglesia de Santa Ana y torre mudéjar, Mainar"
+    ]
+   },
+   "villarpardo": {
+    "name": "Ruinas de Santo Domingo de Villarpardo",
+    "mun": "Mainar",
+    "q": [
+     "Ermita de Santo Domingo, Mainar",
+     "Villarpardo, Mainar",
+     "Ruinas de Santo Domingo de Villarpardo, Mainar"
+    ]
+   },
+   "iglesia-villarreal": {
+    "name": "Conjunto defensivo de San Miguel",
+    "mun": "Villarreal de Huerva",
+    "q": [
+     "Iglesia de San Miguel, Villarreal de Huerva",
+     "Villarreal de Huerva",
+     "Conjunto defensivo de San Miguel, Villarreal de Huerva"
+    ]
+   },
+   "sabimbre-cerveruela": {
+    "name": "Soto del Huerva y sabimbre de Cerveruela",
+    "mun": "Cerveruela",
+    "q": [
+     "Sabimbre de Cerveruela",
+     "Cerveruela, Zaragoza",
+     "Soto del Huerva y sabimbre de Cerveruela, Cerveruela"
+    ]
+   },
+   "iglesia-luesma": {
+    "name": "Iglesia de la Junquera de Luesma",
+    "mun": "Luesma",
+    "q": [
+     "Iglesia de Nuestra Señora de la Junquera, Luesma",
+     "Luesma, Zaragoza",
+     "Iglesia de la Junquera de Luesma, Luesma"
+    ]
+   },
+   "iglesia-herrera": {
+    "name": "Iglesia-fortaleza de San Juan Bautista",
+    "mun": "Herrera de los Navarros",
+    "q": [
+     "Iglesia de San Juan Bautista, Herrera de los Navarros",
+     "Herrera de los Navarros",
+     "Iglesia-fortaleza de San Juan Bautista, Herrera de los Navarros"
+    ]
+   },
+   "santuario-sierra-herrera": {
+    "name": "Sierra de Herrera y santuario de la Virgen",
+    "mun": "Herrera de los Navarros",
+    "q": [
+     "Santuario de la Virgen de la Sierra, Herrera de los Navarros",
+     "Sierra de Herrera",
+     "Sierra de Herrera y santuario de la Virgen, Herrera de los Navarros"
+    ]
+   },
+   "torre-villar": {
+    "name": "Iglesia de San Pedro y torre mudéjar",
+    "mun": "Villar de los Navarros",
+    "q": [
+     "Iglesia de San Pedro, Villar de los Navarros",
+     "Villar de los Navarros",
+     "Iglesia de San Pedro y torre mudéjar, Villar de los Navarros"
+    ]
+   },
+   "puente-nevera-villar": {
+    "name": "Puente medieval y nevera de Villar",
+    "mun": "Villar de los Navarros",
+    "q": [
+     "Puente medieval, Villar de los Navarros",
+     "Nevera de Villar de los Navarros",
+     "Puente medieval y nevera de Villar, Villar de los Navarros"
     ]
    }
   },
   "overpass_kw": [
    "Aguallueve",
    "Basílica de Santa María de los Sagrados Corporales",
+   "Camino del Cid",
    "Castillo Mayor",
+   "Castillo de Anento",
+   "Castillo de Berrueco",
+   "Castillo de Langa del Castillo",
+   "Castillo de Santed",
+   "Ermita de Santo Domingo",
+   "Ermita de la Virgen del Buen Acuerdo",
    "Fuente de los Veinte Caños",
+   "Fuente renacentista",
    "Hoces del río Piedra",
+   "Iglesia de Nuestra Señora de la Junquera",
    "Iglesia de San Blas",
+   "Iglesia de San Juan Bautista",
+   "Iglesia de San Juan de la Cuesta",
+   "Iglesia de San Lorenzo",
    "Iglesia de San Miguel",
+   "Iglesia de San Pedro",
+   "Iglesia de San Pedro Apóstol",
+   "Iglesia de Santa Ana",
+   "Iglesia de Santiago Apóstol",
+   "Iglesia de Santo Domingo de Silos",
+   "Iglesia de la Asunción",
+   "Iglesia de la Conversión de San Pablo",
+   "Iglesia de la Virgen del Rosario",
    "La Mina",
    "Laguna de Gallocanta",
    "Laguna de Guialguerrero",
    "Museo de los Corporales",
    "Pinsapar de Orcajo",
+   "Puente medieval",
    "Puerta Baja",
+   "Sabimbre de Cerveruela",
+   "Santuario de la Virgen de la Sierra",
    "Yacimiento paleontológico de Murero"
-  ]
+  ],
+  "no_base": true,
+  "no_fotos": true
  },
  "cinco-villas": {
   "prov": "Zaragoza",
@@ -1040,10 +1679,10 @@
   ],
   "river": "Río Cinca",
   "bbox": [
-   -0.058,
-   41.274,
-   0.472,
-   41.783
+   -0.057832999999999996,
+   41.274167,
+   0.471634,
+   41.783333
   ],
   "pois": {
    "villa-fortunatus": {
@@ -1051,13 +1690,8 @@
     "mun": "Fraga",
     "q": [
      "Villa Fortunatus, Fraga",
-     "Villa romana Fortunatus"
-    ],
-    "fq": [
-     "Villa Fortunatus Fraga",
-     "Villa Fortunatus mosaico",
-     "Fortunatus Fraga basílica",
-     "Villa Fortunatus Fraga"
+     "Villa romana Fortunatus",
+     "Villa Fortunatus, Fraga"
     ]
    },
    "san-pedro-fraga": {
@@ -1065,13 +1699,8 @@
     "mun": "Fraga",
     "q": [
      "Iglesia de San Pedro, Fraga",
-     "Plaza de San Pedro, Fraga"
-    ],
-    "fq": [
-     "Iglesia de San Pedro Fraga",
-     "Fraga San Pedro torre",
-     "Fraga casco antiguo iglesia",
-     "Iglesia de San Pedro Fraga"
+     "Plaza de San Pedro, Fraga",
+     "Iglesia de San Pedro, Fraga"
     ]
    },
    "castillo-fraga": {
@@ -1079,13 +1708,36 @@
     "mun": "Fraga",
     "q": [
      "Castillo de Fraga",
-     "Castillo, Fraga, Huesca"
-    ],
-    "fq": [
-     "Castillo de Fraga",
-     "Fraga castillo vista",
-     "Fraga Huesca panorámica",
-     "Castillo de Fraga Fraga"
+     "Castillo, Fraga, Huesca",
+     "Castillo de Fraga, Fraga"
+    ]
+   },
+   "palacio-montcada": {
+    "name": "Palacio Montcada",
+    "mun": "Fraga",
+    "q": [
+     "Palacio Montcada, Fraga",
+     "Biblioteca municipal, Fraga",
+     "Palacio Montcada, Fraga"
+    ]
+   },
+   "casco-antiguo-fraga": {
+    "name": "Casco antiguo y la Dona de Faldetes",
+    "mun": "Fraga",
+    "q": [
+     "Calle Mayor, Fraga",
+     "Paseo Barrón Cegonyé, Fraga",
+     "Atarazanas, Fraga",
+     "Casco antiguo y la Dona de Faldetes, Fraga"
+    ]
+   },
+   "parque-estacada": {
+    "name": "La Estacada y la orilla del Cinca",
+    "mun": "Fraga",
+    "q": [
+     "Parque de la Estacada, Fraga",
+     "La Pinada, Fraga",
+     "La Estacada y la orilla del Cinca, Fraga"
     ]
    },
    "torre-frailes": {
@@ -1093,12 +1745,8 @@
     "mun": "Fraga",
     "q": [
      "Torre de los Frailes, Fraga",
-     "Torre dels Frares, Fraga"
-    ],
-    "fq": [
-     "Torre de los Frailes Fraga",
-     "Torre dels Frares Fraga",
-     "Torre de los Frailes Fraga"
+     "Torre dels Frares, Fraga",
+     "Torre de los Frailes, Fraga"
     ]
    },
    "pilaret-santa-quiteria": {
@@ -1106,12 +1754,17 @@
     "mun": "Fraga",
     "q": [
      "Pilaret de Santa Quiteria, Fraga",
-     "Torre del Pilaret, Fraga"
-    ],
-    "fq": [
-     "Pilaret de Santa Quiteria",
-     "Torre del Pilaret Fraga",
-     "El Pilaret de Santa Quiteria Fraga"
+     "Torre del Pilaret, Fraga",
+     "El Pilaret de Santa Quiteria, Fraga"
+    ]
+   },
+   "valcuerna": {
+    "name": "La Valcuerna",
+    "mun": "Fraga",
+    "q": [
+     "Valcuerna, Fraga",
+     "Barranco de la Valcuerna",
+     "La Valcuerna, Fraga"
     ]
    },
    "castillo-mequinenza": {
@@ -1119,13 +1772,8 @@
     "mun": "Mequinenza",
     "q": [
      "Castillo de Mequinenza",
-     "Castell de Mequinensa"
-    ],
-    "fq": [
-     "Castillo de Mequinenza",
-     "Mequinenza castle",
      "Castell de Mequinensa",
-     "Castillo de Mequinenza Mequinenza"
+     "Castillo de Mequinenza, Mequinenza"
     ]
    },
    "pueblo-viejo-mequinenza": {
@@ -1133,13 +1781,8 @@
     "mun": "Mequinenza",
     "q": [
      "Pueblo Viejo de Mequinenza",
-     "Poble Vell de Mequinensa"
-    ],
-    "fq": [
-     "Pueblo Viejo de Mequinenza",
-     "Mequinenza poble vell",
-     "Mequinenza old town ruins",
-     "Pueblo Viejo de Mequinenza Mequinenza"
+     "Poble Vell de Mequinensa",
+     "Pueblo Viejo de Mequinenza, Mequinenza"
     ]
    },
    "museo-mina-mequinenza": {
@@ -1147,13 +1790,8 @@
     "mun": "Mequinenza",
     "q": [
      "Museo de la Mina, Mequinenza",
-     "Museos de Mequinenza"
-    ],
-    "fq": [
-     "Museo de la Mina Mequinenza",
      "Museos de Mequinenza",
-     "Mequinenza mine museum",
-     "Museo de la Mina y Museos de Mequinenza Mequinenza"
+     "Museo de la Mina y Museos de Mequinenza, Mequinenza"
     ]
    },
    "aiguabarreig": {
@@ -1161,13 +1799,26 @@
     "mun": "Mequinenza",
     "q": [
      "Aiguabarreig, Mequinenza",
-     "Confluencia Segre Ebro Mequinenza"
-    ],
-    "fq": [
-     "Aiguabarreig",
-     "Aiguabarreig Segre Ebre",
-     "Mequinenza confluencia Segre Ebro",
-     "Aiguabarreig: la unión de los ríos Mequinenza"
+     "Confluencia Segre Ebro Mequinenza",
+     "Aiguabarreig: la unión de los ríos, Mequinenza"
+    ]
+   },
+   "embalse-mequinenza": {
+    "name": "Presa de Mequinenza y Mar de Aragón",
+    "mun": "Mequinenza",
+    "q": [
+     "Presa de Mequinenza",
+     "Embalse de Mequinenza",
+     "Presa de Mequinenza y Mar de Aragón, Mequinenza"
+    ]
+   },
+   "camino-sirga-mequinenza": {
+    "name": "Camino Natural del Ebro y camino de sirga",
+    "mun": "Mequinenza",
+    "q": [
+     "Camino Natural del Ebro, Mequinenza",
+     "GR 99 Mequinenza",
+     "Camino Natural del Ebro y camino de sirga, Mequinenza"
     ]
    },
    "santa-maria-chalamera": {
@@ -1175,13 +1826,26 @@
     "mun": "Chalamera",
     "q": [
      "Ermita de Santa María de Chalamera",
-     "Santa María de Chalamera"
-    ],
-    "fq": [
-     "Ermita de Santa María de Chalamera",
-     "Chalamera ermita Santa María",
-     "Chalamera Santa María románico",
-     "Santa María de Chalamera Chalamera"
+     "Santa María de Chalamera",
+     "Santa María de Chalamera, Chalamera"
+    ]
+   },
+   "sender-chalamera": {
+    "name": "San Martín y el parque de Ramón J. Sender",
+    "mun": "Chalamera",
+    "q": [
+     "Parque Ramón J. Sender, Chalamera",
+     "Iglesia de San Martín, Chalamera",
+     "San Martín y el parque de Ramón J. Sender, Chalamera"
+    ]
+   },
+   "mirador-chalamera": {
+    "name": "El Castillo, el Tozal y el embarcadero",
+    "mun": "Chalamera",
+    "q": [
+     "Embarcadero río Alcanadre, Chalamera",
+     "Mirador del Tozal, Chalamera",
+     "El Castillo, el Tozal y el embarcadero, Chalamera"
     ]
    },
    "castillo-torrente": {
@@ -1189,13 +1853,35 @@
     "mun": "Torrente de Cinca",
     "q": [
      "Castillo de Torrente de Cinca",
-     "Castillo, Torrente de Cinca"
-    ],
-    "fq": [
-     "Castillo de Torrente de Cinca",
-     "Torrente de Cinca castillo",
-     "Torrent de Cinca castell",
-     "Castillo de Torrente de Cinca Torrente de Cinca"
+     "Castillo, Torrente de Cinca",
+     "Castillo de Torrente de Cinca, Torrente de Cinca"
+    ]
+   },
+   "san-salvador-torrente": {
+    "name": "Ermita de San Salvador",
+    "mun": "Torrente de Cinca",
+    "q": [
+     "Ermita de San Salvador, Torrente de Cinca",
+     "San Salvador, Torrente de Cinca",
+     "Ermita de San Salvador, Torrente de Cinca"
+    ]
+   },
+   "iglesia-torrente": {
+    "name": "Iglesia de Santa María Magdalena",
+    "mun": "Torrente de Cinca",
+    "q": [
+     "Iglesia de Santa María Magdalena, Torrente de Cinca",
+     "Plaza de la Iglesia, Torrente de Cinca",
+     "Iglesia de Santa María Magdalena, Torrente de Cinca"
+    ]
+   },
+   "lavaderos-torrente": {
+    "name": "Lavaderos, Fonteta y puente acueducto",
+    "mun": "Torrente de Cinca",
+    "q": [
+     "Lavaderos, Torrente de Cinca",
+     "La Fonteta, Torrente de Cinca",
+     "Lavaderos, Fonteta y puente acueducto, Torrente de Cinca"
     ]
    },
    "murallas-zaidin": {
@@ -1203,13 +1889,26 @@
     "mun": "Zaidín",
     "q": [
      "Murallas de Zaidín",
-     "Castillo de Zaidín"
-    ],
-    "fq": [
-     "Zaidín murallas",
      "Castillo de Zaidín",
-     "Zaidín Huesca",
-     "Murallas y castillo de Zaidín Zaidín"
+     "Murallas y castillo de Zaidín, Zaidín"
+    ]
+   },
+   "iglesia-zaidin": {
+    "name": "Iglesia de San Juan Bautista",
+    "mun": "Zaidín",
+    "q": [
+     "Iglesia de San Juan Bautista, Zaidín",
+     "Iglesia parroquial, Zaidín",
+     "Iglesia de San Juan Bautista, Zaidín"
+    ]
+   },
+   "san-anton-zaidin": {
+    "name": "Ermita de San Antón",
+    "mun": "Zaidín",
+    "q": [
+     "Ermita de San Antón, Zaidín",
+     "San Antón, Zaidín",
+     "Ermita de San Antón, Zaidín"
     ]
    },
    "san-valero-velilla": {
@@ -1217,13 +1916,26 @@
     "mun": "Velilla de Cinca",
     "q": [
      "Ermita de San Valero, Velilla de Cinca",
-     "Mausoleo romano Velilla de Cinca"
-    ],
-    "fq": [
-     "Ermita de San Valero Velilla de Cinca",
-     "Velilla de Cinca mausoleo romano",
-     "Velilla de Cinca San Valero",
-     "Ermita de San Valero Velilla de Cinca"
+     "Mausoleo romano Velilla de Cinca",
+     "Ermita de San Valero, Velilla de Cinca"
+    ]
+   },
+   "iglesia-velilla": {
+    "name": "Iglesia de San Lorenzo",
+    "mun": "Velilla de Cinca",
+    "q": [
+     "Iglesia de San Lorenzo, Velilla de Cinca",
+     "Iglesia parroquial, Velilla de Cinca",
+     "Iglesia de San Lorenzo, Velilla de Cinca"
+    ]
+   },
+   "castellassos-velilla": {
+    "name": "Los Castellassos",
+    "mun": "Velilla de Cinca",
+    "q": [
+     "Los Castellassos, Velilla de Cinca",
+     "Castellassos Velilla",
+     "Los Castellassos, Velilla de Cinca"
     ]
    },
    "puente-ballobar": {
@@ -1231,13 +1943,26 @@
     "mun": "Ballobar",
     "q": [
      "Puente viejo de Ballobar",
-     "Puente medieval, Ballobar"
-    ],
-    "fq": [
-     "Ballobar puente",
-     "Puente de Ballobar Alcanadre",
-     "Ballobar Huesca",
-     "Puente viejo de Ballobar Ballobar"
+     "Puente medieval, Ballobar",
+     "Puente viejo de Ballobar, Ballobar"
+    ]
+   },
+   "iglesia-ballobar": {
+    "name": "Iglesia de la Asunción y ermita de Loreto",
+    "mun": "Ballobar",
+    "q": [
+     "Iglesia de la Asunción, Ballobar",
+     "Iglesia parroquial, Ballobar",
+     "Iglesia de la Asunción y ermita de Loreto, Ballobar"
+    ]
+   },
+   "san-juan-ballobar": {
+    "name": "Ermita de San Juan y El Castillazo",
+    "mun": "Ballobar",
+    "q": [
+     "Ermita de San Juan, Ballobar",
+     "El Castillazo, Ballobar",
+     "Ermita de San Juan y El Castillazo, Ballobar"
     ]
    },
    "iglesia-belver": {
@@ -1245,32 +1970,144 @@
     "mun": "Belver de Cinca",
     "q": [
      "Iglesia de la Asunción, Belver de Cinca",
-     "Iglesia parroquial, Belver de Cinca"
-    ],
-    "fq": [
-     "Belver de Cinca iglesia",
-     "Iglesia de la Asunción Belver de Cinca",
-     "Belver de Cinca",
-     "Iglesia de la Asunción de Belver Belver de Cinca"
+     "Iglesia parroquial, Belver de Cinca",
+     "Iglesia de la Asunción de Belver, Belver de Cinca"
+    ]
+   },
+   "casas-belver": {
+    "name": "Casas solariegas y mazmorras templarias",
+    "mun": "Belver de Cinca",
+    "q": [
+     "Casa Prim, Belver de Cinca",
+     "Calle Mayor, Belver de Cinca",
+     "Casas solariegas y mazmorras templarias, Belver de Cinca"
+    ]
+   },
+   "iglesia-osso": {
+    "name": "Iglesia de Santa Margarita",
+    "mun": "Osso de Cinca",
+    "q": [
+     "Iglesia de Santa Margarita, Osso de Cinca",
+     "Iglesia parroquial, Osso de Cinca",
+     "Iglesia de Santa Margarita, Osso de Cinca"
+    ]
+   },
+   "casa-mora-osso": {
+    "name": "Casa Mora",
+    "mun": "Osso de Cinca",
+    "q": [
+     "Casa Mora, Osso de Cinca",
+     "Ayuntamiento de Osso de Cinca",
+     "Casa Mora, Osso de Cinca"
+    ]
+   },
+   "iglesia-ontinena": {
+    "name": "Iglesia de Santa María la Mayor",
+    "mun": "Ontiñena",
+    "q": [
+     "Iglesia de Santa María la Mayor, Ontiñena",
+     "Iglesia parroquial, Ontiñena",
+     "Iglesia de Santa María la Mayor, Ontiñena"
+    ]
+   },
+   "san-gregorio-ontinena": {
+    "name": "Ermita de San Gregorio",
+    "mun": "Ontiñena",
+    "q": [
+     "Ermita de San Gregorio, Ontiñena",
+     "Sierra de San Gregorio, Ontiñena",
+     "Ermita de San Gregorio, Ontiñena"
+    ]
+   },
+   "vivero-ontinena": {
+    "name": "El Alcanadre: puente, Vivero y fuente románica",
+    "mun": "Ontiñena",
+    "q": [
+     "Parque El Vivero, Ontiñena",
+     "Puente sobre el Alcanadre, Ontiñena",
+     "El Alcanadre: puente, Vivero y fuente románica, Ontiñena"
+    ]
+   },
+   "iglesia-candasnos": {
+    "name": "Iglesia de la Asunción de Candasnos",
+    "mun": "Candasnos",
+    "q": [
+     "Iglesia de la Asunción, Candasnos",
+     "Iglesia parroquial, Candasnos",
+     "Iglesia de la Asunción de Candasnos, Candasnos"
+    ]
+   },
+   "pozo-hielo-candasnos": {
+    "name": "Pozo de hielo y la Balsa Buena",
+    "mun": "Candasnos",
+    "q": [
+     "Pozo de hielo, Candasnos",
+     "Balsa Buena, Candasnos",
+     "Pozo de hielo y la Balsa Buena, Candasnos"
+    ]
+   },
+   "hondo-unilla": {
+    "name": "Hondo de la Unilla y San Bartolomé",
+    "mun": "Candasnos",
+    "q": [
+     "Hondo de la Unilla, Candasnos",
+     "Ermita de San Bartolomé, Candasnos",
+     "Hondo de la Unilla y San Bartolomé, Candasnos"
+    ]
+   },
+   "camino-candasnos": {
+    "name": "Caminos de peregrinos: Santiago e Ignaciano",
+    "mun": "Candasnos",
+    "q": [
+     "Camino de Santiago, Candasnos",
+     "Candasnos",
+     "Caminos de peregrinos: Santiago e Ignaciano, Candasnos"
     ]
    }
   },
   "overpass_kw": [
    "Aiguabarreig",
+   "Calle Mayor",
+   "Camino Natural del Ebro",
+   "Camino de Santiago",
+   "Casa Mora",
+   "Casa Prim",
    "Castillo de Fraga",
    "Castillo de Mequinenza",
    "Castillo de Torrente de Cinca",
+   "Embarcadero río Alcanadre",
+   "Ermita de San Antón",
+   "Ermita de San Gregorio",
+   "Ermita de San Juan",
+   "Ermita de San Salvador",
    "Ermita de San Valero",
    "Ermita de Santa María de Chalamera",
+   "Hondo de la Unilla",
+   "Iglesia de San Juan Bautista",
+   "Iglesia de San Lorenzo",
    "Iglesia de San Pedro",
+   "Iglesia de Santa Margarita",
+   "Iglesia de Santa María Magdalena",
+   "Iglesia de Santa María la Mayor",
    "Iglesia de la Asunción",
+   "Lavaderos",
+   "Los Castellassos",
    "Murallas de Zaidín",
    "Museo de la Mina",
+   "Palacio Montcada",
+   "Parque El Vivero",
+   "Parque Ramón J. Sender",
+   "Parque de la Estacada",
    "Pilaret de Santa Quiteria",
+   "Pozo de hielo",
+   "Presa de Mequinenza",
    "Pueblo Viejo de Mequinenza",
    "Puente viejo de Ballobar",
    "Torre de los Frailes",
+   "Valcuerna",
    "Villa Fortunatus"
-  ]
+  ],
+  "no_base": true,
+  "no_fotos": true
  }
 }
