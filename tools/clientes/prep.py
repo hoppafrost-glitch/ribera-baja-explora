@@ -5,14 +5,14 @@ from shapely.geometry import LineString, mapping, shape
 from shapely.ops import polygonize, unary_union, linemerge
 UA = {"User-Agent": "ExploraGuias/1.0 (guia turistica; https://github.com/hoppafrost-glitch)"}
 os.makedirs("tools/clientes/out", exist_ok=True)
-LOG = open("tools/clientes/out/log.txt", "a")
+LOG = open("tools/clientes/out/log-" + ("-".join(sys.argv[1:]) or "all") + ".txt", "w")
 def log(*a): print(*a, flush=True); print(*a, file=LOG, flush=True)
-def get(url, data=None, tries=3):
+def get(url, data=None, tries=2):
     for i in range(tries):
         try:
-            return json.load(urllib.request.urlopen(urllib.request.Request(url, data=data, headers=UA), timeout=180))
+            return json.load(urllib.request.urlopen(urllib.request.Request(url, data=data, headers=UA), timeout=100))
         except Exception as e:
-            log("  retry", i, url[:80], e); time.sleep(8 * (i + 1))
+            log("  retry", i, url[:80], e); time.sleep(5)
     raise RuntimeError("fallo " + url[:80])
 OVP = ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter"]
 def overpass(q):
@@ -71,7 +71,7 @@ for slug, c in IN.items():
                     res.append({"q": q, "name": x.get("display_name"), "lat": float(x["lat"]), "lon": float(x["lon"]), "type": x.get("type"), "cls": x.get("category")})
             except Exception as e:
                 res.append({"q": q, "error": str(e)})
-            time.sleep(1.2)
+            time.sleep(1.1)
         geo[pid] = res
     if vb:
         kw = "|".join(re.escape(w) for w in c.get("overpass_kw", []))
