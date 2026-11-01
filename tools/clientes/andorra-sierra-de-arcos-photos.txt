@@ -1,0 +1,29 @@
+mwinas|Pozo San Juan.jpg
+mwinas-g1|Entrada al museo Minero de Andorra MWINAS.jpg
+san-pedro-oliete|Cabezo de San Pedro 01.jpg
+san-pedro-oliete-g1|Cabezo de San Pedro 02.jpg
+san-pedro-oliete-g2|Cabezo de San Pedro 03.jpg
+san-pedro-oliete-g3|Cabezo de San Pedro 04.jpg
+sima-san-pedro|IMG-20190323-WA0030.jpg
+sima-san-pedro-g1|IMG-20190323-WA0031.jpg
+sima-san-pedro-g2|IMG-20190323-WA0032.jpg
+sima-san-pedro-g3|IMG-20190323-WA0033.jpg
+valcaria|Proa valdearinnoensis.jpg
+monasterio-olivar|Blasón eclesiástico. Monasterio de Santa María de El Olivar (Estercuel, Teruel).jpg
+monasterio-olivar-g1|Monasterio de Nuestra Señora del Olivar. Monasterio de Santa María de El Olivar (Estercuel).jpg
+monasterio-olivar-g2|Monasterio de Nuestra Señora del Olivar. Monasterio de Santa María de El Olivar (Estercuel, Teruel).jpg
+monasterio-olivar-g3|Monasterio de Nuestra Señora del Olivar. Santa María de El Olivar (Estercuel, Teruel).jpg
+calvario-alloza|Calvario azul.jpg
+calvario-alloza-g1|Alloza detalle.jpg
+calvario-alloza-g2|Camino calvario.jpg
+calvario-alloza-g3|Detalle calvario.jpg
+crivillen-casco|Serrano 01.jpg
+crivillen-casco-g1|Iglesia de San Martín 01 Crivillen.jpg
+plaza-ejulve|Ayuntamiento, casa consistorial de Ejulve.jpg
+plaza-ejulve-g1|Ayuntamiento de Ejulve (Teruel). EXULVE 1563.jpg
+plaza-ejulve-g2|Ejulve 16.JPG
+plaza-ejulve-g3|Casa consistorial de Ejulve, Teruel.jpg
+santa-ana-ejulve|The Silent Route, ruta del silencio, carretera A-1702, Ejulve, Teruel.jpg
+santa-ana-ejulve-g1|The Silent Route, carretera panorámica A-1702, Teruel.jpg
+santa-ana-ejulve-g2|The Silent Route, la ruta del silencio, carretera panorámica A-1702 en Teruel.jpg
+santa-ana-ejulve-g3|The Silent Route, la ruta del silencio, son los nombres que recibe la carretera panorámica A-1702.jpg
