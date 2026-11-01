@@ -1,0 +1,645 @@
+{
+"puerta-baja": [
+{
+"q": "Puerta Baja, Daroca",
+"name": "Puerta Baja, Calle Mayor, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.112759,
+"lon": -1.4169329,
+"type": "city_gate",
+"cls": "historic"
+},
+{
+"q": "Puerta Baja de Daroca",
+"name": "Puerta Baja, Paseo de la Constitución, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.112759,
+"lon": -1.4169329,
+"type": "yes",
+"cls": "building"
+}
+],
+"veinte-canos": [
+{
+"q": "Fuente de los Veinte Caños, Daroca",
+"name": "Fuente de los Veinte Caños, Avenida del Carmen, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1125726,
+"lon": -1.4169408,
+"type": "drinking_water",
+"cls": "amenity"
+},
+{
+"q": "Fuente de los 20 Caños Daroca",
+"name": "Fuente de los 20 caños, Avenida del Carmen, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1125433,
+"lon": -1.416922,
+"type": "yes",
+"cls": "building"
+}
+],
+"mina-daroca": [
+{
+"q": "La Mina, Daroca",
+"name": "La Mina, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1105269,
+"lon": -1.4085817,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "La Mina, Daroca",
+"name": "La Mina, Calle La Mina, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1134842,
+"lon": -1.4085534,
+"type": "cave_entrance",
+"cls": "natural"
+}
+],
+"basilica-corporales": [
+{
+"q": "Basílica de Santa María de los Sagrados Corporales, Daroca",
+"name": "Basílica de Santa María de los Sagrados Corporales, Calle Hiladores Bajos, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1152225,
+"lon": -1.4137909,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"museo-corporales": [],
+"san-miguel": [
+{
+"q": "Iglesia de San Miguel, Daroca",
+"name": "Iglesia de San Miguel, Calle Valcaliente, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1152271,
+"lon": -1.4169082,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"murallas-castillo": [
+{
+"q": "Castillo Mayor, Daroca",
+"name": "Castillo Mayor, Calle Hiladores Altos, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1159883,
+"lon": -1.4120959,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Puerta Alta, Daroca",
+"name": "Puerta Alta, Calle Mayor, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1142111,
+"lon": -1.409981,
+"type": "city_gate",
+"cls": "historic"
+},
+{
+"q": "Murallas de Daroca",
+"name": "Calle Murallas, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1147018,
+"lon": -1.4100252,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Murallas de Daroca",
+"name": "Calle Murallas, Daroca, Campo de Daroca, Zaragoza, Aragón, 50360, España",
+"lat": 41.1140301,
+"lon": -1.4098917,
+"type": "pedestrian",
+"cls": "highway"
+}
+],
+"laguna-gallocanta": [
+{
+"q": "Laguna de Gallocanta",
+"name": "Laguna de Gallocanta, Berrueco, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 40.9667061,
+"lon": -1.5013761,
+"type": "lake",
+"cls": "water"
+}
+],
+"retablo-anento": [
+{
+"q": "Iglesia de San Blas, Anento",
+"name": "Iglesia de San Blas, Calle Latorre, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0696895,
+"lon": -1.333304,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Anento iglesia",
+"name": "Iglesia de San Blas, Calle Latorre, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0696895,
+"lon": -1.333304,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"aguallueve": [
+{
+"q": "Aguallueve, Anento",
+"name": "Aguallueve de Anento, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.073287,
+"lon": -1.3253908,
+"type": "water",
+"cls": "natural"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Senda del Aguallueve, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0724765,
+"lon": -1.3288327,
+"type": "track",
+"cls": "highway"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Senda del Aguallueve, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0707924,
+"lon": -1.3280608,
+"type": "path",
+"cls": "highway"
+},
+{
+"q": "Aguallueve, Anento",
+"name": "Senda del Aguallueve, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0735307,
+"lon": -1.3255176,
+"type": "ladder",
+"cls": "highway"
+},
+{
+"q": "Aguallueve de Anento",
+"name": "Aguallueve de Anento, Anento, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.073287,
+"lon": -1.3253908,
+"type": "water",
+"cls": "natural"
+}
+],
+"murero-fosiles": [],
+"pinsapar-orcajo": [
+{
+"q": "Orcajo, Zaragoza",
+"name": "Orcajo, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.110044,
+"lon": -1.4899156,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"hoces-rio-piedra": [
+{
+"q": "Hoces del río Piedra",
+"name": "Hoces del Río Piedra, Calle Baja, Aldehuela de Liestos, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0628915,
+"lon": -1.7039466,
+"type": "information",
+"cls": "tourism"
+},
+{
+"q": "Torralba de los Frailes",
+"name": "Torralba de los Frailes, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0367198,
+"lon": -1.6609507,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"laguna-guialguerrero": [
+{
+"q": "Laguna de Guialguerrero",
+"name": "Laguna de Guialguerrero, Cubel, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0794793,
+"lon": -1.6117574,
+"type": "water",
+"cls": "natural"
+},
+{
+"q": "Guialguerrero, Cubel",
+"name": "Laguna de Guialguerrero, Cubel, Campo de Daroca, Zaragoza, Aragón, España",
+"lat": 41.0794793,
+"lon": -1.6117574,
+"type": "water",
+"cls": "natural"
+}
+],
+"_overpass": {
+"Barranco de la Mina": [
+{
+"lat": 41.2172619,
+"lon": -1.3030011,
+"id": "node/1242124035",
+"k": {}
+},
+{
+"lat": 41.1463432,
+"lon": -1.16098,
+"id": "way/1207207775",
+"k": {}
+}
+],
+"La Mina": [
+{
+"lat": 41.1105269,
+"lon": -1.4085817,
+"id": "node/1242136244",
+"k": {}
+},
+{
+"lat": 41.30102,
+"lon": -1.611288,
+"id": "node/1242144721",
+"k": {}
+},
+{
+"lat": 41.1134842,
+"lon": -1.4085534,
+"id": "node/6187992997",
+"k": {
+"natural": "cave_entrance"
+}
+}
+],
+"Fuente de los Veinte Caños": [
+{
+"lat": 41.1125726,
+"lon": -1.4169408,
+"id": "node/2604866003",
+"k": {
+"amenity": "drinking_water"
+}
+}
+],
+"Aguallueve de 'l'Arguilay": [
+{
+"lat": 41.0452491,
+"lon": -1.3147837,
+"id": "node/4600273899",
+"k": {}
+}
+],
+"Hoces del Río Piedra": [
+{
+"lat": 41.0628915,
+"lon": -1.7039466,
+"id": "node/6173372289",
+"k": {
+"tourism": "information"
+}
+}
+],
+"Iglesia de San Miguel": [
+{
+"lat": 41.2884047,
+"lon": -1.6160105,
+"id": "way/113754853",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+},
+{
+"lat": 41.115234,
+"lon": -1.4169129,
+"id": "way/254680942",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian",
+"tourism": "attraction"
+}
+},
+{
+"lat": 41.3124639,
+"lon": -1.5373813,
+"id": "way/490391386",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 41.313615,
+"lon": -1.6395553,
+"id": "way/819873580",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Basílica de Santa María de los Sagrados Corporales": [
+{
+"lat": 41.1152353,
+"lon": -1.4137891,
+"id": "way/198726985",
+"k": {
+"amenity": "place_of_worship",
+"building": "basilica",
+"religion": "christian",
+"tourism": "attraction"
+}
+}
+],
+"Laguna de Guialguerrero": [
+{
+"lat": 41.0794589,
+"lon": -1.6117521,
+"id": "way/210111614",
+"k": {
+"natural": "water"
+}
+}
+],
+"Calle la Mina": [
+{
+"lat": 40.9157977,
+"lon": -1.2987067,
+"id": "way/239672596",
+"k": {}
+},
+{
+"lat": 40.9153117,
+"lon": -1.2988104,
+"id": "way/239672604",
+"k": {}
+}
+],
+"Castillo Mayor": [
+{
+"lat": 41.1159883,
+"lon": -1.4120959,
+"id": "way/254680933",
+"k": {
+"building": "yes",
+"historic": "castle"
+}
+}
+],
+"Puerta Baja": [
+{
+"lat": 41.1127598,
+"lon": -1.4169887,
+"id": "way/254680980",
+"k": {
+"building": "yes",
+"historic": "city_gate",
+"tourism": "attraction"
+}
+}
+],
+"Calle La Mina": [
+{
+"lat": 41.1138143,
+"lon": -1.4092369,
+"id": "way/254683634",
+"k": {}
+},
+{
+"lat": 41.1138282,
+"lon": -1.4091471,
+"id": "way/254683635",
+"k": {}
+}
+],
+"Rambla de la Mina": [
+{
+"lat": 41.1068342,
+"lon": -1.4104254,
+"id": "way/254746388",
+"k": {}
+},
+{
+"lat": 41.1071541,
+"lon": -1.4097052,
+"id": "way/254746391",
+"k": {}
+},
+{
+"lat": 41.1080613,
+"lon": -1.4093478,
+"id": "way/254746393",
+"k": {}
+},
+{
+"lat": 41.1066014,
+"lon": -1.41096,
+"id": "way/558323084",
+"k": {}
+},
+{
+"lat": 41.10582,
+"lon": -1.4134918,
+"id": "way/558323088",
+"k": {}
+},
+{
+"lat": 41.1060883,
+"lon": -1.4121263,
+"id": "way/558323090",
+"k": {}
+},
+{
+"lat": 41.1054159,
+"lon": -1.416615,
+"id": "way/558323091",
+"k": {}
+},
+{
+"lat": 41.1055678,
+"lon": -1.4148442,
+"id": "way/558323092",
+"k": {}
+},
+{
+"lat": 41.1103674,
+"lon": -1.4090492,
+"id": "way/558323093",
+"k": {}
+}
+],
+"Area Recreativa Aguallueve de 'l'Arguilay'": [
+{
+"lat": 41.045835,
+"lon": -1.3160925,
+"id": "way/406642870",
+"k": {
+"tourism": "picnic_site"
+}
+}
+],
+"Senda del Aguallueve": [
+{
+"lat": 41.0720296,
+"lon": -1.3286025,
+"id": "way/428961432",
+"k": {}
+},
+{
+"lat": 41.0708135,
+"lon": -1.3280455,
+"id": "way/466422601",
+"k": {}
+},
+{
+"lat": 41.07351,
+"lon": -1.325562,
+"id": "way/1458986993",
+"k": {}
+}
+],
+"Aguallueve de Anento": [
+{
+"lat": 41.0732849,
+"lon": -1.3253902,
+"id": "way/428963164",
+"k": {
+"natural": "water"
+}
+}
+],
+"Iglesia de San Blas": [
+{
+"lat": 41.0696778,
+"lon": -1.3333025,
+"id": "way/464920653",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Centro de Interpretación de la Reserva Natural Dirigida de la Laguna de Gallocanta": [
+{
+"lat": 40.9289015,
+"lon": -1.465579,
+"id": "way/664066984",
+"k": {
+"building": "yes",
+"tourism": "museum"
+}
+}
+],
+"Arroyo de la Mina": [
+{
+"lat": 41.1389426,
+"lon": -1.1069816,
+"id": "way/1207217672",
+"k": {}
+}
+],
+"Laguna de Gallocanta": [
+{
+"lat": 40.9388903,
+"lon": -1.4601822,
+"id": "relation/11362798",
+"k": {}
+},
+{
+"lat": 40.9669358,
+"lon": -1.5011668,
+"id": "relation/11671892",
+"k": {
+"natural": "water"
+}
+}
+],
+"Enlace Laguna de Gallocanta - Ruta del Río Jiloca": [
+{
+"lat": 40.8993968,
+"lon": -1.3954156,
+"id": "relation/11517145",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Alternativa H - Bello - Torralba de los Sisones": [
+{
+"lat": 40.9111862,
+"lon": -1.4778953,
+"id": "relation/11517146",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Alternativa G - Ruta familiar (Tornos - Gallocanta)": [
+{
+"lat": 40.9703706,
+"lon": -1.4677255,
+"id": "relation/11517147",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Alternativa F - Ruta familiar (Bello - Tornos)": [
+{
+"lat": 40.941969,
+"lon": -1.4642873,
+"id": "relation/11517148",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional E - Castillo de Tornos": [
+{
+"lat": 40.9562787,
+"lon": -1.4293251,
+"id": "relation/11517149",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional D - Ermita de la Virgen de los Olmos": [
+{
+"lat": 40.9480293,
+"lon": -1.4416505,
+"id": "relation/11517150",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional C - Vistas de Berrueco": [
+{
+"lat": 40.987594,
+"lon": -1.4653641,
+"id": "relation/11517151",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional B - Castillo de Berrueco": [
+{
+"lat": 40.992025,
+"lon": -1.4678545,
+"id": "relation/11517152",
+"k": {}
+}
+],
+"Laguna de Gallocanta - Opcional A - Berrueco": [
+{
+"lat": 40.9779094,
+"lon": -1.4686287,
+"id": "relation/11517153",
+"k": {}
+}
+],
+"Reserva Natural Dirigida de la Laguna de Gallocanta": [
+{
+"lat": 40.9633123,
+"lon": -1.5002905,
+"id": "relation/11671893",
+"k": {
+"leisure": "nature_reserve"
+}
+}
+],
+"Zona Periférica de Protección de la Reserva Natural Dirigida de la Laguna de Gallocanta": [
+{
+"lat": 40.9728872,
+"lon": -1.5069633,
+"id": "relation/11913296",
+"k": {
+"leisure": "nature_reserve"
+}
+}
+]
+}
+}
