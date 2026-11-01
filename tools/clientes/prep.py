@@ -29,16 +29,18 @@ for slug, c in IN.items():
     # 1. límites
     try:
         names = "|".join(re.escape(m) for m in c["munis"])
-        q = f'[out:json][timeout:180];area["name"="{c["prov"]}"]["boundary"="administrative"]["admin_level"~"^(4|6)$"]->.p;rel(area.p)["boundary"="administrative"]["admin_level"="8"]["name"~"^({names})( / .*)?$"];out geom;'
+        q = f'[out:json][timeout:180];area["name"="{c["prov"]}"]["boundary"="administrative"]["admin_level"~"^(4|6)$"]->.p;(rel(area.p)["boundary"="administrative"]["admin_level"="8"]["name"~"^({names})( / .*)?$"];rel(area.p)["boundary"="administrative"]["admin_level"="8"]["name:es"~"^({names})$"];);out geom;'
         r = overpass(q)
-        feats, polys = [], []
+        feats, polys, seenid = [], [], set()
         for el in r.get("elements", []):
+            if el["id"] in seenid: continue
+            seenid.add(el["id"])
             lines = [LineString([(p["lon"], p["lat"]) for p in m["geometry"]]) for m in el.get("members", []) if m.get("type") == "way" and m.get("role") in ("outer", "") and m.get("geometry")]
             poly = unary_union(list(polygonize(unary_union(lines))))
             if poly.is_empty: log("  sin polígono", el["tags"].get("name")); continue
             poly = poly.simplify(0.0006, preserve_topology=True)
             polys.append(poly)
-            feats.append({"type": "Feature", "properties": {"n": el["tags"].get("name"), "c": 1}, "geometry": mapping(poly)})
+            feats.append({"type": "Feature", "properties": {"n": el["tags"].get("name:es") or el["tags"].get("name"), "c": 1}, "geometry": mapping(poly)})
         found = sorted(f["properties"]["n"].split(" / ")[0] for f in feats)
         log("  municipios", len(feats), "de", len(c["munis"]), "faltan:", sorted(set(c["munis"]) - set(found)))
         if polys:
@@ -50,7 +52,8 @@ for slug, c in IN.items():
                 rr = overpass(f'[out:json][timeout:120];way["waterway"="river"]["name"="{c["river"]}"]({bb});out geom;')
                 ls = [LineString([(p["lon"], p["lat"]) for p in w["geometry"]]) for w in rr.get("elements", []) if w.get("geometry")]
                 if ls:
-                    mg = linemerge(unary_union(ls))
+                    u = unary_union(ls)
+                    mg = linemerge(u) if u.geom_type == "MultiLineString" else u
                     parts = list(mg.geoms) if hasattr(mg, "geoms") else [mg]
                     best = max(parts, key=lambda g: g.length).simplify(0.0005)
                     feats.append({"type": "Feature", "properties": {"river": 1}, "geometry": mapping(best)})
@@ -58,6 +61,8 @@ for slug, c in IN.items():
         json.dump({"type": "FeatureCollection", "features": feats}, open(f"tools/clientes/out/{slug}-base.json", "w"), ensure_ascii=False)
     except Exception:
         log(traceback.format_exc())
+    if os.path.exists(f"tools/clientes/out/{slug}-geo.json") and os.path.exists(f"tools/clientes/out/{slug}-fotos.json"):
+        log("  geo y fotos ya hechos"); continue
     # 2. coordenadas de los lugares (Nominatim + Overpass por nombre dentro de la caja)
     geo = {}
     vb = c.get("bbox")  # [minlon,minlat,maxlon,maxlat]
