@@ -1,5 +1,4 @@
 == cinco-villas
   municipios 31 de 31 faltan: []
   río ok 169
-  retry 0 https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
-  hecho cinco-villas
+  geo y fotos ya hechos
