@@ -29,7 +29,7 @@ for slug, c in IN.items():
     # 1. límites
     try:
         names = "|".join(re.escape(m) for m in c["munis"])
-        q = f'[out:json][timeout:180];area["name"="{c["prov"]}"]["boundary"="administrative"]["admin_level"~"^(4|6)$"]->.p;rel(area.p)["boundary"="administrative"]["admin_level"="8"]["name"~"^({names})$"];out geom;'
+        q = f'[out:json][timeout:180];area["name"="{c["prov"]}"]["boundary"="administrative"]["admin_level"~"^(4|6)$"]->.p;rel(area.p)["boundary"="administrative"]["admin_level"="8"]["name"~"^({names})( / .*)?$"];out geom;'
         r = overpass(q)
         feats, polys = [], []
         for el in r.get("elements", []):
@@ -39,7 +39,7 @@ for slug, c in IN.items():
             poly = poly.simplify(0.0006, preserve_topology=True)
             polys.append(poly)
             feats.append({"type": "Feature", "properties": {"n": el["tags"].get("name"), "c": 1}, "geometry": mapping(poly)})
-        found = sorted(f["properties"]["n"] for f in feats)
+        found = sorted(f["properties"]["n"].split(" / ")[0] for f in feats)
         log("  municipios", len(feats), "de", len(c["munis"]), "faltan:", sorted(set(c["munis"]) - set(found)))
         if polys:
             out = unary_union(polys).buffer(0.0004).buffer(-0.0004).simplify(0.0008)
