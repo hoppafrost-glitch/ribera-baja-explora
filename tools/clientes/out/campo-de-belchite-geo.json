@@ -1,0 +1,366 @@
+{
+"pueblo-viejo": [
+{
+"q": "Pueblo Viejo de Belchite",
+"name": "Pueblo Viejo de Belchite, Belchite, Campo de Belchite, Zaragoza, Aragón, España",
+"lat": 41.3008616,
+"lon": -0.747509,
+"type": "brownfield",
+"cls": "landuse"
+},
+{
+"q": "Pueblo Viejo de Belchite",
+"name": "Pueblo viejo de Belchite, Belchite, Campo de Belchite, Zaragoza, Aragón, 50130, España",
+"lat": 41.3006021,
+"lon": -0.7478427,
+"type": "neighbourhood",
+"cls": "place"
+},
+{
+"q": "Belchite Viejo",
+"name": "Pueblo Viejo de Belchite, Belchite, Campo de Belchite, Zaragoza, Aragón, España",
+"lat": 41.3008616,
+"lon": -0.747509,
+"type": "brownfield",
+"cls": "landuse"
+},
+{
+"q": "Belchite Viejo",
+"name": "Pueblo viejo de Belchite, Belchite, Campo de Belchite, Zaragoza, Aragón, 50130, España",
+"lat": 41.3006021,
+"lon": -0.7478427,
+"type": "neighbourhood",
+"cls": "place"
+},
+{
+"q": "Calle Mayor, Belchite",
+"name": "Calle Mayor, Belchite, Campo de Belchite, Zaragoza, Aragón, 50130, España",
+"lat": 41.3080844,
+"lon": -0.7538425,
+"type": "residential",
+"cls": "highway"
+}
+],
+"iglesia-san-martin": [
+{
+"q": "Iglesia de San Martín de Tours, Belchite",
+"name": "Iglesia de San Martín de Tours (ruinas), Plaza de la Iglesia, Pueblo viejo de Belchite, Belchite, Campo de Belchite, Zaragoza, Aragón, 50130, España",
+"lat": 41.2996629,
+"lon": -0.7454751,
+"type": "ruins",
+"cls": "historic"
+},
+{
+"q": "San Martín de Tours, Pueblo Viejo de Belchite",
+"name": "Iglesia de San Martín de Tours (ruinas), Plaza de la Iglesia, Pueblo viejo de Belchite, Belchite, Campo de Belchite, Zaragoza, Aragón, 50130, España",
+"lat": 41.2996629,
+"lon": -0.7454751,
+"type": "ruins",
+"cls": "historic"
+}
+],
+"el-trujal": [],
+"pueblo-nuevo": [],
+"campo-rusia": [],
+"posiciones-saso": [],
+"santuario-pueyo": [
+{
+"q": "Santuario de Nuestra Señora del Pueyo, Belchite",
+"name": "Santuario de Nuestra Señora del Pueyo,, Camino de los Balbis, Belchite, Campo de Belchite, Zaragoza, Aragón, 50133, España",
+"lat": 41.3134922,
+"lon": -0.7944103,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"granja-escuela": [],
+"el-planeron": [
+{
+"q": "El Planerón, Belchite",
+"name": "Reserva de El Planerón, Belchite, Campo de Belchite, Zaragoza, Aragón, España",
+"lat": 41.3819884,
+"lon": -0.6106806,
+"type": "nature_reserve",
+"cls": "leisure"
+}
+],
+"casa-natal-goya": [
+{
+"q": "Casa Natal de Goya, Fuendetodos",
+"name": "Casa natal de Goya, Plaza de Goya, Fuendetodos, Campo de Belchite, Zaragoza, Aragón, 50142, España",
+"lat": 41.3426807,
+"lon": -0.9585724,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Calle Zuloaga, Fuendetodos",
+"name": "Calle Zuloaga, Fuendetodos, Campo de Belchite, Zaragoza, Aragón, 50142, España",
+"lat": 41.3439729,
+"lon": -0.9591906,
+"type": "residential",
+"cls": "highway"
+}
+],
+"museo-grabado": [],
+"trincheras-sierra-gorda": [
+{
+"q": "Sierra Gorda, Fuendetodos",
+"name": "Camino Alto Sierra Gorda, Fuendetodos, Campo de Belchite, Zaragoza, Aragón, 50142, España",
+"lat": 41.3405064,
+"lon": -0.9020136,
+"type": "track",
+"cls": "highway"
+}
+],
+"presa-almonacid": [
+{
+"q": "Presa romana de Almonacid de la Cuba",
+"name": "Presa Romana \"La Cuba\", Almonacid de la Cuba, Campo de Belchite, Zaragoza, Aragón, 50133, España",
+"lat": 41.2747841,
+"lon": -0.7890513,
+"type": "dam",
+"cls": "waterway"
+},
+{
+"q": "La Cuba, Almonacid de la Cuba",
+"name": "La Cuba, CV-645, Almonacid de la Cuba, Campo de Belchite, Zaragoza, Aragón, 50133, España",
+"lat": 41.2746391,
+"lon": -0.7885128,
+"type": "playground",
+"cls": "leisure"
+},
+{
+"q": "La Cuba, Almonacid de la Cuba",
+"name": "La Cuba, CV-645, Almonacid de la Cuba, Campo de Belchite, Zaragoza, Aragón, 50133, España",
+"lat": 41.2751534,
+"lon": -0.7885829,
+"type": "viewpoint",
+"cls": "tourism"
+}
+],
+"villa-la-malena": [],
+"aerodromo-plenas": [
+{
+"q": "Aeródromo de Plenas",
+"name": "Antiguo Aeródromo Guerra Civil (Casas Rusas), Senda de Valdepozas, Plenas, Campo de Belchite, Zaragoza, Aragón, 50143, España",
+"lat": 41.1094166,
+"lon": -0.9474319,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "El Bombal, Plenas",
+"name": "El Bombal, Plenas, Campo de Belchite, Zaragoza, Aragón, 50143, España",
+"lat": 41.1148758,
+"lon": -0.9449042,
+"type": "locality",
+"cls": "place"
+}
+],
+"_overpass": {
+"Pueblo viejo de Belchite": [
+{
+"lat": 41.3006021,
+"lon": -0.7478427,
+"id": "node/247923714",
+"k": {}
+}
+],
+"Pueblo viejo de Belchite / ya no te rondan zagales / ya no se oirán las jotas / que cantaban nuestros padres / N.B.": [
+{
+"lat": 41.29972,
+"lon": -0.7456934,
+"id": "node/2361257920",
+"k": {}
+}
+],
+"Trincheras de Sierra Gorda": [
+{
+"lat": 41.3435711,
+"lon": -0.9080121,
+"id": "node/2831189926",
+"k": {
+"historic": "memorial"
+}
+},
+{
+"lat": 41.3408288,
+"lon": -0.9020134,
+"id": "node/4439274308",
+"k": {}
+},
+{
+"lat": 41.3414759,
+"lon": -0.9034851,
+"id": "node/4439274309",
+"k": {}
+},
+{
+"lat": 41.3384082,
+"lon": -0.8969763,
+"id": "node/4439274310",
+"k": {}
+},
+{
+"lat": 41.3441085,
+"lon": -0.9085106,
+"id": "node/7012064946",
+"k": {
+"historic": "memorial"
+}
+}
+],
+"Casa natal de Goya": [
+{
+"lat": 41.3426807,
+"lon": -0.9585724,
+"id": "node/4361346152",
+"k": {
+"tourism": "museum"
+}
+}
+],
+"Monumento A Los Caídos Por España 1987": [
+{
+"lat": 41.512728,
+"lon": -0.6303651,
+"id": "node/7580578959",
+"k": {
+"historic": "memorial"
+}
+}
+],
+"Pueblo Viejo de Belchite": [
+{
+"lat": 41.3008377,
+"lon": -0.7474622,
+"id": "way/227027707",
+"k": {
+"historic": "ruins"
+}
+}
+],
+"Iglesia de San Martín de Tours (ruinas)": [
+{
+"lat": 41.2996597,
+"lon": -0.7454763,
+"id": "way/227460031",
+"k": {
+"building": "yes",
+"historic": "ruins"
+}
+}
+],
+"Camino Alto Sierra Gorda": [
+{
+"lat": 41.3430214,
+"lon": -0.9130548,
+"id": "way/278815477",
+"k": {}
+},
+{
+"lat": 41.3401751,
+"lon": -0.9021544,
+"id": "way/278815478",
+"k": {}
+},
+{
+"lat": 41.3341825,
+"lon": -0.8930985,
+"id": "way/278815479",
+"k": {}
+},
+{
+"lat": 41.3388403,
+"lon": -0.9305117,
+"id": "way/961922350",
+"k": {}
+},
+{
+"lat": 41.3368252,
+"lon": -0.9312133,
+"id": "way/1049361430",
+"k": {}
+},
+{
+"lat": 41.3364637,
+"lon": -0.9313375,
+"id": "way/1049361431",
+"k": {}
+},
+{
+"lat": 41.3372623,
+"lon": -0.9310676,
+"id": "way/1049361434",
+"k": {}
+},
+{
+"lat": 41.3378496,
+"lon": -0.9308192,
+"id": "way/1049361435",
+"k": {}
+},
+{
+"lat": 41.3395867,
+"lon": -0.9272216,
+"id": "way/1049361436",
+"k": {}
+},
+{
+"lat": 41.339359,
+"lon": -0.9289453,
+"id": "way/1049361440",
+"k": {}
+},
+{
+"lat": 41.3404789,
+"lon": -0.9245933,
+"id": "way/1051073317",
+"k": {}
+},
+{
+"lat": 41.3415069,
+"lon": -0.9220778,
+"id": "way/1051073318",
+"k": {}
+},
+{
+"lat": 41.3393949,
+"lon": -0.9299941,
+"id": "way/1051073322",
+"k": {}
+},
+{
+"lat": 41.3412351,
+"lon": -0.9229096,
+"id": "way/1051073324",
+"k": {}
+},
+{
+"lat": 41.3418513,
+"lon": -0.9206241,
+"id": "way/1051073329",
+"k": {}
+},
+{
+"lat": 41.3420407,
+"lon": -0.9189932,
+"id": "way/1051073330",
+"k": {}
+}
+],
+"Santuario de Nuestra Señora del Pueyo,": [
+{
+"lat": 41.3134617,
+"lon": -0.7944031,
+"id": "way/399524697",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+]
+}
+}
