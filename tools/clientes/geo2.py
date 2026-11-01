@@ -1,29 +1,22 @@
-import json, time, urllib.request, urllib.parse
+import json, re, time, urllib.request, urllib.parse
 UA = {"User-Agent": "ExploraGuias/1.0 (guia turistica; https://github.com/hoppafrost-glitch)"}
-def ovp(q):
-    for u in ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter"]:
-        try: return json.load(urllib.request.urlopen(urllib.request.Request(u, data=urllib.parse.urlencode({"data": q}).encode(), headers=UA), timeout=120))
-        except Exception as e: print(e); time.sleep(5)
-    return {}
+def nom(q, lat, lon, d=0.15):
+    prm = {"q": q, "format": "jsonv2", "limit": 6, "countrycodes": "es", "viewbox": f"{lon-d},{lat+d},{lon+d},{lat-d}", "bounded": 1}
+    try: return json.load(urllib.request.urlopen(urllib.request.Request("https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode(prm), headers=UA), timeout=40))
+    except Exception as e: print(e); return []
 IN = json.load(open("tools/clientes/geo2_in.json", encoding="utf-8"))
 out = {}
 for slug, pois in IN.items():
     out[slug] = {}
     for pid, p in pois.items():
-        c = f'{p["lat"]},{p["lon"]}'
-        parts = []
-        if p["church"]: parts.append(f'nwr(around:900,{c})["amenity"="place_of_worship"];')
-        if p["words"]:
-            rx = "|".join(p["words"])
-            parts.append(f'nwr(around:9000,{c})["name"~"{rx}",i];')
-        if not parts: parts.append(f'nwr(around:1500,{c})["tourism"~"viewpoint|museum|attraction"];')
-        r = ovp(f'[out:json][timeout:90];({"".join(parts)});out center tags;')
+        name = re.sub(r"\(.*?\)", "", p["name"]).split("·")[0].strip()
+        qs = [name, " ".join(p["words"]) + " " + p["mun"] if p["words"] else None, name.split(" y ")[0]]
+        if p["church"]: qs += ["iglesia " + p["mun"], "parroquia " + p["mun"]]
         res = []
-        for el in r.get("elements", []):
-            cc = el.get("center") or {"lat": el.get("lat"), "lon": el.get("lon")}
-            t = el.get("tags", {})
-            res.append({"name": t.get("name", ""), "lat": cc.get("lat"), "lon": cc.get("lon"), "k": {k: v for k, v in t.items() if k in ("amenity", "historic", "tourism", "natural", "building", "religion", "man_made", "leisure", "waterway")}})
+        for q in [q for q in qs if q]:
+            for x in nom(q, p["lat"], p["lon"]):
+                res.append({"q": q, "name": (x.get("display_name") or "").split(",")[0], "lat": float(x["lat"]), "lon": float(x["lon"]), "k": {"amenity": x.get("type") if x.get("category") == "amenity" else "", "cls": x.get("category"), "type": x.get("type")}})
+            time.sleep(1.1)
         out[slug][pid] = res
         print(slug, pid, len(res), flush=True)
-        time.sleep(1.5)
 json.dump(out, open("tools/clientes/out/geo2.json", "w"), ensure_ascii=False, indent=0)
