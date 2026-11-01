@@ -70,6 +70,7 @@
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
   "nacionalidad": "E",
   "categoria": "Pensión",
+  "_comarca": "ribera-baja",
   "_lat": 41.4286724,
   "_lon": -0.4988712,
   "_geo": "Calle San Jorge, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España"
@@ -145,6 +146,7 @@
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
   "nacionalidad": "E",
   "categoria": "Pensión",
+  "_comarca": "ribera-baja",
   "_lat": 41.429952,
   "_lon": -0.5010667,
   "_geo": "Avenida de la Constitucion, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España"
@@ -220,8 +222,9 @@
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
   "nacionalidad": "E",
   "categoria": "Pensión",
-  "_lat": 41.4250046,
-  "_lon": -0.4960116,
+  "_comarca": "ribera-baja",
+  "_lat": 41.4248886,
+  "_lon": -0.4960934,
   "_geo": "Plaza de España, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España"
  },
  {
@@ -294,7 +297,8 @@
   "municipio_ine": "SASTAGO",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
   "nacionalidad": "E",
-  "categoria": "Hostal"
+  "categoria": "Hostal",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "hotel",
@@ -366,7 +370,8 @@
   "municipio_ine": "ESCATRON",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
   "nacionalidad": "E",
-  "categoria": "Hostal"
+  "categoria": "Hostal",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "hotel",
@@ -438,7 +443,8 @@
   "municipio_ine": "ESCATRON",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
   "nacionalidad": "E",
-  "categoria": "Pensión"
+  "categoria": "Pensión",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -471,9 +477,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.4872245,
-  "_lon": -0.5319218,
-  "_geo": "Plaza de España, Pina de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -506,9 +510,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.4872245,
-  "_lon": -0.5319218,
-  "_geo": "Plaza de España, Pina de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -541,9 +543,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.5138392,
-  "_lon": -0.4503801,
-  "_geo": "Carretera Nacional 2, Pina de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, 50750, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -576,9 +576,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.4906515,
-  "_lon": -0.5285318,
-  "_geo": "Calle San Blas, Pina de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, 50750, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -610,7 +608,8 @@
   "plazas_mesa": "0",
   "superficie_m2": "0",
   "nacionalidad": "E",
-  "nombre_comarca": "RIBERA BAJA DEL EBRO"
+  "nombre_comarca": "RIBERA BAJA DEL EBRO",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -643,9 +642,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.4235539,
-  "_lon": -0.495926,
-  "_geo": "Restaurante Mallor, 6, Calle San Juan, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -677,7 +674,8 @@
   "plazas_mesa": "0",
   "superficie_m2": "0",
   "nacionalidad": "E",
-  "nombre_comarca": "RIBERA BAJA DEL EBRO"
+  "nombre_comarca": "RIBERA BAJA DEL EBRO",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -710,9 +708,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.4069604,
-  "_lon": -0.4623917,
-  "_geo": "Plaza Mayor, Gelsa, Ribera Baja del Ebro, Zaragoza, Aragón, 50786, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -745,9 +741,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.5253117,
-  "_lon": -0.4747384,
-  "_geo": "Autopista Zaragoza-Mediterráneo, Pina de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, 50750, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -780,9 +774,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.4233599,
-  "_lon": -0.4961247,
-  "_geo": "Calle Olivo, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -814,7 +806,8 @@
   "plazas_mesa": "164",
   "superficie_m2": "0",
   "nacionalidad": "E",
-  "nombre_comarca": "RIBERA BAJA DEL EBRO"
+  "nombre_comarca": "RIBERA BAJA DEL EBRO",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -847,9 +840,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.4872245,
-  "_lon": -0.5319218,
-  "_geo": "Plaza de España, Pina de Ebro, Ribera Baja del Ebro, Zaragoza, Aragón, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -881,7 +872,8 @@
   "plazas_mesa": "0",
   "superficie_m2": "0",
   "nacionalidad": "E",
-  "nombre_comarca": "RIBERA BAJA DEL EBRO"
+  "nombre_comarca": "RIBERA BAJA DEL EBRO",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -914,9 +906,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.4087396,
-  "_lon": -0.4626125,
-  "_geo": "Calle de Santa Bárbara, Gelsa, Ribera Baja del Ebro, Zaragoza, Aragón, 50786, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -948,7 +938,8 @@
   "plazas_mesa": "18",
   "superficie_m2": "0",
   "nacionalidad": "E",
-  "nombre_comarca": "RIBERA BAJA DEL EBRO"
+  "nombre_comarca": "RIBERA BAJA DEL EBRO",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -980,7 +971,8 @@
   "plazas_mesa": "60",
   "superficie_m2": "0",
   "nacionalidad": "E",
-  "nombre_comarca": "RIBERA BAJA DEL EBRO"
+  "nombre_comarca": "RIBERA BAJA DEL EBRO",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -1012,7 +1004,8 @@
   "plazas_mesa": "0",
   "superficie_m2": "0",
   "nacionalidad": "E",
-  "nombre_comarca": "RIBERA BAJA DEL EBRO"
+  "nombre_comarca": "RIBERA BAJA DEL EBRO",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -1045,9 +1038,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.4244181,
-  "_lon": -0.4999861,
-  "_geo": "Calle Manuel Albar, Quinto, Ribera Baja del Ebro, Zaragoza, Aragón, 50770, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "restaurante",
@@ -1080,9 +1071,7 @@
   "superficie_m2": "0",
   "nacionalidad": "E",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "_lat": 41.3348122,
-  "_lon": -0.3572107,
-  "_geo": "Calle Mayor, Alborge, Ribera Baja del Ebro, Zaragoza, Aragón, 50781, España"
+  "_comarca": "ribera-baja"
  },
  {
   "type": "rural",
@@ -1129,7 +1118,8 @@
   "calefaccion": "",
   "imprimir": "1",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "nacionalidad": "E"
+  "nacionalidad": "E",
+  "_comarca": "ribera-baja"
  },
  {
   "type": "rural",
@@ -1177,6 +1167,7 @@
   "imprimir": "1",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
   "nacionalidad": "E",
+  "_comarca": "ribera-baja",
   "_lat": 41.3348122,
   "_lon": -0.3572107,
   "_geo": "Calle Mayor, Alborge, Ribera Baja del Ebro, Zaragoza, Aragón, 50781, España"
@@ -1226,6 +1217,7 @@
   "calefaccion": "",
   "imprimir": "1",
   "nombre_comarca": "RIBERA BAJA DEL EBRO",
-  "nacionalidad": "E"
+  "nacionalidad": "E",
+  "_comarca": "ribera-baja"
  }
 ]
