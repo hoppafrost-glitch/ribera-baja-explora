@@ -1,0 +1,5 @@
+== bajo-cinca
+  municipios 10 de 11 faltan: ['Mequinenza']
+  río ok 109
+  retry 0 https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
+  hecho bajo-cinca
