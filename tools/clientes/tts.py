@@ -6,9 +6,10 @@ VOICES = {"es": ("es_ES", "davefx", "medium"), "en": ("en_GB", "cori", "high"), 
           "de": ("de_DE", "thorsten", "high"), "pt": ("pt_PT", "tugão", "medium")}
 LANG = sys.argv[1]
 import glob
-JOBS = [(f, "tools/clientes/audio/" + os.path.basename(f)[:-5]) for f in sorted(glob.glob("tools/clientes/texts/*.json"))]
+SLUG = sys.argv[2] if len(sys.argv) > 2 else None
+JOBS = [(f, "tools/clientes/audio/" + os.path.basename(f)[:-5]) for f in sorted(glob.glob("tools/clientes/texts/*.json")) if not SLUG or os.path.basename(f)[:-5] == SLUG]
 os.makedirs("tools/clientes/audio", exist_ok=True)
-log = open(f"tools/clientes/audio/log-{LANG}.txt", "w", encoding="utf-8")
+log = open(f"tools/clientes/audio/log-{LANG}-{SLUG or 'all'}.txt", "w", encoding="utf-8")
 def say(*a):
     print(*a, flush=True); print(*a, file=log, flush=True)
 
