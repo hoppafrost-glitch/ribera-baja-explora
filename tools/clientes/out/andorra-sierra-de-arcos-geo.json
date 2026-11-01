@@ -1,0 +1,580 @@
+{
+"mwinas": [
+{
+"q": "MWINAS, Andorra, Teruel",
+"name": "Parque Tecnológico Minero (MWINAS), A-1402, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.9825958,
+"lon": -0.4618895,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Museo Minero de Andorra",
+"name": "Museo Minero Pozo Corral Negro, A-1401, Barrio Bajo, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0296815,
+"lon": -0.5966436,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Museo Minero de Andorra",
+"name": "Parque Tecnológico Minero (MWINAS), A-1402, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.9825958,
+"lon": -0.4618895,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "MWINAS, Andorra",
+"name": "Parque Tecnológico Minero (MWINAS), A-1402, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.9825958,
+"lon": -0.4618895,
+"type": "museum",
+"cls": "tourism"
+}
+],
+"el-cabo": [],
+"iglesia-natividad-andorra": [
+{
+"q": "Iglesia de la Natividad de Nuestra Señora, Andorra, Teruel",
+"name": "Iglesia de la Natividad de Nuestra Señora, Plaza de la Iglesia, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.9752023,
+"lon": -0.444025,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Plaza de la Iglesia, Andorra, Teruel",
+"name": "Plaza de la Iglesia, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.9750943,
+"lon": -0.4436457,
+"type": "living_street",
+"cls": "highway"
+},
+{
+"q": "Plaza de la Iglesia, Andorra, Teruel",
+"name": "Plaza de la Iglesia, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.9750548,
+"lon": -0.4437106,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Iglesia de la Natividad de Nuestra Señora, Andorra",
+"name": "Iglesia de la Natividad de Nuestra Señora, Plaza de la Iglesia, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.9752023,
+"lon": -0.444025,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"ermita-pilar-andorra": [
+{
+"q": "Ermita del Pilar, Andorra, Teruel",
+"name": "Ermita de la Virgen del Pilar, Calle Candela, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.974402,
+"lon": -0.4413314,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Ermita de la Virgen del Pilar, Andorra",
+"name": "Ermita de la Virgen del Pilar, Calle Candela, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.974402,
+"lon": -0.4413314,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Ermita de la Virgen del Pilar, Andorra",
+"name": "Ermita de la Virgen del Pilar, Calle Candela, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.974402,
+"lon": -0.4413314,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"centro-pastor-andorra": [],
+"san-macario": [],
+"san-pedro-oliete": [
+{
+"q": "Poblado ibérico Cabezo de San Pedro, Oliete",
+"name": "Poblado ibérico Cabezo de San Pedro, Camino al Torreon, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0227242,
+"lon": -0.6292048,
+"type": "archaeological_site",
+"cls": "historic"
+},
+{
+"q": "Ermita de San Pedro, Oliete",
+"name": "Ermita San Pedro, Camino a Sima San Pedro, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0187368,
+"lon": -0.6344302,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"sima-san-pedro": [
+{
+"q": "Sima de San Pedro, Oliete",
+"name": "Sima de San Pedro de Oliete, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0229396,
+"lon": -0.6372337,
+"type": "cliff",
+"cls": "natural"
+},
+{
+"q": "Sima de San Pedro, Oliete",
+"name": "Sima de San Pedro, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.022992,
+"lon": -0.6372795,
+"type": "sinkhole",
+"cls": "natural"
+},
+{
+"q": "Sima de San Pedro, Teruel",
+"name": "Sima de San Pedro de Oliete, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0229396,
+"lon": -0.6372337,
+"type": "cliff",
+"cls": "natural"
+},
+{
+"q": "Sima de San Pedro, Teruel",
+"name": "Sima de San Pedro, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.022992,
+"lon": -0.6372795,
+"type": "sinkhole",
+"cls": "natural"
+},
+{
+"q": "Sima de San Pedro, Oliete",
+"name": "Sima de San Pedro de Oliete, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0229396,
+"lon": -0.6372337,
+"type": "cliff",
+"cls": "natural"
+},
+{
+"q": "Sima de San Pedro, Oliete",
+"name": "Sima de San Pedro, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.022992,
+"lon": -0.6372795,
+"type": "sinkhole",
+"cls": "natural"
+}
+],
+"cueva-foradada": [
+{
+"q": "Embalse de Cueva Foradada, Oliete",
+"name": "Embalse de Cueva Foradada, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9873334,
+"lon": -0.6926635,
+"type": "dam",
+"cls": "waterway"
+},
+{
+"q": "Embalse de Cueva Foradada, Oliete",
+"name": "Embalse de Cueva Foradada, Alcaine, Cuencas Mineras, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9711079,
+"lon": -0.6930509,
+"type": "reservoir",
+"cls": "water"
+},
+{
+"q": "Presa de Cueva Foradada",
+"name": "Embalse de Cueva Foradada, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9873334,
+"lon": -0.6926635,
+"type": "dam",
+"cls": "waterway"
+}
+],
+"el-palomar": [
+{
+"q": "El Palomar, Oliete, Teruel",
+"name": "El Palomar, camino de la margen izquierda, Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0047555,
+"lon": -0.6691695,
+"type": "archaeological_site",
+"cls": "historic"
+}
+],
+"centro-iberos-oliete": [],
+"tia-chula": [],
+"casco-oliete": [
+{
+"q": "Oliete, Teruel",
+"name": "Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9976521,
+"lon": -0.6732831,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"olivares-oliete": [
+{
+"q": "Oliete, Teruel",
+"name": "Oliete, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9976521,
+"lon": -0.6732831,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"arte-rupestre-alacon": [
+{
+"q": "Barranco del Mortero, Alacón",
+"name": "Barranco del Mortero, Alacón, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0637408,
+"lon": -0.7113892,
+"type": "stream",
+"cls": "waterway"
+},
+{
+"q": "Barranco del Mortero, Alacón",
+"name": "Barranco del Mortero, Alacón, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.063635,
+"lon": -0.7043333,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "Cerro Felío, Alacón",
+"name": "Cerro Felio, Alacón, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0497092,
+"lon": -0.6775472,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "Mirador del Barranco del Mortero, Alacón",
+"name": "Mirador del Barranco del Mortero, Sendero al Barranco del mortero, Alacón, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0654565,
+"lon": -0.7146239,
+"type": "viewpoint",
+"cls": "tourism"
+}
+],
+"casco-alacon": [
+{
+"q": "Iglesia de la Asunción, Alacón",
+"name": "Iglesia Parroquial de Nuestra Señora de la Asunción, Calle Morron, Alacón, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0235541,
+"lon": -0.6966539,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Alacón, Teruel",
+"name": "Alacón, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0227436,
+"lon": -0.697756,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"bodegas-alacon": [
+{
+"q": "Alacón, Teruel",
+"name": "Alacón, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0227436,
+"lon": -0.697756,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"ermita-san-miguel-alacon": [
+{
+"q": "Alacón, Teruel",
+"name": "Alacón, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 41.0227436,
+"lon": -0.697756,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"valcaria": [
+{
+"q": "Valcaria, Ariño",
+"name": "Valcaria, Calle Tiro del Bolo, Barrio Bajo, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0268462,
+"lon": -0.5888797,
+"type": "museum",
+"cls": "tourism"
+},
+{
+"q": "Valcaria, Ariño",
+"name": "Valcaria, Calle Tiro del Bolo, Barrio Bajo, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0268462,
+"lon": -0.5888797,
+"type": "museum",
+"cls": "tourism"
+}
+],
+"balneario-arino": [
+{
+"q": "Balneario de Ariño",
+"name": "Balneario de Ariño, Sendero Mirador de los Baños, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0467876,
+"lon": -0.5836836,
+"type": "spa_resort",
+"cls": "tourism"
+},
+{
+"q": "Balneario de Ariño",
+"name": "Balneario de Ariño, Sendero Mirador de los Baños, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0466485,
+"lon": -0.583352,
+"type": "hotel",
+"cls": "tourism"
+},
+{
+"q": "Balneario de Ariño, Ariño",
+"name": "Balneario de Ariño, Sendero Mirador de los Baños, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0467876,
+"lon": -0.5836836,
+"type": "spa_resort",
+"cls": "tourism"
+},
+{
+"q": "Balneario de Ariño, Ariño",
+"name": "Balneario de Ariño, Sendero Mirador de los Baños, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0466485,
+"lon": -0.583352,
+"type": "hotel",
+"cls": "tourism"
+}
+],
+"centro-antonio-beltran": [
+{
+"q": "Calle Tiro del Bolo, Ariño",
+"name": "Calle Tiro del Bolo, Barrio Bajo, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0283772,
+"lon": -0.5893507,
+"type": "residential",
+"cls": "highway"
+}
+],
+"iglesia-salvador-arino": [],
+"mirador-sierra-arcos": [
+{
+"q": "Mirador Sierra de Arcos, Ariño",
+"name": "Mirador Sierra de Arcos, Sendero Tumbas Medievales, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0543495,
+"lon": -0.5533892,
+"type": "viewpoint",
+"cls": "tourism"
+},
+{
+"q": "Sierra de Arcos, Teruel",
+"name": "Avenida de Teruel, Andorra, Andorra-Sierra de Arcos, Teruel, Aragón, 44500, España",
+"lat": 40.9748802,
+"lon": -0.4538905,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Mirador de la Sierra de Arcos, Ariño",
+"name": "Balneario de Ariño, Sendero Mirador de los Baños, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0467876,
+"lon": -0.5836836,
+"type": "spa_resort",
+"cls": "tourism"
+},
+{
+"q": "Mirador de la Sierra de Arcos, Ariño",
+"name": "Balneario de Ariño, Sendero Mirador de los Baños, Ariño, Andorra-Sierra de Arcos, Teruel, Aragón, 44547, España",
+"lat": 41.0466485,
+"lon": -0.583352,
+"type": "hotel",
+"cls": "tourism"
+}
+],
+"pasarelas-escuriza": [
+{
+"q": "Embalse de Escuriza",
+"name": "Embalse de Escuriza, Estercuel, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9464643,
+"lon": -0.5934964,
+"type": "reservoir",
+"cls": "water"
+},
+{
+"q": "Pasarelas del Escuriza, Alloza",
+"name": "PASARELAS DEL ESCURIZA, Alloza, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9517901,
+"lon": -0.5917217,
+"type": "path",
+"cls": "highway"
+}
+],
+"calvario-alloza": [
+{
+"q": "Calvario de Alloza",
+"name": "Calvario, Alloza, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9652187,
+"lon": -0.5327928,
+"type": "park",
+"cls": "leisure"
+},
+{
+"q": "Calvario de Alloza, Alloza",
+"name": "Calvario, Alloza, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9652187,
+"lon": -0.5327928,
+"type": "park",
+"cls": "leisure"
+}
+],
+"castelillo-alloza": [
+{
+"q": "Centro de Interpretación El Castelillo, Alloza",
+"name": "Centro de Interpretación El Castelillo, 32, Travesía de la Carretera, Alloza, Andorra-Sierra de Arcos, Teruel, Aragón, 44509, España",
+"lat": 40.9708101,
+"lon": -0.530078,
+"type": "museum",
+"cls": "tourism"
+}
+],
+"gallipuente": [],
+"mirador-carnicero": [
+{
+"q": "Alloza, Teruel",
+"name": "Alloza, Andorra-Sierra de Arcos, Teruel, Aragón, 44509, España",
+"lat": 40.9692882,
+"lon": -0.5304939,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"iglesia-alloza": [
+{
+"q": "Ayuntamiento de Alloza",
+"name": "Ayuntamiento de Alloza, 4, Calle Carralafuente, Alloza, Andorra-Sierra de Arcos, Teruel, Aragón, 44509, España",
+"lat": 40.9675973,
+"lon": -0.5300707,
+"type": "townhall",
+"cls": "amenity"
+}
+],
+"monasterio-olivar": [],
+"castillo-estercuel": [
+{
+"q": "Estercuel, Teruel",
+"name": "Estercuel, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.8548033,
+"lon": -0.6321144,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"mirador-moncoscol": [
+{
+"q": "Moncoscol, Estercuel",
+"name": "Moncoscol, Estercuel, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.9008318,
+"lon": -0.6069168,
+"type": "peak",
+"cls": "natural"
+}
+],
+"crivillen-casco": [
+{
+"q": "Crivillén, Teruel",
+"name": "Crivillén, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.88321,
+"lon": -0.5768456,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"centro-pablo-serrano": [],
+"miradores-crivillen": [],
+"majalinontes": [
+{
+"q": "Gargallo, Teruel",
+"name": "Gargallo, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.836081,
+"lon": -0.5837944,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"iglesia-piedad-gargallo": [
+{
+"q": "Calle Mayor, Gargallo",
+"name": "Calle Mayor, Gargallo, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.8351411,
+"lon": -0.5844714,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Calle Mayor, Gargallo",
+"name": "Calle Mayor, Gargallo, Andorra-Sierra de Arcos, Teruel, Aragón, 44707, España",
+"lat": 40.8333665,
+"lon": -0.5866169,
+"type": "unclassified",
+"cls": "highway"
+},
+{
+"q": "Gargallo, Teruel",
+"name": "Gargallo, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.836081,
+"lon": -0.5837944,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"nacimiento-escuriza": [],
+"mirador-campillo": [],
+"plaza-ejulve": [
+{
+"q": "Ayuntamiento de Ejulve",
+"name": "Ayuntamiento, Calle Mayor, Ejulve, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.7752675,
+"lon": -0.5544603,
+"type": "townhall",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de Santa María la Mayor, Ejulve",
+"name": "Iglesia de Santa María La Mayor, Calle El Portal, Ejulve, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.7749427,
+"lon": -0.5549284,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"santa-ana-ejulve": [
+{
+"q": "Ermita de Santa Ana, Ejulve",
+"name": "Ermita de Santa Ana, A-1702, Ejulve, Andorra-Sierra de Arcos, Teruel, Aragón, España",
+"lat": 40.7691153,
+"lon": -0.5515408,
+"type": "wayside_shrine",
+"cls": "historic"
+}
+],
+"organos-montoro": [
+{
+"q": "Mirador de los Órganos de Montoro, A-1702",
+"name": "Mirador de los Organos de Montoro, A-1702, Villarluengo, Maestrazgo, Teruel, Aragón, 44559, España",
+"lat": 40.6753168,
+"lon": -0.5489464,
+"type": "viewpoint",
+"cls": "tourism"
+},
+{
+"q": "Órganos de Montoro",
+"name": "Órganos de Montoro, Villarluengo, Maestrazgo, Teruel, Aragón, 44559, España",
+"lat": 40.6816,
+"lon": -0.5558757,
+"type": "locality",
+"cls": "place"
+}
+],
+"san-pascual-ejulve": [],
+"_overpass_error": "overpass"
+}

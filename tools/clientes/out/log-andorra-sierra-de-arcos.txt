@@ -1,4 +1,9 @@
 == andorra-sierra-de-arcos
-  municipios 9 de 9 faltan: []
-  río ok 88
-  geo y fotos ya hechos
+  sin límites (no_base)
+  retry 0 https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
+  retry 1 https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
+overpass https://overpass-api.de/api/interpreter fallo https://overpass-api.de/api/interpreter
+  retry 0 https://overpass.kumi.systems/api/interpreter The read operation timed out
+  retry 1 https://overpass.kumi.systems/api/interpreter The read operation timed out
+overpass https://overpass.kumi.systems/api/interpreter fallo https://overpass.kumi.systems/api/interpreter
+  hecho (sin fotos) andorra-sierra-de-arcos
