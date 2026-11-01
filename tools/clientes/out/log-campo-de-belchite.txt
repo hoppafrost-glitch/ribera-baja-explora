@@ -1,5 +1,4 @@
 == campo-de-belchite
-  retry 0 https://overpass-api.de/api/interpreter HTTP Error 502: Bad Gateway
   municipios 15 de 15 faltan: []
   río ok 42
   geo y fotos ya hechos
