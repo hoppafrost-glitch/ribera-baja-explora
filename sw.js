@@ -28,7 +28,7 @@ self.addEventListener("fetch", e => {
   if (url.origin === location.origin) {
     // La página: primero red (para recibir actualizaciones), si no hay conexión, la copia guardada.
     const isPage = req.mode === "navigate" || url.pathname.endsWith(".html") || url.pathname.endsWith("/");
-    if (isPage || url.pathname.endsWith("contenido.json")) {
+    if (isPage || url.pathname.endsWith("contenido.json") || url.pathname.endsWith("publish.json")) {
       const name = url.pathname.split("/").pop() || "index.html";
       const key = isPage && !name.endsWith(".html") ? "index.html" : name;
       e.respondWith(fetch(req).then(r => { if (r.ok) { const cp = r.clone(); caches.open(V).then(c => c.put(key, cp)); } return r; })
