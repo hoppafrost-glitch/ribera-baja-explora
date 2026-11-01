@@ -1,3 +1,3 @@
 == campo-de-belchite
   sin límites (no_base)
-  hecho (sin fotos) campo-de-belchite
+  geo y fotos ya hechos
