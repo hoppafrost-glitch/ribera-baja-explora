@@ -617,5 +617,84 @@
    "name": "Caminos de peregrinos: Santiago e Ignaciano",
    "mun": "Candasnos"
   }
+ },
+ "cinco-villas": {
+  "sancho-abarca": {
+   "lat": 41.9203,
+   "lon": -1.2547,
+   "words": [
+    "santuario",
+    "sancho",
+    "abarca"
+   ],
+   "church": false,
+   "name": "Santuario de Sancho Abarca",
+   "mun": "Tauste"
+  },
+  "monlora": {
+   "lat": 42.1675,
+   "lon": -0.9326,
+   "words": [
+    "santuario",
+    "monlora"
+   ],
+   "church": false,
+   "name": "Santuario de Monlora",
+   "mun": "Luna"
+  },
+  "cajal-valpalmas": {
+   "lat": 42.1582,
+   "lon": -0.8548,
+   "words": [
+    "ramon",
+    "cajal"
+   ],
+   "church": false,
+   "name": "Centro Ramón y Cajal",
+   "mun": "Valpalmas"
+  },
+  "ermita-san-anton-pintano": {
+   "lat": 42.5292,
+   "lon": -1.0219,
+   "words": [
+    "anton",
+    "arqueologia"
+   ],
+   "church": false,
+   "name": "Ermita de San Antón: Centro de Interpretación de Arqueología",
+   "mun": "Los Pintanos"
+  },
+  "necropolis-lobera": {
+   "lat": 42.4787,
+   "lon": -1.0216,
+   "words": [
+    "necropolis",
+    "medieval"
+   ],
+   "church": false,
+   "name": "Necrópolis medieval de Lobera de Onsella",
+   "mun": "Lobera de Onsella"
+  },
+  "torreon-navardun": {
+   "lat": 42.5128,
+   "lon": -1.146,
+   "words": [
+    "torreon"
+   ],
+   "church": false,
+   "name": "Torreón de Navardún",
+   "mun": "Navardún"
+  },
+  "undues-camino": {
+   "lat": 42.567,
+   "lon": -1.167,
+   "words": [
+    "camino",
+    "santiago"
+   ],
+   "church": false,
+   "name": "Undués de Lerda y el Camino de Santiago",
+   "mun": "Undués de Lerda"
+  }
  }
 }
