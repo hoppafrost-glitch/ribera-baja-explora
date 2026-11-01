@@ -1,5 +1,5 @@
 /* Ribera Baja Explora: funciona sin conexión una vez abierta (y mejor tras "Descargar para usar sin conexión"). */
-const V = "rbx-v1";
+const V = "rbx-v2";
 const CORE = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(V).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
@@ -24,11 +24,15 @@ self.addEventListener("fetch", e => {
   if (req.method !== "GET") return;
   const url = new URL(req.url);
   if (url.pathname.endsWith("/__hb")) return;
+  if (url.hostname === "api.github.com" || url.hostname.endsWith("goatcounter.com")) return;
   if (url.origin === location.origin) {
     // La página: primero red (para recibir actualizaciones), si no hay conexión, la copia guardada.
-    if (req.mode === "navigate" || url.pathname.endsWith(".html") || url.pathname.endsWith("/")) {
-      e.respondWith(fetch(req).then(r => { const cp = r.clone(); caches.open(V).then(c => c.put("index.html", cp)); return r; })
-        .catch(() => caches.match("index.html")));
+    const isPage = req.mode === "navigate" || url.pathname.endsWith(".html") || url.pathname.endsWith("/");
+    if (isPage || url.pathname.endsWith("contenido.json")) {
+      const name = url.pathname.split("/").pop() || "index.html";
+      const key = isPage && !name.endsWith(".html") ? "index.html" : name;
+      e.respondWith(fetch(req).then(r => { if (r.ok) { const cp = r.clone(); caches.open(V).then(c => c.put(key, cp)); } return r; })
+        .catch(async () => (await caches.match(key)) || (isPage ? caches.match("index.html") : new Response("{}", { headers: { "Content-Type": "application/json" } }))));
       return;
     }
     // Fotos y audios: primero la copia guardada.
