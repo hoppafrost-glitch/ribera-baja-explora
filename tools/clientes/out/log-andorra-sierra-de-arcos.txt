@@ -1,4 +1,4 @@
 == andorra-sierra-de-arcos
   municipios 9 de 9 faltan: []
   río ok 88
-  hecho andorra-sierra-de-arcos
+  geo y fotos ya hechos
