@@ -2,760 +2,760 @@
  "andorra-sierra-de-arcos": {
   "es": [
    {
-    "id": "el-cabo",
-    "lang_detectado": "es",
-    "prob": 1.0,
-    "acierto": 0.81,
-    "oido": " Por lado iberó del cabo. Un poblado iberó del siglo Ive a que una mina cielo abierto iba a hacer desaparecer. Se excavó entero y se reconstruyó en el monte de "
-   },
-   {
-    "id": "calvario-alloza",
-    "lang_detectado": "es",
-    "prob": 0.99,
-    "acierto": 0.71,
-    "oido": " Calvario de Ayosa, un víacrucis de unos 1.600 metros, con 15 capillas y cipreses centenarios, que suba hasta la armita del Santo Sepulcro. Es el símbolo de Ayo"
-   },
-   {
-    "id": "majalinontes",
-    "lang_detectado": "es",
-    "prob": 0.99,
-    "acierto": 0.63,
-    "oido": " Sende a los majarinones. Un paseo por el bosque de Gargallon el que aparece en hasta ocho esculturas de personajes inspirados en la mitología. Es un plan pensa"
-   },
-   {
-    "id": "plaza-ejulve",
+    "id": "iglesia-natividad-andorra",
     "lang_detectado": "es",
     "prob": 1.0,
     "acierto": 0.67,
-    "oido": " Plaza del Ayuntamiento de Jules, la Plaza Mayor de Jules Verrúne una casa consistorial del siglo XVI con cuatro arcos, una posada del XVII y casas Solarias. Es"
+    "oido": " y lesia de la natividad de nuestra señora. La ilése a mayor de Andorra preside la plaza con una fachada clasicista y una torre que pasa de piedra a la derillo."
+   },
+   {
+    "id": "centro-iberos-oliete",
+    "lang_detectado": "es",
+    "prob": 0.98,
+    "acierto": 0.78,
+    "oido": " Centro de interpretación de la cultura ibérica en las antiguas escuelas de Oliete, un pequeño centro explica con maquetas y replicas como vivían los híbelos de"
+   },
+   {
+    "id": "mirador-carnicero",
+    "lang_detectado": "es",
+    "prob": 0.99,
+    "acierto": 0.61,
+    "oido": " Mirador del cáncero Un mirador sobre la bal de ariño, el valle minero entre Andorra y Ariño Desde aquí se ven las minas a cielo abierto y la silueta de la cent"
+   },
+   {
+    "id": "tia-chula",
+    "lang_detectado": "es",
+    "prob": 0.99,
+    "acierto": 0.61,
+    "oido": " Funtón de la tira chula, un pequeño conjunto de pinturas esquemáticas en una roca del término de oliete, uno edificio en la piedra deja pasar la luz del sol en"
    }
   ],
   "en": [
    {
-    "id": "el-cabo",
+    "id": "iglesia-natividad-andorra",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.86,
-    "oido": " Alcarbo Iberian settlement, a 5th century BC Iberian village, that an open cast mine was about to wipe out. It was fully excavated and rebuilt on San Macario H"
+    "acierto": 0.89,
+    "oido": " Church of the Nativity of our Lady, Andra's main church, besides over the square with a classicist facade and the tower that changes from Stone to Brick, aroun"
    },
    {
-    "id": "calvario-alloza",
+    "id": "centro-iberos-oliete",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.57,
-    "oido": " Calvary of Alosa, a way of the cross somewhat thousand six hundred meters long, with fifteen chapels and century old cypresses, climbing up to the hermitage of"
+    "acierto": 0.76,
+    "oido": " Iberian culture interpretation centre in our light old schoolhouse. A small centre uses models and replicas to explain how the Iberians of the valley lived. It"
    },
    {
-    "id": "majalinontes",
+    "id": "mirador-carnicero",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.68,
-    "oido": " Magilinant's trail, a walk through the woods of Gargallo were up to eight sculptures of characters inspired by mythology appear, it is designed for going with "
+    "acierto": 0.59,
+    "oido": " Meritor Del Carnisero, a few pleats over the Valdera Rignu, the mining valley between Andorra and Rignu. From here you can see the up and cast mines and the si"
    },
    {
-    "id": "plaza-ejulve",
+    "id": "tia-chula",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.78,
-    "oido": " It's a half-town hall square. It's else main square brings together a 16th-century town hall with four arches, a 17th-century inn and manor houses. It is the g"
+    "acierto": 0.71,
+    "oido": " Frontonde la Tia Chula, a small group of schematic paintings on a rock in the municipality of O'Leighert, a hole in the stone-let sunlight through the equinoxe"
    }
   ],
   "fr": [
    {
-    "id": "el-cabo",
+    "id": "iglesia-natividad-andorra",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.62,
-    "oido": " Vylagie-Bère d'El Cabo Un village-bère du Ves siècle A'av. J'y sais qu'une mine à ciel ouvert allait faire disparaître. Il a été entièrement fouillé puis recon"
+    "acierto": 0.65,
+    "oido": " Église de la nativité de Notre-Dame L'église principale d'Andorra Domin la passe avec une façade classicisante et un clocher qui passe de la pierre à la bric. "
    },
    {
-    "id": "calvario-alloza",
+    "id": "centro-iberos-oliete",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.49,
-    "oido": " Calverda Losa, un chemin de croix d'environ 1600 mètres, avec 15 se chappellent et des cipres centenaires, qui montent jusqu'à l'hermitage du Saint-Cépulcres. "
+    "acierto": 0.55,
+    "oido": " Centre d'interprétation de la culture hibert dans les anciennes écoles de liette, un petit centre explique à l'aide de maquettes et de répliques, comme on viva"
    },
    {
-    "id": "majalinontes",
+    "id": "mirador-carnicero",
     "lang_detectado": "fr",
     "prob": 1.0,
     "acierto": 0.53,
-    "oido": " Sentier des Magellinantes, une promenade dans la forêt de Gargallo ou apparaissent jusqu'à vis culture de personnages inspirés de la mythologie, elle est pensé"
+    "oido": " Belvé d'air du Carnicero Un belvé d'air sur la Valle, de Arigno, la Valle et Minière entrandera et Arigno On y voit les mines à ciel ouvert et la siouette de l"
    },
    {
-    "id": "plaza-ejulve",
+    "id": "tia-chula",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.47,
-    "oido": " Place de la mairie des Jules, la Grand Place des Jules verait une I, une mairie, du X-Vit siècle à quatre arcades, une auberge du X-Vit et des maisons signeria"
+    "acierto": 0.53,
+    "oido": " Fronton de la Tiachula Un petit ensemble de peintures schématiques sur une roche de la commune de liette, un horrifiste dans la pierre elle espacée la lumière "
    }
   ],
   "de": [
    {
-    "id": "el-cabo",
+    "id": "iglesia-natividad-andorra",
     "lang_detectado": "de",
     "prob": 1.0,
     "acierto": 0.65,
-    "oido": " Eberesiedlung El Cabo, eine iberische Siedlung aus dem V. Erhundertfab, C.H.R. die Entagebau zu Zerstören drohte. Sie wurde vollständig ausgegraben und auf dem"
+    "oido": " Ich lesier dir la natividad, den nur estrasse Nora Kirche-Mariegebohl. Die Hauptkäche von Andorrabe herrscht den Platz mit einer klassizistischen Fassade und e"
    },
    {
-    "id": "calvario-alloza",
+    "id": "centro-iberos-oliete",
     "lang_detectado": "de",
     "prob": 1.0,
-    "acierto": 0.6,
-    "oido": " Carl Warrinberg von Aluzza, ein etwa 1.600 Meter lange Kreuzweg mit 15 Kapellin und 100 Jährigen zu pressen, der zur Einsiedelheit des Heiligen Graves hin erau"
+    "acierto": 0.69,
+    "oido": " Zentro, die Interpretation, de la Kultur, la Iberika, Interpretation, Zentrum der iberischen Kultur. In der ehemaligen Schule von Oli, der erklärt ein kleines "
    },
    {
-    "id": "majalinontes",
+    "id": "mirador-carnicero",
     "lang_detectado": "de",
     "prob": 1.0,
-    "acierto": 0.44,
-    "oido": " Der Name erinnert an die Sira Demiallinos.  Der Dorf ist abfließt. In Gargallo selbst lohnen die Kirche nur estrasse nur Radela-Pidat, ein Bachockbau von 1707 "
+    "acierto": 0.71,
+    "oido": " Miradordel Kanikero Aussichtspunkt, ein Aussichtspunkt über der Walde-Arino, dem Bergbauteil zwischen Antora und Arino. Von hier aus sieht man die Tagebau und "
    },
    {
-    "id": "plaza-ejulve",
+    "id": "tia-chula",
     "lang_detectado": "de",
-    "prob": 1.0,
-    "acierto": 0.95,
-    "oido": " Rathausplatz von Ejölwe Der Hauptplatz von Ejölwe vereint ein Rathaus aus dem 16.  1994 restauriert. Gegenüber steht die Herberge an Platz ein dreigeschossiges"
+    "prob": 0.99,
+    "acierto": 0.61,
+    "oido": " Fronton de Latia Schula Eine kleine Gruppe schematische Malereien an einem Felsen im Gemeindegebiet von Olete. Ein Loch im Stein lässt zu den Tag und Nachtleic"
    }
   ],
   "pt": [
    {
-    "id": "el-cabo",
+    "id": "iglesia-natividad-andorra",
     "lang_detectado": "pt",
     "prob": 1.0,
-    "acierto": 0.38,
-    "oido": " O voar liberde em Alcalde, um voar liberde do século 5 lá, sem que uma minata célula bete ia fazer desaparecer. O esquavado, por completo, e reconstruído no mu"
+    "acierto": 0.41,
+    "oido": " e que a Jera na devirada de Nossa Senhora. A igreja Matiz dentro da presidade passa como uma faixada classista e um motor que passa da Peralpejou. A sua volta "
    },
    {
-    "id": "calvario-alloza",
+    "id": "centro-iberos-oliete",
     "lang_detectado": "pt",
-    "prob": 1.0,
-    "acierto": 0.42,
-    "oido": " Calvário da Losa, uma via saca quando seca de 1600 metros, 15 capelas e cipérias de centenários, que só vai até a emida do Santos Puc, é o simul de a Losa e o "
+    "prob": 0.98,
+    "acierto": 0.57,
+    "oido": " centro de interpropação da cultura ibérica. Mas antigas escolas de aliepto, um pequeno centro explica que a maquetas e já aplicas como viviam os iberos do valo"
    },
    {
-    "id": "majalinontes",
+    "id": "mirador-carnicero",
     "lang_detectado": "pt",
-    "prob": 1.0,
-    "acierto": 0.51,
-    "oido": " e entre os mais alinontes. Um passeio de bulbóis que de degalo anda para ser até o é de esculturas de personagens inspiradas na mitologia. É um plano pensado p"
+    "prob": 0.99,
+    "acierto": 0.36,
+    "oido": " O caminador Canicero, o caminador sobre a Val d'Arinho, o val d'Arinho, a equivalência às minas da célula bato e a CO8 da Central Tamulética, muitas vezes sobr"
    },
    {
-    "id": "plaza-ejulve",
+    "id": "tia-chula",
     "lang_detectado": "pt",
     "prob": 1.0,
-    "acierto": 0.38,
-    "oido": " Acha da Câmara de Júr. Acha da principal de Júr viu num espaço do condicêio do século 16 com quatro acos, uma estalagem do século 17 e casas chorendas. É porta"
+    "acierto": 0.41,
+    "oido": " com um ponto de olatia chuva, um pequeno conjunto de pinturas climáticas de uma rocha do condicêneo de Daliet, uma orifício na perda da chapassar a luz do sol "
    }
   ]
  },
  "bajo-cinca": {
   "es": [
    {
-    "id": "murallas-zaidin",
-    "lang_detectado": "es",
-    "prob": 0.98,
-    "acierto": 0.6,
-    "oido": " Murallas y Castillo de Zaidim, Zaidim fue una villa muralla con Castillo Senerial, pues se conserva un tramo de muralla contores, visibles desde la carretera d"
-   },
-   {
-    "id": "castillo-mequinenza",
-    "lang_detectado": "es",
-    "prob": 0.98,
-    "acierto": 0.57,
-    "oido": " Castillo de Mequinenza. Un castillo palacio gotico sobre el cerro que vigila la unión de Lebro y el Sede, en la fontera entre Aragón y Cataluña. Lo levantaron "
-   },
-   {
-    "id": "museo-mina-mequinenza",
+    "id": "lavaderos-torrente",
     "lang_detectado": "es",
     "prob": 0.99,
-    "acierto": 0.72,
-    "oido": " Museo de la Mine y museos de Mequinenza, más de un kilómetro de galerías subterráneas para entender cómo se sacaba el carbón en Mequinenza. En el mismo edifici"
+    "acierto": 0.61,
+    "oido": " La Baderos fonteta y puenta producto. El agua organiza la vida de torrente. Unos grandes lavaderos de 1933 que aún funcionan. Un abrevadero de 1908 en el camin"
    },
    {
-    "id": "san-pedro-fraga",
+    "id": "castillo-torrente",
+    "lang_detectado": "es",
+    "prob": 1.0,
+    "acierto": 0.75,
+    "oido": " Castillo de Torrente de Cincar, los restos de una fortaleza sobre un risco, justo encima de las últimas casas de Torrente. Nación época Andalusí, cuando el Cin"
+   },
+   {
+    "id": "parque-estacada",
     "lang_detectado": "es",
     "prob": 0.99,
-    "acierto": 0.73,
-    "oido": " Iglesia de San Pedro La Iglesia Mayor de Fraga, en No Alto del Casco Antiguo, se levantó donde estuvo la Mecita Mayor y su torre de seis cuerpos, es la silueta"
+    "acierto": 0.65,
+    "oido": " La estaccada y la orilla del cincar, la mayor zona verde de fraha, a la que todos llaman la pinada, en la orilla nueva del cincar. Desde aquí se ve de frente l"
+   },
+   {
+    "id": "vivero-ontinena",
+    "lang_detectado": "es",
+    "prob": 1.0,
+    "acierto": 0.66,
+    "oido": " El Alcanadre Puente Vibero y Fuente Románica, ontiniana vive a la orilla del Alcanadre, un puente de tres grandes arcos, un parque arbolado junto al río, y una"
    }
   ],
   "en": [
    {
-    "id": "murallas-zaidin",
+    "id": "lavaderos-torrente",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.56,
-    "oido": " Walls and Castle of Zaden, Zaden was a walled town with a Lord's Castle. Today a stretch of wall with tower survives, visible from the road between Fracar and "
+    "acierto": 0.65,
+    "oido": " Wash houses are funterter and the aqueduct bridge. Water shapes life in torrent large wash houses from 1923 that are still in use. A 19th-rate drinking trough "
    },
    {
-    "id": "castillo-mequinenza",
+    "id": "castillo-torrente",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.64,
-    "oido": " Mequinenza Castle, a Gothic castle palace on the hill overlooking the meeting of the Epo and Visega. On the border between Arrogant and Catalonia, it was built"
+    "acierto": 0.72,
+    "oido": " Castillo to Torrent, to Sinker Torrent, to Sinker Castle, the remains of a fortress on a crag. Right above the last houses of Torrent, it was founded in the An"
    },
    {
-    "id": "museo-mina-mequinenza",
+    "id": "parque-estacada",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.77,
-    "oido": " Mine Museum and Museums of Mequinenza, more than a kilometre of underground galleries to understand how coal was dug in Mequinenza. The same building houses th"
+    "acierto": 0.65,
+    "oido": " La Lyssa Carter and the banks of the Sincar. Fraga's largest green space, which everyone calls La Pinada the Pine Grove, on the newer bank of the Sincar, from "
    },
    {
-    "id": "san-pedro-fraga",
+    "id": "vivero-ontinena",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.69,
-    "oido": " Church of Sam Pedro, Fraga's main church, at the top of the old town. It was built where the great mosque once stood, and its sixth stage tower is the silhouet"
+    "acierto": 0.59,
+    "oido": " The Alcanada Bridge, all five-air-o, and Thernesque Fount, Antaina lives on the banks of the Alcanada, a bridge with illar garches, a tree-lined park by the ri"
    }
   ],
   "fr": [
    {
-    "id": "murallas-zaidin",
+    "id": "lavaderos-torrente",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.53,
-    "oido": " Rampard et Château de Zédan. Zédan était un bourre fortifié doté d'un château signalial. Il en reste un pan de Murai avec des tours, visibles depuis la route d"
+    "acierto": 0.5,
+    "oido": " L'avoir fonta les ponts à conduct, l'eau organise, la vie de Torrent, de grands à l'avoir de 1933 toujours en service, un abrovoir de 1908 sur le chemin de la "
    },
    {
-    "id": "castillo-mequinenza",
+    "id": "castillo-torrente",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.53,
-    "oido": " Château de Mekinosa Un château palégotique sur la Colline, qui surveille la rencontre de l'Ebre et du Seigre à la frontière entre l'Aragon et la Catalogne Il f"
+    "acierto": 0.62,
+    "oido": " Castillo de torrente de Saint-Cachato, l'évestige d'une forteresse sur un épron recheux, juste au-dessus des dernières maisons de torrente, né à l'époque en d'"
    },
    {
-    "id": "museo-mina-mequinenza",
+    "id": "parque-estacada",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.59,
-    "oido": " Musée de la mine et musée de mequinenza, plus d'un kilomètre de galeries souterraines, pour comprendre comment on extrait le charbon à mequinenza. Le même bâti"
+    "acierto": 0.55,
+    "oido": " La Stacada est l'arrivée du 5e. Le plus grand espace vers de Fraga, que tout le monde appelle la Pinnada, sur l'arrivée du 5e. D'ici, on voit la vieille ville "
    },
    {
-    "id": "san-pedro-fraga",
+    "id": "vivero-ontinena",
     "lang_detectado": "fr",
-    "prob": 1.0,
-    "acierto": 0.56,
-    "oido": " Église sans peu de rôles. L'église principale de Fraga, en haut de la vieille ville. Elle fut construite à l'emplacement de la Grande Mosquée, et son cloche es"
+    "prob": 0.99,
+    "acierto": 0.51,
+    "oido": " L'Alcanadre, pont, vivérou et fontaine române, ontinéna vit au bord de l'Alcanadre. Un pont à trois grandes arches, un parc arboreau bord de l'arrivière, et un"
    }
   ],
   "de": [
    {
-    "id": "murallas-zaidin",
-    "lang_detectado": "de",
-    "prob": 1.0,
-    "acierto": 0.6,
-    "oido": " Mauer und Burg von Seiden. Seiden war ein Umauertör ord mit einer Herrenburg. Heute ist ein Mauerabschnitt mit Termen erhalten, sichtbar von der Straße zwische"
-   },
-   {
-    "id": "castillo-mequinenza",
-    "lang_detectado": "de",
-    "prob": 1.0,
-    "acierto": 0.66,
-    "oido": " Borg von McVinenser. Ein gotischer Borg-Parlast auf dem Hügel über dem Zusammenfluss von Ebro und Sekre an der Grenze zwischen Erakoneen und Katalonien. Er bau"
-   },
-   {
-    "id": "museo-mina-mequinenza",
-    "lang_detectado": "de",
-    "prob": 1.0,
-    "acierto": 0.76,
-    "oido": " Wer Baummuseum und Museen von Migwinenzer. Mehr als ein Kilometer unter erdischer Stollen, um zu verstehen, wie in Migwinenzer Kohle gefördert wurde. Im selben"
-   },
-   {
-    "id": "san-pedro-fraga",
+    "id": "lavaderos-torrente",
     "lang_detectado": "de",
     "prob": 1.0,
     "acierto": 0.59,
-    "oido": " Kirche samt Petero, die Hauptkirche von Frager, hoch oben in der Altstadt. Sie entstand an der Stelle der einstiegen Hauptmusche und ihr sechs geschossiger Tor"
+    "oido": " Das Wasser ordnet das Leben in torente, große Waschhäuser von 1933, die noch im Betrieb sind, eine Viertränke von 1908 am Weg zum Fluss und ein akvedubbargarab"
+   },
+   {
+    "id": "castillo-torrente",
+    "lang_detectado": "de",
+    "prob": 0.99,
+    "acierto": 0.75,
+    "oido": " Castillo de Torrente de Kinkar, die Reste einer Festung auf einem Felsen direkt über den letzten Häusern von Torrente. Sie entstand in anvaluistischer Zeit, al"
+   },
+   {
+    "id": "parque-estacada",
+    "lang_detectado": "de",
+    "prob": 1.0,
+    "acierto": 0.65,
+    "oido": " L'Aestacada und das Kinker Ufer, die größte Grüne an Lagefragas, von allen Lapinadaginand, am neuen Ufer des Kinker. Von hier bigt man direkt auf die Allstadt "
+   },
+   {
+    "id": "vivero-ontinena",
+    "lang_detectado": "de",
+    "prob": 1.0,
+    "acierto": 0.59,
+    "oido": " Der Alkanadre, Racke, Wewero und Brunnen und Tinen erlebt am Ufer des Alkanadre. Eine Brücke mit drei großen Bögen, ein Baumestand, einer Park am Fluss und ein"
    }
   ],
   "pt": [
    {
-    "id": "murallas-zaidin",
+    "id": "lavaderos-torrente",
+    "lang_detectado": "pt",
+    "prob": 0.99,
+    "acierto": 0.4,
+    "oido": " Lavadores, FONTETA e PONTACLUTO. A água organiza a vida de tuventos, 11 anos lavadores de 1930 e 23 que inafoncionam um bebidor de 1930 e 8 no caminho provivo "
+   },
+   {
+    "id": "castillo-torrente",
     "lang_detectado": "pt",
     "prob": 1.0,
-    "acierto": 0.35,
-    "oido": " Moralha e Castelo do Zadim. Zadim foi uma vilão moralhada como Castelo do Smerial. Hoje conserva seu netócio de Moralha com o torre. Visível da Estada de Fagam"
-   },
-   {
-    "id": "castillo-mequinenza",
-    "lang_detectado": "pt",
-    "prob": 0.99,
-    "acierto": 0.31,
-    "oido": " Este é o Bruno Kinenza, um castelo palácio voto e que sobre o cero que vigialmente é um lumeiro e do cero, afrontar entre a regal e a cataluña. Foi evito pelos"
-   },
-   {
-    "id": "museo-mina-mequinenza",
-    "lang_detectado": "pt",
-    "prob": 0.99,
-    "acierto": 0.45,
-    "oido": " No mesmo edificio ficam usados a história de do passado para a história de que quando requer ações da aflopexta da zona.  O álome de Tumas até idvagmeta entre "
-   },
-   {
-    "id": "san-pedro-fraga",
-    "lang_detectado": "pt",
-    "prob": 0.99,
     "acierto": 0.48,
-    "oido": " Figueja de São Pedro, é gaja principal de Faga, mal que docemos histórico.  Figueja ser o costume deivalbe, no final do século 18, é que sentaram-se galeria e "
+    "oido": " Está-lo de 25. Os estes de uma fataleza sobre um timáscoo, mesmo por cima das últimas casas de 20. Na cena é a calma usina quando o cinque era frontera e foi d"
+   },
+   {
+    "id": "parque-estacada",
+    "lang_detectado": "pt",
+    "prob": 0.99,
+    "acierto": 0.4,
+    "oido": " A maior zona verde de Faga é que todos chamam-lhe apinada na maja nova do cinca. Aqui vejo se fenta a cidade velha e deve salver o por um acesse preparado em P"
+   },
+   {
+    "id": "vivero-ontinena",
+    "lang_detectado": "pt",
+    "prob": 0.99,
+    "acierto": 0.38,
+    "oido": " O alcanada, ponto, viver de fonte românica, um tiena viva a beira de alcanada. Uma ponto de três veanos acos, um páquia brisado junto ao vio e uma fonte români"
    }
   ]
  },
  "campo-de-belchite": {
   "es": [
    {
-    "id": "granja-escuela",
-    "lang_detectado": "es",
-    "prob": 0.99,
-    "acierto": 0.74,
-    "oido": " Museo tecnológico y centro de las estepas, dos espacios en la antigua granja escuela del pueblo nuevo, un sobre cómo se trabajaba el campo hasta bien, entrado "
-   },
-   {
-    "id": "casa-natal-goya",
+    "id": "iglesia-piedad-azuara",
     "lang_detectado": "es",
     "prob": 1.0,
-    "acierto": 0.78,
-    "oido": " Casa Natal de Goya, la Casa Burá, donde nació Francisco de Goya el 30 de marzo de 1746. Conserva el aspecto de una vivienda rural a Agonesa de su época. Histor"
+    "acierto": 0.72,
+    "oido": " Iglesia de nuestra señora de lápida, una iglesia de la de billó construida como fortaleza dentro del recinto Murallado medieval de afuera. Sus valerías tenían "
    },
    {
-    "id": "iglesia-san-martin",
-    "lang_detectado": "es",
-    "prob": 1.0,
-    "acierto": 0.68,
-    "oido": " y lesia de San Martin de todos. La ilesea paroquial del pueblo viejo, sin tejado desde la guerra, con su torre mudéjar todavía en pie, es la imagen más reconoc"
-   },
-   {
-    "id": "pueblo-nuevo",
+    "id": "el-planeron",
     "lang_detectado": "es",
     "prob": 0.99,
-    "acierto": 0.83,
-    "oido": " pueblo nuevo de Belchite, el Belchite donde se vive hoy, levantado junto a las ruinas después de la guerra. Su trazado y sus edificios cuentan cómo se planific"
+    "acierto": 0.75,
+    "oido": " Reserva ormitológica el Planeodón, más de 700 hectáreas de este parcerrealista entre Codo y Belchite, que estionadas por ese ovarabirdlice, es un buen lugar pa"
+   },
+   {
+    "id": "museo-grabado",
+    "lang_detectado": "es",
+    "prob": 0.99,
+    "acierto": 0.75,
+    "oido": " Museo del Grabado de Golla, un museo dedicado a la obra gráfica de Golla a pocos metros de su casa natal. De un estambas de sus cuatro grandes series, capricho"
+   },
+   {
+    "id": "via-utrillas",
+    "lang_detectado": "es",
+    "prob": 0.96,
+    "acierto": 0.75,
+    "oido": " Antiguo Farcarin Minero de Utrillas, el trazado del tren que basaba el carbón de Utrillas, Azaragoza cruza la comarca de Valmarieza Alesera, que dan estaciones"
    }
   ],
   "en": [
    {
-    "id": "granja-escuela",
+    "id": "iglesia-piedad-azuara",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.64,
-    "oido": " Ethnological Museum and Step Center to spaces in the former farm school of the new town one about how the land was worked until well into the 20th century, the"
+    "acierto": 0.79,
+    "oido": " Church of Newstress and Yorah de la Pida. A brick church built as a fortress inside the Medieval Wall in closure of Asuara, its galleries, served a defensive p"
    },
    {
-    "id": "casa-natal-goya",
+    "id": "el-planeron",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.71,
-    "oido": " Oya's birthplace, the village house where Francisco de Goya was born on 30 marches and 746. It keeps the look of a royal arachene's home of the period, history"
+    "acierto": 0.77,
+    "oido": " El Plano Run Bird Reserve More than 700 hectares of cereal step between Codo and Bucchat, managed by CO-Sash Bird Life. It is a good place to see step-birds, e"
    },
    {
-    "id": "iglesia-san-martin",
+    "id": "museo-grabado",
+    "lang_detectado": "en",
+    "prob": 1.0,
+    "acierto": 0.7,
+    "oido": " Museum Del Grabado de Goya Goya in Graving Museum. A museum devoted to Goya's graphic work. A few meters from his birthplace, it brings together prints from hi"
+   },
+   {
+    "id": "via-utrillas",
     "lang_detectado": "en",
     "prob": 1.0,
     "acierto": 0.67,
-    "oido": " Church of San Martin de Tours, the parish church of the Pueblo Viejo, roofless since the war, with its New Day Jotáos still standing, it is the best-nearing im"
-   },
-   {
-    "id": "pueblo-nuevo",
-    "lang_detectado": "en",
-    "prob": 1.0,
-    "acierto": 0.67,
-    "oido": " New Town of Belchite, Pueblo, Nouveau. The Belchite where people lived today. Built next to the ruins after the war, its layout and buildings tell you how the "
+    "oido": " Former Utrillers mining railway, the route of the railway that carried coal from Utrillers down to Saragos crosses the Comarca from Falmadrid to Lacera, statio"
    }
   ],
   "fr": [
    {
-    "id": "granja-escuela",
+    "id": "iglesia-piedad-azuara",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.64,
-    "oido": " Musée ethnologique et centre des steppes, deux espaces dans l'ancienne ferme école du nouveau, village, l'un sur le travail de la terre jusqu'en plein x que ce"
+    "acierto": 0.52,
+    "oido": " Église nuestra ce corps à de la piedade. Une église en Bric construite comme une forteresse à l'intérieur de l'enceinte médiéval d'Azura. C'est galéré avec une"
    },
    {
-    "id": "casa-natal-goya",
+    "id": "el-planeron",
     "lang_detectado": "fr",
-    "prob": 1.0,
-    "acierto": 0.59,
-    "oido": " Maison Atal de Gaia, la maison villageois au Naki Francisco de Gaia le 30 mars 1746, elle garde l'aspel d'une demeure à la ragoneuse de l'époque. Histoire, la "
-   },
-   {
-    "id": "iglesia-san-martin",
-    "lang_detectado": "fr",
-    "prob": 1.0,
+    "prob": 0.99,
     "acierto": 0.6,
-    "oido": " Église sans Martin de tour. L'église parociale du Pueblo vieux jour, sans toi depuis la guerre, avec son cloche et müdéjar toujours debout. C'est l'image la pl"
+    "oido": " Réserve ornithologique, elle planeront. Plus de 700 hectares de steppe serréal y a entre Kodou et Belchite, gérée par Sobert Life. Un bon endroit pour observer"
    },
    {
-    "id": "pueblo-nuevo",
+    "id": "museo-grabado",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.57,
-    "oido": " Nous voulages de Belchite, plus blo n'uvo. Le Belchit, où l'on vit aujourd'hui, bacti à côté des ruines après la guerre. Son plan, et ses bâtiments racontent, "
+    "acierto": 0.63,
+    "oido": " Musée de la gravure de Goya Musodelle Grabado Un musée consacré à l'œuvre gravée de Goya ? À quelques mètres de sa maison natale. Il réunit des estambres de se"
+   },
+   {
+    "id": "via-utrillas",
+    "lang_detectado": "fr",
+    "prob": 1.0,
+    "acierto": 0.51,
+    "oido": " Encien chemin de fermier du Tria. Le tracé du train, qui descendait le charbon du Tria Saragostre àvers la comarca de Vamadridale Sera. Il en reste des gare, d"
    }
   ],
   "de": [
    {
-    "id": "granja-escuela",
-    "lang_detectado": "de",
-    "prob": 1.0,
-    "acierto": 0.71,
-    "oido": " Ethnologisches Museum und Steppenzentrum. Zwei Ausstellungen in der ehemaligen Landwirtschaftsschule des Neuendorfs, eine darüber, wie das Land bis weit ins 20"
-   },
-   {
-    "id": "casa-natal-goya",
-    "lang_detectado": "de",
-    "prob": 1.0,
-    "acierto": 0.74,
-    "oido": " Geburt Saus von Goja, das Dorfhaus, in dem Frankis Kodegoya an 30. März 1746 geboren wurde. Es bewahrt das Aussehen eines aragonesischen Bauernhauses seiner Ze"
-   },
-   {
-    "id": "iglesia-san-martin",
+    "id": "iglesia-piedad-azuara",
     "lang_detectado": "de",
     "prob": 1.0,
     "acierto": 0.73,
-    "oido": " Kirche San Martin Ditturs Die Pfarrkirche des Poeblowio, seit dem Frick ohne Dach, mit ihrem noch stehenden Mudiaton. Sie ist das bekannteste Bild von Welchite"
+    "oido": " Kirche nur estrasse nur Adelape da, eine Ziegelkirche, die als Festung innerhalb der mittelalterlichen Stadtmauer von Arzwara erbaut wurde. Ihre Galerien dient"
    },
    {
-    "id": "pueblo-nuevo",
+    "id": "el-planeron",
     "lang_detectado": "de",
     "prob": 1.0,
-    "acierto": 0.8,
-    "oido": " Neues Dorf von Belgite pro Eploniovo. Das Berchite, in dem heute gelebt wird, nach dem Krieg neben den Ruinen errichtet, Grundriss und Gebäude zeigen, wie die "
+    "acierto": 0.61,
+    "oido": " Die Landschaft auf die ersten Blick wird Elplanerun wie eine leere Ebene, getreide Felder, niedfähiges Gestrip und viel Himmel. Genau da suchen die Steppenwöge"
+   },
+   {
+    "id": "museo-grabado",
+    "lang_detectado": "de",
+    "prob": 1.0,
+    "acierto": 0.65,
+    "oido": " Goyardro Grafikmuseum Museum Museum Delgrabado Ein Museum für kuljastrografisches Werk, wenige Meter von seinem Geburtsaus entfernt. Es zeigt Blätter aus seine"
+   },
+   {
+    "id": "via-utrillas",
+    "lang_detectado": "de",
+    "prob": 1.0,
+    "acierto": 0.66,
+    "oido": " Die Trasse der Bahn, die die Kohle von Utrela nach Zarakutza brachte, durchquert die Komaka von Wann-Mathriet bis Lekara. Erhalten sind Bahnhöfe, Tunnel und Vi"
    }
   ],
   "pt": [
    {
-    "id": "granja-escuela",
+    "id": "iglesia-piedad-azuara",
     "lang_detectado": "pt",
     "prob": 0.99,
     "acierto": 0.38,
-    "oido": " O uso ideológico e centro das teps, do espaço semantiga quinta escola da povação nova, uno sobre como se trabalhava ao tempo até bem dentro do século 20 e outr"
+    "oido": " e a Geja do Nuestra Senhora de Lapiedade.  O nome do Mestre de Lobra, T'Ráchao Balancí, mostrou o papel dos mestres de obras mudejas."
    },
    {
-    "id": "casa-natal-goya",
+    "id": "el-planeron",
     "lang_detectado": "pt",
-    "prob": 1.0,
-    "acierto": 0.5,
-    "oido": " A casa da aldeia, ela nasceu Francisco de Boaia, a 30 de março de 1746.  Identificaram a casa isolada com Boa. Em 1928, no Centenario da Motto Pintor, comprouç"
+    "prob": 0.99,
+    "acierto": 0.35,
+    "oido": " Fazer volet por hoje é elplanerão. Leste 700 é tarde, este é de seria o diferente coco e dochite, geridos pela Selby de Life. É um bom lugar para ver aos tepár"
    },
    {
-    "id": "iglesia-san-martin",
+    "id": "museo-grabado",
     "lang_detectado": "pt",
     "prob": 1.0,
-    "acierto": 0.32,
-    "oido": " e gaja de Sánima Pintetús. Em gaja parqueal pelo Viejo, centilhado desde guerra, com a sultouvo-modeja ainda de pé. É imagem mais reconhecível de Bullshit. His"
+    "acierto": 0.4,
+    "oido": " O Zilrega-vera de Goia, um museu dedicado à l'obega fica de Goia a poucos metros da sua casa natal. E num nos tempos das suas quatro grandes chérias, capichos,"
    },
    {
-    "id": "pueblo-nuevo",
+    "id": "via-utrillas",
     "lang_detectado": "pt",
-    "prob": 1.0,
-    "acierto": 0.6,
-    "oido": " A Bruxite Pula no Heve, a Bruxite ON de hoje se vive, quando se tu irá ao lado das ruinas depois da guerra.  A Bruxite Pula no Heve, a Bruxite ON de hoje se vi"
+    "prob": 0.98,
+    "acierto": 0.51,
+    "oido": " Antigo, caminho que ferro minério do pilas. O traçado do como o que levava ao cavão de do pilas até ser agossado, a cabeça com marca devolma dida leça. Estou-s"
    }
   ]
  },
  "campo-de-daroca": {
   "es": [
    {
-    "id": "mina-daroca",
+    "id": "museo-corporales",
     "lang_detectado": "es",
-    "prob": 1.0,
-    "acierto": 0.73,
-    "oido": " un túnel de la mina, un túnel de unos 600 metros excavado a mano en el siglo 16 para desviar las tormentas que inundaban la calle mayor. No es una mina de mine"
+    "prob": 0.99,
+    "acierto": 0.7,
+    "oido": " Museo de los Corporales, el Museo de la Basílica Reuna retablos bóticos, tejidos litúrgicos y orferrería ligados al culto de los Corporales. Sus piezas más con"
    },
    {
     "id": "hoces-rio-piedra",
     "lang_detectado": "es",
     "prob": 0.99,
-    "acierto": 0.74,
-    "oido": " Oces del río piedra. Entre al devuela de Liestos y Torralba de los Freiles, el río piedra se encaja entre pareres verticales. Abajo, un bosque de Rivera, arrib"
+    "acierto": 0.64,
+    "oido": " A la base del río Piedra, entre al deuela de Liestros y Torralba de los Freiles, el río Piedra se encaja entre pareres verticales. Abajo, un bosque de Rivera, "
    },
    {
-    "id": "murallas-castillo",
+    "id": "retablo-langa",
     "lang_detectado": "es",
-    "prob": 0.99,
-    "acierto": 0.66,
-    "oido": " Murallas y Castillo Mayor. Casi cuatro kilómetros de Muralla rodean Darokas subiendo por los terros que la encierran, con más de un centenar de torres y tres c"
+    "prob": 0.98,
+    "acierto": 0.74,
+    "oido": " Iglesia de San Pedro y Retablo de Martin del Cano Una iglesia de Aspecto fortificado Con dos torres en la fachada Guarda el Retablo de San Pedro que durante añ"
    },
    {
-    "id": "puerta-baja",
+    "id": "castillo-anento",
     "lang_detectado": "es",
     "prob": 1.0,
-    "acierto": 0.67,
-    "oido": " Puerta baja, dos torres de más de 20 metros y un gran arco apuntado guardan la entrada baja de la roca. Durante siglos fue lo primero que veían los vejeros al "
+    "acierto": 0.79,
+    "oido": " Castillo de Anento sobre un cerro de tierra rojiza rodeado de pinos, dos torres gemelas y un muro almenado de 30 metros vigilan Anento, ya estaban 10.357 cuand"
    }
   ],
   "en": [
    {
-    "id": "mina-daroca",
+    "id": "museo-corporales",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.66,
-    "oido": " Lemina Tunnel A tunnel some 600 meters long, dug by hand in the 16th century to divert storm waters that flooded Calmeur. It is not a mine for minerals that is"
+    "acierto": 0.64,
+    "oido": " Newseodilos corpals corpals Museum. The Basilicus Museum brings together Gothic altar pieces, the surgical textiles, and silver work linked to the cult of the "
    },
    {
     "id": "hoces-rio-piedra",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.73,
-    "oido": " The Gorgeous of the River Pedra, between Alda Huela de Listo's and Teralba de Los Frails, the River Pedra cuts between vertical walls, below Riverside, Woodlan"
+    "acierto": 0.69,
+    "oido": " Hoses del Rio Pedro River Gorges, between Aldouela del Isto and Torralba delos frayals, the river pedra cuts its way between shear walls, below riverside woodl"
    },
    {
-    "id": "murallas-castillo",
+    "id": "retablo-langa",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.7,
-    "oido": " Town walls and Castillo mayor, almost four kilometres of walls ringed Eroca, climbing the hills that enclose it, with more than a hundred towers and three cast"
+    "acierto": 0.63,
+    "oido": " Ecclesiadassan Pedro, Wira Tableta, Martin Delcano Church of St. Peter and Martin, Delcano Altepiece, a fortified-looking church, with two towers on its facade"
    },
    {
-    "id": "puerta-baja",
+    "id": "castillo-anento",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.66,
-    "oido": " Quetta Baha lower gate, two towers more than 20 meters high and a great pointed arch guard for the lower entrance to Deruka. For centuries it was the first thi"
+    "acierto": 0.79,
+    "oido": " Asdeo de Aeninto Aeninto Castle, on a hill of reddish earth surrounded by pines, two twin towers and a thirty-metre battle-mended wall keep watch of Aeninto, i"
    }
   ],
   "fr": [
    {
-    "id": "mina-daroca",
+    "id": "museo-corporales",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.61,
-    "oido": " Tunnel de la mine. Un tunnel d'environ 600 mètres creusé à la main où il suffit siècle pour détourner les orages, qui inondait la calme meilleure. Ce n'est pas"
+    "acierto": 0.66,
+    "oido": " Musaux de l'os corporal, musées des corporeaux, le musée de la basilique réunit des rotables gothiques, des textiles liturgiques et des pièces d'Orfevres Rilie"
    },
    {
     "id": "hoces-rio-piedra",
     "lang_detectado": "fr",
     "prob": 0.99,
-    "acierto": 0.58,
-    "oido": " Gorge du Rio Piedra. Entradulla de l'yesto les Toralba de los Frelles, le Rio piedra son quesse entre des parois verticales. En bas, une forêt rivreine, en hau"
+    "acierto": 0.56,
+    "oido": " Ause d'Heliorio Piedra Gorge du Rio Piedra. Entradiue là de l'Yestau, les Toralba de L'Ossfrel, le Rio Piedra s'enquaisse entre des parois verticales. En bas, "
    },
    {
-    "id": "murallas-castillo",
+    "id": "retablo-langa",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.6,
-    "oido": " Rampard et Castillo, meilleur. Très de quatre kilomètres de rampard entour d'Aroquin grimper sur les collines, qui l'en sert, avec plus d'une centaine de tours"
+    "acierto": 0.57,
+    "oido": " Iglesia de San Pedro Eglise de Saint-Pierre est retable de Martin Delcano. Une églie à la Lure fortifiée, avec deux tours en façade, abrique le retable de Sain"
    },
    {
-    "id": "puerta-baja",
+    "id": "castillo-anento",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.55,
-    "oido": " Puerta Baja porte basse, deux tours de plus de 20 mètres, et un grand tarque brisé garde l'entrée basse de Darokha. Pendant des siècles, ce fut la première cho"
+    "acierto": 0.57,
+    "oido": " Castillo de Anento Château d'Anento Sur une bute de terre où j'atrant tourée, de pain, de tour jumé elle est un mur crène les deux 30 mètres veille sur Anento "
    }
   ],
   "de": [
    {
-    "id": "mina-daroca",
+    "id": "museo-corporales",
     "lang_detectado": "de",
-    "prob": 0.99,
-    "acierto": 0.55,
-    "oido": " Der Rokhal liegt eingezwängt zwischen den Hyveen, sein Christopal und sein Jorke. Bei herftigen Gewitteren stötzte das Wasser halt durch die Schluchten bis in "
+    "prob": 1.0,
+    "acierto": 0.58,
+    "oido": " Musio, Delos, Corporales, Museum der Corporales. Das Museum der Basilek erfreit, die dogeische Textilehien und Goldschmiede arbeiten, die mit der Verärkung der"
    },
    {
     "id": "hoces-rio-piedra",
     "lang_detectado": "de",
     "prob": 1.0,
-    "acierto": 0.59,
-    "oido": " Schluchten des Rio-Pieterra zwischen Alio-Ela de Liestos und Toral-Badelos Freilis 20 der Rio-Pietera zwischen Senkrechtewände und ein Aubalt, um Felswände, in"
+    "acierto": 0.53,
+    "oido": " Hoch ist der Rheopietra schluchten des Rheopietra. Zwischen all die Ueli Stus und Toral bei Delos Freilis zängt sich der Rheopietra zwischen Senkrechte Wände u"
    },
    {
-    "id": "murallas-castillo",
+    "id": "retablo-langa",
     "lang_detectado": "de",
     "prob": 1.0,
-    "acierto": 0.7,
-    "oido": " Stattmauer und Castillo-Meier fast 4 km Mauer umgeben der Rokka und klettern die Hügel hinauf, die die Stadt einschließen mit über 100 Törmen und drei Bogen. V"
+    "acierto": 0.63,
+    "oido": " Eglisiadee, San Pedro Kirche, San Pedro und Retabel vom Martin Delcano. Eine wehrhaft werkende Kirche mit zwei Taman an der Fassade bewahrt das Petros Retabel,"
    },
    {
-    "id": "puerta-baja",
+    "id": "castillo-anento",
     "lang_detectado": "de",
     "prob": 1.0,
-    "acierto": 0.65,
-    "oido": " Portabaya und Rastor, zwei über 20 Meter hohe Terme und ein großer Spitzbogen bewachen den unteren Eingang von der Rokka. Ja Hundertele an war es das erste, wa"
+    "acierto": 0.78,
+    "oido": " Castillo de Anentoburg von Anento auf einem Hüwie aus rötlicher Erde, umgeben von Kiefern, wachen zwei Zwillingstörme und eine 30 Meter lange Zinnmauer über An"
    }
   ],
   "pt": [
    {
-    "id": "mina-daroca",
+    "id": "museo-corporales",
     "lang_detectado": "pt",
     "prob": 0.99,
-    "acierto": 0.39,
-    "oido": " Tudo de lamina, junto com o que aconteceu é que 600 mecos cavaram ao mal no século 16 para desgiar as tuvoadas que ainda não davam a calma em ontem. Não há uma"
+    "acierto": 0.3,
+    "oido": " Nos írduos corporals, museus dos corporais. O museu da base de lita Riúne retava os bóticos, testas litusicos e orifesaria ligados ao culto escurpras. As churr"
    },
    {
     "id": "hoces-rio-piedra",
     "lang_detectado": "pt",
-    "prob": 0.98,
-    "acierto": 0.33,
-    "oido": " Seu ladoio estoveu piera, entre ao lado de lhe espes e tuvalva de los faos, o Rio piede em caixa centro de paraedas vacicais. Em baixo, um bózco fibrinho, em c"
+    "prob": 1.0,
+    "acierto": 0.39,
+    "oido": " ou se estalviu o piédro de chula-besse do Rio piere. Em tal do ela de liestos e tuvalva de los fraels, o Rio piere em caixa senta paredes raticais. Em baixo, o"
    },
    {
-    "id": "murallas-castillo",
-    "lang_detectado": "pt",
-    "prob": 0.99,
-    "acierto": 0.43,
-    "oido": " Marias e Castil Mejor Quase IV, que tomamos de Moralha, rodeiam da Roca subindo puso, onde se esqueçam, quando mais de uma centena de torres e ter escastelos, "
-   },
-   {
-    "id": "puerta-baja",
+    "id": "retablo-langa",
     "lang_detectado": "pt",
     "prob": 1.0,
-    "acierto": 0.34,
-    "oido": " Cometa Baixa Pota Baixa 2 torres quando mais de 20 m e um dê andar com as evaluadas em entrada baixa de deroca Durante séculos foi a primeira coisa que os viaj"
+    "acierto": 0.42,
+    "oido": " e de São Pedro e Geja de São Pedro e Retabulo de Madin del Cane. Uma Geja de Aspetes futificada, quando duas torres na faixada, o Aror Retabulo, São Pedro que "
+   },
+   {
+    "id": "castillo-anento",
+    "lang_detectado": "pt",
+    "prob": 1.0,
+    "acierto": 0.4,
+    "oido": " e o problema é que a guerra dos dois pedros quando as tropas cristianas quemarmam o aumento. Algumas fontes de divulgação atibuem a sua origemia a camisumana e"
    }
   ]
  },
  "cinco-villas": {
   "es": [
    {
-    "id": "los-banales",
+    "id": "pueblos-colonizacion",
     "lang_detectado": "es",
-    "prob": 0.98,
-    "acierto": 0.46,
-    "oido": " si el siglo III de la parte baja inmunumental quedó casi abandonada y la  población se replevo al cerro del puello, donde pudo seguir viviendo hasta el siglo I"
-   },
-   {
-    "id": "castillo-uncastillo",
-    "lang_detectado": "es",
-    "prob": 0.98,
-    "acierto": 0.72,
-    "oido": " Castillo de un Castillo. El Castillo quedan hombre a la Villa Cupa la Peña Llón en el centro del pueblo. Su torre restaurada es hoy un pequeño museo contra Zal"
-   },
-   {
-    "id": "mausoleo-atilios",
-    "lang_detectado": "es",
-    "prob": 1.0,
+    "prob": 0.99,
     "acierto": 0.69,
-    "oido": " Mausoleo de los Atidios, junto a la carretera desada a un castillo se alza la fachada de un mausoleo romano. Tres generaciones de la familia de los Atidios qui"
+    "oido": " Pueblos de colonización, el Valle, con la llegada del agua del canal de las Vardenas, Ejea vion a hacer seis pueblos nuevos en 1959. El Valle, uno de ellos, co"
    },
    {
-    "id": "san-nicolas-el-frago",
+    "id": "despoblados-luna",
     "lang_detectado": "es",
-    "prob": 1.0,
-    "acierto": 0.62,
-    "oido": " y lesia de San Nicolás de Vari, en lo alto del frabo, la iglesia de San Nicolás de Vari tiene aspecto de fortaleza. Su portada sur muestra la adoración de los "
+    "prob": 0.99,
+    "acierto": 0.73,
+    "oido": " despoblados de Ispaníes, Cunes y la Casta. En el término del una quedan los restos de tres antiguos pueblos de la repoblación medieval abandonados en la edad m"
+   },
+   {
+    "id": "san-juan-uncastillo",
+    "lang_detectado": "es",
+    "prob": 0.99,
+    "acierto": 0.69,
+    "oido": " Iglesia de San Juan y Necropolis, sobre una peña junto al río Riel, esta iglesia austera guarda dentro un conjunto de pinturas murales medievales. A su alreded"
+   },
+   {
+    "id": "valdelafuen",
+    "lang_detectado": "es",
+    "prob": 0.99,
+    "acierto": 0.65,
+    "oido": " En más de la Fueñ estáncas de Sadava, entre campos de cereal, a lo este de Sadava, una que gran la mina de agua reúne aves de medio mundo. Vale la Fueñ forma p"
    }
   ],
   "en": [
    {
-    "id": "los-banales",
+    "id": "pueblos-colonizacion",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.78,
-    "oido": " Roman city of Los Banniels remains of a Roman city whose ancient name is still not known for certain. It preserves paths, part of the forum and the pillars of "
+    "acierto": 0.73,
+    "oido": " Settlement Village is El Bayo, with the arrival of water from the Baudinus Canal. Six new villages were born in a deer in 1959. El Bayo, one of them, keeps the"
    },
    {
-    "id": "castillo-uncastillo",
+    "id": "despoblados-luna",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.63,
-    "oido": " Uncasteo Castle, a castle that gives the town its name stands on the penureleon. In the middle of the village, its restored terrace now a small museum with a b"
+    "acierto": 0.7,
+    "oido": " Deserted villages of Hispani-Aes, Junos and Lacaster, in the municipality of Lunar Lai, the remains of three old villages from the Medieval Resettlement, aband"
    },
    {
-    "id": "mausoleo-atilios",
+    "id": "san-juan-uncastillo",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.67,
-    "oido": " War Seledum of the Atelier I Beside the road from Zadaba to Amkastio stands the facade of a Roman War Seliem Three generations of the Atelier's family wished t"
+    "acierto": 0.72,
+    "oido": " Church of San Juan and Necropelles, on a rocky outcrop beside the river Eagle. This austere church holds a group of medieval mural paintings, around it lie doz"
    },
    {
-    "id": "san-nicolas-el-frago",
+    "id": "valdelafuen",
     "lang_detectado": "en",
     "prob": 1.0,
-    "acierto": 0.61,
-    "oido": " Church of San Nicolás de Bari, at the top of El Frago. The Church of San Nicolás de Bari looks like a fortress. Its south door shows the adoration of the Magi "
+    "acierto": 0.7,
+    "oido": " Faldelafran is one of the Siddhartha ponds, among the serial fields west of Siddhartha. A broad sheet of water draws birds from half the world. Faldelafran is "
    }
   ],
   "fr": [
    {
-    "id": "los-banales",
+    "id": "pueblos-colonizacion",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.58,
-    "oido": " Ville romaine de los bagnales Vestige d'une ville romaine, dont le nom antique n'est toujours pas connu avec certitude, elle conserve des termes, une partie du"
+    "acierto": 0.42,
+    "oido": " Vilage de colonisation, Elbeu, avec l'arrivée de l'eau du canal de la Bardonnay, est j'avis naître si nouveau village en 1959.  A Tôste Naki Sancho-A-Barca, av"
    },
    {
-    "id": "castillo-uncastillo",
+    "id": "despoblados-luna",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.51,
-    "oido": " Château d'un Castillo, le château qui a donné son nom à la ville occupe la Peña et Long, au cœur du village.  Légotique dirigée par Blascoise-Narré de Borou, l"
+    "acierto": 0.54,
+    "oido": " Vylages abandonnés d'Ispagniers, Juner la Casta, sur la commune de l'une a subsiste les restes de trois anciens villages de la population médiévale, abandonnés"
    },
    {
-    "id": "mausoleo-atilios",
+    "id": "san-juan-uncastillo",
     "lang_detectado": "fr",
     "prob": 1.0,
     "acierto": 0.57,
-    "oido": " Mousselet des Atili, au bord de la route de Sadaba, un Castillo se dresse la façade dans Moussel et Romain. Trois générations de la famille des Atili, volurent"
+    "oido": " Église Angion, et Nécropole, sera un rocher au bord du Rio Riguel, cet églis au Stére, abrite un ensemble de peintures murales, médiévales, tout autour, s'ouvr"
    },
    {
-    "id": "san-nicolas-el-frago",
+    "id": "valdelafuen",
     "lang_detectado": "fr",
     "prob": 1.0,
-    "acierto": 0.59,
-    "oido": " Éclise sans Nicolas de Barry. Au sommet d'elle Frago, l'Église, sans Nicolas de Barry à la lure d'une forteresse. Son portet est sud, montre l'adoration d'emag"
+    "acierto": 0.67,
+    "oido": " L'ac de Val de la Fuenne est en cas de Sada'ba. Au milieu des champs de Cérial, à l'ouest de Sada'ba, une grande étendue d'horacembre des oiseaux venus de la m"
    }
   ],
   "de": [
    {
-    "id": "los-banales",
+    "id": "pueblos-colonizacion",
     "lang_detectado": "de",
     "prob": 1.0,
-    "acierto": 0.62,
-    "oido": " Römestadt los Banales. Reste eine römischen Stadt, die ein Antike Name bis heute nicht sicher bekannt ist. Erhalten sind Termen, Teile des Vorums und die Pfeil"
+    "acierto": 0.57,
+    "oido": " mit der Ankunft des Wassers auf dem Badenars-Kanal entstanden.  Der Hundet Pinsoho, Ilbayo, Badenars, Valarina, Santa Anastasia und El Sabina. In Tausd entstan"
    },
    {
-    "id": "castillo-uncastillo",
+    "id": "despoblados-luna",
+    "lang_detectado": "de",
+    "prob": 1.0,
+    "acierto": 0.77,
+    "oido": " Wüstungen Hischbarnies, Junits und Lackaster, auf dem Gemeindegebiet von Luna, liegen die Reste dreier Altheit Dörfer aus der mittelalterlichen Wiederbesieglun"
+   },
+   {
+    "id": "san-juan-uncastillo",
     "lang_detectado": "de",
     "prob": 1.0,
     "acierto": 0.59,
-    "oido": " Die Burg der der Ort seiner Namen verdammt, trond auf der Pena-Eilon mitten in Dorf. Ihr restaurierter Thugung ist heute ein kleines Museum mit Zinnenderrasse."
+    "oido": " Kirche Sanuan und Mikropole, auf einem Felsen an Fluss, Rigule bewahrt diese schlichte Kirche in ihrem inneren Einzirklus mittelalterlicher Wandmalerein, rund "
    },
    {
-    "id": "mausoleo-atilios",
+    "id": "valdelafuen",
     "lang_detectado": "de",
     "prob": 1.0,
-    "acierto": 0.7,
-    "oido": " Mausoleum der Atelier. An der Straße von Satterbarn nach Umkastilo steht die Fassade eines römischen Mausoleums. Drei Generationen der Familie der Atelier woll"
-   },
-   {
-    "id": "san-nicolas-el-frago",
-    "lang_detectado": "de",
-    "prob": 1.0,
-    "acierto": 0.59,
-    "oido": " Kirche san Nikolas Debarri. Hoch über Elfragow wirkt die Kirche san Nikolas Debarri wie eine Festung. Ihr sieht Portal zeigt die Anbetung der Könige und ein Ka"
+    "acierto": 0.67,
+    "oido": " Stause Waldel Afroen und Wasser Speicher von Sarah Bar. Zwischen getreide Feldern westlich von Sarah Bar versammelt eine große Wasserfläche für Wiel aus Halb E"
    }
   ],
   "pt": [
    {
-    "id": "los-banales",
+    "id": "pueblos-colonizacion",
+    "lang_detectado": "pt",
+    "prob": 1.0,
+    "acierto": 0.33,
+    "oido": " Alegre de colonização é o baio.  Então baio foi inaugurada ao 8 do de 1959, conegente de 65 habitações e centricatose quilômetros."
+   },
+   {
+    "id": "despoblados-luna",
+    "lang_detectado": "pt",
+    "prob": 1.0,
+    "acierto": 0.47,
+    "oido": " Audei as abandonadas dos espanejos, Junos e la Casta, no Conceito de Luna restam as ruínas de três antigas aldejos do reprovamento medieval abandonadas na idad"
+   },
+   {
+    "id": "san-juan-uncastillo",
     "lang_detectado": "pt",
     "prob": 0.99,
-    "acierto": 0.38,
-    "oido": " Tidado a humana de os banheles, este é uma cidade humana que o genomente ainda não se fonece com a desforança. Com a receba de termos, pacto formo e esquilágio"
+    "acierto": 0.49,
+    "oido": " A sua volta à avente dezenas de sepulturas que acabadas na vozcha. Escora, Santa Juan é a igreja principal do bar de Santa Estebrão que se estendam a esquir um"
    },
    {
-    "id": "castillo-uncastillo",
+    "id": "valdelafuen",
     "lang_detectado": "pt",
-    "prob": 0.98,
-    "acierto": 0.42,
-    "oido": " O Castelo do Castelo, o Castelo que dá não há vilão ao culpápem álome, no centro da puvação. A sua torre restaurada é hoje um pequeno museu contra raça-mear. H"
-   },
-   {
-    "id": "mausoleo-atilios",
-    "lang_detectado": "pt",
-    "prob": 1.0,
-    "acierto": 0.32,
-    "oido": " Más uma dos atílios.  E é bem de interesse cultural. Em 2016 foi feito uma reconstituição de 3D a partir de fotografia. Porra, tapar umas 3 infescissões latina"
-   },
-   {
-    "id": "san-nicolas-el-frago",
-    "lang_detectado": "pt",
-    "prob": 1.0,
-    "acierto": 0.38,
-    "oido": " E rege a de San Nicolas de Barri, no alto de Elfago, em rege a de San Nicolas de Barri tem a espécie de futileza. O seu papel sou uma mostra à adressão dos rej"
+    "prob": 0.99,
+    "acierto": 0.34,
+    "oido": " A ofera devalva foi a minha estándar cas de sádaba. Entre campos de cereal, a Ué, é a estesádaba, um grande espalhado de água, reunha-vos do meio-moom. A ofera"
    }
   ]
  }
