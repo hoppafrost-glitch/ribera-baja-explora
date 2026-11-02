@@ -9,8 +9,19 @@ for slug, pois in X.items():
     for pid, qs in pois.items():
         res = []
         for q in qs:
+            if q.startswith("ov:"):
+                try:
+                    j = json.loads(get("https://api.openverse.org/v1/images/?" + urllib.parse.urlencode({"q": q[3:], "license": "by,by-sa,cc0,pdm", "page_size": 15})))
+                    for x in j.get("results", []):
+                        if not x.get("url") or (x.get("width") or 1000) < 800: continue
+                        lic = ("CC " + (x.get("license") or "").upper() + " " + (x.get("license_version") or "")).strip().replace("CC CC0", "CC0").replace("CC PDM", "Dominio público")
+                        res.append({"file": x["url"], "author": (x.get("creator") or "")[:60], "license": lic, "thumb": x.get("thumbnail") or x["url"], "q": q, "page": x.get("foreign_landing_url") or x["url"], "src": "openverse", "title": (x.get("title") or "")[:100]})
+                except Exception as e: print(pid, q, e)
+                time.sleep(0.6); continue
             prm = {"action": "query", "format": "json", "prop": "imageinfo", "iiprop": "extmetadata|size|mime|url", "iiurlwidth": "330", "iiextmetadatafilter": "Artist|LicenseShortName"}
-            if q.startswith("Category:"): prm.update(generator="categorymembers", gcmtitle=q, gcmtype="file", gcmlimit="30")
+            if q.startswith("geo:"):
+                la, lo, r = q[4:].split(","); prm.update(generator="geosearch", ggscoord=f"{la}|{lo}", ggsradius=r, ggsnamespace="6", ggslimit="40")
+            elif q.startswith("Category:"): prm.update(generator="categorymembers", gcmtitle=q, gcmtype="file", gcmlimit="30")
             else: prm.update(generator="search", gsrnamespace="6", gsrlimit="12", gsrsearch=q)
             try:
                 j = json.loads(get("https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(prm)))
@@ -21,7 +32,7 @@ for slug, pois in X.items():
                     res.append({"file": pg["title"][5:], "author": cl(m.get("Artist", {}).get("value"))[:60], "license": m.get("LicenseShortName", {}).get("value", ""), "thumb": ii.get("thumburl"), "q": q})
             except Exception as e: print(pid, q, e)
             time.sleep(0.4)
-        res = res[:10]
+        res = res[:16]
         for i, r in enumerate(res):
             try:
                 open(f"{d}/{pid}__{i}.jpg", "wb").write(get(r["thumb"])); time.sleep(0.3)

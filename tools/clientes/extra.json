@@ -1,28 +1,18 @@
 {
- "campo-de-belchite-b": {
-  "granja-escuela": [
-   "Category:Belchite (new town)",
-   "Belchite pueblo nuevo",
-   "Belchite Zaragoza calle",
-   "Belchite estepa",
-   "Category:Steppes of Aragon"
+ "andorra-sierra-de-arcos-c": {
+  "alacon": [
+   "geo:41.0232,-0.6967,5000",
+   "ov:Alacón",
+   "ov:Alacon Teruel",
+   "ov:Rio Martin Teruel",
+   "ov:Parque Cultural Rio Martin"
   ]
  },
- "andorra-sierra-de-arcos-b": {
-  "bodegas-alacon": [
-   "Category:Alacón",
-   "Alacón",
-   "Alacón Teruel pueblo",
-   "Bodegas excavadas Teruel",
-   "Category:Wine cellars in Aragon"
-  ]
- },
- "bajo-cinca-b": {
-  "casas-belver": [
-   "Category:Belver de Cinca",
-   "Belver de Cinca",
-   "Belver de Cinca Huesca",
-   "Category:Buildings in Belver de Cinca"
+ "bajo-cinca-c": {
+  "belver": [
+   "geo:41.6833,0.2139,3000",
+   "ov:Belver de Cinca",
+   "ov:Belver Cinca"
   ]
  }
 }
