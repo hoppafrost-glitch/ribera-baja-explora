@@ -1,26 +1,65 @@
+n3-23e64ca3cb4c|Villa Fortunatus - Altar votivo romano del revés.jpg
+n3-012ef0fd6663|Villa Fortunatus - Basilica paleocristiana.jpg
+n3-d9bbe3bf5c87|Villa Fortunatus - Entrada a basilica paleocristiana.jpg
+n3-6825b3e7ff3d|Villa Fortunatus - Sarcófago de piedra con inscripción.jpg
+n3-08907aaf8996|Detall dels capitells del portal de l'església de San Pedro de Fraga.jpeg
+n3-8f073023a847|Fraga - Capitel de la portada de la iglesia de san Pedro.JPG
+n3-a8ff0331cd83|Iglesia San Pedro (S.XII).jpg
+n3-2a932f4de301|Fraga.JPG
 n3-9d100cb6c8a8|Monumento a la Dona de Faldetes.jpg
 n3-f7b96b11defa|La vila de Fraga amb el riu Cinca en primer terme.jpeg
 n3-a51ecf99126d|Riu Cinca a Fraga, Franja de Ponent - panoramio.jpg
+n3-fba00fa621ec|Torre dels Frares, Fraga (el Baix Cinca, Aragó, Espanya).jpg
+n3-b31197002e12|Fraga, Torre dels Frares.jpg
 n3-e198944006a1|Símbolo templario en la Torre dels Frares.jpg
 n3-ce80735253f2|Vista general de Torre dels Frares de Fraga.jpeg
+n3-3724c6fac245|Fraga - Torre de Santa Quiteria.jpg
+n3-b378550d5bdf|Fraga - Torre de Santa Quiteria - Detalle.jpg
+n3-26c6c9a4c7be|Torre de Santa Quitèria 20180728 135030.jpg
 n3-953c9d76a32f|Peñalba - Río Valcuerna.jpg
+n3-080c22226ce2|Castillo de Mequinenza, Zaragoza.jpg
+n3-7515a74c45b1|Castillo de Mequinenza.jpg
+n3-6bd4a92ca5c4|Mequinenza-PM 65906.jpg
+n3-e4739c59bf99|Mequinenza-PM 65907.jpg
+n3-0d8e13975a46|Antigua Mequinenza.jpg
+n3-3f1357937b4a|Mequinenza 1987 02.jpg
+n3-d8d6109e9660|Museo de la Mina de Mequinenza.jpg
+n3-6d7ff7a5c7c8|Museos de Mequinenza.jpg
+n3-7753633a3814|Museos de Mequinenza, Zaragoza, España.jpg
+n3-7af36d80be89|Aiguabarreig Segre-Cinca, la Clamor d'Aitona. (25600166470).jpg
+n3-93a9e1e0518d|Aiguabarreig Segre - Ebre a Mequinensa.JPG
+n3-379df7588a2f|Aiguabarreig Segre Cinca.jpg
 n3-a3e26f6db839|Aiguabarreig de l'Ebre.JPG
 n3-e90d3d8dd15b|Mar de Aragón Mequinenza.jpg
 n3-d8038cce296f|Mar de Aragón Mequinenza 2.jpg
 n3-55c1466655fd|Mar de Aragón en Caspe.JPG
 n3-a95259ba7ea4|Embalse de Mequinenza, Aragón.jpg
+n3-fc0e57971f7b|Chalamera - Ermita de Santa María - Vista general.jpg
+n3-0bceaf9a7000|Chalamera - Ermita de Santa María - Portada - Capiteles dcha.jpg
+n3-901ecac07159|Chalamera - Ermita de Santa María - Portada - Capiteles izq.jpg
 n3-5249816e1390|Chalamera - Parque Ramón J. Sender.jpg
 n3-54e835af7b3a|Chalamera - Iglesia de San Martín - Fachada 03.jpg
+n3-8eb975050b68|Chalamera - Ermita de Santa María - Vista lateral.jpg
 n3-830e50863562|Torrente - Ermita de San Salvador - Escudo 01.JPG
 n3-db149ec31b4d|Iglesia de Santa María Magdalena, Torrente de Cinca, Huesca.jpg
+n3-9376a6f43916|Iglesia de Santa María Magdalen de Torrente de Cinca, Huesca.jpg
+n3-1f6d3125452b|Castell de Saidí.jpg
 n3-a78d72a00021|Zaidín - Iglesia de San Juan Bautista.jpg
 n3-852fa4d8f02a|Zaidín - Iglesia de San Juan Bautista - Portada.jpg
 n3-33c7b3c799e5|Zaidín - Calle Mayor.jpg
 n3-bf9a1774efce|Zaidín - Ermita de San Antón.jpg
+n3-27413c1c184a|Velilla de Cinca - Ermita de San Valero - Barranco 21.jpg
+n3-bdd69c0a8328|Velilla de Cinca - Ermita de San Valero - Barranco 22.jpg
+n3-78b52b5e5ea4|Velilla de Cinca - Ermita de San Valero - Barranco 23.jpg
+n3-b75b00d27428|Velilla de Cinca - Ermita de San Valero - Barranco 24.jpg
 n3-257cd35466df|Velilla de Cinca - Ayuntamiento - Iglesia de San Lorenzo 01.jpg
 n3-6c3fffb5d83d|Velilla de Cinca - Iglesia de San Lorenzo - Portada 06.jpg
 n3-7226ed7342f9|Velilla de Cinca - Iglesia de San Lorenzo - Campanas 09.jpg
 n3-2ede33ad4139|Velilla de Cinca - Iglesia de San Lorenzo - Fachada 02.jpg
+n3-becd393b8f91|Ballobar - Puente medieval sobre el río Alcanadre.jpg
+n3-e90b427e26ac|Ballobar - Puente medieval sobre el río Alcanadre (02).jpg
+n3-b3da861e4f6e|Ballobar - Puente medieval sobre el río Alcanadre (06).jpg
+n3-dfed70177b13|Ballobar - Puente medieval sobre el río Alcanadre (07).jpg
 n3-6ad5ccb6c2bb|Ballobar - Iglesia de Nuestra Señora de la Asunción - Cristo.jpg
 n3-661a84768202|Ballobar - Iglesia de Nuestra Señora de la Asunción - Cruz templaria pared exterior.jpg
 n3-2a7330c916a9|Ballobar - Iglesia de Nuestra Señora de la Asunción - Techumbre.jpg
@@ -29,6 +68,8 @@ n3-4a7a8ef06104|Ballobar - Ermita de San Juan Bautista.jpg
 n3-c37946837415|Ballobar - Ermita de San Juan Bautista (02).jpg
 n3-039bc9009d6c|Ballobar - Ermita de San Juan Bautista (03).jpg
 n3-8fb1e7d8b381|Ballobar - Vista general.jpg
+n3-9b7d89a42b46|Belver de Cinca Huesca (7)-01.jpg
+n3-006c9c33291d|Belver de Cinca Huesca (3)-01.jpg
 n3-0ef51946da2f|Osso de Cinca - Calle Santa Margarita - Plaza 01.jpg
 n3-41ef9c0973eb|Osso de Cinca - Calle Mayor - Iglesia de Santa Margarita.jpg
 n3-53500f376d20|Osso de Cinca - Iglesia de Santa Margarita - Fachada.jpg
