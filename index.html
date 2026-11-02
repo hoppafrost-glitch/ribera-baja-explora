@@ -778,7 +778,8 @@ p{margin:0}
 #cover .in{position:relative;width:100%;max-width:980px;margin:0 auto;display:flex;flex-direction:column;gap:14px;
   padding-block:calc(28px + env(safe-area-inset-top,0px)) calc(40px + env(safe-area-inset-bottom,0px));padding-left:max(24px,env(safe-area-inset-left,0px));padding-right:max(24px,env(safe-area-inset-right,0px))}
 #cover .kick{font-size:.78rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.85)}
-.nb{white-space:nowrap}
+.nb{display:inline-block;max-width:100%}
+#cover h1,.hero h2,h1,h2,h3{overflow-wrap:break-word;hyphens:auto}
 #cover h1{font-family:var(--f-display);font-weight:700;font-size:clamp(2rem,6.2vw,4.2rem);line-height:1.06;margin:0;max-width:22ch;text-shadow:0 2px 18px rgba(0,0,0,.35)}
 #cover p{font-size:clamp(1rem,1.6vw,1.2rem);max-width:52ch;color:rgba(255,255,255,.9);margin:0}
 #cover .row2{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}
@@ -943,7 +944,7 @@ form.card{border:1px solid var(--line);border-radius:12px;padding:14px;display:f
 .stamp .seal{width:58px;height:58px;border-color:var(--line)}
 .stamp.on .seal{border:2px solid var(--c);background:var(--c);color:#fff}
 .stamp.on{color:var(--ink)}
-.stamp .nm{font-size:.74rem;line-height:1.25;text-align:center;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.stamp .nm{font-size:.74rem;line-height:1.25;text-align:center;overflow-wrap:break-word;hyphens:auto;max-width:100%}
 .ev{display:flex;gap:12px;border-bottom:1px solid var(--line);padding:10px 0}
 .ev p{margin:2px 0 0;font-size:.88rem}
 .cal{flex:none;width:52px;border:1px solid var(--line);border-radius:10px;overflow:hidden;text-align:center;background:var(--panel)}
