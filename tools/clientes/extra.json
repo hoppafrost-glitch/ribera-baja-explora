@@ -1,53 +1,67 @@
 {
- "bajo-cinca-d": {
-  "palacio-montcada": [
-   "geo:41.5230785,0.3488629,900",
-   "Palacio Montcada Fraga",
-   "Palau Montcada Fraga",
-   "Category:Palau de Montcada (Fraga)"
+ "cinco-villas-d": {
+  "castillo-uncastillo": [
+   "geo:42.3603246,-1.1312372,1200",
+   "Category:Castle of Uncastillo",
+   "Uncastillo castillo torre",
+   "Uncastillo castle"
   ],
-  "parque-estacada": [
-   "geo:41.4727979,0.332671,900",
-   "Fraga río Cinca",
-   "Fraga Cinca riu",
-   "Category:Cinca River in Fraga",
-   "ov:Fraga Cinca"
+  "canal-tauste": [
+   "geo:41.9073725,-1.2826301,1200",
+   "Canal de Tauste",
+   "Category:Canal de Tauste",
+   "Acueducto de las Trabas"
   ],
-  "castillo-torrente": [
-   "geo:41.473897900000004,0.333771,900",
-   "Torrente de Cinca castillo",
-   "Castell de Torrent de Cinca",
-   "Category:Torrente de Cinca"
+  "sierra-santo-domingo": [
+   "geo:42.4455381,-0.9322567,1200",
+   "Sierra de Santo Domingo Aragón",
+   "Sierra de Santo Domingo Longás",
+   "Category:Sierra de Santo Domingo (Aragon)",
+   "Longás"
   ],
-  "lavaderos-torrente": [
-   "geo:41.464467,0.33553299999999997,900",
-   "Torrente de Cinca lavadero",
-   "Torrente de Cinca acueducto"
+  "monlora": [
+   "geo:42.165299999999995,-0.9304,1200",
+   "Monlora",
+   "Santuario de Monlora",
+   "Category:Monastery of Monlora"
   ],
-  "castellassos-velilla": [
-   "geo:41.584635999999996,0.264227,900",
-   "Castellassos Velilla",
-   "Velilla de Cinca yacimiento",
-   "Category:Velilla de Cinca"
+  "valdelafuen": [
+   "geo:42.2964684,-1.2727625,1200",
+   "Valdelafuén",
+   "Sádaba embalse",
+   "Sádaba paisaje"
   ],
-  "casas-belver": [
-   "geo:41.682233,0.217189,900",
-   "Belver de Cinca casa",
-   "Belver de Cinca palacio",
-   "Belver de Cinca templarios"
+  "estanca-gancho": [
+   "geo:42.1147898,-1.1312937,1200",
+   "Estanca del Gancho",
+   "Ejea de los Caballeros estanca",
+   "Ejea de los Caballeros paisaje"
   ],
-  "san-gregorio-ontinena": [
-   "geo:41.6775507,0.0876769,900",
-   "Ermita de San Gregorio Ontiñena",
-   "Ontiñena San Gregorio",
-   "Category:Ontiñena"
+  "pueblos-colonizacion": [
+   "geo:42.18816,-1.264129,1200",
+   "El Bayo Zaragoza",
+   "Bardena del Caudillo",
+   "Pinsoro",
+   "Santa Anastasia Ejea",
+   "Category:El Bayo"
   ],
-  "hondo-unilla": [
-   "geo:41.4950283,0.043971,900",
-   "Candasnos laguna",
-   "Candasnos paisaje",
-   "Category:Candasnos",
-   "ov:Candasnos"
+  "san-gil-luna": [
+   "geo:42.1693682,-0.9302991,1200",
+   "Luna Zaragoza iglesia San Gil",
+   "Iglesia de Santiago Luna",
+   "Category:Luna, Zaragoza",
+   "Luna (Zaragoza)"
+  ],
+  "embalse-ardisa": [
+   "geo:42.197242,-0.7541456,1200",
+   "Embalse de Ardisa",
+   "Category:Ardisa Reservoir",
+   "Ardisa"
+  ],
+  "sancho-abarca": [
+   "geo:42.02045,-1.32473,1200",
+   "Santuario de Sancho Abarca",
+   "Sancho Abarca Tauste"
   ]
  }
 }
