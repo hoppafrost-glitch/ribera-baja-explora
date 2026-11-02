@@ -1,67 +1,11 @@
 {
- "cinco-villas-d": {
-  "castillo-uncastillo": [
-   "geo:42.3603246,-1.1312372,1200",
-   "Category:Castle of Uncastillo",
-   "Uncastillo castillo torre",
-   "Uncastillo castle"
-  ],
-  "canal-tauste": [
-   "geo:41.9073725,-1.2826301,1200",
-   "Canal de Tauste",
-   "Category:Canal de Tauste",
-   "Acueducto de las Trabas"
-  ],
-  "sierra-santo-domingo": [
-   "geo:42.4455381,-0.9322567,1200",
-   "Sierra de Santo Domingo Aragón",
-   "Sierra de Santo Domingo Longás",
-   "Category:Sierra de Santo Domingo (Aragon)",
-   "Longás"
-  ],
-  "monlora": [
-   "geo:42.165299999999995,-0.9304,1200",
-   "Monlora",
-   "Santuario de Monlora",
-   "Category:Monastery of Monlora"
-  ],
-  "valdelafuen": [
-   "geo:42.2964684,-1.2727625,1200",
-   "Valdelafuén",
-   "Sádaba embalse",
-   "Sádaba paisaje"
-  ],
-  "estanca-gancho": [
-   "geo:42.1147898,-1.1312937,1200",
-   "Estanca del Gancho",
-   "Ejea de los Caballeros estanca",
-   "Ejea de los Caballeros paisaje"
-  ],
-  "pueblos-colonizacion": [
-   "geo:42.18816,-1.264129,1200",
-   "El Bayo Zaragoza",
-   "Bardena del Caudillo",
-   "Pinsoro",
-   "Santa Anastasia Ejea",
-   "Category:El Bayo"
-  ],
-  "san-gil-luna": [
-   "geo:42.1693682,-0.9302991,1200",
-   "Luna Zaragoza iglesia San Gil",
-   "Iglesia de Santiago Luna",
-   "Category:Luna, Zaragoza",
-   "Luna (Zaragoza)"
-  ],
-  "embalse-ardisa": [
-   "geo:42.197242,-0.7541456,1200",
-   "Embalse de Ardisa",
-   "Category:Ardisa Reservoir",
-   "Ardisa"
-  ],
-  "sancho-abarca": [
-   "geo:42.02045,-1.32473,1200",
-   "Santuario de Sancho Abarca",
-   "Sancho Abarca Tauste"
-  ]
+ "audit-e": {
+  "mausoleo-atilios": ["Category:Mausoleo de los Atilios","Mausoleo de los Atilios","Atilios Sádaba","geo:42.29519,-1.26575,600","ov:Mausoleo de los Atilios"],
+  "ci-layana": ["geo:42.29701,-1.24473,800","Layana","Category:Layana"],
+  "pueblo-nuevo": ["Belchite pueblo nuevo","Belchite plaza","Belchite arco","geo:41.3006,-0.74784,500"],
+  "pinares-valmadrid": ["Pinares de Valmadrid","geo:41.4412,-0.88228,3000","Valmadrid pinar","ov:pinares Valmadrid"],
+  "mirador-moncoscol": ["Moncoscol","geo:40.90083,-0.60692,2500","Estercuel paisaje","ov:Estercuel"],
+  "purburel": ["Purburel","Trincheras Quinto","Quinto trincheras guerra civil","geo:41.41049,-0.48898,1500","ov:Purburel Quinto"],
+  "iglesia-belver": ["Belver de Cinca iglesia","Category:Belver de Cinca","geo:41.68113,0.21609,500","Belver de Cinca"]
  }
 }
