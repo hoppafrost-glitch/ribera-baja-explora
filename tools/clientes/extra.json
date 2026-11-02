@@ -1,114 +1,220 @@
 {
  "campo-de-belchite": {
   "el-trujal": [
-   "El Trujal Belchite",
-   "El Trujal",
+   "Belchite monumento caidos trujal",
+   "Belchite trujal",
+   "Category:Belchite",
    "Belchite Zaragoza",
-   "Category:Belchite"
+   "El Trujal · Monumento a los Caídos Belchite"
   ],
-  "posiciones-saso": [
-   "Posiciones defensivas del Saso Belchite",
-   "Posiciones defensivas del Saso",
+  "vertice-lobo": [
+   "Mojón del Lobo Belchite",
+   "Vértice Lobo Belchite guerra civil",
+   "Category:Belchite",
    "Belchite Zaragoza",
-   "Category:Belchite"
+   "Enclave artillero del Vértice Lobo Belchite"
   ],
   "granja-escuela": [
-   "Museo Etnológico y Centro de las Estepas Belchite",
-   "Museo Etnológico y Centro de las Estepas",
+   "Belchite museo etnologico",
+   "Centro de Interpretación de las Estepas Belchite",
+   "Category:Belchite",
    "Belchite Zaragoza",
-   "Category:Belchite"
+   "Museo Etnológico y Centro de las Estepas Belchite"
   ],
   "trincheras-sierra-gorda": [
-   "Fortines republicanos de Sierra Gorda Fuendetodos",
-   "Fortines republicanos de Sierra Gorda",
+   "Fuendetodos trincheras Sierra Gorda",
+   "Fuendetodos guerra civil fortín",
+   "Category:Fuendetodos",
    "Fuendetodos Zaragoza",
-   "Category:Fuendetodos"
+   "Fortines republicanos de Sierra Gorda Fuendetodos"
   ],
-  "villa-la-malena": [
-   "Villa romana de La Malena Azuara",
-   "Villa romana de La Malena",
+  "cuartel-general-azuara": [
+   "Azuara guerra civil",
+   "Azuara cuartel general republicano",
+   "Category:Azuara",
    "Azuara Zaragoza",
-   "Category:Azuara"
+   "Cuartel General republicano de Azuara Azuara"
+  ],
+  "lavadero-lagata": [
+   "Lavadero de Lagata",
+   "Lagata Aguasvivas",
+   "Category:Lagata",
+   "Lagata Zaragoza",
+   "Lavadero de El Prado y azud de Lagata Lagata"
+  ],
+  "espacio-fortun": [
+   "Antonio Fortún pintor",
+   "Espacio Antonio Fortún Samper del Salz",
+   "Category:Samper del Salz",
+   "Samper del Salz Zaragoza",
+   "Espacio Antonio Fortún Samper del Salz"
+  ],
+  "embalse-moneva": [
+   "Category:Moneva Reservoir",
+   "Embalse de Moneva",
+   "Category:Moneva",
+   "Moneva Zaragoza",
+   "Embalse y azud de Moneva Moneva"
+  ],
+  "museo-manuela-sancho": [
+   "Manuela Sancho",
+   "Museo Manuela Sancho Plenas",
+   "Category:Plenas",
+   "Plenas Zaragoza",
+   "Museo Etnográfico Manuela Sancho Plenas"
   ]
  },
  "andorra-sierra-de-arcos": {
-  "el-cabo": [
-   "Poblado íbero de El Cabo Andorra",
-   "Poblado íbero de El Cabo",
-   "Andorra Teruel",
-   "Category:Andorra"
-  ],
-  "cueva-foradada": [
-   "Pantano de la Cueva Foradada Oliete",
-   "Pantano de la Cueva Foradada",
+  "olivares-oliete": [
+   "Apadrinaunolivo Oliete",
+   "Oliete olivos",
+   "Category:Oliete",
    "Oliete Teruel",
-   "Category:Oliete"
+   "Olivos centenarios de Oliete Oliete"
   ],
-  "arte-rupestre-alacon": [
-   "Abrigos del Barranco del Mortero y Cerro Felío Alacón",
-   "Abrigos del Barranco del Mortero y Cerro Felío",
+  "bodegas-alacon": [
+   "Bodegas Alacón",
+   "Alacón bodegas excavadas",
+   "Category:Alacón",
    "Alacón Teruel",
-   "Category:Alacón"
+   "Bodegas excavadas de Alacón Alacón"
   ],
-  "balneario-arino": [
-   "Balneario de Ariño Ariño",
-   "Balneario de Ariño",
-   "Ariño Teruel",
-   "Category:Ariño"
+  "ermita-san-miguel-alacon": [
+   "Ermita de San Miguel Alacón",
+   "Alacón ermita",
+   "Category:Alacón",
+   "Alacón Teruel",
+   "Ermita y balsa de San Miguel Alacón"
   ],
-  "pasarelas-escuriza": [
-   "Pasarelas del Escuriza Alloza",
-   "Pasarelas del Escuriza",
+  "mirador-carnicero": [
+   "Mirador del Carnicero Alloza",
+   "Val de Ariño minas",
+   "Category:Alloza",
    "Alloza Teruel",
-   "Category:Alloza"
+   "Mirador del Carnicero Alloza"
   ],
-  "majalinontes": [
-   "Senda de los Majalinontes Gargallo",
-   "Senda de los Majalinontes",
+  "castillo-estercuel": [
+   "Castillo de Estercuel",
+   "Estercuel",
+   "Category:Estercuel",
+   "Estercuel Teruel",
+   "Castillo-palacio y casco de Estercuel Estercuel"
+  ],
+  "miradores-crivillen": [
+   "Ermita de Santa Bárbara Crivillén",
+   "Crivillén buitres",
+   "Category:Crivillén",
+   "Crivillén Teruel",
+   "Miradores de Santa Bárbara y Pilatos Crivillén"
+  ],
+  "nacimiento-escuriza": [
+   "Río Escuriza",
+   "Gargallo Teruel río",
+   "Category:Gargallo",
    "Gargallo Teruel",
-   "Category:Gargallo"
+   "Nacimiento del Escuriza y Las Calderas Gargallo"
+  ],
+  "mirador-campillo": [
+   "Mirador del Campillo",
+   "Sierra de Majalinos",
+   "Category:Gargallo",
+   "Gargallo Teruel",
+   "Mirador del Campillo Gargallo"
   ]
  },
  "campo-de-daroca": {
-  "aguallueve": [
-   "Aguallueve Anento",
-   "Aguallueve",
-   "Anento Zaragoza",
-   "Category:Anento"
+  "camino-cid": [
+   "Camino del Cid Daroca",
+   "Camino del Cid señal",
+   "Category:Daroca",
+   "Daroca Zaragoza",
+   "Camino del Cid: Anillo de Gallocanta Daroca"
   ],
-  "laguna-guialguerrero": [
-   "Laguna de Guialguerrero Cubel",
-   "Laguna de Guialguerrero",
-   "Cubel Zaragoza",
-   "Category:Cubel"
-  ]
- },
- "cinco-villas": {
-  "ermita-san-anton-pintano": [
-   "Ermita de San Antón: Centro de Interpretación de Arqueología Los Pintanos",
-   "Ermita de San Antón: Centro de Interpretación de Arqueología",
-   "Los Pintanos Zaragoza",
-   "Category:Los Pintanos"
+  "villarpardo": [
+   "Villarpardo Mainar",
+   "Ermita de Santo Domingo Mainar",
+   "Category:Mainar",
+   "Mainar Zaragoza",
+   "Ruinas de Santo Domingo de Villarpardo Mainar"
   ],
-  "san-nicolas-el-frago": [
-   "Iglesia de San Nicolás de Bari El Frago",
-   "Iglesia de San Nicolás de Bari",
-   "El Frago Zaragoza",
-   "Category:El Frago"
+  "iglesia-herrera": [
+   "Iglesia de San Juan Bautista Herrera de los Navarros",
+   "Herrera de los Navarros torre mudéjar",
+   "Category:Herrera de los Navarros",
+   "Herrera de los Navarros Zaragoza",
+   "Iglesia-fortaleza de San Juan Bautista Herrera de los Navarros"
+  ],
+  "puente-nevera-villar": [
+   "Villar de los Navarros puente",
+   "Villar de los Navarros nevera",
+   "Category:Villar de los Navarros",
+   "Villar de los Navarros Zaragoza",
+   "Puente medieval y nevera de Villar Villar de los Navarros"
   ]
  },
  "bajo-cinca": {
-  "torre-frailes": [
-   "Torre de los Frailes Fraga",
-   "Torre de los Frailes",
+  "palacio-montcada": [
+   "Palacio Montcada Fraga",
+   "Palau Montcada Fraga",
+   "Category:Fraga",
    "Fraga Huesca",
-   "Category:Fraga"
+   "Palacio Montcada Fraga"
   ],
-  "castillo-torrente": [
-   "Castillo de Torrente de Cinca Torrente de Cinca",
-   "Castillo de Torrente de Cinca",
+  "mirador-chalamera": [
+   "Chalamera río Alcanadre",
+   "Chalamera embarcadero",
+   "Category:Chalamera",
+   "Chalamera Huesca",
+   "El Castillo, el Tozal y el embarcadero Chalamera"
+  ],
+  "lavaderos-torrente": [
+   "Torrente de Cinca lavadero",
+   "Torrente de Cinca fuente",
+   "Category:Torrente de Cinca",
    "Torrente de Cinca Huesca",
-   "Category:Torrente de Cinca"
+   "Lavaderos, Fonteta y puente acueducto Torrente de Cinca"
+  ],
+  "san-anton-zaidin": [
+   "Ermita de San Antón Zaidín",
+   "Zaidín ermita",
+   "Category:Zaidín",
+   "Zaidín Huesca",
+   "Ermita de San Antón Zaidín"
+  ],
+  "castellassos-velilla": [
+   "Los Castellassos Velilla de Cinca",
+   "Velilla de Cinca vista",
+   "Category:Velilla de Cinca",
+   "Velilla de Cinca Huesca",
+   "Los Castellassos Velilla de Cinca"
+  ],
+  "casas-belver": [
+   "Belver de Cinca casas",
+   "Belver de Cinca casa solariega",
+   "Category:Belver de Cinca",
+   "Belver de Cinca Huesca",
+   "Casas solariegas y mazmorras templarias Belver de Cinca"
+  ],
+  "vivero-ontinena": [
+   "Ontiñena puente Alcanadre",
+   "Ontiñena río Alcanadre",
+   "Category:Ontiñena",
+   "Ontiñena Huesca",
+   "El Alcanadre: puente, Vivero y fuente románica Ontiñena"
+  ],
+  "hondo-unilla": [
+   "Hondo de la Unilla Candasnos",
+   "Candasnos laguna",
+   "Category:Candasnos",
+   "Candasnos Huesca",
+   "Hondo de la Unilla y San Bartolomé Candasnos"
+  ],
+  "camino-candasnos": [
+   "Camino de Santiago Candasnos",
+   "Camino Ignaciano Candasnos",
+   "Category:Candasnos",
+   "Candasnos Huesca",
+   "Caminos de peregrinos: Santiago e Ignaciano Candasnos"
   ]
  }
 }
