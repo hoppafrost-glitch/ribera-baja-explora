@@ -1,12 +1,13 @@
+n3-c005ae8bccf2|Belchite, pueblo viejo - panoramio.jpg
 n3-1a711893004c|Iglesia de San Martin (4402119820).jpg
 n3-1e483ad2436e|Belchite, pueblo viejo.jpg
-n3-c005ae8bccf2|Belchite, pueblo viejo - panoramio.jpg
+n3-393cffacbb76|Arco de la Villa de Belchite.JPG
+n3-a3d0157b0e6c|Calle de Belchite.jpg
 n3-4463311ff963|Belchite. Pueblo viejo. Iglesia de San Martín de Tours (20951021694).jpg
 n3-80184972d6c5|Belchite. Pueblo viejo. Iglesia de San Martín de Tours (20952547433).jpg
 n3-84e181cbe006|Belchite. Pueblo viejo. Iglesia de San Martín de Tours (21160815989).jpg
 n3-f7da54d7543c|Belchite. Pueblo viejo. Iglesia de San Martín de Tours (21562355682).jpg
 n3-f5e950b0e406|Belchite. Pueblo viejo. Iglesia del Convento de San Agustín (21552036279).jpg
-n3-c2daab5d77c3|Belchite. Pueblo viejo. Iglesia del Convento de San Agustín (21712774816).jpg
 n3-4f432bc55af0|Belchite - Torre del reloj01.JPG
 n3-94ff882a2739|Belchite pueblo viejo torre del reloj.jpg
 n3-4ee7661e74d5|Carrer de sant Ramon de Belchit.JPG
@@ -48,10 +49,10 @@ n3-c62944375be2|Azuara - Iglesia de Nuestra Señora de la Piedad.JPG
 n3-af7981843aa0|Azuara - Iglesia de Nuestra Señora de la Piedad - Lateral sur.JPG
 n3-1e555d8fe976|Azuara - Iglesia de Nuestra Señora de la Piedad - Lateral sur - Galería.JPG
 n3-58ca948a909b|Azuara - Iglesia de Nuestra Señora de la Piedad - Vista lateral norte 01.JPG
+n3-b109fce9adc3|Azuara - Ermita de San Nicolás de Bari - Vista lateral ábside.JPG
 n3-9c4bd9858b27|Azuara - Ermita de San Nicolás de Bari - Portada - Canecillo 05.JPG
 n3-5c87e8d68c7d|Azuara - Ermita de San Nicolás de Bari - Portada - Capiteles 01.JPG
 n3-f3f93651a95c|Azuara - Ermita de San Nicolás de Bari - Portada - Capiteles 02.JPG
-n3-b109fce9adc3|Azuara - Ermita de San Nicolás de Bari - Vista lateral ábside.JPG
 n3-ebde38c26e35|Azuara - Vista 01.jpg
 n3-57ecb40baf03|Codo.JPG
 n3-22b1a74a8f7c|Monument and chapel.JPG
@@ -103,5 +104,3 @@ n3-6b1f3bbb155a|La Puebla de Albortón 03.jpg
 n3-ece345b46e06|Ferrocarril Utrillas.JPG
 n3-d87fcb12f9b5|La Puebla de Albortón 29.jpg
 n3-823a2c919d95|Valmadrid 01.jpg
-n3-74f4fdff7ee5|Valmadrid 03.jpg
-n3-cc02e447f9c4|Valmadrid 06.jpg

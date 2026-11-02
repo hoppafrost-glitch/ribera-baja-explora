@@ -1,5 +1,4 @@
 n3-2a0da3fea8aa|Daroca, Puerta Baja-PM 65870.jpg
-n3-e2f49438f72c|Daroca, Puerta Baja-PM 65875.jpg
 n3-5e1d87882a39|Daroca - Puerta Baja 1.jpg
 n3-fcc4a0c8d22a|Daroca - Fuente de los Veinte Caños 1.jpg
 n3-4ec374666c80|Daroca - Fuente de los Veinte Caños 4.jpg
@@ -46,11 +45,9 @@ n3-72b1cde40839|Torre del castillo de Santed (Zaragoza).jpg
 n3-1ec203a1b1d1|Iglesia de Santa María la Mayor (Val de San Martín) 01.jpg
 n3-036fcbfd0d0e|Iglesia de Santa María la Mayor (Val de San Martín) 04.jpg
 n3-c99f8c5e5dee|Iglesia de Santa María la Mayor (Val de San Martín) 05.jpg
-n3-849025500a0e|Municipio Val de San Martín, provincia Zaragoza, España.jpg
 n3-6a4b8d40c2b0|Iglesia de San Juan Bautista, Valdehorna, Zaragoza, España, 2015-09-29, JD 20.jpg
 n3-3ab7339e2920|Iglesia de San Juan Bautista, Valdehorna, Zaragoza, España, 2018-04-05, DD 19.jpg
 n3-c7e63d221c8b|Iglesia de San Juan Bautista, Valdehorna, Zaragoza, España, 2018-04-05, DD 20.jpg
-n3-2863f125898c|Ayuntamiento, Valdehorna, Zaragoza, España, 2018-04-05, DD 18.jpg
 n3-84d05dc31073|Church of San Blas, Anento 01.jpg
 n3-5ffd3fd738ea|Anento 01.jpg
 n3-c9a0ef206c53|Anento 02.jpg
@@ -59,7 +56,6 @@ n3-4d52d40cd3a1|Castle of Anento 03.jpg
 n3-21d39b5aead0|Auguapleve de Anento.jpg
 n3-af44c02ce763|Paret de l'auguapleve d'Anento.jpg
 n3-93a79b5ac69e|Iberian tower, Anento 01.jpg
-n3-b508871a1276|Iberian tower, Anento 02.jpg
 n3-08568e720676|Conocoryphe heberti. Murero.jpg
 n3-62c4f8ec6cd1|Conocoryphe heberti - Murero, Zaragoza - Museo Geominero.JPG
 n3-88aaaaa57bd3|Eccaparadoxides mediterraneus - Murero, Zaragoza - Museo Geominero 01.jpg
@@ -73,9 +69,7 @@ n3-022b68ff4f04|Iglesiademanchones.jpg
 n3-6c6fdfec5d07|Cerca de Manchones (Aragón).jpg
 n3-1150923ab69b|Villanueva de Jiloca, Zaragoza, España, 2015-09-29, JD 17.jpg
 n3-5b579ff62992|Iglesia de San Gil, Villanueva de Jiloca, Zaragoza, España, 2015-09-29, JD 18.jpg
-n3-4ccbdae22fd9|Iglesia de la Asunción, municipio de Retascón, Campo de Daroca, provincia Zaragoza, España.jpg
 n3-57a9706cb929|Iglesia de la Asunción, municipio de Retascón, Zaragoza, España.jpg
-n3-a579b7a58e5b|Iglesia de la Asunción, parroquia de Retascón, Zaragoza, España.jpg
 n3-bd4d8a709ef1|Iglesia de la Asunción de la Virgen, Retascón, Zaragoza, España, 2017-01-04, DD 05.jpg
 n3-6112392ae94d|Langa del Castillo, Zaragoza, España, 2015-09-29, JD 06.jpg
 n3-77ac5fd98845|Langa del Castillo, Zaragoza, España, 2015-09-29, JD 06 (cropped).jpg
@@ -92,12 +86,10 @@ n3-68b442f6ed7b|Church of Santa Ana, Mainar 08.jpg
 n3-c0f76c616938|Término municipal de Mainar, comarca Campo de Daroca, provincia de Zaragoza.jpg
 n3-63e674d44c1c|Iglesia de San Miguel Arcángel, municipio Villarreal de Huerva, comarca Campo de Daroca, provincia Zaragoza.jpg
 n3-6672571dccb1|Iglesia de San Miguel Arcángel (Villarreal de Huerva) 01.jpg
-n3-2364011d2b96|Iglesia de San Miguel Arcángel (Villarreal de Huerva) 02.jpg
 n3-3f467de7d222|Iglesia de San Miguel Arcángel (Villarreal de Huerva) 03.jpg
 n3-5dd887bf284b|Cerveruela.jpg
 n3-cc700be7adb1|Iglesia de Ntra. Sra. de la Junquera, Luesma, Zaragoza, España, 2017-01-04, DD 63.jpg
 n3-54658eb0b5ea|Iglesia de Ntra. Sra. de la Junquera, Luesma, Zaragoza, España, 2017-01-04, DD 59.jpg
-n3-f4d6c9515fda|Iglesia de Ntra. Sra. de la Junquera, Luesma, Zaragoza, España, 2017-01-04, DD 60.jpg
 n3-58fadcb32946|Iglesia de Ntra. Sra. de la Junquera, Luesma, Zaragoza, España, 2017-01-04, DD 61.jpg
 n3-a1cf05e33bbd|Iglesia de San Juan Bautista, Herrera de los Navarros, Zaragoza, España, 2017-01-04, DD 64.jpg
 n3-78216f3074cc|View from Santuario de la Virgen de la Sierra de Herrera - Flickr - S. Rae.jpg

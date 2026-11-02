@@ -7,8 +7,8 @@ n3-8f073023a847|Fraga - Capitel de la portada de la iglesia de san Pedro.JPG
 n3-a8ff0331cd83|Iglesia San Pedro (S.XII).jpg
 n3-2a932f4de301|Fraga.JPG
 n3-9d100cb6c8a8|Monumento a la Dona de Faldetes.jpg
-n3-f7b96b11defa|La vila de Fraga amb el riu Cinca en primer terme.jpeg
 n3-a51ecf99126d|Riu Cinca a Fraga, Franja de Ponent - panoramio.jpg
+n3-f7b96b11defa|La vila de Fraga amb el riu Cinca en primer terme.jpeg
 n3-fba00fa621ec|Torre dels Frares, Fraga (el Baix Cinca, Aragó, Espanya).jpg
 n3-b31197002e12|Fraga, Torre dels Frares.jpg
 n3-e198944006a1|Símbolo templario en la Torre dels Frares.jpg
@@ -31,7 +31,6 @@ n3-93a9e1e0518d|Aiguabarreig Segre - Ebre a Mequinensa.JPG
 n3-379df7588a2f|Aiguabarreig Segre Cinca.jpg
 n3-a3e26f6db839|Aiguabarreig de l'Ebre.JPG
 n3-e90d3d8dd15b|Mar de Aragón Mequinenza.jpg
-n3-d8038cce296f|Mar de Aragón Mequinenza 2.jpg
 n3-55c1466655fd|Mar de Aragón en Caspe.JPG
 n3-a95259ba7ea4|Embalse de Mequinenza, Aragón.jpg
 n3-fc0e57971f7b|Chalamera - Ermita de Santa María - Vista general.jpg
@@ -42,7 +41,6 @@ n3-54e835af7b3a|Chalamera - Iglesia de San Martín - Fachada 03.jpg
 n3-8eb975050b68|Chalamera - Ermita de Santa María - Vista lateral.jpg
 n3-830e50863562|Torrente - Ermita de San Salvador - Escudo 01.JPG
 n3-db149ec31b4d|Iglesia de Santa María Magdalena, Torrente de Cinca, Huesca.jpg
-n3-9376a6f43916|Iglesia de Santa María Magdalen de Torrente de Cinca, Huesca.jpg
 n3-1f6d3125452b|Castell de Saidí.jpg
 n3-a78d72a00021|Zaidín - Iglesia de San Juan Bautista.jpg
 n3-852fa4d8f02a|Zaidín - Iglesia de San Juan Bautista - Portada.jpg
@@ -57,16 +55,14 @@ n3-6c3fffb5d83d|Velilla de Cinca - Iglesia de San Lorenzo - Portada 06.jpg
 n3-7226ed7342f9|Velilla de Cinca - Iglesia de San Lorenzo - Campanas 09.jpg
 n3-2ede33ad4139|Velilla de Cinca - Iglesia de San Lorenzo - Fachada 02.jpg
 n3-becd393b8f91|Ballobar - Puente medieval sobre el río Alcanadre.jpg
-n3-e90b427e26ac|Ballobar - Puente medieval sobre el río Alcanadre (02).jpg
 n3-b3da861e4f6e|Ballobar - Puente medieval sobre el río Alcanadre (06).jpg
 n3-dfed70177b13|Ballobar - Puente medieval sobre el río Alcanadre (07).jpg
+n3-2a7330c916a9|Ballobar - Iglesia de Nuestra Señora de la Asunción - Techumbre.jpg
 n3-6ad5ccb6c2bb|Ballobar - Iglesia de Nuestra Señora de la Asunción - Cristo.jpg
 n3-661a84768202|Ballobar - Iglesia de Nuestra Señora de la Asunción - Cruz templaria pared exterior.jpg
-n3-2a7330c916a9|Ballobar - Iglesia de Nuestra Señora de la Asunción - Techumbre.jpg
 n3-1c4963aee20e|Ballobar - Iglesia de Nuestra Señora de la Asunción - Óculo.jpg
 n3-4a7a8ef06104|Ballobar - Ermita de San Juan Bautista.jpg
 n3-c37946837415|Ballobar - Ermita de San Juan Bautista (02).jpg
-n3-039bc9009d6c|Ballobar - Ermita de San Juan Bautista (03).jpg
 n3-8fb1e7d8b381|Ballobar - Vista general.jpg
 n3-9b7d89a42b46|Belver de Cinca Huesca (7)-01.jpg
 n3-006c9c33291d|Belver de Cinca Huesca (3)-01.jpg

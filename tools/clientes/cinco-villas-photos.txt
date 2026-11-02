@@ -26,22 +26,20 @@ n3-ce774e4407e4|Uncastillo - Iglesia de San Juan y necrópolis rupestre 04.jpg
 n3-363b5e5df62e|ExcavFUCR.jpg
 n3-a69ec187df52|Visita Bañales FUCR.jpg
 n3-e9f948719c1b|Edícula en el Foro.JPG
-n3-43643946f315|Indicador de Los Bañales.jpg
 n3-4ac632545f05|Os Bañals (Uncastiello, Zinco Billas, Aragón), Pilastras d'o acueducto román.jpg
-n3-1c1ffe57a736|Chimenea fábrica papel contínuo Layana 02.jpg
-n3-3e646a88e7e1|Chimenea fábrica papel contínuo Layana 04.jpg
 n3-cd83cd73cb75|Layana 1.jpg
 n3-3049f5705c45|Layana 2.jpg
+n3-2bd1f833e042|Sádaba - Mausoleo de los Atilios.jpg
 n3-94888640ecdf|Sadaba - Mausoleo de los Atilios 04.jpg
 n3-7ea1dae37342|Sadaba - Mausoleo de los Atilios 02.jpg
-n3-5f871ca8257c|Sadaba - Mausoleo de los Atilios 01.jpg
-n3-b1f31c0b577e|Sadaba - Mausoleo de los Atilios 03.jpg
+n3-1677f4354b7d|Sadaba - Mausoleo de los Atilios 05.jpg
+n3-1eeac1edfea3|Sadaba - Mausoleo de los Atilios 08.jpg
 n3-334ffd313c35|Castillo de Sádaba, Huesca, España, 2015-01-06, DD 01.JPG
 n3-e484ff7bf128|Castillo de Sádaba, Huesca, España, 2015-01-06, DD 02.JPG
 n3-26b8cca83045|Castillo de Sádaba, Huesca, España, 2015-01-06, DD 03.JPG
 n3-d1331c609105|Castillo de Sádaba, Huesca, España, 2015-01-06, DD 05.JPG
-n3-d2e0a6affe67|Sadaba - Iglesia de Santa Maria 05.jpg
 n3-1ece65e81eb2|Sádaba - Iglesia de Santa María - Retablo 01.jpg
+n3-d2e0a6affe67|Sadaba - Iglesia de Santa Maria 05.jpg
 n3-72f986526979|Castiliscar-Iglesia San Juan-Altar.jpg
 n3-b32e7e35a67d|Castiliscar (Zaragoza) 01.jpg
 n3-aa4c1a8b6cde|Castiliscar (Zaragoza) 06.jpg
@@ -68,7 +66,6 @@ n3-8ee64ccf26cf|Tractor John Deere. Aquagraria.JPG
 n3-b9f653904366|Pinsoro (Zaragoza) 02.jpg
 n3-9e68d4e33231|Tauste - Iglesia de Santa Maria 01.jpg
 n3-48ce8e89e682|Tauste - Iglesia de Santa María, interior 06.jpg
-n3-d8e8a0a9cf0c|Tauste - Iglesia de Santa María, torre 1.jpg
 n3-a6883810bbe9|Tauste - Iglesia de Santa María, torre 2.jpg
 n3-39d666822a01|Puente de la Torre de Leoz sobre el canal de Tauste.jpg
 n3-055a3f93c344|Señorío Torre de Leoz con el Canal de Tauste que lo riega 01.jpg
@@ -89,8 +86,6 @@ n3-bfdf96732fdb|Castillo, Luesia, Zaragoza, España, 2023-01-04, DD 43-45 HDR.jp
 n3-c15891c3a6b2|Luesia Castillo Zaragoza (0).jpg
 n3-08c0f4c3934b|Luesia Castillo Zaragoza (1).jpg
 n3-6fe76fd4ee92|Pozas Pígalo, Luesia, Zaragoza, España, 2023-01-04, DD 15-17 HDR.jpg
-n3-b641917ddf10|Pozas Pígalo, Luesia, Zaragoza, España, 2023-01-04, DD 18-20 HDR.jpg
-n3-ba4b5250d5fc|Pozas Pígalo, Luesia, Zaragoza, España, 2023-01-04, DD 21-23 HDR.jpg
 n3-e922a967b7e8|Santo Domingo Biel 2.jpg
 n3-a694d0356176|Santo Domingo Biel 3.jpg
 n3-cfbe10ae6b67|Longás 2006 016.jpg
@@ -105,11 +100,10 @@ n3-7db2189d88c0|Pintano 386.jpg
 n3-e24334a815de|Lobera de Onsella (Zaragoza) 009.jpg
 n3-4119ea534650|Lobera de Onsella (Zaragoza) 004.jpg
 n3-7dea0005e390|Lobera de Onsella (Zaragoza) 010.jpg
-n3-9efbb4bb1d96|Lobera de Onsella (Zaragoza) 011.jpg
+n3-12cf417e687b|Castillo de Navardún (Zaragoza) 02.jpg
 n3-f2330c36f5e3|Iglesia de Navardún (Zaragoza) 007.jpg
 n3-fd553d44fe5a|Torreón de Navardún (Zaragoza) 001.jpg
 n3-b6188224611c|Torreón de Navardún (Zaragoza) 002.jpg
-n3-12cf417e687b|Castillo de Navardún (Zaragoza) 02.jpg
 n3-dc836c100999|Urriés (Zaragoza) 007.jpg
 n3-df27d9cc9d02|Urriés (Zaragoza) 009.jpg
 n3-d26d4d4a5208|Urriés (Zaragoza) 006.jpg
