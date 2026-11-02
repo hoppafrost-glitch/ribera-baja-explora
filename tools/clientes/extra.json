@@ -1,18 +1,45 @@
 {
- "andorra-sierra-de-arcos-c": {
-  "alacon": [
-   "geo:41.0232,-0.6967,5000",
-   "ov:Alacón",
-   "ov:Alacon Teruel",
-   "ov:Rio Martin Teruel",
-   "ov:Parque Cultural Rio Martin"
-  ]
- },
- "bajo-cinca-c": {
-  "belver": [
-   "geo:41.6833,0.2139,3000",
-   "ov:Belver de Cinca",
-   "ov:Belver Cinca"
+ "bajo-cinca-d": {
+  "palacio-montcada": [
+   "Palacio Montcada Fraga",
+   "Palau Montcada Fraga",
+   "Category:Palau de Montcada (Fraga)"
+  ],
+  "parque-estacada": [
+   "Fraga río Cinca",
+   "Fraga Cinca riu",
+   "Category:Cinca River in Fraga",
+   "ov:Fraga Cinca"
+  ],
+  "castillo-torrente": [
+   "Torrente de Cinca castillo",
+   "Castell de Torrent de Cinca",
+   "Category:Torrente de Cinca"
+  ],
+  "lavaderos-torrente": [
+   "Torrente de Cinca lavadero",
+   "Torrente de Cinca acueducto"
+  ],
+  "castellassos-velilla": [
+   "Castellassos Velilla",
+   "Velilla de Cinca yacimiento",
+   "Category:Velilla de Cinca"
+  ],
+  "casas-belver": [
+   "Belver de Cinca casa",
+   "Belver de Cinca palacio",
+   "Belver de Cinca templarios"
+  ],
+  "san-gregorio-ontinena": [
+   "Ermita de San Gregorio Ontiñena",
+   "Ontiñena San Gregorio",
+   "Category:Ontiñena"
+  ],
+  "hondo-unilla": [
+   "Candasnos laguna",
+   "Candasnos paisaje",
+   "Category:Candasnos",
+   "ov:Candasnos"
   ]
  }
 }
