@@ -3,9 +3,9 @@ Entrada tools/clientes/in2.json {slug:{pid:{name,mun,lat,lon,fq:[...]}, "_towns"
 import json, os, re, sys, time, urllib.request, urllib.parse
 UA = {"User-Agent": "ExploraGuias/1.0 (guia turistica; https://github.com/hoppafrost-glitch)"}
 def get(u, raw=False):
-    for i in range(2):
+    for i in range(1 if raw else 2):
         try:
-            d = urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=60).read()
+            d = urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=15 if raw else 40).read()
             return d if raw else json.loads(d)
         except Exception as e:
             time.sleep(3)
@@ -29,8 +29,10 @@ def commons(params):
 for slug, pois in IN.items():
     if only and slug not in only: continue
     d = f"tools/clientes/cand/{slug}"; os.makedirs(d, exist_ok=True)
-    res_all = {}
+    OUTF = f"tools/clientes/out/{slug}-fotos2.json"
+    res_all = json.load(open(OUTF)) if os.path.exists(OUTF) else {}
     for pid, p in pois.items():
+        if pid in res_all: continue
         res = []
         for q in p.get("fq", []):
             if q.startswith("Category:"): res += commons({"generator": "categorymembers", "gcmtitle": q, "gcmtype": "file", "gcmlimit": "40"})
@@ -50,7 +52,7 @@ for slug, pois in IN.items():
         for x in res:
             if x["file"] in seen: continue
             seen.add(x["file"]); uniq.append(x)
-        uniq = uniq[:16]
+        uniq = uniq[:12]
         for i, x in enumerate(uniq):
             b = get(x["thumb"], raw=True)
             if b and b[:3] == b"\xff\xd8\xff":
@@ -58,4 +60,4 @@ for slug, pois in IN.items():
             time.sleep(0.15)
         res_all[pid] = uniq
         print(slug, pid, len(uniq), flush=True)
-    json.dump(res_all, open(f"tools/clientes/out/{slug}-fotos2.json", "w"), ensure_ascii=False, indent=0)
+        json.dump(res_all, open(OUTF, "w"), ensure_ascii=False, indent=0)
