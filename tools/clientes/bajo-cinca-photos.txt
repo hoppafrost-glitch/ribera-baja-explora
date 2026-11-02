@@ -1,11 +1,6 @@
-n2-san-pedro-fraga-3|Ajuntament de Fraga, a la Franja de Ponent - panoramio.jpg
-n2-castillo-fraga-1|Fraga - Ayuntamiento.jpg
-n2-palacio-montcada-0|Grupos participantes Edicion 2006.JPG
 n2-casco-antiguo-fraga-0|Monumento a la Dona de Faldetes.jpg
-n2-parque-estacada-0|Torrent creu.JPG
-n2-parque-estacada-1|Creu2.JPG
-n2-parque-estacada-2|Creu3.JPG
-n2-parque-estacada-3|Creu1.JPG
+n2-parque-estacada-0|La vila de Fraga amb el riu Cinca en primer terme.jpeg
+n2-parque-estacada-1|Riu Cinca a Fraga, Franja de Ponent - panoramio.jpg
 n2-torre-frailes-2|Símbolo templario en la Torre dels Frares.jpg
 n2-torre-frailes-3|Vista general de Torre dels Frares de Fraga.jpeg
 n2-valcuerna-0|Peñalba - Río Valcuerna.jpg
@@ -13,30 +8,19 @@ n2-aiguabarreig-3|Aiguabarreig de l'Ebre.JPG
 n2-embalse-mequinenza-0|Mar de Aragón Mequinenza.jpg
 n2-embalse-mequinenza-1|Mar de Aragón Mequinenza 2.jpg
 n2-embalse-mequinenza-2|Mar de Aragón en Caspe.JPG
-n2-embalse-mequinenza-3|Embalse de Mequinenza, Aragón.jpg
-n2-camino-sirga-mequinenza-0|Museu d'Història de Mequinensa.jpg
+n2-camino-sirga-mequinenza-0|Embalse de Mequinenza, Aragón.jpg
 n2-sender-chalamera-0|Chalamera - Parque Ramón J. Sender.jpg
 n2-sender-chalamera-1|Chalamera - Iglesia de San Martín - Fachada 03.jpg
-n2-mirador-chalamera-0|Chalamera - Iglesia de San Martín - Fachada 02.jpg
-n2-castillo-torrente-1|Creu4.JPG
-n2-castillo-torrente-2|Crucero iglesia.jpg
-n2-san-salvador-torrente-0|Ermita de San Salvador, Hornachuelos.jpg
-n2-san-salvador-torrente-1|Ermita de San Salvador de Ibañeta.jpg
-n2-san-salvador-torrente-2|Ermita de Sant Salvador d'Entensa.jpg
-n2-san-salvador-torrente-3|Roda d'Isàvena, Ermita de San Salvador-PM 52690.jpg
+n2-san-salvador-torrente-0|Torrente - Ermita de San Salvador - Escudo 01.JPG
 n2-iglesia-torrente-0|Iglesia de Santa María Magdalena, Torrente de Cinca, Huesca.jpg
-n2-lavaderos-torrente-0|Torrente - Ermita de San Salvador - Escudo 01.JPG
-n2-murallas-zaidin-1|Zaidín - Ayuntamiento.jpg
-n2-murallas-zaidin-2|Zaidín - Ermita de San Antón.jpg
 n2-iglesia-zaidin-0|Zaidín - Iglesia de San Juan Bautista.jpg
 n2-iglesia-zaidin-1|Zaidín - Iglesia de San Juan Bautista - Portada.jpg
 n2-iglesia-zaidin-2|Zaidín - Calle Mayor.jpg
-n2-san-anton-zaidin-0|Landscapes in Aragon (28).jpg
+n2-san-anton-zaidin-0|Zaidín - Ermita de San Antón.jpg
 n2-iglesia-velilla-0|Velilla de Cinca - Ayuntamiento - Iglesia de San Lorenzo 01.jpg
 n2-iglesia-velilla-1|Velilla de Cinca - Iglesia de San Lorenzo - Portada 06.jpg
 n2-iglesia-velilla-2|Velilla de Cinca - Iglesia de San Lorenzo - Campanas 09.jpg
 n2-iglesia-velilla-3|Velilla de Cinca - Iglesia de San Lorenzo - Fachada 02.jpg
-n2-castellassos-velilla-0|Velilla de Cinca - Calle.jpg
 n2-iglesia-ballobar-0|Ballobar - Iglesia de Nuestra Señora de la Asunción - Cristo.jpg
 n2-iglesia-ballobar-1|Ballobar - Iglesia de Nuestra Señora de la Asunción - Cruz templaria pared exterior.jpg
 n2-iglesia-ballobar-2|Ballobar - Iglesia de Nuestra Señora de la Asunción - Techumbre.jpg
@@ -57,16 +41,10 @@ n2-iglesia-ontinena-0|Ontiñena - Iglesia de Santa María la Mayor 04.jpg
 n2-iglesia-ontinena-1|Ontiñena - Iglesia de Santa María la Mayor 01.jpg
 n2-iglesia-ontinena-2|Ontiñena - Iglesia de Santa María la Mayor 02.jpg
 n2-iglesia-ontinena-3|Ontiñena - Iglesia de Santa María la Mayor 03.jpg
-n2-san-gregorio-ontinena-0|Ontiñena - Iglesia de Santa María la Mayor 06.jpg
-n2-san-gregorio-ontinena-1|Ontiñena - Iglesia de Santa María la Mayor 05.jpg
-n2-san-gregorio-ontinena-2|Ontiñena - Iglesia de Santa María la Mayor 07.jpg
-n2-san-gregorio-ontinena-3|Ontiñena - Iglesia de Santa María la Mayor 08.jpg
 n2-vivero-ontinena-0|Ontiñena 01.jpg
 n2-iglesia-candasnos-0|Candasnos - Iglesia de la Asunción de Nuestra Señora - Vista lateral 01.jpg
 n2-iglesia-candasnos-1|Candasnos - Iglesia de la Asunción de Nuestra Señora - Vista lateral 02.jpg
 n2-iglesia-candasnos-2|Candasnos - Iglesia de la Asunción de Nuestra Señora - Vista lateral 03.jpg
 n2-iglesia-candasnos-3|Candasnos - Iglesia de la Asunción de Nuestra Señora - Pie.jpg
 n2-pozo-hielo-candasnos-0|Bassa d'aigua a Candasnos.jpeg
-n2-pozo-hielo-candasnos-1|Candasnos - Ayuntamiento.jpg
-n2-hondo-unilla-0|Candasnos - Calle Mayor.jpg
 n2-camino-candasnos-0|Candasnos - Casa en Plaza de la Iglesia.jpg

@@ -7,11 +7,7 @@ n2-santo-domingo-daroca-1|Daroca - Santo Domingo de Silos 0.jpg
 n2-santo-domingo-daroca-2|Daroca - Santo Domingo de Silos 9.jpg
 n2-santo-domingo-daroca-3|Daroca - Iglesia de Santo Domingo de Silos 4.jpg
 n2-camino-cid-0|Daroca.jpg
-n2-ermita-buen-acuerdo-0|Ermita Ntra. Sra. de los Olmos.jpg
 n2-castillo-berrueco-0|Castillo de Berrueco, Zaragoza, España, 2017-01-04, DD 13.jpg
-n2-castillo-berrueco-1|Castillo del Berrueco, Torredelcampo 24J 03.jpg
-n2-castillo-berrueco-2|Castillo del Berrueco, Torredelcampo 24J 04.jpg
-n2-castillo-berrueco-3|Castillo del Berrueco, Torredelcampo 24J 06.jpg
 n2-castillo-santed-0|Castillo de Santed, Zaragoza, España, 2017-01-04, DD 52.jpg
 n2-castillo-santed-1|Castillo de Santed 01.jpg
 n2-castillo-santed-2|Castillo de Santed 02.jpg
@@ -40,22 +36,14 @@ n2-retablo-retascon-0|Iglesia de la Asunción, municipio de Retascón, Campo de 
 n2-retablo-retascon-1|Iglesia de la Asunción, municipio de Retascón, Zaragoza, España.jpg
 n2-retablo-retascon-2|Iglesia de la Asunción, parroquia de Retascón, Zaragoza, España.jpg
 n2-retablo-retascon-3|Iglesia de la Asunción de la Virgen, Retascón, Zaragoza, España, 2017-01-04, DD 05.jpg
-n2-castillo-langa-0|Langa de Duero - Torre del Castillo - 5948942.jpg
-n2-castillo-langa-1|Langa de Duero vista del castillo 1.jpg
-n2-castillo-langa-2|Langa de Duero vista del castillo 2.jpg
-n2-castillo-langa-3|Langa de Duero vista del castillo 3.jpg
-n2-retablo-langa-0|Langa del Castillo, Zaragoza, España, 2015-09-29, JD 06.jpg
-n2-retablo-langa-1|Langa del Castillo, Zaragoza, España, 2015-09-29, JD 06 (cropped).jpg
+n2-castillo-langa-0|Langa del Castillo, Zaragoza, España, 2015-09-29, JD 06.jpg
+n2-retablo-langa-0|Langa del Castillo, Zaragoza, España, 2015-09-29, JD 06 (cropped).jpg
 n2-retablo-torralbilla-0|Iglesia de San Lorenzo (2).jpg
-n2-retablo-torralbilla-1|Banco del Retablo de San Miguel, Iglesia Colegial de San Martín (Bonilla de la Sierra).jpg
-n2-retablo-torralbilla-2|Iglesiatorralbilla.jpg
-n2-retablo-torralbilla-3|Pabellóntorralbilla.jpg
+n2-retablo-torralbilla-1|Iglesiatorralbilla.jpg
 n2-retablo-villarroya-0|Villarroya nevada.jpg
 n2-retablo-villarroya-1|Villarroya del Campo 01.jpg
-n2-retablo-villadoz-0|Museo Provincial de Zaragoza - PC301786.jpg
-n2-retablo-villadoz-1|Museo Provincial de Zaragoza - PC301787.jpg
-n2-retablo-villadoz-2|Nuevo apeadero de Villadoz. - panoramio.jpg
-n2-retablo-villadoz-3|Villadoz, Zaragoza, España, 2015-09-29, JD 09.jpg
+n2-retablo-villadoz-0|Nuevo apeadero de Villadoz. - panoramio.jpg
+n2-retablo-villadoz-1|Villadoz, Zaragoza, España, 2015-09-29, JD 09.jpg
 n2-iglesia-mainar-0|Church of Santa Ana, Mainar 02.jpg
 n2-iglesia-mainar-1|Church of Santa Ana, Mainar 03.jpg
 n2-iglesia-mainar-2|Church of Santa Ana, Mainar 07.jpg
@@ -73,6 +61,5 @@ n2-iglesia-luesma-3|Iglesia de Ntra. Sra. de la Junquera, Luesma, Zaragoza, Espa
 n2-iglesia-herrera-0|Iglesia de San Juan Bautista, Herrera de los Navarros, Zaragoza, España, 2017-01-04, DD 64.jpg
 n2-santuario-sierra-herrera-0|View from Santuario de la Virgen de la Sierra de Herrera - Flickr - S. Rae.jpg
 n2-santuario-sierra-herrera-1|View from Santuario de la Virgen de la Sierra de Herrera - Flickr - S. Rae (1).jpg
-n2-santuario-sierra-herrera-2|Bonilla de la Sierra-Casa de los Herrera.jpg
 n2-torre-villar-0|Villar de los Navarros, Zaragoza, España, 2017-01-04, DD 66.jpg
 n2-puente-nevera-villar-0|View from Santuario de la Virgen de la Sierra de Herrera - Flickr - S. Rae (2).jpg
