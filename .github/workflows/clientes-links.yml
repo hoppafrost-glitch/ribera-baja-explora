@@ -1,0 +1,18 @@
+name: Revisar enlaces
+on:
+  push:
+    paths: ["tools/clientes/links.txt", "tools/clientes/links.py", ".github/workflows/clientes-links.yml"]
+permissions:
+  contents: write
+jobs:
+  l:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/clientes/links.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/clientes/links_out.json && git commit -m "Resultado de enlaces" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push && break; sleep 7; done
