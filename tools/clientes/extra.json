@@ -1,11 +1,24 @@
 {
- "audit-e": {
-  "mausoleo-atilios": ["Category:Mausoleo de los Atilios","Mausoleo de los Atilios","Atilios Sádaba","geo:42.29519,-1.26575,600","ov:Mausoleo de los Atilios"],
-  "ci-layana": ["geo:42.29701,-1.24473,800","Layana","Category:Layana"],
-  "pueblo-nuevo": ["Belchite pueblo nuevo","Belchite plaza","Belchite arco","geo:41.3006,-0.74784,500"],
-  "pinares-valmadrid": ["Pinares de Valmadrid","geo:41.4412,-0.88228,3000","Valmadrid pinar","ov:pinares Valmadrid"],
-  "mirador-moncoscol": ["Moncoscol","geo:40.90083,-0.60692,2500","Estercuel paisaje","ov:Estercuel"],
-  "purburel": ["Purburel","Trincheras Quinto","Quinto trincheras guerra civil","geo:41.41049,-0.48898,1500","ov:Purburel Quinto"],
-  "iglesia-belver": ["Belver de Cinca iglesia","Category:Belver de Cinca","geo:41.68113,0.21609,500","Belver de Cinca"]
+ "ribera-r": {
+  "bonastre": ["Ermita de Bonastre","Bonastre Quinto","geo:41.46836,-0.55181,700","ov:Bonastre Quinto ermita"],
+  "cabezo-nariz": ["Cabezo de la Nariz","Quinto batalla 1937","geo:41.41394,-0.49224,600"],
+  "purburel": ["geo:41.41049,-0.48898,900","Quinto Ebro trincheras","ov:trincheras Quinto Ebro"],
+  "pina-sangregorio": ["Ermita de San Gregorio Pina de Ebro","geo:41.50013,-0.49235,1200","ov:Pina de Ebro ermita San Gregorio"],
+  "pina-sotos": ["Pina de Ebro río Ebro","Sotos Pina de Ebro","geo:41.46439,-0.49761,2000","Camino Natural del Ebro Pina","ov:Pina de Ebro Ebro river"],
+  "gelsa-buensuceso": ["Gelsa ermita Buen Suceso","Ermita del Buen Suceso Gelsa","geo:41.4112,-0.4557,500","ov:Gelsa ermita"],
+  "gelsa-hidraulico": ["Gelsa azud","Gelsa noria","Gelsa harinera","geo:41.41904,-0.4667,700","ov:Gelsa azud Ebro"],
+  "gelsa-barca": ["Gelsa río Ebro","Gelsa barca","Mejana Gelsa","geo:41.4272,-0.46543,1500","ov:Gelsa Ebro"],
+  "zaida-sanjose": ["La Zaida iglesia","Iglesia de San José La Zaida","geo:41.32878,-0.42757,500"],
+  "alforque-sanpedro": ["Alforque iglesia","Iglesia de San Pedro Alforque","geo:41.32802,-0.38583,500"],
+  "alborge-sanlorenzo": ["Alborge iglesia","Iglesia de San Lorenzo Alborge","geo:41.33487,-0.35858,400","Category:Alborge"],
+  "montler": ["Ermita de Montler","Montler Sástago","geo:41.3424,-0.33059,800","ov:Montler Sástago"],
+  "sastago-pilar": ["Iglesia del Pilar Sástago","Sástago iglesia","geo:41.3234,-0.3456,300","Category:Sástago"],
+  "sastago-palma": ["Castillo de la Palma Sástago","Castillo de Sástago","geo:41.31035,-0.37549,1000","ov:castillo Sástago"],
+  "alborge-molino": ["Alborge noria","Alborge molino","Alborge azud","geo:41.33869,-0.35969,700"],
+  "cincoolivas-almazara": ["Cinco Olivas almazara","Cinco Olivas molino aceite","geo:41.34091,-0.37311,300","Category:Cinco Olivas"],
+  "alforque-azud": ["Alforque azud","Alforque noria","Alforque molino","geo:41.32858,-0.38906,800"],
+  "escatron-palacio": ["Escatrón palacio","Escatrón calle Mayor","geo:41.29218,-0.32332,200","Category:Escatrón"],
+  "quinto-camino": ["Quinto plaza España","Quinto Zaragoza plaza","Category:Quinto"],
+  "pina-durruti": ["Pina de Ebro Durruti","Columna Durruti Pina","Pina de Ebro guerra civil"]
  }
 }
