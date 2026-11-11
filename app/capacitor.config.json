@@ -1,0 +1,8 @@
+{
+  "appId": "es.exploraguias.riberabaja",
+  "appName": "Ribera Baja Explora",
+  "webDir": "www",
+  "backgroundColor": "#17646C",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "never" }
+}
