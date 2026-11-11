@@ -83,7 +83,9 @@ jobs:
       - name: Compilar (simulador, comprueba que el proyecto está bien)
         working-directory: app/ios/App
         run: |
-          xcodebuild -project App.xcodeproj -scheme App -configuration Release -sdk iphonesimulator -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build | tail -20
+          set -o pipefail
+          ls
+          xcodebuild -workspace App.xcworkspace -scheme App -configuration Release -sdk iphonesimulator -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build | tail -20
       - name: Empaquetar proyecto Xcode
         working-directory: app
         run: |
