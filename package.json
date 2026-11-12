@@ -1,0 +1,6 @@
+{
+ "name": "explora-publicar",
+ "private": true,
+ "description": "Paso de publicación en Cloudflare Pages: copia la guía a public/ y minifica el código.",
+ "dependencies": { "terser": "5.31.6" }
+}
