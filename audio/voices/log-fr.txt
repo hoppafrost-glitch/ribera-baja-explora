@@ -1,6 +1,3 @@
 voz fr_FR-siwis-medium cargada
-rueda-noria 651093
-alborge-molino 583593
-cincoolivas-regolfo 493522
-escatron-embarcadero 187576
-hecho: 4 nuevos, 0 errores
+cincoolivas-regolfo 491850
+hecho: 1 nuevos, 0 errores
