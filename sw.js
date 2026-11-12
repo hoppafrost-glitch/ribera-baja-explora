@@ -1,6 +1,6 @@
 /* Ribera Baja Explora: funciona sin conexión una vez abierta (y mejor tras "Descargar para usar sin conexión"). */
 const PFX = "rbx-";
-const V = PFX + "v2", EXT = PFX + "ext";
+const V = PFX + "v3", EXT = PFX + "ext";
 const CORE = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(V).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
