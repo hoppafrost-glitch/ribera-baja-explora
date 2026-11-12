@@ -1,6 +1,3 @@
 voz es_ES-davefx-medium cargada
-rueda-noria 631031
-alborge-molino 564784
-cincoolivas-regolfo 498956
-escatron-embarcadero 185904
-hecho: 4 nuevos, 0 errores
+cincoolivas-regolfo 497388
+hecho: 1 nuevos, 0 errores
