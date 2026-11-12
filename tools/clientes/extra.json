@@ -1,24 +1,17 @@
 {
- "ribera-v2": {
+ "ribera-v2b": {
   "cincoolivas-regolfo": [
-   "geo:41.33058,-0.37129,400",
-   "molino regolfo Cinco Olivas",
-   "Category:Molino harinero de Cinco Olivas",
-   "ov:Cinco Olivas molino"
-  ],
-  "escatron-embarcadero": [
-   "geo:41.2959,-0.3255,350",
-   "embarcadero Escatrón",
-   "Escatrón Ebro",
-   "ov:Escatron Ebro"
-  ],
-  "cincoolivas-embarcadero": [
-   "geo:41.3409,-0.3736,300",
-   "Cinco Olivas Ebro"
+   "Category:Cinco Olivas",
+   "Cinco Olivas, Zaragoza, España, 2015-12-23",
+   "molino Cinco Olivas",
+   "noria Cinco Olivas",
+   "azud Cinco Olivas",
+   "ov:Cinco Olivas",
+   "ov:molino regolfo"
   ],
   "alborge-tresaguas": [
-   "geo:41.33964,-0.35844,400",
-   "Alborge Ebro mirador"
+   "Alborge, Zaragoza, España, 2015-12-23",
+   "Category:Alborge"
   ]
  }
 }

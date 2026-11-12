@@ -32,7 +32,7 @@ for slug, pois in X.items():
                     res.append({"file": pg["title"][5:], "author": cl(m.get("Artist", {}).get("value"))[:60], "license": m.get("LicenseShortName", {}).get("value", ""), "thumb": ii.get("thumburl"), "q": q})
             except Exception as e: print(pid, q, e)
             time.sleep(0.4)
-        res = res[:16]
+        res = res[:40]
         for i, r in enumerate(res):
             try:
                 open(f"{d}/{pid}__{i}.jpg", "wb").write(get(r["thumb"])); time.sleep(0.3)
