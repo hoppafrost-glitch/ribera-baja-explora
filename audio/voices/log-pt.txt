@@ -1,6 +1,3 @@
 voz pt_PT-tugão-medium cargada
-rueda-noria 513898
-alborge-molino 450786
-cincoolivas-regolfo 390704
-escatron-embarcadero 146512
-hecho: 4 nuevos, 0 errores
+cincoolivas-regolfo 388510
+hecho: 1 nuevos, 0 errores
