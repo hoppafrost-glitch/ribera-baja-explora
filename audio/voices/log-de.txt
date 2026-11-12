@@ -1,6 +1,3 @@
 voz de_DE-thorsten-high cargada
-rueda-noria 635106
-alborge-molino 620477
-cincoolivas-regolfo 490701
-escatron-embarcadero 176500
-hecho: 4 nuevos, 0 errores
+cincoolivas-regolfo 488193
+hecho: 1 nuevos, 0 errores
