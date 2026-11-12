@@ -1,6 +1,3 @@
 voz en_GB-cori-high cargada
-rueda-noria 646391
-alborge-molino 615357
-cincoolivas-regolfo 494985
-escatron-embarcadero 176291
-hecho: 4 nuevos, 0 errores
+cincoolivas-regolfo 491015
+hecho: 1 nuevos, 0 errores
