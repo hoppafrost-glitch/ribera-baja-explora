@@ -16,7 +16,7 @@ for key, qs in Q["nominatim"].items():
         time.sleep(1.2)
     out["nominatim"][key] = res
 # Overpass: todo lo que tenga nombre en la caja de la comarca y coincida con palabras clave
-bbox = "41.26,-0.56,41.52,-0.30"
+bbox = "41.26,-0.58,41.53,-0.20"
 kw = Q["overpass_regex"]
 ql = f'[out:json][timeout:90];(nwr["name"~"{kw}",i]({bbox}););out center tags;'
 try:
@@ -28,4 +28,15 @@ try:
             "tags": {k: v for k, v in t.items() if k in ("historic", "building", "amenity", "tourism", "man_made", "waterway", "religion", "addr:street", "addr:housenumber", "power", "heritage")}})
 except Exception as e:
     out["overpass"]["ERROR"] = str(e)
+
+for tq in Q.get("overpass_tags", []):
+    ql = f'[out:json][timeout:90];({tq}({bbox}););out center tags;'
+    try:
+        r = get("https://overpass-api.de/api/interpreter", data=urllib.parse.urlencode({"data": ql}).encode())
+        for el in r.get("elements", []):
+            c = el.get("center") or {"lat": el.get("lat"), "lon": el.get("lon")}
+            out.setdefault("tags", {}).setdefault(tq, []).append({"lat": c.get("lat"), "lon": c.get("lon"), "id": f'{el["type"]}/{el["id"]}', "tags": el.get("tags", {})})
+    except Exception as e:
+        out.setdefault("tags", {})[tq] = str(e)
+    time.sleep(2)
 json.dump(out, open("tools/geo_results.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0)

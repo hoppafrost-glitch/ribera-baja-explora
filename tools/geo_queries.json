@@ -1,15 +1,48 @@
-{"nominatim": {
- "velilla-noria": ["noria Velilla de Ebro", "molino Velilla de Ebro"],
- "alborge-molino": ["molino Alborge", "Mirador de las Tres Aguas Alborge"],
- "cincoolivas-almazara": ["molino de aceite Cinco Olivas", "embarcadero Cinco Olivas"],
- "escatron-santaagueda": ["Ermita de Santa Águeda, Escatrón", "Calle Santa Águeda, Escatrón"],
- "pina-torrevieja": ["Torre de Santa María, Pina de Ebro", "Plaza de España, Pina de Ebro"],
- "quinto-sananton": ["Calle San Antón 13, Quinto", "Portal de San Antón Quinto"],
- "zaida-norias": ["Casa de las Norias La Zaida", "barranco Lopín La Zaida"],
- "alforque-azud": ["azud Alforque", "Mirador de la Barca Alforque"],
- "sastago-central": ["central hidroeléctrica Sástago", "Calle Extramuros, Sástago"],
- "velilla-zapata": ["Calle Mayor 14, Velilla de Ebro", "Casa de los Zapata Velilla"],
- "quinto-matamala": ["Ermita de Matamala, Quinto", "Matamala Quinto"],
- "escatron-palacio": ["Calle Mayor 19, Escatrón", "Centro Cultural Escatrón"]
-},
-"overpass_regex": "noria|molino|azud|Santa Águeda|Santa Agueda|Torre|San Antón|San Anton|Matamala|central|Zapata|Tres Aguas|Barca|almazara|aceite|palacio|ermita|mirador|portal"}
+{
+ "nominatim": {
+  "cincoolivas-regolfo": [
+   "molino de regolfo Cinco Olivas",
+   "molino harinero Cinco Olivas",
+   "azud Cinco Olivas"
+  ],
+  "escatron-embarcadero": [
+   "embarcadero Escatrón",
+   "Club Náutico Escatrón",
+   "Hostal El Embarcadero Escatrón"
+  ],
+  "embarcaderos": [
+   "embarcadero Gelsa",
+   "embarcadero Pina de Ebro",
+   "embarcadero Velilla de Ebro",
+   "embarcadero Sástago",
+   "embarcadero Alborge",
+   "embarcadero La Zaida",
+   "embarcadero Alforque",
+   "embarcadero Quinto",
+   "embarcadero Cinco Olivas"
+  ],
+  "miradores": [
+   "Mirador de Mundina La Zaida",
+   "Mirador de las Tres Aguas Alborge",
+   "Mirador de la Barca Alforque",
+   "mirador San Gregorio Pina de Ebro"
+  ],
+  "parques": [
+   "parque infantil Cinco Olivas",
+   "parque infantil Alborge",
+   "parque infantil Gelsa",
+   "parque infantil La Zaida"
+  ]
+ },
+ "overpass_regex": "embarcadero|regolfo|molino|mirador|n[aá]utico|parque|zona de juegos|bicicleta|bici|alquiler",
+ "overpass_tags": [
+  "nwr[\"leisure\"=\"slipway\"]",
+  "nwr[\"man_made\"=\"pier\"]",
+  "nwr[\"leisure\"=\"playground\"]",
+  "nwr[\"tourism\"=\"viewpoint\"]",
+  "nwr[\"amenity\"=\"bicycle_rental\"]",
+  "nwr[\"man_made\"=\"watermill\"]",
+  "nwr[\"leisure\"=\"marina\"]",
+  "nwr[\"amenity\"=\"charging_station\"]"
+ ]
+}
