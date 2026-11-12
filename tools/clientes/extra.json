@@ -1,17 +1,75 @@
 {
- "ribera-v2b": {
+ "ribera-fotos3": {
+  "pina-sangregorio": [
+   "geo:41.50013,-0.49235,700",
+   "Ermita de San Gregorio Pina de Ebro",
+   "San Gregorio Pina de Ebro",
+   "ov:San Gregorio Pina de Ebro",
+   "ov:Pina de Ebro ermita"
+  ],
+  "pina-sotos": [
+   "geo:41.46439,-0.49761,700",
+   "Pina de Ebro río Ebro",
+   "Ebro Pina",
+   "ov:Pina de Ebro Ebro",
+   "ov:Pina de Ebro"
+  ],
+  "gelsa-buensuceso": [
+   "geo:41.4112,-0.4557,700",
+   "Ermita del Buen Suceso Gelsa",
+   "Buen Suceso Gelsa",
+   "ov:Gelsa ermita",
+   "ov:Buen Suceso Gelsa"
+  ],
+  "gelsa-hidraulico": [
+   "geo:41.41904,-0.4667,700",
+   "noria Gelsa",
+   "azud Gelsa",
+   "molino Gelsa",
+   "ov:Gelsa noria",
+   "ov:Gelsa Ebro"
+  ],
+  "gelsa-barca": [
+   "geo:41.4272,-0.46543,700",
+   "barca Gelsa",
+   "mejana Gelsa",
+   "Gelsa Ebro",
+   "ov:Gelsa barca",
+   "ov:Gelsa"
+  ],
   "cincoolivas-regolfo": [
-   "Category:Cinco Olivas",
-   "Cinco Olivas, Zaragoza, España, 2015-12-23",
+   "geo:41.33058,-0.37129,700",
    "molino Cinco Olivas",
    "noria Cinco Olivas",
-   "azud Cinco Olivas",
-   "ov:Cinco Olivas",
-   "ov:molino regolfo"
+   "ov:Cinco Olivas molino",
+   "ov:Cinco Olivas noria",
+   "ov:molino de regolfo"
   ],
-  "alborge-tresaguas": [
-   "Alborge, Zaragoza, España, 2015-12-23",
-   "Category:Alborge"
+  "escatron-embarcadero": [
+   "geo:41.29586,-0.32551,700",
+   "embarcadero Escatrón",
+   "club náutico Escatrón",
+   "ov:Escatrón Ebro",
+   "ov:Escatron embarcadero"
+  ],
+  "cincoolivas-almazara": [
+   "geo:41.34091,-0.37311,700",
+   "almazara Cinco Olivas",
+   "molino de aceite Cinco Olivas",
+   "ov:Cinco Olivas almazara"
+  ],
+  "bonastre": [
+   "geo:41.46836,-0.55181,700",
+   "Ermita de Bonastre",
+   "Bonastre Quinto",
+   "ov:Bonastre Quinto"
+  ],
+  "alborge-molino": [
+   "geo:41.33869,-0.35969,700",
+   "molino Alborge",
+   "noria Alborge",
+   "ov:Alborge molino",
+   "ov:Alborge noria"
   ]
  }
 }
