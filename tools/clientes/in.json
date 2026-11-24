@@ -2879,5 +2879,412 @@
     ]
    }
   }
+ },
+ "ribera-alta-del-ebro": {
+  "prov": "Zaragoza",
+  "munis": [
+   "Alagón",
+   "Alcalá de Ebro",
+   "Bárboles",
+   "Boquiñeni",
+   "Cabañas de Ebro",
+   "Figueruelas",
+   "Gallur",
+   "Grisén",
+   "La Joyosa",
+   "Luceni",
+   "Pedrola",
+   "Pinseque",
+   "Pleitas",
+   "Pradilla de Ebro",
+   "Remolinos",
+   "Sobradiel",
+   "Torres de Berrellén"
+  ],
+  "river": "Río Ebro",
+  "bbox": [
+   -1.4,
+   41.66,
+   -0.98,
+   41.92
+  ],
+  "overpass_kw": [
+   "San Pedro",
+   "San Antonio",
+   "Virgen del Castillo",
+   "Azucarera",
+   "Palacio",
+   "Ducal",
+   "Ángeles",
+   "Castillo",
+   "San Juan Bautista",
+   "Minas",
+   "Puente",
+   "Canal Imperial",
+   "San Miguel",
+   "Fornazos",
+   "Loteta",
+   "Purificación",
+   "Fuenclara",
+   "Castellar",
+   "Barca",
+   "San Andrés",
+   "Murallas",
+   "Caracol",
+   "Jubo",
+   "Asunción",
+   "San Ildefonso",
+   "Puig",
+   "Azud"
+  ],
+  "pois": {
+   "san-pedro-alagon": {
+    "name": "Iglesia y torre de San Pedro",
+    "mun": "Alagón",
+    "q": [
+     "Iglesia de San Pedro, Alagón",
+     "Torre de San Pedro, Alagón"
+    ],
+    "fq": [
+     "Category:Iglesia de San Pedro (Alagón)",
+     "Torre San Pedro Alagón"
+    ]
+   },
+   "casco-alagon": {
+    "name": "Casco histórico de Alagón",
+    "mun": "Alagón",
+    "q": [
+     "Plaza de España, Alagón",
+     "Alagón"
+    ],
+    "fq": [
+     "Category:Alagón",
+     "Alagón casco"
+    ]
+   },
+   "casa-cultura-goya": {
+    "name": "San Antonio y el fresco de Goya",
+    "mun": "Alagón",
+    "q": [
+     "Casa de Cultura, Alagón",
+     "Iglesia de San Antonio de Padua, Alagón"
+    ],
+    "fq": [
+     "Category:Iglesia de San Antonio de Padua (Alagón)",
+     "Alagón San Antonio iglesia"
+    ]
+   },
+   "san-juan-alagon": {
+    "name": "Iglesia de San Juan Bautista",
+    "mun": "Alagón",
+    "q": [
+     "Iglesia de San Juan Bautista, Alagón"
+    ],
+    "fq": [
+     "Alagón San Juan Bautista iglesia",
+     "Category:Alagón"
+    ]
+   },
+   "virgen-castillo-alagon": {
+    "name": "Ermita de la Virgen del Castillo",
+    "mun": "Alagón",
+    "q": [
+     "Ermita de la Virgen del Castillo, Alagón",
+     "Nuestra Señora del Castillo, Alagón"
+    ],
+    "fq": [
+     "Alagón Virgen del Castillo",
+     "Category:Alagón"
+    ]
+   },
+   "azucarera-alagon": {
+    "name": "Azucarera de Nuestra Señora de las Mercedes",
+    "mun": "Alagón",
+    "q": [
+     "Azucarera, Alagón",
+     "Azucarera de las Mercedes, Alagón"
+    ],
+    "fq": [
+     "Azucarera Alagón",
+     "Alagón azucarera"
+    ]
+   },
+   "palacio-ducal-pedrola": {
+    "name": "Palacio Ducal de Villahermosa",
+    "mun": "Pedrola",
+    "q": [
+     "Palacio Ducal, Pedrola",
+     "Palacio de los Duques de Villahermosa, Pedrola"
+    ],
+    "fq": [
+     "Category:Palacio de los Duques de Villahermosa (Pedrola)",
+     "Palacio Pedrola"
+    ]
+   },
+   "iglesia-angeles-pedrola": {
+    "name": "Iglesia de Nuestra Señora de los Ángeles",
+    "mun": "Pedrola",
+    "q": [
+     "Iglesia de Nuestra Señora de los Ángeles, Pedrola",
+     "Iglesia, Pedrola"
+    ],
+    "fq": [
+     "Category:Pedrola",
+     "Pedrola iglesia"
+    ]
+   },
+   "insula-barataria": {
+    "name": "Castillo y la Ínsula Barataria",
+    "mun": "Alcalá de Ebro",
+    "q": [
+     "Castillo, Alcalá de Ebro",
+     "Alcalá de Ebro"
+    ],
+    "fq": [
+     "Category:Alcalá de Ebro",
+     "Alcalá de Ebro Sancho Panza"
+    ]
+   },
+   "san-juan-remolinos": {
+    "name": "Iglesia de San Juan Bautista y los Goya",
+    "mun": "Remolinos",
+    "q": [
+     "Iglesia de San Juan Bautista, Remolinos",
+     "Remolinos"
+    ],
+    "fq": [
+     "Category:Remolinos",
+     "Remolinos iglesia Goya"
+    ]
+   },
+   "minas-sal-remolinos": {
+    "name": "Ruta de las minas de sal",
+    "mun": "Remolinos",
+    "q": [
+     "Minas de sal, Remolinos",
+     "Barranco de las Minas, Remolinos"
+    ],
+    "fq": [
+     "Minas de sal Remolinos",
+     "Remolinos sal"
+    ]
+   },
+   "san-pedro-gallur": {
+    "name": "Iglesia de San Pedro",
+    "mun": "Gallur",
+    "q": [
+     "Iglesia de San Pedro, Gallur",
+     "Gallur"
+    ],
+    "fq": [
+     "Category:Gallur",
+     "Gallur iglesia San Pedro"
+    ]
+   },
+   "puente-hierro-gallur": {
+    "name": "Puente de hierro sobre el Ebro",
+    "mun": "Gallur",
+    "q": [
+     "Puente de San Antonio, Gallur",
+     "Puente de hierro, Gallur"
+    ],
+    "fq": [
+     "Puente Gallur Ebro",
+     "Gallur puente hierro"
+    ]
+   },
+   "canal-gallur": {
+    "name": "El Canal Imperial en Gallur",
+    "mun": "Gallur",
+    "q": [
+     "Canal Imperial de Aragón, Gallur",
+     "Gallur canal"
+    ],
+    "fq": [
+     "Canal Imperial Gallur",
+     "Category:Canal Imperial de Aragón"
+    ]
+   },
+   "ermita-san-miguel-boquineni": {
+    "name": "Ermita de San Miguel",
+    "mun": "Boquiñeni",
+    "q": [
+     "Ermita de San Miguel, Boquiñeni",
+     "Boquiñeni"
+    ],
+    "fq": [
+     "Category:Boquiñeni",
+     "Boquiñeni"
+    ]
+   },
+   "galacho-fornazos": {
+    "name": "Galacho de los Fornazos",
+    "mun": "Boquiñeni",
+    "q": [
+     "Galacho de los Fornazos",
+     "Los Fornazos"
+    ],
+    "fq": [
+     "Galacho Fornazos",
+     "Pradilla de Ebro Ebro"
+    ]
+   },
+   "loteta": {
+    "name": "Embalse de La Loteta",
+    "mun": "Boquiñeni",
+    "q": [
+     "Embalse de La Loteta",
+     "La Loteta"
+    ],
+    "fq": [
+     "Embalse de La Loteta",
+     "La Loteta"
+    ]
+   },
+   "iglesia-luceni": {
+    "name": "Iglesia de la Purificación",
+    "mun": "Luceni",
+    "q": [
+     "Iglesia de la Purificación, Luceni",
+     "Luceni"
+    ],
+    "fq": [
+     "Category:Luceni",
+     "Luceni iglesia"
+    ]
+   },
+   "palacio-fuenclara-luceni": {
+    "name": "Palacio de los Condes de Fuenclara",
+    "mun": "Luceni",
+    "q": [
+     "Ayuntamiento, Luceni",
+     "Plaza de España, Luceni"
+    ],
+    "fq": [
+     "Luceni palacio",
+     "Luceni plaza"
+    ]
+   },
+   "el-castellar": {
+    "name": "El Castellar",
+    "mun": "Torres de Berrellén",
+    "q": [
+     "El Castellar, Torres de Berrellén",
+     "Ermita de la Virgen del Castellar"
+    ],
+    "fq": [
+     "Category:El Castellar (Torres de Berrellén)",
+     "El Castellar Torres de Berrellén"
+    ]
+   },
+   "barca-castellar": {
+    "name": "La barca de El Castellar",
+    "mun": "Torres de Berrellén",
+    "q": [
+     "Barca, Torres de Berrellén",
+     "Torres de Berrellén Ebro"
+    ],
+    "fq": [
+     "Barca Torres de Berrellén",
+     "Torres de Berrellén barca"
+    ]
+   },
+   "san-andres-torres": {
+    "name": "Iglesia de San Andrés",
+    "mun": "Torres de Berrellén",
+    "q": [
+     "Iglesia de San Andrés, Torres de Berrellén",
+     "Torres de Berrellén"
+    ],
+    "fq": [
+     "Category:Torres de Berrellén",
+     "Torres de Berrellén iglesia"
+    ]
+   },
+   "escarpes-ebro": {
+    "name": "Escarpes y sotos del Ebro",
+    "mun": "Torres de Berrellén",
+    "q": [
+     "Escarpes del Ebro, Torres de Berrellén",
+     "Río Ebro, Remolinos"
+    ],
+    "fq": [
+     "Escarpes Ebro Remolinos",
+     "Ebro Torres de Berrellén"
+    ]
+   },
+   "murallas-grisen": {
+    "name": "Murallas de Grisén y El Caracol",
+    "mun": "Grisén",
+    "q": [
+     "Murallas de Grisén",
+     "El Caracol, Grisén"
+    ],
+    "fq": [
+     "Murallas de Grisén",
+     "Canal Imperial Jalón acueducto"
+    ]
+   },
+   "puente-jubo": {
+    "name": "Puente Jubo",
+    "mun": "Pinseque",
+    "q": [
+     "Puente Jubo, Pinseque",
+     "Pinseque canal"
+    ],
+    "fq": [
+     "Puente Jubo",
+     "Pinseque"
+    ]
+   },
+   "barboles": {
+    "name": "Arco del castillo e iglesia de Bárboles",
+    "mun": "Bárboles",
+    "q": [
+     "Plaza Mayor, Bárboles",
+     "Iglesia de la Asunción, Bárboles"
+    ],
+    "fq": [
+     "Category:Bárboles",
+     "Bárboles"
+    ]
+   },
+   "cabanas": {
+    "name": "San Ildefonso y el puerto romano",
+    "mun": "Cabañas de Ebro",
+    "q": [
+     "Iglesia de San Ildefonso, Cabañas de Ebro",
+     "Cabañas de Ebro"
+    ],
+    "fq": [
+     "Category:Cabañas de Ebro",
+     "Cabañas de Ebro"
+    ]
+   },
+   "la-joyosa": {
+    "name": "La Joyosa y Marlofa",
+    "mun": "La Joyosa",
+    "q": [
+     "Palacio, La Joyosa",
+     "Marlofa"
+    ],
+    "fq": [
+     "Category:La Joyosa",
+     "La Joyosa"
+    ]
+   },
+   "azud-pleitas": {
+    "name": "Azud e iglesia de Pleitas",
+    "mun": "Pleitas",
+    "q": [
+     "Azud de Pleitas",
+     "Pleitas"
+    ],
+    "fq": [
+     "Category:Pleitas",
+     "Pleitas azud"
+    ]
+   }
+  }
  }
 }

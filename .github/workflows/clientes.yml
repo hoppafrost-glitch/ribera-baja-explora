@@ -15,7 +15,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        slug: [campo-de-borja]
+        slug: [ribera-alta-del-ebro]
     steps:
       - uses: actions/checkout@v4
       - run: pip install shapely
