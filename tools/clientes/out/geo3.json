@@ -1,0 +1,75 @@
+{
+"lumbreron": {
+"nominatim": {
+"Lumbrerón, Pozuelo de Aragón": [],
+"El Lumbrerón": []
+},
+"overpass": []
+},
+"laguna-plantados": {
+"nominatim": {
+"Laguna de Plantados": [],
+"Laguna de Agón": []
+},
+"overpass": []
+},
+"molino-tabuenca": {
+"nominatim": {
+"Molino de viento, Tabuenca": []
+},
+"overpass": []
+},
+"huerta-frescano": {
+"nominatim": {
+"Ermita de Santa María de la Huerta, Fréscano": [],
+"Santa María de la Huerta, Fréscano": []
+},
+"overpass": []
+},
+"palacio-novillas": {
+"nominatim": {
+"Palacio de los Comendadores, Novillas": [],
+"Novillas": [
+{
+"lat": "41.9339098",
+"lon": "-1.3946950",
+"name": "Novillas, Campo de Borja, Zaragoza, Aragón, España",
+"type": "administrative"
+}
+]
+},
+"overpass": [
+{
+"lat": 41.93286,
+"lon": -1.3914952,
+"tags": {
+"building": "yes",
+"historic": "castle",
+"name": "Fuerte fusilero de las guerras carlistas."
+}
+},
+{
+"lat": 41.9352334,
+"lon": -1.3930856,
+"tags": {
+"historic": "castle",
+"name": "Casa-Palacio de los Templarios y Sanjuanistas"
+}
+}
+]
+},
+"palacios-mallen": {
+"nominatim": {
+"Palacio de los Zapata, Mallén": [],
+"Mallén": [
+{
+"lat": "41.9046128",
+"lon": "-1.4205413",
+"name": "Mallén, Campo de Borja, Zaragoza, Aragón, 50550, España",
+"type": "administrative"
+}
+]
+},
+"overpass": []
+}
+}
