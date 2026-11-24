@@ -15,7 +15,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        slug: [campo-de-belchite, andorra-sierra-de-arcos, campo-de-daroca, cinco-villas, bajo-cinca]
+        slug: [campo-de-borja]
     steps:
       - uses: actions/checkout@v4
       - run: pip install shapely

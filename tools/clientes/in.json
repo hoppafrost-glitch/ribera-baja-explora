@@ -2309,5 +2309,575 @@
   ],
   "no_base": true,
   "no_fotos": true
+ },
+ "campo-de-borja": {
+  "prov": "Zaragoza",
+  "munis": [
+   "Borja",
+   "Agón",
+   "Ainzón",
+   "Alberite de San Juan",
+   "Albeta",
+   "Ambel",
+   "Bisimbre",
+   "Bulbuente",
+   "Bureta",
+   "Fréscano",
+   "Fuendejalón",
+   "Magallón",
+   "Maleján",
+   "Mallén",
+   "Novillas",
+   "Pozuelo de Aragón",
+   "Tabuenca",
+   "Talamantes"
+  ],
+  "river": "Río Huecha",
+  "bbox": [
+   -1.76,
+   41.64,
+   -1.33,
+   41.98
+  ],
+  "overpass_kw": [
+   "Colegiata",
+   "Casa de las Conchas",
+   "Santuario de Misericordia",
+   "Gañarul",
+   "Castillo de Bulbuente",
+   "Condes de Bureta",
+   "Burrén",
+   "Lumbrerón",
+   "Molino de viento",
+   "Ermita de San Miguel",
+   "Ermita del Calvario",
+   "Estanca",
+   "Virgen del Castillo",
+   "San Lorenzo",
+   "Santa María de la Huerta",
+   "Comendadores",
+   "Fortín",
+   "Ojo de Albeta",
+   "Laguna de Plantados",
+   "Ermita de la Virgen del Rosario",
+   "Santiago Apóstol",
+   "San Juan Bautista",
+   "Visitación",
+   "Nuestra Señora de los Ángeles",
+   "Géiser",
+   "Peñas de Herrera",
+   "El Churro",
+   "Hospitalarios",
+   "Arco de San Antón",
+   "Concepción",
+   "San Miguel"
+  ],
+  "pois": {
+   "colegiata-borja": {
+    "name": "Colegiata de Santa María",
+    "mun": "Borja",
+    "q": [
+     "Colegiata de Santa María, Borja",
+     "Iglesia de Santa María, Borja"
+    ],
+    "fq": [
+     "Category:Colegiata de Santa María (Borja)",
+     "Colegiata Borja"
+    ]
+   },
+   "casa-conchas": {
+    "name": "Casa de las Conchas",
+    "mun": "Borja",
+    "q": [
+     "Casa de las Conchas, Borja",
+     "Palacio de los Vera, Borja"
+    ],
+    "fq": [
+     "Category:Casa de las Conchas (Borja)",
+     "Casa de las Conchas Borja"
+    ]
+   },
+   "plaza-mercado-borja": {
+    "name": "Plaza del Mercado y Casa Consistorial",
+    "mun": "Borja",
+    "q": [
+     "Plaza de España, Borja",
+     "Ayuntamiento de Borja"
+    ],
+    "fq": [
+     "Category:Casa Consistorial de Borja",
+     "Plaza del Mercado Borja",
+     "Ayuntamiento Borja Zaragoza"
+    ]
+   },
+   "san-miguel-borja": {
+    "name": "Iglesia de San Miguel y Museo Arqueológico",
+    "mun": "Borja",
+    "q": [
+     "Iglesia de San Miguel, Borja",
+     "Museo Arqueológico de Borja"
+    ],
+    "fq": [
+     "Category:Iglesia de San Miguel (Borja)",
+     "San Miguel Borja iglesia"
+    ]
+   },
+   "concepcion-borja": {
+    "name": "Convento de la Concepción",
+    "mun": "Borja",
+    "q": [
+     "Convento de la Concepción, Borja",
+     "Convento de Concepcionistas, Borja"
+    ],
+    "fq": [
+     "Category:Convento de la Concepción (Borja)",
+     "Convento Concepción Borja"
+    ]
+   },
+   "santuario-misericordia": {
+    "name": "Santuario de Misericordia",
+    "mun": "Borja",
+    "q": [
+     "Santuario de Misericordia, Borja",
+     "Santuario de la Misericordia"
+    ],
+    "fq": [
+     "Category:Santuario de Misericordia (Borja)",
+     "Santuario Misericordia Borja"
+    ]
+   },
+   "ecce-homo": {
+    "name": "Ecce Homo y su centro de interpretación",
+    "mun": "Borja",
+    "q": [
+     "Santuario de Misericordia, Borja",
+     "Centro de Interpretación Ecce Homo"
+    ],
+    "fq": [
+     "Category:Ecce Homo (Elías García Martínez)",
+     "Ecce Homo Borja"
+    ]
+   },
+   "bodegas-cerro-borja": {
+    "name": "Bodegas excavadas del cerro",
+    "mun": "Borja",
+    "q": [
+     "Bodegas, Borja",
+     "La Corona, Borja"
+    ],
+    "fq": [
+     "Bodegas Borja Zaragoza cerro",
+     "Borja bodegas cuevas"
+    ]
+   },
+   "calvario-muela": {
+    "name": "Ermita del Calvario y la Muela",
+    "mun": "Borja",
+    "q": [
+     "Ermita del Calvario, Borja",
+     "La Muela, Borja"
+    ],
+    "fq": [
+     "Ermita del Calvario Borja",
+     "Muela de Borja"
+    ]
+   },
+   "estanca-borja": {
+    "name": "Laguna y Casa de la Estanca",
+    "mun": "Borja",
+    "q": [
+     "La Estanca, Borja",
+     "Laguna de la Estanca, Borja"
+    ],
+    "fq": [
+     "Estanca de Borja",
+     "Category:Casa de la Estanca (Borja)"
+    ]
+   },
+   "ainzon-casco": {
+    "name": "Arco de San Antón y palacio de los abades",
+    "mun": "Ainzón",
+    "q": [
+     "Arco de San Antón, Ainzón",
+     "Plaza Marcos Zapata, Ainzón"
+    ],
+    "fq": [
+     "Category:Ainzón",
+     "Ainzón Zaragoza"
+    ]
+   },
+   "iglesia-piedad-ainzon": {
+    "name": "Iglesia de Nuestra Señora de la Piedad",
+    "mun": "Ainzón",
+    "q": [
+     "Iglesia de Nuestra Señora de la Piedad, Ainzón",
+     "Iglesia, Ainzón"
+    ],
+    "fq": [
+     "Iglesia Ainzón",
+     "Category:Iglesia de Nuestra Señora de la Piedad (Ainzón)"
+    ]
+   },
+   "ganarul": {
+    "name": "Ermita de Gañarul",
+    "mun": "Agón",
+    "q": [
+     "Ermita de Gañarul, Agón",
+     "Gañarul"
+    ],
+    "fq": [
+     "Gañarul",
+     "Ermita Gañarul Agón"
+    ]
+   },
+   "iglesia-agon": {
+    "name": "Iglesia de los Ángeles y torre de Agón",
+    "mun": "Agón",
+    "q": [
+     "Iglesia de Nuestra Señora de los Ángeles, Agón",
+     "Agón"
+    ],
+    "fq": [
+     "Category:Agón",
+     "Iglesia Agón Zaragoza"
+    ]
+   },
+   "iglesia-alberite": {
+    "name": "Iglesia de Alberite y El Quez",
+    "mun": "Alberite de San Juan",
+    "q": [
+     "Iglesia, Alberite de San Juan",
+     "Alberite de San Juan"
+    ],
+    "fq": [
+     "Category:Alberite de San Juan",
+     "Alberite de San Juan iglesia"
+    ]
+   },
+   "iglesia-albeta": {
+    "name": "Iglesia de Santiago Apóstol",
+    "mun": "Albeta",
+    "q": [
+     "Iglesia de Santiago Apóstol, Albeta",
+     "Albeta"
+    ],
+    "fq": [
+     "Category:Albeta",
+     "Albeta iglesia"
+    ]
+   },
+   "ojo-albeta": {
+    "name": "Ojo de Albeta y valle del Huecha",
+    "mun": "Albeta",
+    "q": [
+     "Ojo de Albeta",
+     "Albeta"
+    ],
+    "fq": [
+     "Ojo de Albeta",
+     "Albeta Huecha"
+    ]
+   },
+   "palacio-hospitalarios-ambel": {
+    "name": "Palacio de los Hospitalarios y San Miguel",
+    "mun": "Ambel",
+    "q": [
+     "Palacio de los Hospitalarios, Ambel",
+     "Iglesia de San Miguel Arcángel, Ambel"
+    ],
+    "fq": [
+     "Category:Ambel",
+     "Palacio Hospitalarios Ambel"
+    ]
+   },
+   "ermita-rosario-ambel": {
+    "name": "Iglesia de la Virgen del Rosario",
+    "mun": "Ambel",
+    "q": [
+     "Ermita de la Virgen del Rosario, Ambel",
+     "Virgen del Rosario, Ambel"
+    ],
+    "fq": [
+     "Ermita Virgen del Rosario Ambel",
+     "Ambel torre mudéjar"
+    ]
+   },
+   "plaza-bisimbre": {
+    "name": "San Juan Bautista y Nobleza Baturra",
+    "mun": "Bisimbre",
+    "q": [
+     "Iglesia de San Juan Bautista, Bisimbre",
+     "Bisimbre"
+    ],
+    "fq": [
+     "Category:Bisimbre",
+     "Bisimbre iglesia"
+    ]
+   },
+   "laguna-plantados": {
+    "name": "Lagunas de Plantados y Agón",
+    "mun": "Bisimbre",
+    "q": [
+     "Laguna de Plantados",
+     "Laguna de Agón"
+    ],
+    "fq": [
+     "Laguna de Plantados",
+     "Laguna Agón"
+    ]
+   },
+   "castillo-bulbuente": {
+    "name": "Castillo-palacio de los abades de Veruela",
+    "mun": "Bulbuente",
+    "q": [
+     "Castillo de Bulbuente",
+     "Bulbuente castillo"
+    ],
+    "fq": [
+     "Category:Castillo de Bulbuente",
+     "Castillo Bulbuente"
+    ]
+   },
+   "iglesia-bulbuente": {
+    "name": "Iglesia de Santa María",
+    "mun": "Bulbuente",
+    "q": [
+     "Iglesia de Santa María, Bulbuente",
+     "Bulbuente"
+    ],
+    "fq": [
+     "Category:Bulbuente",
+     "Bulbuente iglesia"
+    ]
+   },
+   "palacio-bureta": {
+    "name": "Palacio de los Condes de Bureta",
+    "mun": "Bureta",
+    "q": [
+     "Palacio de los Condes de Bureta",
+     "Bureta"
+    ],
+    "fq": [
+     "Category:Palacio de los Condes de Bureta",
+     "Palacio Bureta"
+    ]
+   },
+   "burren": {
+    "name": "Parque arqueológico de Burrén",
+    "mun": "Fréscano",
+    "q": [
+     "Burrén, Fréscano",
+     "Cabezo de Burrén"
+    ],
+    "fq": [
+     "Burrén Fréscano",
+     "Category:Fréscano"
+    ]
+   },
+   "huerta-frescano": {
+    "name": "Ermita de Santa María de la Huerta",
+    "mun": "Fréscano",
+    "q": [
+     "Ermita de Santa María de la Huerta, Fréscano",
+     "Fréscano"
+    ],
+    "fq": [
+     "Ermita Santa María de la Huerta Fréscano",
+     "Fréscano ermita"
+    ]
+   },
+   "iglesia-fuendejalon": {
+    "name": "Iglesia de San Juan Bautista",
+    "mun": "Fuendejalón",
+    "q": [
+     "Iglesia de San Juan Bautista, Fuendejalón",
+     "Fuendejalón"
+    ],
+    "fq": [
+     "Category:Fuendejalón",
+     "Fuendejalón iglesia"
+    ]
+   },
+   "virgen-castillo-fuendejalon": {
+    "name": "Ermita de la Virgen del Castillo",
+    "mun": "Fuendejalón",
+    "q": [
+     "Ermita de la Virgen del Castillo, Fuendejalón",
+     "Fuendejalón"
+    ],
+    "fq": [
+     "Ermita Virgen del Castillo Fuendejalón",
+     "Fuendejalón ermita"
+    ]
+   },
+   "museo-churro": {
+    "name": "Museo-bodega El Churro",
+    "mun": "Fuendejalón",
+    "q": [
+     "Museo El Churro, Fuendejalón",
+     "Bodega El Churro"
+    ],
+    "fq": [
+     "Fuendejalón bodega",
+     "Fuendejalón"
+    ]
+   },
+   "san-lorenzo-magallon": {
+    "name": "Iglesia de San Lorenzo",
+    "mun": "Magallón",
+    "q": [
+     "Iglesia de San Lorenzo, Magallón",
+     "Magallón"
+    ],
+    "fq": [
+     "Category:Iglesia de San Lorenzo (Magallón)",
+     "Magallón San Lorenzo"
+    ]
+   },
+   "huerta-magallon": {
+    "name": "Santa María de la Huerta y convento de los Dominicos",
+    "mun": "Magallón",
+    "q": [
+     "Santa María de la Huerta, Magallón",
+     "Convento de los Dominicos, Magallón"
+    ],
+    "fq": [
+     "Category:Iglesia de Santa María de la Huerta (Magallón)",
+     "Magallón Santa María de la Huerta"
+    ]
+   },
+   "malejan": {
+    "name": "Maleján: almunia, castillo y la Visitación",
+    "mun": "Maleján",
+    "q": [
+     "Iglesia de la Visitación, Maleján",
+     "Maleján"
+    ],
+    "fq": [
+     "Category:Maleján",
+     "Maleján"
+    ]
+   },
+   "iglesia-mallen": {
+    "name": "Iglesia de Nuestra Señora de los Ángeles",
+    "mun": "Mallén",
+    "q": [
+     "Iglesia de Nuestra Señora de los Ángeles, Mallén",
+     "Mallén iglesia"
+    ],
+    "fq": [
+     "Category:Mallén",
+     "Mallén iglesia"
+    ]
+   },
+   "palacios-mallen": {
+    "name": "Palacios de Mallén",
+    "mun": "Mallén",
+    "q": [
+     "Palacio de los Zapata, Mallén",
+     "Palacio de Navas, Mallén"
+    ],
+    "fq": [
+     "Mallén palacio",
+     "Mallén casa"
+    ]
+   },
+   "palacio-novillas": {
+    "name": "Palacio de los Comendadores",
+    "mun": "Novillas",
+    "q": [
+     "Palacio de los Comendadores, Novillas",
+     "Palacio de la Orden de San Juan, Novillas"
+    ],
+    "fq": [
+     "Category:Novillas",
+     "Palacio Novillas"
+    ]
+   },
+   "fortin-novillas": {
+    "name": "Fortín y sotos del Ebro",
+    "mun": "Novillas",
+    "q": [
+     "Fuerte, Novillas",
+     "Novillas Ebro"
+    ],
+    "fq": [
+     "Novillas Ebro",
+     "Novillas fuerte"
+    ]
+   },
+   "geiser-pozuelo": {
+    "name": "El géiser de Pozuelo",
+    "mun": "Pozuelo de Aragón",
+    "q": [
+     "Géiser de Pozuelo de Aragón",
+     "Pozo artesiano, Pozuelo de Aragón"
+    ],
+    "fq": [
+     "Pozuelo de Aragón géiser",
+     "Category:Pozuelo de Aragón"
+    ]
+   },
+   "lumbreron": {
+    "name": "El Lumbrerón",
+    "mun": "Pozuelo de Aragón",
+    "q": [
+     "Lumbrerón, Pozuelo de Aragón",
+     "El Lumbrerón"
+    ],
+    "fq": [
+     "Lumbrerón Pozuelo",
+     "Pozuelo de Aragón"
+    ]
+   },
+   "molino-tabuenca": {
+    "name": "Molino de viento de Tabuenca",
+    "mun": "Tabuenca",
+    "q": [
+     "Molino de viento, Tabuenca",
+     "Tabuenca molino"
+    ],
+    "fq": [
+     "Molino de viento Tabuenca",
+     "Category:Tabuenca"
+    ]
+   },
+   "iglesia-tabuenca": {
+    "name": "Iglesia de San Juan Bautista y casa-museo",
+    "mun": "Tabuenca",
+    "q": [
+     "Iglesia de San Juan Bautista, Tabuenca",
+     "Tabuenca"
+    ],
+    "fq": [
+     "Tabuenca iglesia",
+     "Category:Tabuenca"
+    ]
+   },
+   "san-miguel-talamantes": {
+    "name": "Ermita de San Miguel",
+    "mun": "Talamantes",
+    "q": [
+     "Ermita de San Miguel, Talamantes",
+     "Talamantes"
+    ],
+    "fq": [
+     "Talamantes ermita San Miguel",
+     "Category:Talamantes"
+    ]
+   },
+   "moncayo-talamantes": {
+    "name": "Peñas de Herrera y barrancos de Talamantes",
+    "mun": "Talamantes",
+    "q": [
+     "Peñas de Herrera",
+     "Talamantes"
+    ],
+    "fq": [
+     "Peñas de Herrera",
+     "Talamantes Moncayo"
+    ]
+   }
+  }
  }
 }
