@@ -7,7 +7,7 @@ permissions:
 jobs:
   g:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - run: python3 tools/clientes/geo3.py

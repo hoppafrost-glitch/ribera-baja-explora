@@ -3,36 +3,59 @@
   41.764943,
   -1.423818,
   9000,
-  "[\"name\"~\"Lumbrer\",i]"
+  "[\"name\"~\"Lumbrer\",i]",
+  [
+   "Lumbrerón, Pozuelo de Aragón",
+   "El Lumbrerón"
+  ]
  ],
  "laguna-plantados": [
   41.856013,
   -1.443327,
   6000,
-  "[\"natural\"=\"water\"]"
+  "[\"natural\"=\"water\"]",
+  [
+   "Laguna de Plantados",
+   "Laguna de Agón"
+  ]
  ],
  "molino-tabuenca": [
   41.695334,
   -1.54354,
   4000,
-  "[\"man_made\"=\"windmill\"]"
+  "[\"man_made\"=\"windmill\"]",
+  [
+   "Molino de viento, Tabuenca"
+  ]
  ],
  "huerta-frescano": [
   41.874318,
   -1.449546,
   2000,
-  "[\"landuse\"=\"cemetery\"]"
+  "[\"landuse\"=\"cemetery\"]",
+  [
+   "Ermita de Santa María de la Huerta, Fréscano",
+   "Santa María de la Huerta, Fréscano"
+  ]
  ],
  "palacio-novillas": [
   41.934163,
   -1.394965,
   1200,
-  "[\"historic\"]"
+  "[\"historic\"]",
+  [
+   "Palacio de los Comendadores, Novillas",
+   "Novillas"
+  ]
  ],
  "palacios-mallen": [
   41.900556,
   -1.418889,
   1500,
-  "[\"name\"~\"Zapata|Navas|Frontin\",i]"
+  "[\"name\"~\"Zapata|Navas|Frontin\",i]",
+  [
+   "Palacio de los Zapata, Mallén",
+   "Mallén"
+  ]
  ]
 }
