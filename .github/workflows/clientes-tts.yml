@@ -15,7 +15,7 @@ jobs:
       fail-fast: false
       matrix:
         lang: [es, en, fr, de, pt]
-        slug: [campo-de-belchite, andorra-sierra-de-arcos, campo-de-daroca, cinco-villas, bajo-cinca]
+        slug: [campo-de-borja, ribera-alta-del-ebro]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
