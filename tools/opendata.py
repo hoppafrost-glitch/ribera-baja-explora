@@ -1,6 +1,6 @@
 """Descarga el Registro de Turismo de Aragón (datos abiertos) y se queda con la Comarca Ribera Baja del Ebro."""
 import csv, io, json, os, time, unicodedata, urllib.request, urllib.parse
-COMARCAS = {"ribera-baja": ["ribera baja"], "campo-de-belchite": ["belchite"], "andorra-sierra-de-arcos": ["andorra"], "campo-de-daroca": ["daroca"], "cinco-villas": ["cinco villas"], "bajo-cinca": ["bajo cinca", "baix cinca"]}
+COMARCAS = {"ribera-baja": ["ribera baja"], "campo-de-belchite": ["belchite"], "andorra-sierra-de-arcos": ["andorra"], "campo-de-daroca": ["daroca"], "cinco-villas": ["cinco villas"], "bajo-cinca": ["bajo cinca", "baix cinca"], "campo-de-borja": ["campo de borja"], "ribera-alta-del-ebro": ["ribera alta"]}
 def which(com, mun):
     c = n(com)
     for k, ws in COMARCAS.items():
