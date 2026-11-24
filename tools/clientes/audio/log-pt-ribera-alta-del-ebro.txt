@@ -1,0 +1,31 @@
+voz pt_PT-tugão-medium cargada
+san-pedro-alagon 313382
+casco-alagon 228432
+casa-cultura-goya 279005
+san-juan-alagon 149855
+virgen-castillo-alagon 141183
+azucarera-alagon 167723
+palacio-ducal-pedrola 276706
+iglesia-angeles-pedrola 206907
+insula-barataria 268138
+san-juan-remolinos 273676
+minas-sal-remolinos 259988
+san-pedro-gallur 230730
+puente-hierro-gallur 151841
+canal-gallur 181307
+ermita-san-miguel-boquineni 199906
+galacho-fornazos 183292
+loteta 172843
+iglesia-luceni 162812
+palacio-fuenclara-luceni 199906
+el-castellar 243060
+barca-castellar 159677
+san-andres-torres 156961
+escarpes-ebro 226446
+murallas-grisen 169290
+puente-jubo 119449
+barboles 158633
+cabanas 158842
+la-joyosa 112030
+azud-pleitas 183815
+hecho: 29 nuevos, 0 errores
