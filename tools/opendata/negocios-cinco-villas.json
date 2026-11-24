@@ -1085,8 +1085,8 @@
   "nacionalidad": "E",
   "categoria": "Hostal",
   "_comarca": "cinco-villas",
-  "_lat": 42.5296315,
-  "_lon": -1.0222268,
+  "_lat": 42.5298212,
+  "_lon": -1.0226855,
   "_geo": "Calle San Antón, Los Pintanos, Cinco Villas, Zaragoza, Aragón, 50687, España"
  },
  {
@@ -1307,8 +1307,8 @@
   "nacionalidad": "E",
   "categoria": "Hostal",
   "_comarca": "cinco-villas",
-  "_lat": 42.4882816,
-  "_lon": -1.056211,
+  "_lat": 42.4889023,
+  "_lon": -1.0560032,
   "_geo": "Calle Dama, Isuerre, Cinco Villas, Zaragoza, Aragón, 50687, España"
  },
  {
@@ -6248,8 +6248,8 @@
   "nombre_comarca": "CINCO VILLAS",
   "nacionalidad": "E",
   "_comarca": "cinco-villas",
-  "_lat": 42.0838933,
-  "_lon": -1.2324222,
+  "_lat": 42.0844066,
+  "_lon": -1.2339512,
   "_geo": "Calle Mayor, El Sabinar, Ejea de los Caballeros, Cinco Villas, Zaragoza, Aragón, España"
  },
  {

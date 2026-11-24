@@ -714,8 +714,8 @@
   "nacionalidad": "E",
   "categoria": "Hostal",
   "_comarca": "bajo-cinca",
-  "_lat": 41.5127573,
-  "_lon": 0.2832543,
+  "_lat": 41.5090248,
+  "_lon": 0.3023591,
   "_geo": "Carretera Nacional 2, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España"
  },
  {
@@ -790,8 +790,8 @@
   "nacionalidad": "E",
   "categoria": "Hostal",
   "_comarca": "bajo-cinca",
-  "_lat": 41.5180424,
-  "_lon": 0.3244489,
+  "_lat": 41.5207338,
+  "_lon": 0.3362171,
   "_geo": "Avenida de Aragón, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España"
  },
  {
@@ -866,8 +866,8 @@
   "nacionalidad": "E",
   "categoria": "Pensión",
   "_comarca": "bajo-cinca",
-  "_lat": 41.5226458,
-  "_lon": 0.3390502,
+  "_lat": 41.5218907,
+  "_lon": 0.3379885,
   "_geo": "Avenida de Madrid;Avinguda de Madrid, Fraga, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22520, España"
  },
  {
@@ -1014,10 +1014,7 @@
   "nombre_comarca": "BAJO CINCA/BAIX CINCA",
   "nacionalidad": "E",
   "categoria": "Hostal",
-  "_comarca": "bajo-cinca",
-  "_lat": 41.4713785,
-  "_lon": 0.33665,
-  "_geo": "78, Calle Carretera, Torrente de Cinca / Torrent de Cinca, Bajo Cinca / Baix Cinca, Huesca, Aragón, 22590, España"
+  "_comarca": "bajo-cinca"
  },
  {
   "type": "apartamento",
@@ -1066,9 +1063,9 @@
   "nombre_comarca": "BAJO CINCA/BAIX CINCA",
   "nacionalidad": "E",
   "_comarca": "bajo-cinca",
-  "_lat": 41.3749289,
-  "_lon": 0.3035613,
-  "_geo": "Carretera de Fraga, Poblado de Viviendas E.N.H.E.R. / Poblat de vivendes de la E.N.H.E.R., Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, 50170, España"
+  "_lat": 41.3040364,
+  "_lon": 0.1046136,
+  "_geo": "Carretera de Fraga, Mequinenza / Mequinensa, Bajo Cinca / Baix Cinca, Zaragoza, Aragón, España"
  },
  {
   "type": "apartamento",
