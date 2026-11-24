@@ -14,7 +14,7 @@ def get(url, data=None, tries=2):
         except Exception as e:
             log("  retry", i, url[:80], e); time.sleep(5)
     raise RuntimeError("fallo " + url[:80])
-OVP = ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter"]
+OVP = ["https://overpass.private.coffee/api/interpreter", "https://maps.mail.ru/osm/tools/overpass/api/interpreter", "https://overpass-api.de/api/interpreter"]
 def overpass(q):
     for u in OVP:
         try: return get(u, urllib.parse.urlencode({"data": q}).encode(), tries=2)
