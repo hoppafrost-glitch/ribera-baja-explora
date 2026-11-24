@@ -1,31 +1,4 @@
 voz fr_FR-siwis-medium cargada
-san-pedro-alagon 380151
-casco-alagon 251628
-casa-cultura-goya 313800
-san-juan-alagon 166678
-virgen-castillo-alagon 157379
-azucarera-alagon 198130
-palacio-ducal-pedrola 322159
-iglesia-angeles-pedrola 242224
-insula-barataria 306486
+casa-cultura-goya 317770
 san-juan-remolinos 306486
-minas-sal-remolinos 306277
-san-pedro-gallur 265944
-puente-hierro-gallur 173575
-canal-gallur 216311
-ermita-san-miguel-boquineni 237522
-galacho-fornazos 226133
-loteta 193114
-iglesia-luceni 185695
-palacio-fuenclara-luceni 229059
-el-castellar 287991
-barca-castellar 191233
-san-andres-torres 191129
-escarpes-ebro 248389
-murallas-grisen 193532
-puente-jubo 135122
-barboles 177859
-cabanas 189248
-la-joyosa 138257
-azud-pleitas 221849
-hecho: 29 nuevos, 0 errores
+hecho: 2 nuevos, 0 errores
