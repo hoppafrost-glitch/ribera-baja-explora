@@ -1,0 +1,104 @@
+{
+ "palacio-novillas": [
+  41.934163,
+  -1.394965,
+  1200,
+  "[\"name\"~\"Comendador|San Juan|Palacio|Castillo|Templ\",i]"
+ ],
+ "lumbreron": [
+  41.764943,
+  -1.423818,
+  9000,
+  "[\"name\"~\"Lumbrer\",i]"
+ ],
+ "palacios-mallen": [
+  41.900556,
+  -1.418889,
+  1500,
+  "[\"name\"~\"Zapata|Navas|Frontin|Palacio\",i]"
+ ],
+ "museo-churro": [
+  41.760758,
+  -1.472037,
+  2000,
+  "[\"name\"~\"Churro\",i]"
+ ],
+ "laguna-plantados": [
+  41.856013,
+  -1.443327,
+  6000,
+  "[\"name\"~\"Plantados|Laguna\",i]"
+ ],
+ "molino-tabuenca": [
+  41.695334,
+  -1.54354,
+  4000,
+  "[\"man_made\"=\"windmill\"]"
+ ],
+ "molino-tabuenca2": [
+  41.695334,
+  -1.54354,
+  4000,
+  "[\"name\"~\"Molino de viento\",i]"
+ ],
+ "iglesia-agon": [
+  41.856445,
+  -1.453315,
+  900,
+  "[\"amenity\"=\"place_of_worship\"]"
+ ],
+ "plaza-bisimbre": [
+  41.856013,
+  -1.443327,
+  900,
+  "[\"amenity\"=\"place_of_worship\"]"
+ ],
+ "iglesia-tabuenca": [
+  41.695334,
+  -1.54354,
+  900,
+  "[\"amenity\"=\"place_of_worship\"]"
+ ],
+ "huerta-frescano": [
+  41.874318,
+  -1.449546,
+  2000,
+  "[\"amenity\"~\"place_of_worship|grave_yard\"]"
+ ],
+ "huerta-frescano2": [
+  41.874318,
+  -1.449546,
+  2000,
+  "[\"landuse\"=\"cemetery\"]"
+ ],
+ "iglesia-mallen": [
+  41.900556,
+  -1.418889,
+  900,
+  "[\"amenity\"=\"place_of_worship\"]"
+ ],
+ "casa-conchas": [
+  41.834823,
+  -1.533754,
+  900,
+  "[\"name\"~\"Conchas|Vera\",i]"
+ ],
+ "huerta-magallon": [
+  41.832608,
+  -1.460934,
+  1200,
+  "[\"name\"~\"Huerta|Dominic\",i]"
+ ],
+ "estanca": [
+  41.834823,
+  -1.533754,
+  9000,
+  "[\"name\"~\"Estanca\",i]"
+ ],
+ "calvario": [
+  41.834823,
+  -1.533754,
+  9000,
+  "[\"name\"~\"Calvario\",i]"
+ ]
+}
