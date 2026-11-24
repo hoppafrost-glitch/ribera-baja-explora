@@ -1,56 +1,26 @@
 {
- "campo-de-belchite__villa-la-malena": [
-  41.25394,
-  -0.8518699999999999,
-  41.258939999999996,
-  -0.84107
+ "campo-de-borja__bodegas-cerro-borja": [
+  41.8386099,
+  -1.5455757,
+  41.8436099,
+  -1.5347757
  ],
- "andorra-sierra-de-arcos__pasarelas-escuriza": [
-  40.943960000000004,
-  -0.5989,
-  40.94896,
-  -0.5881000000000001
+ "campo-de-borja__calvario-muela": [
+  41.853860000000005,
+  -1.5826900000000002,
+  41.85886,
+  -1.57189
  ],
- "andorra-sierra-de-arcos__mirador-carnicero": [
-  40.976350000000004,
-  -0.49969,
-  40.98135,
-  -0.48889
+ "campo-de-borja__ojo-albeta": [
+  41.8241311,
+  -1.5073325,
+  41.8291311,
+  -1.4965324999999998
  ],
- "andorra-sierra-de-arcos__centro-pablo-serrano": [
-  40.878510000000006,
-  -0.58005,
-  40.88351,
-  -0.56925
- ],
- "campo-de-daroca__puente-nevera-villar": [
-  41.162670000000006,
-  -1.0465200000000001,
-  41.16767,
-  -1.03572
- ],
- "cinco-villas__sancho-abarca": [
-  42.01795,
-  -1.33013,
-  42.022949999999994,
-  -1.31933
- ],
- "cinco-villas__pueblos-colonizacion": [
-  42.185660000000006,
-  -1.26953,
-  42.19066,
-  -1.25873
- ],
- "cinco-villas__canal-tauste": [
-  41.90487,
-  -1.28803,
-  41.90987,
-  -1.2772299999999999
- ],
- "cinco-villas__cajal-valpalmas": [
-  42.15576,
-  -0.86015,
-  42.160759999999996,
-  -0.84935
+ "campo-de-borja__plaza-bisimbre": [
+  41.853513,
+  -1.448727,
+  41.858512999999995,
+  -1.437927
  ]
 }
