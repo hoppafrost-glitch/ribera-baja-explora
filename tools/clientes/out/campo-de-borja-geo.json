@@ -1,0 +1,1455 @@
+{
+"colegiata-borja": [
+{
+"q": "Colegiata de Santa María, Borja",
+"name": "Colegiata de Santa María, Plaza de Santa María, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8350005,
+"lon": -1.5320015,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Iglesia de Santa María, Borja",
+"name": "Iglesia de Santa María, 17, Calle Iglesia, Bulbuente, Campo de Borja, Zaragoza, Aragón, 50546, España",
+"lat": 41.8179132,
+"lon": -1.6016634,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"casa-conchas": [
+{
+"q": "Casa de las Conchas, Borja",
+"name": "Parking Casa de las Conchas, Calle San Jaime, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8352837,
+"lon": -1.5326317,
+"type": "parking",
+"cls": "amenity"
+}
+],
+"plaza-mercado-borja": [
+{
+"q": "Plaza de España, Borja",
+"name": "Plaza de España, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8341231,
+"lon": -1.5326785,
+"type": "pedestrian",
+"cls": "highway"
+},
+{
+"q": "Ayuntamiento de Borja",
+"name": "Ayuntamiento de Borja, 1, Plaza de España, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8342551,
+"lon": -1.5330798,
+"type": "townhall",
+"cls": "amenity"
+}
+],
+"san-miguel-borja": [
+{
+"q": "Iglesia de San Miguel, Borja",
+"name": "Iglesia de San Miguel Arcángel, 7, Plaza de San Miguel, Ambel, Campo de Borja, Zaragoza, Aragón, 50546, España",
+"lat": 41.7958319,
+"lon": -1.6167944,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Museo Arqueológico de Borja",
+"name": "Museo Arqueológico de Borja, 4A, Plaza San Francisco, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8337772,
+"lon": -1.5356108,
+"type": "museum",
+"cls": "tourism"
+}
+],
+"concepcion-borja": [
+{
+"q": "Convento de la Concepción, Borja",
+"name": "Convento de la Concepión, Calle Concepción, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8337896,
+"lon": -1.5313956,
+"type": "monastery",
+"cls": "amenity"
+}
+],
+"santuario-misericordia": [
+{
+"q": "Santuario de Misericordia, Borja",
+"name": "Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8548371,
+"lon": -1.5754507,
+"type": "hamlet",
+"cls": "place"
+},
+{
+"q": "Santuario de Misericordia, Borja",
+"name": "Santuario de Misericordia, ZP-5305, Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8547202,
+"lon": -1.5748418,
+"type": "bus_stop",
+"cls": "highway"
+},
+{
+"q": "Santuario de la Misericordia",
+"name": "Santuario de la Misericorda, ZP-5305, Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8548458,
+"lon": -1.5754199,
+"type": "church",
+"cls": "building"
+},
+{
+"q": "Santuario de la Misericordia",
+"name": "Albergue juvenil Santuario de Misericordia, ZP-5305, Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8558662,
+"lon": -1.5747354,
+"type": "hostel",
+"cls": "tourism"
+},
+{
+"q": "Santuario de la Misericordia",
+"name": "Bar el Santuario, ZP-5305, Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8552097,
+"lon": -1.5747805,
+"type": "pub",
+"cls": "amenity"
+},
+{
+"q": "Santuario de la Misericordia",
+"name": "Deposito Agua Santuario de Misericordia, Calle de los Tilos, Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8555891,
+"lon": -1.5773274,
+"type": "yes",
+"cls": "building"
+}
+],
+"ecce-homo": [
+{
+"q": "Santuario de Misericordia, Borja",
+"name": "Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8548371,
+"lon": -1.5754507,
+"type": "hamlet",
+"cls": "place"
+},
+{
+"q": "Santuario de Misericordia, Borja",
+"name": "Santuario de Misericordia, ZP-5305, Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8547202,
+"lon": -1.5748418,
+"type": "bus_stop",
+"cls": "highway"
+}
+],
+"bodegas-cerro-borja": [
+{
+"q": "Bodegas, Borja",
+"name": "Cerro de las Bodegas, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8411099,
+"lon": -1.5401757,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "Bodegas, Borja",
+"name": "Camino de las Bodegas, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8363962,
+"lon": -1.5379403,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Bodegas, Borja",
+"name": "Bodegas Borsao, Calle Capuchinos, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8320606,
+"lon": -1.5272354,
+"type": "winery",
+"cls": "craft"
+},
+{
+"q": "Bodegas, Borja",
+"name": "Tienda de Bodegas Borsao, Camino del Tejar, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8385023,
+"lon": -1.5029762,
+"type": "wine",
+"cls": "shop"
+},
+{
+"q": "La Corona, Borja",
+"name": "La Corona, Magallón, Campo de Borja, Zaragoza, Aragón, 50520, España",
+"lat": 41.8354045,
+"lon": -1.431253,
+"type": "locality",
+"cls": "place"
+}
+],
+"calvario-muela": [
+{
+"q": "Ermita del Calvario, Borja",
+"name": "Ermita del Calvario, Calle de los Tilos, Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.856352,
+"lon": -1.577285,
+"type": "church",
+"cls": "building"
+},
+{
+"q": "Ermita del Calvario, Borja",
+"name": "Ermita del Calvario, Calle de los Tilos, Santuario de Misericordia, Borja, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.856357,
+"lon": -1.5772932,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "La Muela, Borja",
+"name": "La Muela, Bulbuente, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8458611,
+"lon": -1.6028247,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "La Muela, Borja",
+"name": "La Muela, Tabuenca, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.6937366,
+"lon": -1.5334215,
+"type": "locality",
+"cls": "place"
+}
+],
+"estanca-borja": [
+{
+"q": "La Estanca, Borja",
+"name": "La Estanca, Borja, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8928735,
+"lon": -1.5150926,
+"type": "locality",
+"cls": "place"
+}
+],
+"ainzon-casco": [
+{
+"q": "Plaza Marcos Zapata, Ainzón",
+"name": "Plaza Marcos Zapata, Ainzón, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8169564,
+"lon": -1.5211308,
+"type": "pedestrian",
+"cls": "highway"
+}
+],
+"iglesia-piedad-ainzon": [
+{
+"q": "Iglesia, Ainzón",
+"name": "Plaza de la Iglesia, Ainzón, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8170507,
+"lon": -1.519338,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Iglesia, Ainzón",
+"name": "Iglesia de Nuestra Señora de Piedad, Plaza de la Iglesia, Ainzón, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8169415,
+"lon": -1.5191099,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"ganarul": [
+{
+"q": "Ermita de Gañarul, Agón",
+"name": "Ermita de Nuestra Señora de Gañarul, Camino de Santiago, Agón, Campo de Borja, Zaragoza, Aragón, 50520, España",
+"lat": 41.8407861,
+"lon": -1.4450392,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Gañarul",
+"name": "Gañarul, Agón, Campo de Borja, Zaragoza, Aragón, 50520, España",
+"lat": 41.8405491,
+"lon": -1.446187,
+"type": "locality",
+"cls": "place"
+}
+],
+"iglesia-agon": [
+{
+"q": "Agón",
+"name": "Agón, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8564455,
+"lon": -1.4533153,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"iglesia-alberite": [
+{
+"q": "Iglesia, Alberite de San Juan",
+"name": "Torre Iglesia de Nuestra Señora de la Asunción, Calle Campanar, Alberite de San Juan, Campo de Borja, Zaragoza, Aragón, 50529, España",
+"lat": 41.8205616,
+"lon": -1.4712843,
+"type": "tower",
+"cls": "man_made"
+},
+{
+"q": "Iglesia, Alberite de San Juan",
+"name": "Plaza de la Iglesia, Alberite de San Juan, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8205653,
+"lon": -1.4709753,
+"type": "park",
+"cls": "leisure"
+},
+{
+"q": "Iglesia, Alberite de San Juan",
+"name": "Plaza de la Iglesia, Alberite de San Juan, Campo de Borja, Zaragoza, Aragón, 50529, España",
+"lat": 41.8202765,
+"lon": -1.47105,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Iglesia, Alberite de San Juan",
+"name": "Plaza de la Iglesia, Alberite de San Juan, Campo de Borja, Zaragoza, Aragón, 50529, España",
+"lat": 41.8203214,
+"lon": -1.4707726,
+"type": "service",
+"cls": "highway"
+},
+{
+"q": "Alberite de San Juan",
+"name": "Alberite de San Juan, Campo de Borja, Zaragoza, Aragón, 50529, España",
+"lat": 41.8202772,
+"lon": -1.4709561,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"iglesia-albeta": [
+{
+"q": "Iglesia de Santiago Apóstol, Albeta",
+"name": "Iglesia de Santiago Apóstol, Calle Barranco, Albeta, Campo de Borja, Zaragoza, Aragón, 50529, España",
+"lat": 41.8264951,
+"lon": -1.5011937,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Albeta",
+"name": "Albeta, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8248852,
+"lon": -1.505187,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"ojo-albeta": [
+{
+"q": "Ojo de Albeta",
+"name": "Parque del Ojo, Albeta, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8266311,
+"lon": -1.5019325,
+"type": "park",
+"cls": "leisure"
+},
+{
+"q": "Ojo de Albeta",
+"name": "Manantial El Ojo, Calle Fueros de Aragón, Poligono Industrial La Gorrona, Albeta, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8266937,
+"lon": -1.5019027,
+"type": "spring",
+"cls": "natural"
+},
+{
+"q": "Albeta",
+"name": "Albeta, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8248852,
+"lon": -1.505187,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"palacio-hospitalarios-ambel": [
+{
+"q": "Palacio de los Hospitalarios, Ambel",
+"name": "Palacio de los Hospitalarios, 7, Plaza de San Miguel, Ambel, Campo de Borja, Zaragoza, Aragón, 50546, España",
+"lat": 41.7959801,
+"lon": -1.616882,
+"type": "yes",
+"cls": "building"
+},
+{
+"q": "Iglesia de San Miguel Arcángel, Ambel",
+"name": "Iglesia de San Miguel Arcángel, 7, Plaza de San Miguel, Ambel, Campo de Borja, Zaragoza, Aragón, 50546, España",
+"lat": 41.7958319,
+"lon": -1.6167944,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"ermita-rosario-ambel": [
+{
+"q": "Ermita de la Virgen del Rosario, Ambel",
+"name": "Ermita de la Virgen del Rosario, 1, Plaza de la Virgen, Ambel, Campo de Borja, Zaragoza, Aragón, 50546, España",
+"lat": 41.7956034,
+"lon": -1.6177847,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Virgen del Rosario, Ambel",
+"name": "Ermita de la Virgen del Rosario, 1, Plaza de la Virgen, Ambel, Campo de Borja, Zaragoza, Aragón, 50546, España",
+"lat": 41.7956034,
+"lon": -1.6177847,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"plaza-bisimbre": [
+{
+"q": "Bisimbre",
+"name": "Bisimbre, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8560133,
+"lon": -1.4433266,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"laguna-plantados": [],
+"castillo-bulbuente": [
+{
+"q": "Castillo de Bulbuente",
+"name": "Castillo-Palacio de Bulbuente, Calle Palacio, Bulbuente, Campo de Borja, Zaragoza, Aragón, 50546, España",
+"lat": 41.8175448,
+"lon": -1.6025166,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Bulbuente castillo",
+"name": "Castillo-Palacio de Bulbuente, Calle Palacio, Bulbuente, Campo de Borja, Zaragoza, Aragón, 50546, España",
+"lat": 41.8175448,
+"lon": -1.6025166,
+"type": "castle",
+"cls": "historic"
+}
+],
+"iglesia-bulbuente": [
+{
+"q": "Iglesia de Santa María, Bulbuente",
+"name": "Iglesia de Santa María, 17, Calle Iglesia, Bulbuente, Campo de Borja, Zaragoza, Aragón, 50546, España",
+"lat": 41.8179132,
+"lon": -1.6016634,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Bulbuente",
+"name": "Bulbuente, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8281665,
+"lon": -1.6138176,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"palacio-bureta": [
+{
+"q": "Palacio de los Condes de Bureta",
+"name": "Palacio de los Condes de Bureta, Calle Terreno Bajo, Bureta, Campo de Borja, Zaragoza, Aragón, 50529, España",
+"lat": 41.8174444,
+"lon": -1.4886524,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Bureta",
+"name": "Bureta, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7955521,
+"lon": -1.4891435,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"burren": [
+{
+"q": "Burrén, Fréscano",
+"name": "Burrén, Fréscano, Campo de Borja, Zaragoza, Aragón, 50550, España",
+"lat": 41.8712577,
+"lon": -1.424293,
+"type": "peak",
+"cls": "natural"
+},
+{
+"q": "Burrén, Fréscano",
+"name": "Burrén, Fréscano, Campo de Borja, Zaragoza, Aragón, 50562, España",
+"lat": 41.8730782,
+"lon": -1.4265955,
+"type": "locality",
+"cls": "place"
+}
+],
+"huerta-frescano": [
+{
+"q": "Fréscano",
+"name": "Fréscano, Campo de Borja, Zaragoza, Aragón, 50562, España",
+"lat": 41.8743176,
+"lon": -1.449546,
+"type": "administrative",
+"cls": "boundary"
+},
+{
+"q": "Fréscano",
+"name": "Fréscano, Campo de Borja, Zaragoza, Aragón, 50562, España",
+"lat": 41.8740048,
+"lon": -1.4495167,
+"type": "residential",
+"cls": "landuse"
+}
+],
+"iglesia-fuendejalon": [
+{
+"q": "Iglesia de San Juan Bautista, Fuendejalón",
+"name": "Iglesia de San Juan Bautista, Calle Ramón y Cajal, Fuendejalón, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7607464,
+"lon": -1.4722971,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Fuendejalón",
+"name": "Fuendejalón, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7605872,
+"lon": -1.47223,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"virgen-castillo-fuendejalon": [
+{
+"q": "Ermita de la Virgen del Castillo, Fuendejalón",
+"name": "Ermita de la Virgen del Castillo, Calle la Virgen, Fuendejalón, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7613489,
+"lon": -1.4726976,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Fuendejalón",
+"name": "Fuendejalón, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7605872,
+"lon": -1.47223,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"museo-churro": [],
+"san-lorenzo-magallon": [
+{
+"q": "Iglesia de San Lorenzo, Magallón",
+"name": "Iglesia de San Lorenzo, Calle Castillo, Magallón, Campo de Borja, Zaragoza, Aragón, 50520, España",
+"lat": 41.8340595,
+"lon": -1.4608206,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Magallón",
+"name": "Magallón, Campo de Borja, Zaragoza, Aragón, 50520, España",
+"lat": 41.8326084,
+"lon": -1.4609335,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"huerta-magallon": [
+{
+"q": "Convento de los Dominicos, Magallón",
+"name": "Convento de los dominicos, Calle Dominicos, Magallón, Campo de Borja, Zaragoza, Aragón, 50520, España",
+"lat": 41.8343649,
+"lon": -1.4577153,
+"type": "community_centre",
+"cls": "amenity"
+}
+],
+"malejan": [
+{
+"q": "Iglesia de la Visitación, Maleján",
+"name": "Iglesia de la Visitación, Calle Alta, Maleján, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8273657,
+"lon": -1.5493901,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Maleján",
+"name": "Maleján, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.827888,
+"lon": -1.5492879,
+"type": "administrative",
+"cls": "boundary"
+},
+{
+"q": "Maleján",
+"name": "Maleján, Campo de Borja, Zaragoza, Aragón, 50540, España",
+"lat": 41.8278952,
+"lon": -1.5493198,
+"type": "village",
+"cls": "place"
+}
+],
+"iglesia-mallen": [
+{
+"q": "Mallén iglesia",
+"name": "parque de la iglesia, Mallén, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.9005682,
+"lon": -1.4179708,
+"type": "park",
+"cls": "leisure"
+},
+{
+"q": "Mallén iglesia",
+"name": "Calle la Iglesia, Mallén, Campo de Borja, Zaragoza, Aragón, 50550, España",
+"lat": 41.9010161,
+"lon": -1.419462,
+"type": "living_street",
+"cls": "highway"
+},
+{
+"q": "Mallén iglesia",
+"name": "Plaza de la Iglesia, Mallén, Campo de Borja, Zaragoza, Aragón, 50550, España",
+"lat": 41.9006865,
+"lon": -1.4187732,
+"type": "pedestrian",
+"cls": "highway"
+},
+{
+"q": "Mallén iglesia",
+"name": "Plaza de la Iglesia, Mallén, Campo de Borja, Zaragoza, Aragón, 50550, España",
+"lat": 41.9006951,
+"lon": -1.4188434,
+"type": "living_street",
+"cls": "highway"
+}
+],
+"palacios-mallen": [],
+"palacio-novillas": [],
+"fortin-novillas": [
+{
+"q": "Fuerte, Novillas",
+"name": "Fuerte fusilero de las guerras carlistas., Calle Diputación, Novillas, Campo de Borja, Zaragoza, Aragón, 31530, España",
+"lat": 41.9328601,
+"lon": -1.3914923,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Novillas Ebro",
+"name": "Río Ebro, Novillas, Campo de Borja, Zaragoza, Aragón, 50550, España",
+"lat": 41.9206518,
+"lon": -1.3641161,
+"type": "river",
+"cls": "waterway"
+},
+{
+"q": "Novillas Ebro",
+"name": "Rio Ebro, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.91106,
+"lon": -1.3335913,
+"type": "river",
+"cls": "waterway"
+},
+{
+"q": "Novillas Ebro",
+"name": "Calle Parque Río Ebro, Novillas, Campo de Borja, Zaragoza, Aragón, 31530, España",
+"lat": 41.9344732,
+"lon": -1.391576,
+"type": "residential",
+"cls": "highway"
+}
+],
+"geiser-pozuelo": [
+{
+"q": "Géiser de Pozuelo de Aragón",
+"name": "Geiser, ZP-5203, Pozuelo de Aragón, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7623725,
+"lon": -1.4288964,
+"type": "geyser",
+"cls": "natural"
+},
+{
+"q": "Géiser de Pozuelo de Aragón",
+"name": "Termas Geiser de Pozuelo de Aragón, Borja-Ainzon-Bureta-Pozuelo-Lumpiaque, Pozuelo de Aragón, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7682472,
+"lon": -1.4296476,
+"type": "hot_spring",
+"cls": "natural"
+}
+],
+"lumbreron": [],
+"molino-tabuenca": [
+{
+"q": "Tabuenca molino",
+"name": "Barranco del Molino, Fuendejalón, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7299131,
+"lon": -1.484502,
+"type": "stream",
+"cls": "waterway"
+},
+{
+"q": "Tabuenca molino",
+"name": "Barranco del Molino, Tabuenca, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7276455,
+"lon": -1.529055,
+"type": "locality",
+"cls": "place"
+}
+],
+"iglesia-tabuenca": [
+{
+"q": "Tabuenca",
+"name": "Tabuenca, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.6953337,
+"lon": -1.5435399,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"san-miguel-talamantes": [
+{
+"q": "Ermita de San Miguel, Talamantes",
+"name": "Ermita de San Miguel, Calle Mayor, Talamantes, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.7277383,
+"lon": -1.6781973,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Talamantes",
+"name": "Talamantes, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.730689,
+"lon": -1.678859,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"moncayo-talamantes": [
+{
+"q": "Peñas de Herrera",
+"name": "Peñas de Herrera, Añón de Moncayo, Tarazona y el Moncayo, Zaragoza, Aragón, España",
+"lat": 41.7358786,
+"lon": -1.717925,
+"type": "ridge",
+"cls": "natural"
+},
+{
+"q": "Peñas de Herrera",
+"name": "Peñas de Herrera, Calcena, Aranda, Zaragoza, Aragón, España",
+"lat": 41.7040984,
+"lon": -1.713385,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "Talamantes",
+"name": "Talamantes, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.730689,
+"lon": -1.678859,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"_overpass": {
+"La Estanca": [
+{
+"lat": 41.8928735,
+"lon": -1.5150926,
+"id": "node/1242017316",
+"k": {}
+},
+{
+"lat": 41.9552958,
+"lon": -1.7567973,
+"id": "node/1242049261",
+"k": {}
+}
+],
+"Burrén": [
+{
+"lat": 41.8730782,
+"lon": -1.4265955,
+"id": "node/1242047371",
+"k": {}
+},
+{
+"lat": 41.8712577,
+"lon": -1.424293,
+"id": "node/11647202908",
+"k": {
+"natural": "peak"
+}
+}
+],
+"Santuario de Misericordia": [
+{
+"lat": 41.8548371,
+"lon": -1.5754507,
+"id": "node/1455834349",
+"k": {}
+},
+{
+"lat": 41.8547202,
+"lon": -1.5748418,
+"id": "node/12973746695",
+"k": {}
+}
+],
+"Borja Peñas de Herrera": [
+{
+"lat": 41.8307011,
+"lon": -1.5296316,
+"id": "node/4920503567",
+"k": {
+"tourism": "hotel"
+}
+}
+],
+"Museo de la Colegiata de Santa María": [
+{
+"lat": 41.8350286,
+"lon": -1.5323012,
+"id": "node/8913204927",
+"k": {
+"tourism": "museum"
+}
+}
+],
+"La Estanca - AE08": [
+{
+"lat": 41.9092399,
+"lon": -1.4669752,
+"id": "node/8936206851",
+"k": {}
+}
+],
+"La Estanca - AE07": [
+{
+"lat": 41.9072916,
+"lon": -1.4701617,
+"id": "node/8936206852",
+"k": {}
+}
+],
+"La Estanca - AE06": [
+{
+"lat": 41.904984,
+"lon": -1.4737129,
+"id": "node/8936206853",
+"k": {}
+}
+],
+"La Estanca - AE05": [
+{
+"lat": 41.9026524,
+"lon": -1.4772642,
+"id": "node/8936206854",
+"k": {}
+}
+],
+"La Estanca - AE04": [
+{
+"lat": 41.9016223,
+"lon": -1.4822745,
+"id": "node/8936206855",
+"k": {}
+}
+],
+"La Estanca - AE03": [
+{
+"lat": 41.9012789,
+"lon": -1.4879716,
+"id": "node/8936206856",
+"k": {}
+}
+],
+"La Estanca - AE02": [
+{
+"lat": 41.9006959,
+"lon": -1.493454,
+"id": "node/8936206857",
+"k": {}
+}
+],
+"La Estanca - AE01": [
+{
+"lat": 41.9001928,
+"lon": -1.4990008,
+"id": "node/8936206858",
+"k": {}
+}
+],
+"Ermita del Calvario": [
+{
+"lat": 41.856357,
+"lon": -1.5772932,
+"id": "node/11072057689",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+},
+{
+"lat": 41.856352,
+"lon": -1.5772851,
+"id": "way/1192758135",
+"k": {
+"building": "church"
+}
+}
+],
+"Peñas de Herrera": [
+{
+"lat": 41.7040984,
+"lon": -1.713385,
+"id": "node/11262838996",
+"k": {}
+},
+{
+"lat": 41.7326157,
+"lon": -1.7157577,
+"id": "way/1564643461",
+"k": {
+"natural": "ridge"
+}
+}
+],
+"Palacio de los Condes de Bureta": [
+{
+"lat": 41.8174444,
+"lon": -1.4886524,
+"id": "node/11293641612",
+"k": {
+"historic": "castle"
+}
+}
+],
+"San Miguel": [
+{
+"lat": 41.9036892,
+"lon": -1.7314559,
+"id": "node/12668461255",
+"k": {}
+},
+{
+"lat": 41.8337746,
+"lon": -1.5355926,
+"id": "way/1469415838",
+"k": {
+"building": "yes"
+}
+}
+],
+"Gañarul": [
+{
+"lat": 41.8405491,
+"lon": -1.446187,
+"id": "node/13308087071",
+"k": {}
+}
+],
+"Calle San Miguel": [
+{
+"lat": 41.8330005,
+"lon": -1.4623177,
+"id": "way/174167036",
+"k": {}
+},
+{
+"lat": 41.9805454,
+"lon": -1.4445931,
+"id": "way/178228633",
+"k": {}
+},
+{
+"lat": 41.7310618,
+"lon": -1.6782156,
+"id": "way/209452134",
+"k": {}
+},
+{
+"lat": 41.8265537,
+"lon": -1.7223594,
+"id": "way/242230627",
+"k": {}
+},
+{
+"lat": 41.9712909,
+"lon": -1.6420522,
+"id": "way/242293990",
+"k": {}
+},
+{
+"lat": 41.9720094,
+"lon": -1.6410167,
+"id": "way/242293995",
+"k": {}
+},
+{
+"lat": 41.9720387,
+"lon": -1.6429202,
+"id": "way/242294014",
+"k": {}
+},
+{
+"lat": 41.9466521,
+"lon": -1.6947333,
+"id": "way/243010193",
+"k": {}
+},
+{
+"lat": 41.9211304,
+"lon": -1.4211642,
+"id": "way/367142904",
+"k": {}
+},
+{
+"lat": 41.9228265,
+"lon": -1.421044,
+"id": "way/500052554",
+"k": {}
+},
+{
+"lat": 41.8335726,
+"lon": -1.4634521,
+"id": "way/501174913",
+"k": {}
+},
+{
+"lat": 41.972293,
+"lon": -1.642683,
+"id": "way/611263460",
+"k": {}
+},
+{
+"lat": 41.9712188,
+"lon": -1.6431187,
+"id": "way/611263462",
+"k": {}
+},
+{
+"lat": 41.6949489,
+"lon": -1.5454058,
+"id": "way/656316127",
+"k": {}
+},
+{
+"lat": 41.9702524,
+"lon": -1.663348,
+"id": "way/850427698",
+"k": {}
+},
+{
+"lat": 41.7312151,
+"lon": -1.6783048,
+"id": "way/1192974302",
+"k": {}
+},
+{
+"lat": 41.7311892,
+"lon": -1.6784774,
+"id": "way/1192974303",
+"k": {}
+},
+{
+"lat": 41.826657,
+"lon": -1.721723,
+"id": "way/1470261573",
+"k": {}
+},
+{
+"lat": 41.826766,
+"lon": -1.721879,
+"id": "way/1565130241",
+"k": {}
+}
+],
+"Calle San Lorenzo": [
+{
+"lat": 41.8318903,
+"lon": -1.4639829,
+"id": "way/174167050",
+"k": {}
+}
+],
+"Iglesia de San Lorenzo": [
+{
+"lat": 41.8340605,
+"lon": -1.4608098,
+"id": "way/174289555",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Balsa de la Estanca": [
+{
+"lat": 41.8887933,
+"lon": -1.5193895,
+"id": "way/210111588",
+"k": {}
+}
+],
+"Calle Bodegas del Churro": [
+{
+"lat": 41.7598823,
+"lon": -1.4702367,
+"id": "way/241726742",
+"k": {}
+}
+],
+"Calle Concepción": [
+{
+"lat": 41.8340856,
+"lon": -1.5321963,
+"id": "way/241778560",
+"k": {}
+},
+{
+"lat": 41.8335778,
+"lon": -1.5321536,
+"id": "way/460590942",
+"k": {}
+},
+{
+"lat": 41.7304921,
+"lon": -1.6785982,
+"id": "way/551820540",
+"k": {}
+},
+{
+"lat": 41.8335338,
+"lon": -1.5323864,
+"id": "way/651066938",
+"k": {}
+},
+{
+"lat": 41.903282,
+"lon": -1.7303407,
+"id": "way/770669555",
+"k": {}
+},
+{
+"lat": 41.9036038,
+"lon": -1.7306428,
+"id": "way/771109925",
+"k": {}
+}
+],
+"Iglesia de San Miguel": [
+{
+"lat": 41.9035619,
+"lon": -1.7320516,
+"id": "way/242264342",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de la Concepción": [
+{
+"lat": 41.9029753,
+"lon": -1.730245,
+"id": "way/242264343",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+},
+{
+"lat": 41.885615,
+"lon": -1.6021195,
+"id": "way/1222624574",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 41.834146,
+"lon": -1.5317942,
+"id": "way/1340666880",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Calle Portal de la Concepción": [
+{
+"lat": 41.9708562,
+"lon": -1.6439348,
+"id": "way/242293980",
+"k": {}
+},
+{
+"lat": 41.9716358,
+"lon": -1.6433222,
+"id": "way/242294015",
+"k": {}
+}
+],
+"Parroquia de San Juan Bautista": [
+{
+"lat": 41.9231603,
+"lon": -1.4226267,
+"id": "way/413722877",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Ermita de San Miguel": [
+{
+"lat": 41.7277415,
+"lon": -1.6782069,
+"id": "way/551820535",
+"k": {
+"amenity": "place_of_worship",
+"building": "chapel",
+"religion": "christian"
+}
+}
+],
+"Ermita de la Virgen del Castillo": [
+{
+"lat": 41.7613525,
+"lon": -1.4726907,
+"id": "way/580946314",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"historic": "church",
+"religion": "christian"
+}
+}
+],
+"Iglesia de San Juan Bautista": [
+{
+"lat": 41.7607438,
+"lon": -1.4722883,
+"id": "way/580946462",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"historic": "church",
+"religion": "christian"
+}
+}
+],
+"Plaza de San Miguel": [
+{
+"lat": 41.7956573,
+"lon": -1.6167153,
+"id": "way/678250258",
+"k": {}
+},
+{
+"lat": 41.9033736,
+"lon": -1.7321962,
+"id": "way/957439508",
+"k": {}
+},
+{
+"lat": 41.7956409,
+"lon": -1.6167558,
+"id": "way/1192692646",
+"k": {}
+},
+{
+"lat": 41.795535,
+"lon": -1.6169795,
+"id": "way/1192692647",
+"k": {}
+}
+],
+"Calle Cuevas de San Miguel": [
+{
+"lat": 41.9721258,
+"lon": -1.6421481,
+"id": "way/711688724",
+"k": {}
+}
+],
+"Iglesia de Santiago Apóstol": [
+{
+"lat": 41.8264951,
+"lon": -1.5011949,
+"id": "way/829213413",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Plaza de la Concepción": [
+{
+"lat": 41.9032067,
+"lon": -1.7300557,
+"id": "way/957439504",
+"k": {}
+}
+],
+"Ermita de la Virgen del Rosario": [
+{
+"lat": 41.7955961,
+"lon": -1.617784,
+"id": "way/963877873",
+"k": {
+"amenity": "place_of_worship",
+"building": "chapel",
+"religion": "christian"
+}
+}
+],
+"Palacio de los Hospitalarios": [
+{
+"lat": 41.7959798,
+"lon": -1.6168399,
+"id": "way/963877874",
+"k": {
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Iglesia de San Miguel Arcángel": [
+{
+"lat": 41.7958331,
+"lon": -1.6168125,
+"id": "way/1192692657",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+},
+{
+"lat": 41.9266241,
+"lon": -1.6802684,
+"id": "way/1223978876",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Palacio de la Plaza de San Miguel": [
+{
+"lat": 41.7955429,
+"lon": -1.6171243,
+"id": "way/1192971270",
+"k": {
+"building": "yes",
+"historic": "manor"
+}
+}
+],
+"Iglesia de la Visitación": [
+{
+"lat": 41.8273566,
+"lon": -1.5493817,
+"id": "way/1219042919",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Iglsesia de San Miguel Arcángel": [
+{
+"lat": 41.9093975,
+"lon": -1.690358,
+"id": "way/1225549659",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Albergue juvenil Santuario de Misericordia": [
+{
+"lat": 41.8558644,
+"lon": -1.5747432,
+"id": "way/1340317201",
+"k": {
+"building": "yes",
+"tourism": "hostel"
+}
+}
+],
+"Deposito Agua Santuario de Misericordia": [
+{
+"lat": 41.8555836,
+"lon": -1.5773276,
+"id": "way/1411019530",
+"k": {
+"building": "yes",
+"man_made": "reservoir_covered"
+}
+}
+],
+"Parking Casa de las Conchas": [
+{
+"lat": 41.8352737,
+"lon": -1.5326349,
+"id": "way/1418041064",
+"k": {
+"amenity": "parking"
+}
+}
+],
+"Ermita de Nuestra Señora de Gañarul": [
+{
+"lat": 41.8407912,
+"lon": -1.445041,
+"id": "way/1451054438",
+"k": {
+"amenity": "place_of_worship",
+"building": "chapel",
+"religion": "christian"
+}
+}
+],
+"Parque Eólico La Estanca": [
+{
+"lat": 41.9047164,
+"lon": -1.482988,
+"id": "relation/12998538",
+"k": {}
+}
+],
+"Colegiata de Santa María": [
+{
+"lat": 41.8350134,
+"lon": -1.5320096,
+"id": "relation/20277168",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+]
+}
+}
