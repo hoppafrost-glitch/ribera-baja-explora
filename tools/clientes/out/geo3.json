@@ -1,75 +1,261 @@
 {
 "lumbreron": {
 "nominatim": {
-"Lumbrerón, Pozuelo de Aragón": [],
-"El Lumbrerón": []
+"Lumbrerón": []
 },
 "overpass": []
 },
 "laguna-plantados": {
 "nominatim": {
-"Laguna de Plantados": [],
-"Laguna de Agón": []
+"Laguna de Plantados, Bisimbre": []
 },
-"overpass": []
+"overpass": [
+{
+"lat": 41.8264313,
+"lon": -1.385897,
+"tags": {
+"natural": "water"
+}
+},
+{
+"lat": 41.8270854,
+"lon": -1.3892056,
+"tags": {
+"natural": "water"
+}
+},
+{
+"lat": 41.8356723,
+"lon": -1.456939,
+"tags": {
+"natural": "water"
+}
+},
+{
+"lat": 41.8244929,
+"lon": -1.4680433,
+"tags": {
+"natural": "water",
+"water": "reservoir"
+}
+},
+{
+"lat": 41.8293158,
+"lon": -1.4734897,
+"tags": {
+"natural": "water",
+"water": "reservoir"
+}
+},
+{
+"lat": 41.823448,
+"lon": -1.449603,
+"tags": {
+"natural": "water",
+"water": "reservoir"
+}
+},
+{
+"lat": 41.8995624,
+"lon": -1.4159778,
+"tags": {
+"name": "fuente iluminada",
+"natural": "water",
+"water": "lake"
+}
+},
+{
+"lat": 41.893919,
+"lon": -1.4241852,
+"tags": {
+"name": "manantial del puy",
+"natural": "water",
+"water": "lake"
+}
+},
+{
+"lat": 41.8848259,
+"lon": -1.3902884,
+"tags": {
+"natural": "water"
+}
+},
+{
+"lat": 41.8985976,
+"lon": -1.4162465,
+"tags": {
+"natural": "water",
+"water": "lake"
+}
+},
+{
+"lat": 41.8416487,
+"lon": -1.3806375,
+"tags": {
+"natural": "water",
+"water": "reservoir"
+}
+},
+{
+"lat": 41.8374431,
+"lon": -1.5021375,
+"tags": {
+"natural": "water",
+"water": "reservoir"
+}
+},
+{
+"lat": 41.8454388,
+"lon": -1.3987782,
+"tags": {
+"natural": "water"
+}
+},
+{
+"lat": 41.8297522,
+"lon": -1.4993364,
+"tags": {
+"natural": "water"
+}
+}
+]
 },
 "molino-tabuenca": {
 "nominatim": {
-"Molino de viento, Tabuenca": []
+"Molino de viento de Tabuenca": []
 },
 "overpass": []
 },
 "huerta-frescano": {
 "nominatim": {
-"Ermita de Santa María de la Huerta, Fréscano": [],
-"Santa María de la Huerta, Fréscano": []
+"Ermita de la Huerta, Fréscano": []
+},
+"overpass": [
+{
+"lat": 41.8741721,
+"lon": -1.4496465,
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"name": "Parroquia de Nuestra Señora del Pilar",
+"religion": "christian"
+}
+},
+{
+"lat": 41.873019,
+"lon": -1.4485482,
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"name": "Ermita de Nuestra Señora de la Huerta",
+"religion": "christian"
+}
+},
+{
+"lat": 41.8559797,
+"lon": -1.4434509,
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 41.8937978,
+"lon": -1.4242956,
+"tags": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+},
+{
+"lat": 41.8556833,
+"lon": -1.4520587,
+"tags": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+]
+},
+"minas-sal-remolinos": {
+"nominatim": {
+"Mina Real, Remolinos": [
+{
+"lat": "41.8555044",
+"lon": "-1.1585512",
+"name": "Mina Real, Subida a la puntaza, Remolinos, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"type": "cave_entrance"
+}
+],
+"Minas de sal de Remolinos": []
 },
 "overpass": []
 },
-"palacio-novillas": {
+"puente-hierro-gallur": {
 "nominatim": {
-"Palacio de los Comendadores, Novillas": [],
-"Novillas": [
+"Puente de Gallur": [
 {
-"lat": "41.9339098",
-"lon": "-1.3946950",
-"name": "Novillas, Campo de Borja, Zaragoza, Aragón, España",
-"type": "administrative"
+"lat": "41.8700144",
+"lon": "-1.3154076",
+"name": "Calle del Puente, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50650, España",
+"type": "residential"
+}
+]
+},
+"overpass": []
+},
+"san-andres-torres": {
+"nominatim": {},
+"overpass": [
+{
+"lat": 41.7572423,
+"lon": -1.06445,
+"tags": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+]
+},
+"escarpes-ebro": {
+"nominatim": {},
+"overpass": []
+},
+"azud-pleitas": {
+"nominatim": {
+"Azud de Pleitas": []
+},
+"overpass": []
+},
+"pleitas-iglesia": {
+"nominatim": {},
+"overpass": []
+},
+"alcala-castillo": {
+"nominatim": {
+"Castillo de Alcalá de Ebro": [
+{
+"lat": "41.8046922",
+"lon": "-1.1394348",
+"name": "Castillo de Pola, Carretera de Tudela a Alagón, Torres de Berrellén, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"type": "castle"
 }
 ]
 },
 "overpass": [
 {
-"lat": 41.93286,
-"lon": -1.3914952,
+"lat": 41.8051737,
+"lon": -1.2016617,
 "tags": {
 "building": "yes",
-"historic": "castle",
-"name": "Fuerte fusilero de las guerras carlistas."
-}
-},
-{
-"lat": 41.9352334,
-"lon": -1.3930856,
-"tags": {
-"historic": "castle",
-"name": "Casa-Palacio de los Templarios y Sanjuanistas"
+"historic": "ruins",
+"name": "Ruinas teleferico de Sal"
 }
 }
 ]
-},
-"palacios-mallen": {
-"nominatim": {
-"Palacio de los Zapata, Mallén": [],
-"Mallén": [
-{
-"lat": "41.9046128",
-"lon": "-1.4205413",
-"name": "Mallén, Campo de Borja, Zaragoza, Aragón, 50550, España",
-"type": "administrative"
-}
-]
-},
-"overpass": []
 }
 }
