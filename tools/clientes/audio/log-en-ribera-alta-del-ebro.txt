@@ -1,0 +1,31 @@
+voz en_GB-cori-high cargada
+san-pedro-alagon 380046
+casco-alagon 273780
+casa-cultura-goya 343788
+san-juan-alagon 174410
+virgen-castillo-alagon 180053
+azucarera-alagon 198025
+palacio-ducal-pedrola 339504
+iglesia-angeles-pedrola 244419
+insula-barataria 332713
+san-juan-remolinos 322473
+minas-sal-remolinos 287991
+san-pedro-gallur 272422
+puente-hierro-gallur 181934
+canal-gallur 212236
+ermita-san-miguel-boquineni 244419
+galacho-fornazos 231775
+loteta 206802
+iglesia-luceni 208265
+palacio-fuenclara-luceni 240135
+el-castellar 291648
+barca-castellar 194368
+san-andres-torres 186740
+escarpes-ebro 258629
+murallas-grisen 204295
+puente-jubo 139720
+barboles 185800
+cabanas 193637
+la-joyosa 139302
+azud-pleitas 236582
+hecho: 29 nuevos, 0 errores
