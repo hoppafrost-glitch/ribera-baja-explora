@@ -1,0 +1,31 @@
+voz de_DE-thorsten-high cargada
+san-pedro-alagon 375135
+casco-alagon 293320
+casa-cultura-goya 350685
+san-juan-alagon 194995
+virgen-castillo-alagon 181934
+azucarera-alagon 211818
+palacio-ducal-pedrola 356327
+iglesia-angeles-pedrola 247658
+insula-barataria 324458
+san-juan-remolinos 347655
+minas-sal-remolinos 297604
+san-pedro-gallur 290917
+puente-hierro-gallur 192069
+canal-gallur 237104
+ermita-san-miguel-boquineni 253823
+galacho-fornazos 225506
+loteta 207743
+iglesia-luceni 214744
+palacio-fuenclara-luceni 257166
+el-castellar 282975
+barca-castellar 206175
+san-andres-torres 192487
+escarpes-ebro 251106
+murallas-grisen 195831
+puente-jubo 145049
+barboles 189979
+cabanas 190084
+la-joyosa 138675
+azud-pleitas 245046
+hecho: 29 nuevos, 0 errores
