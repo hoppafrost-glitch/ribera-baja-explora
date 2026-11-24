@@ -1,0 +1,2593 @@
+{
+"san-pedro-alagon": [
+{
+"q": "Iglesia de San Pedro, Alagón",
+"name": "Iglesia de San Pedro Apóstol, Calle de San Pedro, La Jarea, Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"lat": 41.7702153,
+"lon": -1.1219716,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"casco-alagon": [
+{
+"q": "Plaza de España, Alagón",
+"name": "Plaza de España, Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.7705437,
+"lon": -1.1207884,
+"type": "meadow",
+"cls": "landuse"
+},
+{
+"q": "Alagón",
+"name": "Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"lat": 41.7711121,
+"lon": -1.1188807,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"casa-cultura-goya": [
+{
+"q": "Iglesia de San Antonio de Padua, Alagón",
+"name": "Iglesia de San Antonio de Padua, Calle Judería, La Jarea, Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"lat": 41.7693051,
+"lon": -1.1212937,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"san-juan-alagon": [
+{
+"q": "Iglesia de San Juan Bautista, Alagón",
+"name": "Iglesia de San Juan Bautista, Plaza de San Juan, La Jarea, Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"lat": 41.7718958,
+"lon": -1.1227408,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"virgen-castillo-alagon": [
+{
+"q": "Nuestra Señora del Castillo, Alagón",
+"name": "C. privado Nuestra Señora del Castillo, Calle Villa de Sax, La Jarea, Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"lat": 41.7719971,
+"lon": -1.1252138,
+"type": "school",
+"cls": "amenity"
+}
+],
+"azucarera-alagon": [
+{
+"q": "Azucarera, Alagón",
+"name": "Azucarera de Nuestra Señora de las Mercedes, Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.7696493,
+"lon": -1.111758,
+"type": "brownfield",
+"cls": "landuse"
+},
+{
+"q": "Azucarera, Alagón",
+"name": "Parque de la Azucarera, Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.7704663,
+"lon": -1.1134336,
+"type": "park",
+"cls": "leisure"
+},
+{
+"q": "Azucarera, Alagón",
+"name": "Paseo de la Azucarera, Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"lat": 41.7683506,
+"lon": -1.1155746,
+"type": "residential",
+"cls": "highway"
+}
+],
+"palacio-ducal-pedrola": [],
+"iglesia-angeles-pedrola": [
+{
+"q": "Iglesia, Pedrola",
+"name": "Pasadizo Iglesia-Palacio, Pedrola, Ribera Alta del Ebro, Zaragoza, Aragón, 50690, España",
+"lat": 41.7902277,
+"lon": -1.214852,
+"type": "pedestrian",
+"cls": "highway"
+},
+{
+"q": "Iglesia, Pedrola",
+"name": "Plaza de la Iglesia, Pedrola, Ribera Alta del Ebro, Zaragoza, Aragón, 50690, España",
+"lat": 41.7906417,
+"lon": -1.2151437,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Iglesia, Pedrola",
+"name": "Iglesia de Figueruelas, Plaza de la Iglesia, Figueruelas, Ribera Alta del Ebro, Zaragoza, Aragón, 50639, España",
+"lat": 41.7676451,
+"lon": -1.1725785,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"insula-barataria": [
+{
+"q": "Castillo, Alcalá de Ebro",
+"name": "Castillo de Pola, Carretera de Tudela a Alagón, Torres de Berrellén, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"lat": 41.8046922,
+"lon": -1.1394348,
+"type": "castle",
+"cls": "historic"
+},
+{
+"q": "Castillo, Alcalá de Ebro",
+"name": "Castillo de Pola, Carretera de Tudela a Alagón, Torres de Berrellén, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"lat": 41.804578,
+"lon": -1.1395674,
+"type": "ruins",
+"cls": "historic"
+},
+{
+"q": "Alcalá de Ebro",
+"name": "Alcalá de Ebro, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.8140364,
+"lon": -1.194081,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"san-juan-remolinos": [
+{
+"q": "Remolinos",
+"name": "Remolinos, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.8386475,
+"lon": -1.1768198,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"minas-sal-remolinos": [],
+"san-pedro-gallur": [
+{
+"q": "Iglesia de San Pedro, Gallur",
+"name": "Iglesia Parroquial de San Pedro, Calle de la Iglesia, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50650, España",
+"lat": 41.8700691,
+"lon": -1.3180747,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Gallur",
+"name": "Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50650, España",
+"lat": 41.8690263,
+"lon": -1.3182962,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"puente-hierro-gallur": [],
+"canal-gallur": [
+{
+"q": "Canal Imperial de Aragón, Gallur",
+"name": "Canal Imperial de Aragón, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50650, España",
+"lat": 41.8755096,
+"lon": -1.3315651,
+"type": "canal",
+"cls": "waterway"
+},
+{
+"q": "Gallur canal",
+"name": "Canal Imperial de Aragón, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50650, España",
+"lat": 41.8755096,
+"lon": -1.3315651,
+"type": "canal",
+"cls": "waterway"
+},
+{
+"q": "Gallur canal",
+"name": "Desagüe soterrado Loteta-Canal Imperial Aragon, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.8328788,
+"lon": -1.3108336,
+"type": "drain",
+"cls": "waterway"
+},
+{
+"q": "Gallur canal",
+"name": "Arcos del Canal, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50641, España",
+"lat": 41.849374,
+"lon": -1.2984563,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "Gallur canal",
+"name": "Avenida Canal Imperial, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50650, España",
+"lat": 41.8662668,
+"lon": -1.312006,
+"type": "residential",
+"cls": "highway"
+}
+],
+"ermita-san-miguel-boquineni": [
+{
+"q": "Boquiñeni",
+"name": "Boquiñeni, Ribera Alta del Ebro, Zaragoza, Aragón, 50641, España",
+"lat": 41.8481709,
+"lon": -1.2519755,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"galacho-fornazos": [
+{
+"q": "Galacho de los Fornazos",
+"name": "Galacho de los Fornazos, Boquiñeni, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.851037,
+"lon": -1.2723209,
+"type": "wetland",
+"cls": "natural"
+},
+{
+"q": "Galacho de los Fornazos",
+"name": "Galacho de los Fornazos, VP-024, Boquiñeni, Ribera Alta del Ebro, Zaragoza, Aragón, 50641, España",
+"lat": 41.8490983,
+"lon": -1.2745849,
+"type": "viewpoint",
+"cls": "tourism"
+},
+{
+"q": "Los Fornazos",
+"name": "Los Fornazos, Boquiñeni, Ribera Alta del Ebro, Zaragoza, Aragón, 50641, España",
+"lat": 41.8458918,
+"lon": -1.2769399,
+"type": "locality",
+"cls": "place"
+}
+],
+"loteta": [
+{
+"q": "Embalse de La Loteta",
+"name": "Embalse de la Loteta, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50650, España",
+"lat": 41.8238304,
+"lon": -1.322933,
+"type": "unclassified",
+"cls": "highway"
+},
+{
+"q": "Embalse de La Loteta",
+"name": "Embalse de la Loteta, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50650, España",
+"lat": 41.8249914,
+"lon": -1.3265719,
+"type": "marina",
+"cls": "leisure"
+},
+{
+"q": "La Loteta",
+"name": "La Loteta, Magallón, Campo de Borja, Zaragoza, Aragón, España",
+"lat": 41.8141307,
+"lon": -1.3311309,
+"type": "reservoir",
+"cls": "water"
+},
+{
+"q": "La Loteta",
+"name": "La Loteta, Gallur, Ribera Alta del Ebro, Zaragoza, Aragón, 50650, España",
+"lat": 41.820792,
+"lon": -1.3265916,
+"type": "locality",
+"cls": "place"
+},
+{
+"q": "La Loteta",
+"name": "La Loteta, Magallón, Campo de Borja, Zaragoza, Aragón, 50650, España",
+"lat": 41.8154742,
+"lon": -1.3629586,
+"type": "locality",
+"cls": "place"
+}
+],
+"iglesia-luceni": [
+{
+"q": "Iglesia de la Purificación, Luceni",
+"name": "iglesia de la Purificación de Nuestra Señora de Luceni, Calle de la Iglesia, Luceni, Ribera Alta del Ebro, Zaragoza, Aragón, 50641, España",
+"lat": 41.8297297,
+"lon": -1.2375052,
+"type": "place_of_worship",
+"cls": "amenity"
+},
+{
+"q": "Luceni",
+"name": "Luceni, Ribera Alta del Ebro, Zaragoza, Aragón, 50640, España",
+"lat": 41.8285871,
+"lon": -1.2392195,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"palacio-fuenclara-luceni": [
+{
+"q": "Ayuntamiento, Luceni",
+"name": "Plaza del Ayuntamiento, Luceni, Ribera Alta del Ebro, Zaragoza, Aragón, 50640, España",
+"lat": 41.828779,
+"lon": -1.2389612,
+"type": "residential",
+"cls": "highway"
+},
+{
+"q": "Ayuntamiento, Luceni",
+"name": "Ayuntamiento de Luceni, Calle de Cañamar, Luceni, Ribera Alta del Ebro, Zaragoza, Aragón, 50640, España",
+"lat": 41.8287067,
+"lon": -1.2386335,
+"type": "townhall",
+"cls": "amenity"
+},
+{
+"q": "Plaza de España, Luceni",
+"name": "Plaza de España, Luceni, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.8283132,
+"lon": -1.2396466,
+"type": "park",
+"cls": "leisure"
+},
+{
+"q": "Plaza de España, Luceni",
+"name": "Plaza de España, Luceni, Ribera Alta del Ebro, Zaragoza, Aragón, 50640, España",
+"lat": 41.8282791,
+"lon": -1.2399151,
+"type": "residential",
+"cls": "highway"
+}
+],
+"el-castellar": [
+{
+"q": "El Castellar, Torres de Berrellén",
+"name": "Castillo el Castellar, Camino de las Rozas, Torres de Berrellén, Ribera Alta del Ebro, Zaragoza, Aragón, 50692, España",
+"lat": 41.785949,
+"lon": -1.0611863,
+"type": "castle",
+"cls": "historic"
+}
+],
+"barca-castellar": [
+{
+"q": "Barca, Torres de Berrellén",
+"name": "Barca del Castellar, Camino de las Rozas, Torres de Berrellén, Ribera Alta del Ebro, Zaragoza, Aragón, 50692, España",
+"lat": 41.7756298,
+"lon": -1.0589822,
+"type": "ferry_terminal",
+"cls": "amenity"
+},
+{
+"q": "Torres de Berrellén Ebro",
+"name": "Rio Ebro, Torres de Berrellén, Ribera Alta del Ebro, Zaragoza, Aragón, 50692, España",
+"lat": 41.7630123,
+"lon": -1.0429839,
+"type": "river",
+"cls": "waterway"
+},
+{
+"q": "Torres de Berrellén Ebro",
+"name": "Torres de Berrellén, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.7570171,
+"lon": -1.0646091,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"san-andres-torres": [
+{
+"q": "Torres de Berrellén",
+"name": "Torres de Berrellén, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.7570171,
+"lon": -1.0646091,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"escarpes-ebro": [],
+"murallas-grisen": [
+{
+"q": "Murallas de Grisén",
+"name": "Murallas de Grisen, Alagón, Ribera Alta del Ebro, Zaragoza, Aragón, 50297, España",
+"lat": 41.7433618,
+"lon": -1.1455413,
+"type": "track",
+"cls": "highway"
+}
+],
+"puente-jubo": [
+{
+"q": "Puente Jubo, Pinseque",
+"name": "Puente Jubo, Pinseque, Ribera Alta del Ebro, Zaragoza, Aragón, 50630, España",
+"lat": 41.734955,
+"lon": -1.1106659,
+"type": "path",
+"cls": "highway"
+},
+{
+"q": "Pinseque canal",
+"name": "Compuertas canal imperial, Pinseque, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.7376526,
+"lon": -1.110128,
+"type": "lock_gate",
+"cls": "waterway"
+},
+{
+"q": "Pinseque canal",
+"name": "Avenida del Canal, Pinseque, Ribera Alta del Ebro, Zaragoza, Aragón, 50692, España",
+"lat": 41.7370961,
+"lon": -1.1052412,
+"type": "residential",
+"cls": "highway"
+}
+],
+"barboles": [
+{
+"q": "Iglesia de la Asunción, Bárboles",
+"name": "Iglesia Parroquial Virgen de la Asunción, Calle Palomar, Bárboles, Ribera Alta del Ebro, Zaragoza, Aragón, 50297, España",
+"lat": 41.7124057,
+"lon": -1.1875517,
+"type": "place_of_worship",
+"cls": "amenity"
+}
+],
+"cabanas": [
+{
+"q": "Cabañas de Ebro",
+"name": "Cabañas de Ebro, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.7945931,
+"lon": -1.1624759,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"la-joyosa": [
+{
+"q": "Marlofa",
+"name": "Marlofa, La Joyosa, Ribera Alta del Ebro, Zaragoza, Aragón, 50692, España",
+"lat": 41.7407242,
+"lon": -1.0693614,
+"type": "hamlet",
+"cls": "place"
+}
+],
+"azud-pleitas": [
+{
+"q": "Pleitas",
+"name": "Pleitas, Ribera Alta del Ebro, Zaragoza, Aragón, España",
+"lat": 41.7112771,
+"lon": -1.2028208,
+"type": "administrative",
+"cls": "boundary"
+}
+],
+"_overpass": {
+"Estación de Servicio Sancho Abarca": [
+{
+"lat": 41.912194,
+"lon": -1.255333,
+"id": "node/839475268",
+"k": {
+"amenity": "fuel"
+}
+}
+],
+"Cooperativa San Miguel": [
+{
+"lat": 41.914,
+"lon": -1.259917,
+"id": "node/839475610",
+"k": {
+"amenity": "fuel"
+}
+}
+],
+"Iglesia de San Miguel": [
+{
+"lat": 41.7179585,
+"lon": -1.0261497,
+"id": "node/922907994",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+}
+],
+"Las Barcas": [
+{
+"lat": 41.7873251,
+"lon": -1.1116823,
+"id": "node/1242017133",
+"k": {}
+}
+],
+"La Loteta": [
+{
+"lat": 41.8154742,
+"lon": -1.3629586,
+"id": "node/1242017765",
+"k": {}
+},
+{
+"lat": 41.820792,
+"lon": -1.3265916,
+"id": "node/1242018972",
+"k": {}
+},
+{
+"lat": 41.8141263,
+"lon": -1.3344205,
+"id": "relation/20353654",
+"k": {
+"natural": "water"
+}
+}
+],
+"San Miguel": [
+{
+"lat": 41.7034499,
+"lon": -1.0488083,
+"id": "node/1242017863",
+"k": {}
+},
+{
+"lat": 41.8522348,
+"lon": -1.2664104,
+"id": "node/1455834233",
+"k": {}
+}
+],
+"Puig Blanco": [
+{
+"lat": 41.8352872,
+"lon": -0.991974,
+"id": "node/1242021084",
+"k": {}
+}
+],
+"Los Fornazos": [
+{
+"lat": 41.8458918,
+"lon": -1.2769399,
+"id": "node/1242021517",
+"k": {}
+}
+],
+"El Puig Trigo": [
+{
+"lat": 41.9142864,
+"lon": -1.0176894,
+"id": "node/1242021609",
+"k": {}
+}
+],
+"Barca Vieja": [
+{
+"lat": 41.8237027,
+"lon": -1.1672535,
+"id": "node/1242025702",
+"k": {}
+}
+],
+"Puentecilla": [
+{
+"lat": 41.7740361,
+"lon": -1.1048534,
+"id": "node/1242026545",
+"k": {}
+}
+],
+"Puig Águila": [
+{
+"lat": 41.9110887,
+"lon": -1.1541558,
+"id": "node/1242027160",
+"k": {}
+}
+],
+"Codera de San Miguel": [
+{
+"lat": 41.709608,
+"lon": -1.0775046,
+"id": "node/1242027967",
+"k": {}
+}
+],
+"Los Puentes": [
+{
+"lat": 41.7202474,
+"lon": -1.1753783,
+"id": "node/1242030138",
+"k": {}
+}
+],
+"El Caracol": [
+{
+"lat": 41.705934,
+"lon": -1.0265706,
+"id": "node/1242030960",
+"k": {}
+},
+{
+"lat": 41.7436527,
+"lon": -1.1468391,
+"id": "way/293090931",
+"k": {}
+},
+{
+"lat": 41.7434451,
+"lon": -1.1445095,
+"id": "way/503828050",
+"k": {
+"natural": "wood"
+}
+}
+],
+"Los Castillos": [
+{
+"lat": 41.7725225,
+"lon": -1.1361791,
+"id": "node/1242031007",
+"k": {}
+}
+],
+"Gallipuente": [
+{
+"lat": 41.7248112,
+"lon": -1.086681,
+"id": "node/1242036464",
+"k": {}
+}
+],
+"Alameda de San Miguel": [
+{
+"lat": 41.8550691,
+"lon": -1.2757176,
+"id": "node/1242036698",
+"k": {}
+}
+],
+"Alto de Loteta": [
+{
+"lat": 41.8150154,
+"lon": -1.3132119,
+"id": "node/1242038433",
+"k": {}
+}
+],
+"Puig Amarillo": [
+{
+"lat": 41.8476636,
+"lon": -0.9915627,
+"id": "node/1242042232",
+"k": {}
+}
+],
+"Loteta Baja": [
+{
+"lat": 41.8151992,
+"lon": -1.322682,
+"id": "node/1242050859",
+"k": {}
+}
+],
+"Puente de Borja": [
+{
+"lat": 41.8301652,
+"lon": -1.2756641,
+"id": "node/1242053818",
+"k": {}
+}
+],
+"Huerta del Castellar": [
+{
+"lat": 41.7801977,
+"lon": -1.0956715,
+"id": "node/1242057091",
+"k": {}
+}
+],
+"Valdecastillo": [
+{
+"lat": 41.9196953,
+"lon": -1.1679922,
+"id": "node/1242057316",
+"k": {}
+}
+],
+"Urbanización San Antonio": [
+{
+"lat": 41.849065,
+"lon": -1.3148465,
+"id": "node/1455834451",
+"k": {}
+}
+],
+"Embalse de la Loteta": [
+{
+"lat": 41.8249914,
+"lon": -1.3265719,
+"id": "node/1477213876",
+"k": {
+"leisure": "marina"
+}
+},
+{
+"lat": 41.8252474,
+"lon": -1.3216184,
+"id": "way/199621895",
+"k": {}
+}
+],
+"Iglesia de San Juan Bautista": [
+{
+"lat": 41.7718958,
+"lon": -1.1227408,
+"id": "node/1877443882",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+}
+],
+"Hotel Los Ángeles": [
+{
+"lat": 41.7695271,
+"lon": -1.1222593,
+"id": "node/1877733720",
+"k": {
+"tourism": "hotel"
+}
+}
+],
+"Iglesia de San Pedro Apóstol": [
+{
+"lat": 41.7702153,
+"lon": -1.1219716,
+"id": "node/1877733756",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+}
+],
+"Iglesia de San Antonio de Padua": [
+{
+"lat": 41.7693051,
+"lon": -1.1212937,
+"id": "node/1877759403",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+}
+],
+"C. privado Nuestra Señora del Castillo": [
+{
+"lat": 41.7719971,
+"lon": -1.1252138,
+"id": "node/1877800240",
+"k": {
+"amenity": "school"
+}
+}
+],
+"Merendero del Caracol": [
+{
+"lat": 41.7438741,
+"lon": -1.145027,
+"id": "node/1879589780",
+"k": {
+"tourism": "picnic_site"
+}
+}
+],
+"C. F. Virgen del Castillo": [
+{
+"lat": 41.7720583,
+"lon": -1.1245004,
+"id": "node/1882229392",
+"k": {
+"amenity": "school"
+}
+}
+],
+"SPOT sur La Loteta Sports": [
+{
+"lat": 41.8005926,
+"lon": -1.3071353,
+"id": "node/2308996211",
+"k": {
+"tourism": "information"
+}
+}
+],
+"Carnicería Mª Ángeles Calavia": [
+{
+"lat": 41.7853615,
+"lon": -1.2214256,
+"id": "node/2683512756",
+"k": {}
+}
+],
+"Galacho de los Fornazos": [
+{
+"lat": 41.8490983,
+"lon": -1.2745849,
+"id": "node/2895678174",
+"k": {
+"tourism": "viewpoint"
+}
+},
+{
+"lat": 41.8510571,
+"lon": -1.2750931,
+"id": "way/153352133",
+"k": {
+"natural": "wetland"
+}
+}
+],
+"Embarcadero de Boquiñeni": [
+{
+"lat": 41.8543116,
+"lon": -1.2545833,
+"id": "node/4514274886",
+"k": {}
+}
+],
+"Embarcadero": [
+{
+"lat": 41.8348559,
+"lon": -1.2250554,
+"id": "node/4514284891",
+"k": {}
+},
+{
+"lat": 41.8349865,
+"lon": -1.2249793,
+"id": "way/454948130",
+"k": {}
+}
+],
+"Embarcadero Alto de la Venta": [
+{
+"lat": 41.7967505,
+"lon": -1.1700398,
+"id": "node/4514318194",
+"k": {}
+},
+{
+"lat": 41.7968952,
+"lon": -1.1695513,
+"id": "way/455161242",
+"k": {
+"man_made": "pier"
+}
+}
+],
+"Embarcadero de Boquiñeni Virgen del Rosario": [
+{
+"lat": 41.8534816,
+"lon": -1.2548355,
+"id": "node/4515999983",
+"k": {
+"leisure": "marina"
+}
+},
+{
+"lat": 41.8543956,
+"lon": -1.2546673,
+"id": "node/4516001722",
+"k": {}
+},
+{
+"lat": 41.8541829,
+"lon": -1.2545964,
+"id": "way/455160307",
+"k": {
+"man_made": "pier"
+}
+},
+{
+"lat": 41.8533752,
+"lon": -1.2548479,
+"id": "way/455160308",
+"k": {
+"man_made": "pier"
+}
+}
+],
+"Embarcadero de Gallur": [
+{
+"lat": 41.8712575,
+"lon": -1.3141362,
+"id": "node/4518736361",
+"k": {}
+},
+{
+"lat": 41.8711479,
+"lon": -1.3138633,
+"id": "way/455149030",
+"k": {
+"man_made": "pier"
+}
+}
+],
+"Castillo el Castellar": [
+{
+"lat": 41.785949,
+"lon": -1.0611863,
+"id": "node/4519389441",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Castillo de Pola": [
+{
+"lat": 41.8046922,
+"lon": -1.1394348,
+"id": "node/4528982164",
+"k": {
+"historic": "castle"
+}
+},
+{
+"lat": 41.8045957,
+"lon": -1.1395392,
+"id": "way/517369127",
+"k": {
+"historic": "ruins"
+}
+}
+],
+"Talleres Palacio, S.A. -TAPASA-": [
+{
+"lat": 41.71059,
+"lon": -1.0094728,
+"id": "node/4857347652",
+"k": {}
+}
+],
+"Virgen del Castillo": [
+{
+"lat": 41.7709238,
+"lon": -1.1228307,
+"id": "node/4985353064",
+"k": {
+"amenity": "place_of_worship",
+"religion": "christian"
+}
+}
+],
+"Puente Barulla": [
+{
+"lat": 41.7689101,
+"lon": -1.1769564,
+"id": "node/7485446494",
+"k": {
+"tourism": "attraction"
+}
+}
+],
+"Calle San Antonio 44": [
+{
+"lat": 41.7384148,
+"lon": -1.03994,
+"id": "node/7680613181",
+"k": {}
+}
+],
+"Carnicería San Andrés": [
+{
+"lat": 41.7155311,
+"lon": -1.0235332,
+"id": "node/13550647471",
+"k": {}
+}
+],
+"Castillo de Santa Inés": [
+{
+"lat": 41.8004764,
+"lon": -1.1077154,
+"id": "node/13712614645",
+"k": {
+"historic": "castle"
+}
+}
+],
+"Camino de Puente de Clavería": [
+{
+"lat": 41.6879987,
+"lon": -1.0367782,
+"id": "way/38961191",
+"k": {}
+},
+{
+"lat": 41.6929204,
+"lon": -1.0530649,
+"id": "way/821254921",
+"k": {}
+},
+{
+"lat": 41.7053885,
+"lon": -1.0951169,
+"id": "way/821254922",
+"k": {}
+},
+{
+"lat": 41.6929382,
+"lon": -1.0622394,
+"id": "way/821254923",
+"k": {}
+},
+{
+"lat": 41.6980483,
+"lon": -1.076678,
+"id": "way/821256234",
+"k": {}
+},
+{
+"lat": 41.707819,
+"lon": -1.101308,
+"id": "way/821257447",
+"k": {}
+},
+{
+"lat": 41.6913723,
+"lon": -1.0447,
+"id": "way/902357320",
+"k": {}
+},
+{
+"lat": 41.6914177,
+"lon": -1.0443067,
+"id": "way/902357321",
+"k": {}
+},
+{
+"lat": 41.6914081,
+"lon": -1.0447274,
+"id": "way/902357323",
+"k": {}
+},
+{
+"lat": 41.6913764,
+"lon": -1.0443263,
+"id": "way/1415401210",
+"k": {}
+}
+],
+"Calle del Palacio": [
+{
+"lat": 41.7190808,
+"lon": -1.0264112,
+"id": "way/40762851",
+"k": {}
+}
+],
+"Calle de San Antonio": [
+{
+"lat": 41.7388584,
+"lon": -1.0382267,
+"id": "way/40762864",
+"k": {}
+},
+{
+"lat": 41.7063328,
+"lon": -0.9977166,
+"id": "way/49023625",
+"k": {}
+},
+{
+"lat": 41.6808158,
+"lon": -1.231295,
+"id": "way/170272967",
+"k": {}
+},
+{
+"lat": 41.7383234,
+"lon": -1.040005,
+"id": "way/385408455",
+"k": {}
+},
+{
+"lat": 41.7384314,
+"lon": -1.0397948,
+"id": "way/822588498",
+"k": {}
+},
+{
+"lat": 41.7392492,
+"lon": -1.0367244,
+"id": "way/1563431131",
+"k": {}
+}
+],
+"Campo Municipal de Fútbol San Miguel": [
+{
+"lat": 41.7171466,
+"lon": -1.034401,
+"id": "way/40839702",
+"k": {
+"leisure": "pitch"
+}
+}
+],
+"Camino Puente Clavería": [
+{
+"lat": 41.683918,
+"lon": -1.0276517,
+"id": "way/42723252",
+"k": {}
+},
+{
+"lat": 41.6845035,
+"lon": -1.0290288,
+"id": "way/1377603017",
+"k": {}
+},
+{
+"lat": 41.6840596,
+"lon": -1.0279911,
+"id": "way/1377603018",
+"k": {}
+},
+{
+"lat": 41.6841503,
+"lon": -1.0281977,
+"id": "way/1377603019",
+"k": {}
+},
+{
+"lat": 41.6842848,
+"lon": -1.0285147,
+"id": "way/1377603020",
+"k": {}
+},
+{
+"lat": 41.6843564,
+"lon": -1.0286856,
+"id": "way/1377603021",
+"k": {}
+}
+],
+"Camino de la Barca": [
+{
+"lat": 41.7724383,
+"lon": -1.1161119,
+"id": "way/48559466",
+"k": {}
+}
+],
+"Avenida Canal Imperial": [
+{
+"lat": 41.8674295,
+"lon": -1.3107116,
+"id": "way/48700483",
+"k": {}
+},
+{
+"lat": 41.8658961,
+"lon": -1.3121967,
+"id": "way/205279405",
+"k": {}
+},
+{
+"lat": 41.8663268,
+"lon": -1.3120633,
+"id": "way/205279408",
+"k": {}
+}
+],
+"Calle Catedra de San Pedro": [
+{
+"lat": 41.8656654,
+"lon": -1.316092,
+"id": "way/48837761",
+"k": {}
+}
+],
+"Calle San Antonio": [
+{
+"lat": 41.8697923,
+"lon": -1.3173649,
+"id": "way/48837777",
+"k": {}
+},
+{
+"lat": 41.7696955,
+"lon": -1.1213473,
+"id": "way/177322089",
+"k": {}
+},
+{
+"lat": 41.9190983,
+"lon": -1.2518093,
+"id": "way/370000506",
+"k": {}
+},
+{
+"lat": 41.8631628,
+"lon": -1.2634403,
+"id": "way/979388311",
+"k": {}
+}
+],
+"Plaza Puente Alto": [
+{
+"lat": 41.7577145,
+"lon": -1.066174,
+"id": "way/48981979",
+"k": {}
+},
+{
+"lat": 41.7578062,
+"lon": -1.0662166,
+"id": "way/499977190",
+"k": {}
+},
+{
+"lat": 41.757759,
+"lon": -1.0663714,
+"id": "way/821260338",
+"k": {}
+},
+{
+"lat": 41.7578329,
+"lon": -1.0663319,
+"id": "way/822588500",
+"k": {}
+},
+{
+"lat": 41.7576898,
+"lon": -1.0662877,
+"id": "way/822588501",
+"k": {}
+}
+],
+"Calle San Andrés": [
+{
+"lat": 41.7595754,
+"lon": -1.0670808,
+"id": "way/48982000",
+"k": {}
+},
+{
+"lat": 41.7061985,
+"lon": -1.0001528,
+"id": "way/49023645",
+"k": {}
+},
+{
+"lat": 41.7071794,
+"lon": -1.0016936,
+"id": "way/1578510774",
+"k": {}
+}
+],
+"Avenida del Castellar": [
+{
+"lat": 41.7608783,
+"lon": -1.0667574,
+"id": "way/48982011",
+"k": {}
+},
+{
+"lat": 41.7594445,
+"lon": -1.066235,
+"id": "way/141131646",
+"k": {}
+}
+],
+"Calle San Pedro": [
+{
+"lat": 41.8700881,
+"lon": -1.3168601,
+"id": "way/49012619",
+"k": {}
+}
+],
+"Calle Castillo": [
+{
+"lat": 41.7184081,
+"lon": -1.0260751,
+"id": "way/49025391",
+"k": {}
+},
+{
+"lat": 41.7133917,
+"lon": -1.1872548,
+"id": "way/136299601",
+"k": {}
+}
+],
+"Calle San Miguel": [
+{
+"lat": 41.7193483,
+"lon": -1.0256987,
+"id": "way/49025393",
+"k": {}
+},
+{
+"lat": 41.747348,
+"lon": -1.1631718,
+"id": "way/140349667",
+"k": {}
+},
+{
+"lat": 41.8496436,
+"lon": -1.2545247,
+"id": "way/153346050",
+"k": {}
+},
+{
+"lat": 41.9196847,
+"lon": -1.2573584,
+"id": "way/370000496",
+"k": {}
+},
+{
+"lat": 41.7202403,
+"lon": -1.0253569,
+"id": "way/710714661",
+"k": {}
+}
+],
+"Plaza Santiago Castillo": [
+{
+"lat": 41.7189588,
+"lon": -1.0276125,
+"id": "way/49025395",
+"k": {}
+},
+{
+"lat": 41.7191771,
+"lon": -1.027795,
+"id": "way/64441749",
+"k": {}
+},
+{
+"lat": 41.7190454,
+"lon": -1.0274969,
+"id": "way/78328378",
+"k": {
+"leisure": "park"
+}
+}
+],
+"CEIP San Miguel": [
+{
+"lat": 41.7177045,
+"lon": -1.0268374,
+"id": "way/78325550",
+"k": {
+"amenity": "school"
+}
+}
+],
+"Puente de Garrapinillos": [
+{
+"lat": 41.6749208,
+"lon": -1.0339178,
+"id": "way/99890860",
+"k": {}
+}
+],
+"Puente Clavería": [
+{
+"lat": 41.7077963,
+"lon": -1.1045567,
+"id": "way/104121835",
+"k": {}
+},
+{
+"lat": 41.7077155,
+"lon": -1.1038652,
+"id": "way/104121836",
+"k": {}
+},
+{
+"lat": 41.7076213,
+"lon": -1.1030155,
+"id": "way/1479827856",
+"k": {}
+}
+],
+"Calle de San Pedro": [
+{
+"lat": 41.7364381,
+"lon": -1.1014928,
+"id": "way/105586693",
+"k": {}
+},
+{
+"lat": 41.8305895,
+"lon": -1.2385319,
+"id": "way/138629899",
+"k": {}
+},
+{
+"lat": 41.7701567,
+"lon": -1.1219152,
+"id": "way/177322087",
+"k": {}
+}
+],
+"Arco del Palacio": [
+{
+"lat": 41.7901456,
+"lon": -1.2135147,
+"id": "way/134070406",
+"k": {}
+},
+{
+"lat": 41.7900715,
+"lon": -1.2133937,
+"id": "way/172173137",
+"k": {}
+}
+],
+"Jardines del Palacio Duques de Villahermosa": [
+{
+"lat": 41.7874518,
+"lon": -1.214106,
+"id": "way/134969600",
+"k": {
+"leisure": "garden"
+}
+}
+],
+"Antiguo Puente del Canal": [
+{
+"lat": 41.7836363,
+"lon": -1.2169622,
+"id": "way/135098690",
+"k": {}
+}
+],
+"Ronda del Castellar": [
+{
+"lat": 41.7166914,
+"lon": -0.9938474,
+"id": "way/135270353",
+"k": {}
+},
+{
+"lat": 41.7174658,
+"lon": -0.9960005,
+"id": "way/961368618",
+"k": {}
+}
+],
+"Desagüe soterrado Loteta-Canal Imperial Aragon": [
+{
+"lat": 41.8324058,
+"lon": -1.3105159,
+"id": "way/135830986",
+"k": {
+"man_made": "pipeline"
+}
+}
+],
+"Puente Dehesa Garrapinillos": [
+{
+"lat": 41.6878529,
+"lon": -1.0794813,
+"id": "way/136558347",
+"k": {}
+}
+],
+"Canal Imperial de Aragón": [
+{
+"lat": 41.7106914,
+"lon": -1.0857391,
+"id": "way/136660287",
+"k": {}
+},
+{
+"lat": 41.7425971,
+"lon": -1.1258792,
+"id": "way/136660288",
+"k": {}
+},
+{
+"lat": 41.6836945,
+"lon": -1.0597294,
+"id": "way/136660289",
+"k": {}
+},
+{
+"lat": 41.669702,
+"lon": -1.0222386,
+"id": "way/136660290",
+"k": {}
+},
+{
+"lat": 41.8755096,
+"lon": -1.3315651,
+"id": "way/164968188",
+"k": {}
+},
+{
+"lat": 41.8095565,
+"lon": -1.2392524,
+"id": "way/164968189",
+"k": {}
+},
+{
+"lat": 41.9003983,
+"lon": -1.3669431,
+"id": "way/452728899",
+"k": {}
+},
+{
+"lat": 41.7794198,
+"lon": -1.116532,
+"id": "relation/2199671",
+"k": {}
+},
+{
+"lat": 41.639235,
+"lon": -0.9365925,
+"id": "relation/11555623",
+"k": {
+"natural": "water"
+}
+}
+],
+"Compuertas canal imperial": [
+{
+"lat": 41.7376526,
+"lon": -1.110128,
+"id": "way/136660325",
+"k": {}
+}
+],
+"Almenara San Miguel": [
+{
+"lat": 41.6836859,
+"lon": -1.0597083,
+"id": "way/136660327",
+"k": {}
+},
+{
+"lat": 41.6840922,
+"lon": -1.0603532,
+"id": "way/1036613537",
+"k": {
+"building": "yes"
+}
+}
+],
+"Pasadizo Iglesia-Palacio": [
+{
+"lat": 41.7902328,
+"lon": -1.2146982,
+"id": "way/139571982",
+"k": {
+"historic": "other values"
+}
+}
+],
+"Calle Puentes": [
+{
+"lat": 41.7460555,
+"lon": -1.1625722,
+"id": "way/140786255",
+"k": {}
+}
+],
+"Calle de la Barca": [
+{
+"lat": 41.8303578,
+"lon": -1.2379735,
+"id": "way/141900554",
+"k": {}
+}
+],
+"Camino Canal Imperial Aragon": [
+{
+"lat": 41.7443562,
+"lon": -1.1299569,
+"id": "way/141901874",
+"k": {}
+},
+{
+"lat": 41.7412714,
+"lon": -1.1355853,
+"id": "way/221630995",
+"k": {}
+},
+{
+"lat": 41.7420309,
+"lon": -1.1396036,
+"id": "way/221630996",
+"k": {}
+}
+],
+"Ermita San Miguel": [
+{
+"lat": 41.8522626,
+"lon": -1.2664884,
+"id": "way/153336903",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Paseo del Palacio": [
+{
+"lat": 41.7357807,
+"lon": -1.1010318,
+"id": "way/161824721",
+"k": {}
+}
+],
+"Hotel Castillo Bonavia": [
+{
+"lat": 41.7743959,
+"lon": -1.217775,
+"id": "way/164615935",
+"k": {
+"building": "yes",
+"tourism": "hotel"
+}
+}
+],
+"Calle del Puente": [
+{
+"lat": 41.8700361,
+"lon": -1.3153996,
+"id": "way/164935883",
+"k": {}
+}
+],
+"Calle del Embarcadero": [
+{
+"lat": 41.8666016,
+"lon": -1.3147172,
+"id": "way/164968184",
+"k": {}
+}
+],
+"Camino del Puente de Claveria": [
+{
+"lat": 41.7085079,
+"lon": -1.1563467,
+"id": "way/170288657",
+"k": {}
+}
+],
+"Avenida Sancho Abarca": [
+{
+"lat": 41.9178658,
+"lon": -1.2510128,
+"id": "way/170993386",
+"k": {}
+},
+{
+"lat": 41.9154022,
+"lon": -1.2571342,
+"id": "way/170993840",
+"k": {}
+},
+{
+"lat": 41.9162608,
+"lon": -1.2551775,
+"id": "way/1264214088",
+"k": {}
+},
+{
+"lat": 41.9161931,
+"lon": -1.2551693,
+"id": "way/1562721753",
+"k": {}
+}
+],
+"Calle del Castillo": [
+{
+"lat": 41.7907662,
+"lon": -1.2144737,
+"id": "way/172173120",
+"k": {}
+},
+{
+"lat": 41.7904199,
+"lon": -1.2143068,
+"id": "way/180316189",
+"k": {}
+},
+{
+"lat": 41.7904035,
+"lon": -1.2146524,
+"id": "way/180316190",
+"k": {}
+}
+],
+"Calle El Castellar": [
+{
+"lat": 41.7729839,
+"lon": -1.1199801,
+"id": "way/177279841",
+"k": {}
+}
+],
+"Escaleras del Castillo": [
+{
+"lat": 41.7709574,
+"lon": -1.1230018,
+"id": "way/177322083",
+"k": {}
+}
+],
+"Paseo de la Azucarera": [
+{
+"lat": 41.7684063,
+"lon": -1.1156196,
+"id": "way/177895393",
+"k": {}
+}
+],
+"Desagüe Loteta": [
+{
+"lat": 41.8318487,
+"lon": -1.3115075,
+"id": "way/199621894",
+"k": {}
+},
+{
+"lat": 41.8335134,
+"lon": -1.3095844,
+"id": "way/199621905",
+"k": {}
+},
+{
+"lat": 41.8289136,
+"lon": -1.318344,
+"id": "way/205228488",
+"k": {}
+},
+{
+"lat": 41.8372676,
+"lon": -1.301641,
+"id": "way/210786737",
+"k": {}
+}
+],
+"La loteta Sports": [
+{
+"lat": 41.7997224,
+"lon": -1.3088358,
+"id": "way/206047859",
+"k": {
+"man_made": "pier"
+}
+}
+],
+"Punto de encuentro La loteta sports": [
+{
+"lat": 41.8007527,
+"lon": -1.3067591,
+"id": "way/206047860",
+"k": {}
+}
+],
+"Calle Castellar": [
+{
+"lat": 41.7960343,
+"lon": -1.163482,
+"id": "way/207331102",
+"k": {}
+}
+],
+"Barranco de los Fornazos": [
+{
+"lat": 41.8516685,
+"lon": -1.2792358,
+"id": "way/217480211",
+"k": {}
+},
+{
+"lat": 41.8551098,
+"lon": -1.2658005,
+"id": "way/971138603",
+"k": {}
+},
+{
+"lat": 41.852733,
+"lon": -1.2692048,
+"id": "way/971138604",
+"k": {}
+}
+],
+"Abastecimiento de agua de la Loteta a Zaragoza": [
+{
+"lat": 41.7097881,
+"lon": -1.1081833,
+"id": "way/217666762",
+"k": {
+"man_made": "pipeline"
+}
+}
+],
+"Ronda San Antonio": [
+{
+"lat": 41.8389351,
+"lon": -1.1765233,
+"id": "way/220670633",
+"k": {}
+}
+],
+"Plaza de San Miguel": [
+{
+"lat": 41.743622,
+"lon": -1.1631235,
+"id": "way/220675548",
+"k": {}
+}
+],
+"Escaleras Almenara del Caracol": [
+{
+"lat": 41.7428624,
+"lon": -1.1436594,
+"id": "way/222503610",
+"k": {}
+}
+],
+"Casa del Azud de Almozara": [
+{
+"lat": 41.7563681,
+"lon": -1.10913,
+"id": "way/222515097",
+"k": {
+"tourism": "attraction"
+}
+}
+],
+"Estación de bombeo Jalon-1 Red de abastecimiento de agua de la Loteta (Urrea de Jalon)": [
+{
+"lat": 41.6703602,
+"lon": -1.2273388,
+"id": "way/222535692",
+"k": {
+"building": "yes",
+"man_made": "reservoir_covered"
+}
+}
+],
+"Murallas de Grisen": [
+{
+"lat": 41.7433702,
+"lon": -1.1455529,
+"id": "way/223217585",
+"k": {}
+}
+],
+"Castillo Bonavia": [
+{
+"lat": 41.7741505,
+"lon": -1.2176973,
+"id": "way/228245189",
+"k": {
+"amenity": "restaurant",
+"building": "yes"
+}
+}
+],
+"Iglesia Parroquial Virgen de la Asunción": [
+{
+"lat": 41.712392,
+"lon": -1.1875517,
+"id": "way/230622068",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Conexion del ramal \"Eje Jalon\" con la tuberia principal de la red de abastecimiento de agua de la Loteta": [
+{
+"lat": 41.7241761,
+"lon": -1.1639345,
+"id": "way/230622079",
+"k": {
+"building": "yes"
+}
+}
+],
+"Camino de San Miguel": [
+{
+"lat": 41.687158,
+"lon": -1.0499143,
+"id": "way/238141048",
+"k": {}
+}
+],
+"Campo de tiro Puig Amarillo": [
+{
+"lat": 41.8422742,
+"lon": -0.9939518,
+"id": "way/239597388",
+"k": {}
+}
+],
+"Colonia San Antonio": [
+{
+"lat": 41.8490396,
+"lon": -1.3102981,
+"id": "way/241726735",
+"k": {}
+}
+],
+"Residencia de ancianos Los Ángeles": [
+{
+"lat": 41.6822706,
+"lon": -1.0239932,
+"id": "way/242145418",
+"k": {
+"amenity": "nursing_home",
+"building": "yes"
+}
+}
+],
+"Calle Nuestra Señora del Puig": [
+{
+"lat": 41.7454676,
+"lon": -1.0741137,
+"id": "way/249315025",
+"k": {}
+}
+],
+"Residencia de ancianos Nuestra Señora del Puig": [
+{
+"lat": 41.7450943,
+"lon": -1.0733577,
+"id": "way/249315028",
+"k": {
+"amenity": "nursing_home",
+"building": "yes"
+}
+}
+],
+"Sora-Loteta": [
+{
+"lat": 41.8936035,
+"lon": -1.1969873,
+"id": "way/259708386",
+"k": {
+"man_made": "pipeline"
+}
+},
+{
+"lat": 41.8067774,
+"lon": -1.3128852,
+"id": "way/391794186",
+"k": {
+"man_made": "pipeline"
+}
+}
+],
+"Ramal \"eje del Jalon\" de abastecimiento de agua de consumo humano desde la Loteta": [
+{
+"lat": 41.6631607,
+"lon": -1.2235745,
+"id": "way/263066383",
+"k": {
+"man_made": "pipeline"
+}
+}
+],
+"SET La Loteta": [
+{
+"lat": 41.8292973,
+"lon": -1.3112658,
+"id": "way/285963471",
+"k": {}
+}
+],
+"Calle Pinos Puente": [
+{
+"lat": 41.7200404,
+"lon": -1.0495174,
+"id": "way/304759107",
+"k": {}
+}
+],
+"Ermita del Castellar": [
+{
+"lat": 41.7817615,
+"lon": -1.0549982,
+"id": "way/409058034",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Caracol": [
+{
+"lat": 41.7434558,
+"lon": -1.1456384,
+"id": "way/420309726",
+"k": {
+"building": "yes"
+}
+}
+],
+"Desagüe aereo Loteta": [
+{
+"lat": 41.8307198,
+"lon": -1.3148299,
+"id": "way/453033710",
+"k": {}
+},
+{
+"lat": 41.8480071,
+"lon": -1.3020992,
+"id": "way/921506243",
+"k": {}
+},
+{
+"lat": 41.8467069,
+"lon": -1.3020463,
+"id": "way/921506244",
+"k": {}
+},
+{
+"lat": 41.8456996,
+"lon": -1.302749,
+"id": "way/921506245",
+"k": {}
+},
+{
+"lat": 41.8446928,
+"lon": -1.303412,
+"id": "way/921506246",
+"k": {}
+},
+{
+"lat": 41.8405272,
+"lon": -1.3034324,
+"id": "way/921506247",
+"k": {}
+},
+{
+"lat": 41.8363654,
+"lon": -1.3046254,
+"id": "way/921506248",
+"k": {}
+},
+{
+"lat": 41.8354472,
+"lon": -1.3052979,
+"id": "way/921506249",
+"k": {}
+},
+{
+"lat": 41.8345465,
+"lon": -1.3063049,
+"id": "way/921506250",
+"k": {}
+},
+{
+"lat": 41.8494519,
+"lon": -1.302216,
+"id": "way/921506251",
+"k": {}
+},
+{
+"lat": 41.8493193,
+"lon": -1.3022647,
+"id": "way/921506252",
+"k": {}
+}
+],
+"Oficinas Embalse de la Loteta": [
+{
+"lat": 41.8277116,
+"lon": -1.32606,
+"id": "way/453033716",
+"k": {
+"building": "yes"
+}
+}
+],
+"Edificio compuertas tuberia desagüe soterrado embalse de la Loteta": [
+{
+"lat": 41.8391838,
+"lon": -1.2960202,
+"id": "way/453035639",
+"k": {
+"building": "yes"
+}
+}
+],
+"iglesia de la Purificación de Nuestra Señora de Luceni": [
+{
+"lat": 41.8297319,
+"lon": -1.2375052,
+"id": "way/454948445",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Parroquia de San Ildefonso": [
+{
+"lat": 41.7956244,
+"lon": -1.1632654,
+"id": "way/454952219",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Iglesia de la Asunción de Nuestra Señora": [
+{
+"lat": 41.8488636,
+"lon": -1.2522641,
+"id": "way/455148398",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Campo de fútbol municipal San Pedro": [
+{
+"lat": 41.7374036,
+"lon": -1.1090585,
+"id": "way/472407780",
+"k": {
+"leisure": "pitch"
+}
+}
+],
+"Puente de la Canaleta": [
+{
+"lat": 41.8106779,
+"lon": -1.248197,
+"id": "way/478251633",
+"k": {}
+},
+{
+"lat": 41.81068,
+"lon": -1.2482035,
+"id": "way/478255238",
+"k": {}
+}
+],
+"Puente del Guarro": [
+{
+"lat": 41.7884817,
+"lon": -1.2016658,
+"id": "way/481420623",
+"k": {}
+}
+],
+"murallas": [
+{
+"lat": 41.7996419,
+"lon": -1.2401996,
+"id": "way/481420626",
+"k": {}
+}
+],
+"Avenida el Castellar": [
+{
+"lat": 41.7415176,
+"lon": -1.0686002,
+"id": "way/502832764",
+"k": {}
+}
+],
+"plaza del Castillo": [
+{
+"lat": 41.7707946,
+"lon": -1.1223908,
+"id": "way/503414350",
+"k": {
+"leisure": "park"
+}
+}
+],
+"Plaza San Pedro": [
+{
+"lat": 41.770143,
+"lon": -1.1218205,
+"id": "way/503421848",
+"k": {
+"leisure": "park"
+}
+}
+],
+"Calle Ana Abarca de Bolea": [
+{
+"lat": 41.7679227,
+"lon": -1.1214671,
+"id": "way/503422602",
+"k": {}
+}
+],
+"Azud de Almozara": [
+{
+"lat": 41.7569038,
+"lon": -1.1120502,
+"id": "way/503826644",
+"k": {}
+}
+],
+"Aparcamiento Palacio Villahermosa": [
+{
+"lat": 41.7888549,
+"lon": -1.2147094,
+"id": "way/513702139",
+"k": {
+"amenity": "parking"
+}
+}
+],
+"Carpa comedor bodas palacio Villahermosa": [
+{
+"lat": 41.789615,
+"lon": -1.2146672,
+"id": "way/513704286",
+"k": {
+"building": "yes"
+}
+}
+],
+"San Juan Bautista": [
+{
+"lat": 41.8380198,
+"lon": -1.1752239,
+"id": "way/515561946",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Plaza del Castellar": [
+{
+"lat": 41.7138222,
+"lon": -0.9943709,
+"id": "way/541440302",
+"k": {}
+}
+],
+"Charca del Camino de la Barca": [
+{
+"lat": 41.742178,
+"lon": -1.0310377,
+"id": "way/586816119",
+"k": {
+"natural": "water"
+}
+},
+{
+"lat": 41.7422164,
+"lon": -1.0306057,
+"id": "way/586816120",
+"k": {
+"natural": "water"
+}
+}
+],
+"Parroquia de Nuestra Señora del Puig": [
+{
+"lat": 41.7446571,
+"lon": -1.0730623,
+"id": "way/793199634",
+"k": {
+"amenity": "place_of_worship",
+"building": "church",
+"religion": "christian"
+}
+}
+],
+"Calle Canal Imperial": [
+{
+"lat": 41.7681706,
+"lon": -1.1745919,
+"id": "way/800388517",
+"k": {}
+},
+{
+"lat": 41.7675395,
+"lon": -1.1754011,
+"id": "way/800748097",
+"k": {}
+},
+{
+"lat": 41.7678556,
+"lon": -1.175032,
+"id": "way/800748098",
+"k": {}
+}
+],
+"Calle Doctor González del Castillo": [
+{
+"lat": 41.917711,
+"lon": -1.2565184,
+"id": "way/831149241",
+"k": {}
+}
+],
+"Iglesia Parroquial de San Pedro": [
+{
+"lat": 41.8700743,
+"lon": -1.3180793,
+"id": "way/837792861",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Plaza de Castellar": [
+{
+"lat": 41.7138362,
+"lon": -0.994445,
+"id": "way/1056669211",
+"k": {}
+}
+],
+"Puente Jubo": [
+{
+"lat": 41.734955,
+"lon": -1.110666,
+"id": "way/1095935176",
+"k": {}
+}
+],
+"Palacio de los Deportes": [
+{
+"lat": 41.7119673,
+"lon": -1.0017946,
+"id": "way/1238632819",
+"k": {
+"building": "yes",
+"leisure": "sports_hall"
+}
+}
+],
+"Embarcadero de Torres de Berrellén": [
+{
+"lat": 41.7754741,
+"lon": -1.0590598,
+"id": "way/1421352353",
+"k": {
+"man_made": "pier"
+}
+}
+],
+"Embarcadero del Castellar": [
+{
+"lat": 41.776069,
+"lon": -1.0584997,
+"id": "way/1421352354",
+"k": {
+"man_made": "pier"
+}
+}
+],
+"Embarcadero de Candespina": [
+{
+"lat": 41.7448316,
+"lon": -1.0238791,
+"id": "way/1421352355",
+"k": {
+"man_made": "pier"
+}
+}
+],
+"Embarcadero de Sobradiel": [
+{
+"lat": 41.7448969,
+"lon": -1.0255395,
+"id": "way/1421352356",
+"k": {
+"man_made": "pier"
+}
+}
+],
+"Barca de Candespina": [
+{
+"lat": 41.744832,
+"lon": -1.024025,
+"id": "way/1421352357",
+"k": {
+"amenity": "ferry_terminal"
+}
+}
+],
+"Barca del Castellar": [
+{
+"lat": 41.775643,
+"lon": -1.0590035,
+"id": "way/1421352872",
+"k": {
+"amenity": "ferry_terminal"
+}
+}
+],
+"Acequia San Miguel": [
+{
+"lat": 41.701373,
+"lon": -1.0557152,
+"id": "way/1430923805",
+"k": {}
+},
+{
+"lat": 41.6890124,
+"lon": -1.0550763,
+"id": "way/1430923806",
+"k": {}
+},
+{
+"lat": 41.6924401,
+"lon": -1.0512109,
+"id": "way/1430923807",
+"k": {}
+},
+{
+"lat": 41.6848181,
+"lon": -1.0595957,
+"id": "way/1430923808",
+"k": {}
+},
+{
+"lat": 41.6856148,
+"lon": -1.0589498,
+"id": "way/1430923809",
+"k": {}
+},
+{
+"lat": 41.6839387,
+"lon": -1.06024,
+"id": "way/1430923810",
+"k": {}
+},
+{
+"lat": 41.6840047,
+"lon": -1.0602064,
+"id": "way/1430923811",
+"k": {}
+},
+{
+"lat": 41.7104731,
+"lon": -1.0634278,
+"id": "way/1430923838",
+"k": {}
+},
+{
+"lat": 41.7102914,
+"lon": -1.0630632,
+"id": "way/1430923839",
+"k": {}
+}
+],
+"Poligono Industrial San Ildefonso": [
+{
+"lat": 41.7138626,
+"lon": -1.0170744,
+"id": "way/1431660839",
+"k": {}
+}
+],
+"Iglesia Parroquial de San Juan Bautista": [
+{
+"lat": 41.6812017,
+"lon": -1.229691,
+"id": "way/1463877571",
+"k": {
+"amenity": "place_of_worship",
+"building": "yes",
+"religion": "christian"
+}
+}
+],
+"Apartadero Canal Imperial": [
+{
+"lat": 41.8606401,
+"lon": -1.3112803,
+"id": "way/1479414737",
+"k": {}
+},
+{
+"lat": 41.859678,
+"lon": -1.3095811,
+"id": "way/1479414738",
+"k": {}
+},
+{
+"lat": 41.8604254,
+"lon": -1.3101757,
+"id": "way/1479414739",
+"k": {}
+}
+],
+"Azucarera de Nuestra Señora de las Mercedes": [
+{
+"lat": 41.7696736,
+"lon": -1.1117259,
+"id": "way/1491439144",
+"k": {}
+}
+],
+"Parque de la Azucarera": [
+{
+"lat": 41.7704696,
+"lon": -1.1132257,
+"id": "way/1491439145",
+"k": {
+"leisure": "park"
+}
+}
+],
+"Palacio Duques de Villahermosa": [
+{
+"lat": 41.7876016,
+"lon": -1.214106,
+"id": "relation/2295452",
+"k": {
+"historic": "monument"
+}
+}
+],
+"Canalizacion Yesa-La Loteta": [
+{
+"lat": 42.2081668,
+"lon": -1.1195711,
+"id": "relation/3791802",
+"k": {
+"man_made": "pipeline"
+}
+}
+],
+"Red de canalizaciones de agua de consumo humano de La Loteta": [
+{
+"lat": 41.723144,
+"lon": -1.0580578,
+"id": "relation/3794877",
+"k": {
+"man_made": "pipeline"
+}
+}
+],
+"\"Eje del Jalon\" Red de abastecimiento de agua de la Loteta": [
+{
+"lat": 41.6046538,
+"lon": -1.263549,
+"id": "relation/3795955",
+"k": {
+"man_made": "pipeline"
+}
+}
+],
+"Tuberia principal de abastecimiento de agua de consumo humano desde la Loteta": [
+{
+"lat": 41.7097881,
+"lon": -1.1081833,
+"id": "relation/3796074",
+"k": {
+"man_made": "pipeline"
+}
+}
+]
+}
+}
