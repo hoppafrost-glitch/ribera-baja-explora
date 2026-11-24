@@ -3,7 +3,7 @@ import json, time, socket, urllib.request, urllib.parse
 socket.setdefaulttimeout(45)
 UA = {"User-Agent": "ExploraGuias/1.0 (guia turistica)"}
 IN = json.load(open("tools/clientes/geo3_in.json", encoding="utf-8"))
-OV = ["https://overpass-api.de/api/interpreter", "https://overpass.private.coffee/api/interpreter"]
+OV = ["https://overpass.private.coffee/api/interpreter", "https://maps.mail.ru/osm/tools/overpass/api/interpreter", "https://overpass-api.de/api/interpreter"]
 def get(u, data=None):
     return json.load(urllib.request.urlopen(urllib.request.Request(u, data=data, headers=UA)))
 out = {}

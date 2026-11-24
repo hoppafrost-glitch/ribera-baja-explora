@@ -5,8 +5,7 @@
   9000,
   "[\"name\"~\"Lumbrer\",i]",
   [
-   "Lumbrerón, Pozuelo de Aragón",
-   "El Lumbrerón"
+   "Lumbrerón"
   ]
  ],
  "laguna-plantados": [
@@ -15,47 +14,83 @@
   6000,
   "[\"natural\"=\"water\"]",
   [
-   "Laguna de Plantados",
-   "Laguna de Agón"
+   "Laguna de Plantados, Bisimbre"
   ]
  ],
  "molino-tabuenca": [
   41.695334,
   -1.54354,
-  4000,
-  "[\"man_made\"=\"windmill\"]",
+  5000,
+  "[\"name\"~\"Molino\",i]",
   [
-   "Molino de viento, Tabuenca"
+   "Molino de viento de Tabuenca"
   ]
  ],
  "huerta-frescano": [
   41.874318,
   -1.449546,
-  2000,
-  "[\"landuse\"=\"cemetery\"]",
+  3000,
+  "[\"amenity\"=\"place_of_worship\"]",
   [
-   "Ermita de Santa María de la Huerta, Fréscano",
-   "Santa María de la Huerta, Fréscano"
+   "Ermita de la Huerta, Fréscano"
   ]
  ],
- "palacio-novillas": [
-  41.934163,
-  -1.394965,
-  1200,
+ "minas-sal-remolinos": [
+  41.8386,
+  -1.1768,
+  5000,
+  "[\"name\"~\"Mina|Sal\",i]",
+  [
+   "Mina Real, Remolinos",
+   "Minas de sal de Remolinos"
+  ]
+ ],
+ "puente-hierro-gallur": [
+  41.8705,
+  -1.3135,
+  2000,
+  "[\"bridge\"][\"name\"]",
+  [
+   "Puente de Gallur"
+  ]
+ ],
+ "san-andres-torres": [
+  41.7573,
+  -1.0645,
+  900,
+  "[\"amenity\"=\"place_of_worship\"]",
+  []
+ ],
+ "escarpes-ebro": [
+  41.8,
+  -1.12,
+  7000,
+  "[\"natural\"~\"cliff|bare_rock|viewpoint\"]",
+  []
+ ],
+ "azud-pleitas": [
+  41.711,
+  -1.203,
+  3000,
+  "[\"waterway\"=\"weir\"]",
+  [
+   "Azud de Pleitas"
+  ]
+ ],
+ "pleitas-iglesia": [
+  41.711,
+  -1.203,
+  700,
+  "[\"amenity\"=\"place_of_worship\"]",
+  []
+ ],
+ "alcala-castillo": [
+  41.814,
+  -1.194,
+  1500,
   "[\"historic\"]",
   [
-   "Palacio de los Comendadores, Novillas",
-   "Novillas"
-  ]
- ],
- "palacios-mallen": [
-  41.900556,
-  -1.418889,
-  1500,
-  "[\"name\"~\"Zapata|Navas|Frontin\",i]",
-  [
-   "Palacio de los Zapata, Mallén",
-   "Mallén"
+   "Castillo de Alcalá de Ebro"
   ]
  ]
 }
